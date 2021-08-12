@@ -22403,13 +22403,13 @@ textarea.form-control {
 
 @media(min-width:1200px) {
     .breadcrumb-modern .list-inline, .breadcrumb-message .list-inline, .breadcrumb-vision .list-inline, .breadcrumb-founders .list-inline, .breadcrumb-former .list-inline, .breadcrumb-milestones .list-inline, .breadcrumb-statutory-committees .list-inline, .breadcrumb-infrastructure-facilities .list-inline, .breadcrumb-programmes .list-inline, .breadcrumb-departments .list-inline, .breadcrumb-coe .list-inline, .breadcrumb-spcte .list-inline, .breadcrumb-tamil .list-inline, .breadcrumb-history .list-inline, .breadcrumb-geography .list-inline, .breadcrumb-economics .list-inline, .breadcrumb-committee .list-inline, .breadcrumb-extracurricular-activities .list-inline, .breadcrumb-naac .list-inline, .breadcrumb-english .list-inline, .breadcrumb-commerce .list-inline, .breadcrumb-mathematics .list-inline, .breadcrumb-physics .list-inline, .breadcrumb-chemistry .list-inline, .breadcrumb-botany .list-inline, .breadcrumb-zoology .list-inline, .breadcrumb-non-statutory-committees .list-inline, .breadcrumb-computer-science .list-inline, .breadcrumb-physical-education .list-inline, .breadcrumb-library-and-information-science .list-inline, .breadcrumb-hindi .list-inline, .breadcrumb-statistics .list-inline, .breadcrumb-committees .list-inline {
-        margin-top: 150px
+        margin-top: 50px
     }
 }
 
 @media(min-width:1800px) {
     .breadcrumb-modern, .breadcrumb-message, .breadcrumb-vision, .breadcrumb-founders, .breadcrumb-former, .breadcrumb-milestones, .breadcrumb-statutory-committees, .breadcrumb-infrastructure-facilities, .breadcrumb-programmes, .breadcrumb-departments, .breadcrumb-coe, .breadcrumb-spcte, .breadcrumb-tamil, .breadcrumb-history, .breadcrumb-geography, .breadcrumb-economics, .breadcrumb-committee, .breadcrumb-extracurricular-activities, .breadcrumb-naac, .breadcrumb-english, .breadcrumb-commerce, .breadcrumb-mathematics, .breadcrumb-physics, .breadcrumb-chemistry, .breadcrumb-botany, .breadcrumb-zoology, .breadcrumb-non-statutory-committees, .breadcrumb-computer-science, .breadcrumb-physical-education, .breadcrumb-library-and-information-science, .breadcrumb-hindi, .breadcrumb-statistics, .breadcrumb-committees {
-        padding-top: 220px
+        padding-top: 100px
     }
 }
 
