@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://sripushpam.kavisoftek.in/';
+$config['base_url'] = 'http://sripushpam.local/';
 // $config['base_url'] = 'http://'.$_SERVER['HTTP_HOST'].'/';
 
 /*

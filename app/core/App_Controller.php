@@ -21,7 +21,7 @@ class App_Controller extends CI_Controller
         /**
          * Fix for users who don't replace all files during update !!!
          */
-        if (!class_exists('ForceUTF8\Encoding') && file_exists(APPPATH . 'vendor/autoload.php')) {
+        if ( file_exists(APPPATH . 'vendor/autoload.php')) {
             require_once(APPPATH . 'vendor/autoload.php');
         }
         hooks()->do_action('app_init');

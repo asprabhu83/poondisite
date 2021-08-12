@@ -172,3 +172,33 @@
         $("a[href='#'], a[href^='#']").on("click", function (event) { setTimeout(function () { $(window).trigger("resize"); }, 300); });
     }
 });
+
+
+$(document).ready(function(){
+
+    $('.naac_tab_item').on('click',function(){
+        var target=$(this).data('target');
+
+        $(this).addClass('active');
+        $(this).siblings().removeClass('active');
+
+        $('.content_item'+target).addClass('active');
+        $('.content_item'+target).siblings().removeClass('active');
+
+    })
+
+    $('.accordian .acc_title').on('click',function(){
+        var target = $(this).data('target');
+        if($(this).children().children('i').hasClass('fa-chevron-down')){
+            $(this).children().children('i').addClass('fa-chevron-up').removeClass('fa-chevron-down');
+        }else{
+            $(this).children().children('i').addClass('fa-chevron-down').removeClass('fa-chevron-up');
+        }
+        if($(this).hasClass('active')){
+            $(this).removeClass('active');
+        }else{
+            $(this).addClass('active');
+        }
+        $('.acc_content'+target).slideToggle(500);
+    })
+})

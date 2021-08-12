@@ -168,7 +168,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('iqac_members') ?>"><span>IQAC Members </span></a>
                                                     </li>
-                                                    <li class="active "><a href="<?php echo base_url('naac') ?>"><span>NAAC </span></a>
+                                                    <li class="active "><a href="<?php echo base_url('naac'); ?>"><span>NAAC </span></a>
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('iqac_meet') ?>"><span>IQAC Meet </span></a>
                                                     </li>
