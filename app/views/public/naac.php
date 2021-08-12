@@ -180,7 +180,7 @@ $token=$_SESSION['name'];
                     <div class="accordian">
                         <div class="acc_title" data-target="17" >3.6 Extension Activities <span>50 <i class="fas fa-chevron-down"></i></span></div>
                         <div class="acc_content acc_content17"  >
-                            <div>3.6.1 Extension activities are carried out in the neighbourhood community, sensitising students to social issues, for their holistic development, and impact thereof during the last five years  <span>10</span></div>
+                            <div>3.6.1 Extension activities are tets carried out in the neighbourhood community, sensitising students to social issues, for their holistic development, and impact thereof during the last five years  <span>10</span></div>
                             <div>3.6.2 Number of awards and recognition received by the Institution, its teachers and students for extension activities from Government / Government recognised bodies during last five years  <span>15</span></div>
                             <div>3.6.3 Number of extension and outreach programs conducted by the institution through NSS/NCC/Red cross/YRC etc., during the last five years (including Government initiated programs such as Swachh Bharat, Aids Awareness, Gender Issue, etc. and those organised in collaboration with industry, community and NGOs) <span>10</span></div>
                             <div>3.6.4 Average percentage of students participating in extension activities listed at (3.6.3) above during the last five years <span>15</span></div>
