@@ -34,14 +34,14 @@ $token=$_SESSION['name'];
     <div class="container">
         <div class="naac_tab_box">
             <div class="naac_tab">
-				<div class="naac_tab_heading">NAAC</div>
-                <div class="naac_tab_item active" data-target="1">Curricular Aspects <i class="fas fa-chevron-right" style="display:none;"></i></div>
-                <div class="naac_tab_item" data-target="2">Teaching- Learning and Evaluation <i class="fas fa-chevron-right" style="display:none;"></i></div>
-                <div class="naac_tab_item" data-target="3">Research, Innovations and Extension <i class="fas fa-chevron-right" style="display:none;"></i></div>
-                <div class="naac_tab_item" data-target="4">Infrastructure and Learning Resources <i class="fas fa-chevron-right" style="display:none;"></i></div>
-                <div class="naac_tab_item" data-target="5">Student Support and Progression <i class="fas fa-chevron-right" style="display:none;"></i></div>
-                <div class="naac_tab_item" data-target="6">Governance, Leadership and Management <i class="fas fa-chevron-right" style="display:none;"></i></div>
-                <div class="naac_tab_item" data-target="7">Institutional Values and Best Practices <i class="fas fa-chevron-right" style="display:none;"></i></div>
+				<div class="naac_tab_heading">NAAC Criteria</div>
+                <div class="naac_tab_item active" data-target="1">1. Curricular Aspects <i class="fas fa-chevron-right" style="display:none;"></i></div>
+                <div class="naac_tab_item" data-target="2">2.Teaching- Learning and Evaluation <i class="fas fa-chevron-right" style="display:none;"></i></div>
+                <div class="naac_tab_item" data-target="3">3.Research, Innovations and Extension <i class="fas fa-chevron-right" style="display:none;"></i></div>
+                <div class="naac_tab_item" data-target="4">4.Infrastructure and Learning Resources <i class="fas fa-chevron-right" style="display:none;"></i></div>
+                <div class="naac_tab_item" data-target="5">5.Student Support and Progression <i class="fas fa-chevron-right" style="display:none;"></i></div>
+                <div class="naac_tab_item" data-target="6">6.Governance, Leadership and Management <i class="fas fa-chevron-right" style="display:none;"></i></div>
+                <div class="naac_tab_item" data-target="7">7.Institutional Values and Best Practices <i class="fas fa-chevron-right" style="display:none;"></i></div>
             </div>
             <div class="naac_tab_content">
                 <div class="content_item content_item1 active">
@@ -49,11 +49,17 @@ $token=$_SESSION['name'];
                         <div class="acc_title active" data-target="1" >1.1 Curriculum Design and Development <span>50 <i class="fas fa-chevron-up"></i></span></div>
                         <div class="acc_content acc_content1" style="display:block;" >
                             <div>1.1.1 Curricula developed and implemented have relevance to the local, national, regional and global developmental needs which is reflected in Programme outcomes (POs), Programme Specific outcomes (PSOs) and Course Outcomes (COs) of the Programmes offered by the Institution 
-								<span>20</span>
+								<!-- <span>20</span> -->
+                                <!-- <a href="/assets/Naac Doc/Link_Quality_Indicator_Framework.pdf" target="_blank">View Document</a> -->
+                                <a href="/assets/Naac Doc/Link_Quality_Indicator_Framework.pdf" target="_blank"><img src="assets/images/pdf_icon1.jpg" alt="" width="70px" /></a>
+                                
 							</div>
-                            <div>1.1.2 Percentage of Programmes where syllabus revision was carried out during the last five years <span>20</span></div>
-                            <div>1.1.3 Average percentage of courses having focus on employability/ entrepreneurship/ skill development offered by the institution during the last five years <span>10</span></div>
-                        </div>
+                            <div>1.1.2 Percentage of Programmes where syllabus revision was carried out during the last five years <span>20</span>
+                            <a href="/assets/docs/convocation_invite_2014.pdf" target="_blank">View Document</a></div>
+                            
+                            <div>1.1.3 Average percentage of courses having focus on employability/ entrepreneurship/ skill development offered by the institution during the last five years <span>10</span>
+                            <a href="/assets/docs/convocation_invite_2014.pdf" target="_blank">View Document</a> </div>
+                         </div>
                     </div>
                     <div class="accordian">
                         <div class="acc_title" data-target="2" >1.2 Academic Flexibility <span>40 <i class="fas fa-chevron-down"></i></span></div>
