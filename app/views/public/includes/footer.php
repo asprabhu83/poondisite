@@ -103,7 +103,7 @@ defined('BASEPATH') or exit('No direct script access allowed'); ?>
         </div>
 
         <br /><br />
-        <p class="rights " style="color: #fff;">@ 2020 Copyright Sri Pushpam College All Rights Reserved. Designed and Developed by <a href="https://glg.co.in/" target="_blank" style="color:#fff;"><u>Green Line Technologies</u></p>
+        <p class="rights " style="color: #fff;">@ 2020 Copyright Sri Pushpam College All Rights Reserved. Powered by <a href="https://kavisoftek.in/" target="_blank" style="color:#fff;"><u>Kavisoftek</u></p>
         <br /><br />
     </footer>
 </footer>
