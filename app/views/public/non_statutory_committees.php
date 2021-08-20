@@ -62,7 +62,7 @@ init_public_head();
 																	<td>Chemistry</td>
 																</tr>
 																<tr>
-																	<td>Dr. R. Balamurugan</td>
+																	<td>Dr. P. Balamurugan</td>
 																	<td></td>
 																	<td>Tamil</td>
 																</tr>

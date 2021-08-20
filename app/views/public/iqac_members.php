@@ -12,7 +12,8 @@ init_public_head();
 			<h5><strong>PATRON</strong></h5> <br />
 				<ul>
 
-					<li>Shri. K. Thulasiah Vandayar	Secretary and Correspondent</li>
+					<li>Shri. T. Krishnasamy Vandayar,	President </li>
+					<li>Shri. A. Balasubramania Vandayar,	Secretary and Correspondent</li>
 					
 				</ul>
         </ul><br>
@@ -28,7 +29,7 @@ init_public_head();
 			<h5><strong>CO-ORDINATOR</strong></h5> <br />
 				<ul>
 
-					<li>Dr.R.Shanthi	English</li>
+					<li>Dr.R.Subashchandrabose, Computer Science</li>
 					
 				</ul>
 		</ul><br>
@@ -36,19 +37,19 @@ init_public_head();
 			<h5><strong>MEMBERS</strong></h5>
 		</ul><br>
 		<ul class="list list-marked">
-			<li>Prof. N. Rajendran,	Dean-Arts & Commerce.</li>
-			<li>Dr. G. Karikalan,.	Controller of Examinations.</li>
-			<li>Dr. V. Ambikapathy	Botany</li>
+			<li>Dr. V. Ravichandran,	Dean-Arts & Commerce.</li>
+			<li>Dr. K. Kumaravel,	Dean-Sciences.</li>
+			<li>Dr. C. Chandran,	Controller of Examinations.</li>
+			<li>Dr. V. Ambikapathy,	Botany</li>
 			<!-- <li>National Loan Scholarship.</li> -->
-			<li>Dr.T.S.Baskaran	Computer Science</li>
-			<li>Dr. S. Ganesan	Zoology</li>
-			<li>Dr. V. Radhakrishnan	English</li>
-			<li>Dr. R. Manikandan	Chemistry</li>
-			<li>Dr. A. Venkatesh	Mathematics</li>
-			<li>Dr. M. Ayyanar	Botany</li>
-			<li>Dr. S. Sangeetha	Economics</li>
-            <li>Dr. T. Jayalalitha	Tamil</li>
-            <li>S. Durairajan, D.C.P.,	Office Superintendent</li>
+			<li>Dr. K.Ravichandran, Physics </li>
+			<li>Dr. V.Nandhakumar,	Chemistry</li>
+			<li>Dr.T.S.Baskaran,	Computer Science</li>
+			<li>Dr. R. Manikandan,	Chemistry</li>
+			<li>Dr. S. Ganesan,	Zoology</li>
+			<li>Dr. A. Venkatesh,	Mathematics</li>
+			<li>Dr. M. Ayyanar,	Botany</li>
+			<li>Mr. Anandha Narayanan,	Office Superintendent</li>
 		</ul><br>
 		<ul class="list list-marked">
 			<h5><strong>TWO NOMINEES FROM THE LOCAL SOCIETY</strong></h5>
