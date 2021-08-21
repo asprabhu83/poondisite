@@ -132,12 +132,12 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                             </li>
 
                                             <li class="active "><a href="<?php echo base_url('programmes') ?>"><span>Programmes </span></a>
-                                                <ul class="rd-navbar-dropdown">
+                                                <!-- <ul class="rd-navbar-dropdown">
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/Programmes/Programme_Outcomes_merged.pdf') ?>"><span>Program Outcomes</span></a>
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/Programmes/Programme%20Specific%20Outcomes.pdf') ?>"><span>Program Specific Outcomes</span></a>
                                                     </li>
-                                                </ul>
+                                                </ul> -->
                                             </li>
                                             <li class="active "><a href="<?php echo base_url('departments') ?>"><span>Departments </span></a>
                                             </li>
