@@ -35,7 +35,7 @@ $token=$_SESSION['name'];
         <div class="naac_tab_box">
             <div class="naac_tab">
 				<div class="naac_tab_heading">NAAC Criteria</div>
-                <div class="naac_tab_item active" data-target="1">1. Curricular Aspects <i class="fas fa-chevron-right" style="display:none;"></i></div>
+                <div class="naac_tab_item active" data-target="1">Curricular Aspects <i class="fas fa-chevron-right" style="display:none;"></i></div>
                 <div class="naac_tab_item" data-target="2">2.Teaching- Learning and Evaluation <i class="fas fa-chevron-right" style="display:none;"></i></div>
                 <div class="naac_tab_item" data-target="3">3.Research, Innovations and Extension <i class="fas fa-chevron-right" style="display:none;"></i></div>
                 <div class="naac_tab_item" data-target="4">4.Infrastructure and Learning Resources <i class="fas fa-chevron-right" style="display:none;"></i></div>
