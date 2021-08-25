@@ -48,11 +48,11 @@ $token=$_SESSION['name'];
                     <div class="accordian">
                         <div class="acc_title active" data-target="1" >1.1 Curriculum Design and Development <span>50 <i class="fas fa-chevron-up"></i></span></div>
                         <div class="acc_content acc_content1" style="display:block;" >
-                            <div>1.1.1 Curricula developed and implemented have relevance to the local, national, regional and global developmental needs which is reflected in Programme outcomes (POs), Programme Specific outcomes (PSOs) and Course Outcomes (COs) of the Programmes offered by the Institution 
+                            <div>1.1.1 POs, PSOs and COS  
 								<!-- <span>20</span> -->
                                 <!-- <a href="/assets/Naac Doc/Link_Quality_Indicator_Framework.pdf" target="_blank">View Document</a> -->
                                 <a href="/assets/Naac Doc/Link_Quality_Indicator_Framework.pdf" target="_blank"><img src="assets/images/pdf_icon1.jpg" alt="" width="70px" /></a>
-                                
+                            
 							</div>
                             <div>1.1.2 Percentage of Programmes where syllabus revision was carried out during the last five years <span>20</span>
                             <a href="/assets/docs/convocation_invite_2014.pdf" target="_blank">View Document</a></div>
