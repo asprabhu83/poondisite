@@ -74,24 +74,48 @@ $token=$_SESSION['name'];
                     <div class="accordian">
                         <div class="acc_title" data-target="2" >1.2 Academic Flexibility <span>40 <i class="fas fa-chevron-down"></i></span></div>
                         <div class="acc_content acc_content2"  >
-                            <div>1.2.1 New Courses introduced across all programes <span>20</span></div>
-                            <div>1.2.2 CBCS / Elective course system <span>20</span></div>
+                            <div>1.2.1 New Courses introduced across all programes 
+                                <!-- <span>20</span></div> -->
+                                <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="40px" /></a>
+                            </div>
+                            <div>1.2.2 CBCS / Elective course system 
+                                <!-- <span>20</span></div> -->
+                                <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="40px" /></a>
+                            </div>
                         </div>
                     </div>
                     <div class="accordian">
                         <div class="acc_title" data-target="3" >1.3 Curriculum Enrichment <span>40 <i class="fas fa-chevron-down"></i></span></div>
                         <div class="acc_content acc_content3" >
-                            <div>1.3.1 Professional Ethics, Gender, & etc. <span>10</span></div>
-                            <div>1.3.2 Value-added courses and life skills <span>10</span></div>
-                            <div>1.3.3 Student enrolled under 1.3.2  <span>10</span></div>
-                            <div>1.3.4 Field projects/ internships/Student Project <span>10</span></div>
+                            <div>1.3.1 Professional Ethics, Gender, & etc. 
+                                <!-- <span>10</span></div> -->
+                                <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="40px" /></a>
+                            </div>
+                            <div>1.3.2 Value-added courses and life skills 
+                                <!-- <span>10</span></div> -->
+                                <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="40px" /></a>
+                            </div>
+                            <div>1.3.3 Student enrolled under 1.3.2  
+                                <!-- <span>10</span></div> -->
+                                <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="40px" /></a>
+                            </div>
+                            <div>1.3.4 Field projects/ internships/Student Project 
+                                <!-- <span>10</span></div> -->
+                                <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="40px" /></a>
+                            </div>
                         </div>
                     </div>
                     <div class="accordian">
                         <div class="acc_title" data-target="4" >1.4  Feedback System <span>20 <i class="fas fa-chevron-down"></i></span></div>
                         <div class="acc_content acc_content4"  >
-                            <div>1.4.1 Feedback for design and review of syllabus 1) Students, 2) Teachers, 3) Employers, 4) Alumni  <span>10</span></div>
-                            <div>1.4.2 Feedback system of the institution <span>10</span></div>
+                            <div>1.4.1 Feedback for design and review of syllabus 
+                                <!-- <span>10</span></div> -->
+                                <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="40px" /></a>
+                            </div>
+                            <div>1.4.2 Feedback system of the institution 
+                                <!-- <span>10</span></div> -->
+                                <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="40px" /></a>
+                            </div>
                         </div>
                     </div>
                 </div>
