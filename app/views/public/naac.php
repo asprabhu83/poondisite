@@ -58,10 +58,11 @@ $token=$_SESSION['name'];
                                 <!-- <span>20</span>
                             <a href="/assets/docs/convocation_invite_2014.pdf" target="_blank">View Document</a></div> -->
                             <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="70px" /></a>
-                            
+                            </div>
                             <div>1.1.3 Employability/ Entrepreneurship/ Skill development 
-                                <span>10</span>
-                            <a href="/assets/docs/convocation_invite_2014.pdf" target="_blank">View Document</a> </div>
+                                <!-- <span>10</span>
+                            <a href="/assets/docs/convocation_invite_2014.pdf" target="_blank">View Document</a> </div> -->
+                            <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="70px" /></a>
                          </div>
                     </div>
                     <div class="accordian">
