@@ -52,20 +52,20 @@ $token=$_SESSION['name'];
                             <div>1.1.1 POs, PSOs and COS  
 								<!-- <span>20</span> -->
                                 <!-- <a href="/assets/Naac Doc/Link_Quality_Indicator_Framework.pdf" target="_blank">View Document</a> -->
-                                <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="70px" /></a>
+                                <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="40px" /></a>
                             </div>
                             
                             <div>1.1.2 Syllabus Revision 
                                 <!-- <span>20</span>
                                 <a href="/assets/docs/convocation_invite_2014.pdf" target="_blank">View Document</a>-->
                             
-                            <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="70px" /></a>
+                            <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="40px" /></a>
                             </div>
                             
                             <div>1.1.3 Employability/ Entrepreneurship/ Skill development 
                                 <!-- <span>10</span>
                             <a href="/assets/docs/convocation_invite_2014.pdf" target="_blank">View Document</a>  -->
-                            <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="70px" /></a>
+                            <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="40px" /></a>
                             </div>
                         </div>
                         </div>
@@ -74,24 +74,24 @@ $token=$_SESSION['name'];
                     <div class="accordian">
                         <div class="acc_title" data-target="2" >1.2 Academic Flexibility <span>40 <i class="fas fa-chevron-down"></i></span></div>
                         <div class="acc_content acc_content2"  >
-                            <div>1.2.1 Percentage of new courses introduced of the total number of courses across all programs offered during the last five years <span>20</span></div>
-                            <div>1.2.2 Percentage of Programmes in which Choice Based Credit System (CBCS)/elective course system has been implemented (Data for the latest completed academic year) <span>20</span></div>
+                            <div>1.2.1 New Courses introduced across all programes <span>20</span></div>
+                            <div>1.2.2 CBCS / Elective course system <span>20</span></div>
                         </div>
                     </div>
                     <div class="accordian">
                         <div class="acc_title" data-target="3" >1.3 Curriculum Enrichment <span>40 <i class="fas fa-chevron-down"></i></span></div>
                         <div class="acc_content acc_content3" >
-                            <div>1.3.1 Institution integrates crosscutting issues relevant to Professional Ethics, Gender, Human Values, Environment and Sustainability, Human Values into the Curriculum <span>10</span></div>
-                            <div>1.3.2 Number of value-added courses for imparting transferable and life skills offered during last five years  <span>10</span></div>
-                            <div>1.3.3 Average Percentage of students enrolled in the courses under (1.3.2) above  <span>10</span></div>
-                            <div>1.3.4 Percentage of students undertaking field projects/ internships / student projects (Data for the latest completed academic year) <span>10</span></div>
+                            <div>1.3.1 Professional Ethics, Gender, & etc. <span>10</span></div>
+                            <div>1.3.2 Value-added courses and life skills <span>10</span></div>
+                            <div>1.3.3 Student enrolled under 1.3.2  <span>10</span></div>
+                            <div>1.3.4 Field projects/ internships/Student Project <span>10</span></div>
                         </div>
                     </div>
                     <div class="accordian">
                         <div class="acc_title" data-target="4" >1.4  Feedback System <span>20 <i class="fas fa-chevron-down"></i></span></div>
                         <div class="acc_content acc_content4"  >
-                            <div>1.4.1 Structured feedback for design and review of syllabus (semester wise / year wise) is obtained from 1) Students, 2) Teachers, 3) Employers, 4) Alumni  <span>10</span></div>
-                            <div>1.4.2 The feedback system of the Institution comprises of the following <span>10</span></div>
+                            <div>1.4.1 Feedback for design and review of syllabus 1) Students, 2) Teachers, 3) Employers, 4) Alumni  <span>10</span></div>
+                            <div>1.4.2 Feedback system of the institution <span>10</span></div>
                         </div>
                     </div>
                 </div>
