@@ -51,7 +51,7 @@ $token=$_SESSION['name'];
                             <div>1.1.1 POs, PSOs and COS  
 								<!-- <span>20</span> -->
                                 <!-- <a href="/assets/Naac Doc/Link_Quality_Indicator_Framework.pdf" target="_blank">View Document</a> -->
-                                <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon1.jpg" alt="" width="70px" /></a>
+                                <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="70px" /></a>
                             
 							</div>
                             <div>1.1.2 Syllabus Revision <span>20</span>
