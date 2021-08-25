@@ -34,7 +34,7 @@ $token=$_SESSION['name'];
     <div class="container">
         <div class="naac_tab_box">
             <div class="naac_tab">
-				<div class="naac_tab_heading">NAAC Criteria</div>
+				<div class="naac_tab_heading"> Criterian</div>
                 <div class="naac_tab_item active" data-target="1">1. Curricular Aspects <i class="fas fa-chevron-right" style="display:none;"></i></div>
                 <div class="naac_tab_item" data-target="2">2.Teaching- Learning and Evaluation <i class="fas fa-chevron-right" style="display:none;"></i></div>
                 <div class="naac_tab_item" data-target="3">3.Research, Innovations and Extension <i class="fas fa-chevron-right" style="display:none;"></i></div>
@@ -54,10 +54,10 @@ $token=$_SESSION['name'];
                                 <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon1.jpg" alt="" width="70px" /></a>
                             
 							</div>
-                            <div>1.1.2 Percentage of Programmes where syllabus revision was carried out during the last five years <span>20</span>
+                            <div>1.1.2 Syllabus Revision <span>20</span>
                             <a href="/assets/docs/convocation_invite_2014.pdf" target="_blank">View Document</a></div>
                             
-                            <div>1.1.3 Average percentage of courses having focus on employability/ entrepreneurship/ skill development offered by the institution during the last five years <span>10</span>
+                            <div>1.1.3 Employability/ Entrepreneurship/ Skill development <span>10</span>
                             <a href="/assets/docs/convocation_invite_2014.pdf" target="_blank">View Document</a> </div>
                          </div>
                     </div>
