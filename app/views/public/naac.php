@@ -44,27 +44,33 @@ $token=$_SESSION['name'];
                 <div class="naac_tab_item" data-target="7">7.Institutional Values and Best Practices <i class="fas fa-chevron-right" style="display:none;"></i></div>
             </div>
             <div class="naac_tab_content">
-                <div class="content_item content_item1 active">
-                    <div class="accordian">
+                <div class="content_item content_item1 active">                    
+                    
+                <div class="accordian">                        
                         <div class="acc_title active" data-target="1" >1.1 Curriculum Design and Development <span>50 <i class="fas fa-chevron-up"></i></span></div>
                         <div class="acc_content acc_content1" style="display:block;" >
                             <div>1.1.1 POs, PSOs and COS  
 								<!-- <span>20</span> -->
                                 <!-- <a href="/assets/Naac Doc/Link_Quality_Indicator_Framework.pdf" target="_blank">View Document</a> -->
                                 <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="70px" /></a>
+                            </div>
                             
-							</div>
                             <div>1.1.2 Syllabus Revision 
                                 <!-- <span>20</span>
-                            <a href="/assets/docs/convocation_invite_2014.pdf" target="_blank">View Document</a></div> -->
+                                <a href="/assets/docs/convocation_invite_2014.pdf" target="_blank">View Document</a>-->
+                            
                             <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="70px" /></a>
                             </div>
+                            
                             <div>1.1.3 Employability/ Entrepreneurship/ Skill development 
                                 <!-- <span>10</span>
-                            <a href="/assets/docs/convocation_invite_2014.pdf" target="_blank">View Document</a> </div> -->
+                            <a href="/assets/docs/convocation_invite_2014.pdf" target="_blank">View Document</a>  -->
                             <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="70px" /></a>
-                         </div>
-                    </div>
+                            </div>
+                        </div>
+                        </div>
+                </div>
+
                     <div class="accordian">
                         <div class="acc_title" data-target="2" >1.2 Academic Flexibility <span>40 <i class="fas fa-chevron-down"></i></span></div>
                         <div class="acc_content acc_content2"  >
