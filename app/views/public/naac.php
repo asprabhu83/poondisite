@@ -60,7 +60,7 @@ $token=$_SESSION['name'];
                                 <!-- <span>20</span>
                                 <a href="/assets/docs/convocation_invite_2014.pdf" target="_blank">View Document</a>-->
                             
-                            <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="40px" /></a>
+                            <a href="/assets/NAAC/Link_Quality_Indicator_Framework.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="40px" /></a>
                             </div>
                             
                             <div>1.1.3 Employability/ Entrepreneurship/ Skill development 
