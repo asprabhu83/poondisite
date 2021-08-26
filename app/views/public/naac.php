@@ -46,7 +46,7 @@ $token=$_SESSION['name'];
             <div class="naac_tab_content">
                 <div class="content_item content_item1 active">                    
                     
-                <div class="accordian">                        
+                    <div class="accordian">                        
                         <div class="acc_title active" data-target="1" >1.1 Curriculum Design and Development <span>50 <i class="fas fa-chevron-up"></i></span></div>
                         <div class="acc_content acc_content1" style="display:block;" >
                             <div>1.1.1 POs, PSOs and COS  
@@ -69,7 +69,7 @@ $token=$_SESSION['name'];
                             </div>
                         </div>
                         </div>
-                </div>
+                    </div>
 
                     <div class="accordian">
                         <div class="acc_title" data-target="2" >1.2 Academic Flexibility <span>40 <i class="fas fa-chevron-down"></i></span></div>
@@ -83,7 +83,9 @@ $token=$_SESSION['name'];
                                 <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="40px" /></a>
                             </div>
                         </div>
-                    </div>
+                        </div>
+                    </div>    
+                    
                     <div class="accordian">
                         <div class="acc_title" data-target="3" >1.3 Curriculum Enrichment <span>40 <i class="fas fa-chevron-down"></i></span></div>
                         <div class="acc_content acc_content3" >
@@ -104,7 +106,9 @@ $token=$_SESSION['name'];
                                 <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="40px" /></a>
                             </div>
                         </div>
+                        </div>
                     </div>
+                    
                     <div class="accordian">
                         <div class="acc_title" data-target="4" >1.4  Feedback System <span>20 <i class="fas fa-chevron-down"></i></span></div>
                         <div class="acc_content acc_content4"  >
@@ -117,8 +121,10 @@ $token=$_SESSION['name'];
                                 <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="40px" /></a>
                             </div>
                         </div>
+                        </div>
                     </div>
                 </div>
+               
                 <div class="content_item content_item2">
                 <div class="accordian">
                         <div class="acc_title" data-target="5" >2.1 Student Enrolment and Profile <span>20 <i class="fas fa-chevron-down"></i></span></div>
