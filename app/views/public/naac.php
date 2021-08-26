@@ -249,7 +249,71 @@ $token=$_SESSION['name'];
                             <div>4.1.4 Average percentage of expenditure for infrastructure augmentation excluding salary during the last five years (INR in Lakhs) <span>10</span></div>
                         </div>
                     </div>
+                    <div class="accordian">
+                        <div class="acc_title" data-target="20" >4.2 Library as a Learning Resource  <span>20 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content20"  >
+                            <div>4.2.1 Library is automated using Integrated Library Management System (ILMS)  <span>5</span></div>
+                            <div>4.2.2 Institution has access to the following: 1. e-journals 2. e-ShodhSindhu 3. Shodhganga Membership 4. e-books 5. Databases 6. Remote access to e-resources  <span>5</span></div>
+                            <div>4.2.3 Average annual expenditure for purchase of books/ e-books and subscription to journals/e-journals during the last five years (INR in Lakhs)  <span>5</span></div>
+                            <div>4.2.4 Percentage per day usage of library by teachers and students (foot falls and login data for online access) <span>5</span></div>
+                        </div>
+                    </div>
+                    <div class="accordian">
+                        <div class="acc_title" data-target="21" >4.3 IT Infrastructure <span>30 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content21"  >
+                            <div>4.3.1 Institution has an IT policy covering wi-fi, cyber security, etc., and allocated budget for updating its IT facilities <span>8</span></div>
+                            <div>4.3.2 Student - Computer ratio (Data for the latest completed academic year) <span>8</span></div>
+                            <div>4.3.3 Bandwidth of internet connection in the Institution <span>10</span></div>
+                            <div>4.3.4 Institution has Facilities for e-content development Facilities available for e-content development: 1. Media Centre 2. Audio visual Centre, 3. Lecture Capturing System (LCS) 4. Mixing equipment and software for editing <span>4</span></div>
+                        </div>
+                    </div>
+                    <div class="accordian">
+                        <div class="acc_title" data-target="22" >4.4 Maintenance of Campus Infrastructure <span>20 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content22"  >
+                            <div>4.4.1 Average percentage expenditure incurred on maintenance of physical facilities and academic support facilities excluding salary component, during the last five years <span>10</span></div>
+                            <div>4.4.2 There are established systems and procedures for maintaining and utilizing physical, academic and support facilities – laboratory, library, sports complex, computers, classrooms etc. <span>10</span></div>
+                        </div>
+                    </div>
                 </div>
+
+                <!----- Section 5-->
+                <div class="content_item content_item5">
+                   <div class="accordian">
+                        <div class="acc_title" data-target="23" >5.1 Student Support <span>30 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content23"  >
+                            <div>5.1.1 Average percentage of students benefited by scholarships and freeships provided by the Government during the last five years <span>6</span></div>
+                            <div>5.1.2 Average percentage of students benefited by scholarships, freeships, etc. provided by the institution and non-government agencies during the last five years <span>5</span></div>
+                            <div>5.1.3 Following Capacity development and skills enhancement activities are organised for improving student’s capability 1. Soft skills 2. Language and communication skills 3. Life skills (Yoga, physical fitness, health and hygiene) 4. Awareness of trends in technology <span>8</span></div>
+                            <div>5.1.4 Average percentage of students benefited by guidance for competitive examinations and career counselling offered by the institution during the last five years <span>6</span></div>
+                            <div>5.1.5 The institution adopts the following for redressal of student grievances including sexual harassment and ragging cases <span>5</span></div>
+                        </div>
+                    </div>
+                    <div class="accordian">
+                        <div class="acc_title" data-target="24" >5.2 Student Progression <span>30 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content24"  >
+                            <div>5.2.1 Average percentage of placement of outgoing students during the last five years <span>10</span></div>
+                            <div>5.2.2 Percentage of student progression to higher education (previous graduating batch) <span>10</span></div>
+                            <div>5.2.3 Average percentage of students qualifying in state/ national/ international level examinations during the last five years <span>10</span></div>
+                        </div>
+                    </div>
+                    <div class="accordian">
+                        <div class="acc_title" data-target="25" >5.3  Student Participation and Activities <span>30 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content25"  >
+                            <div>5.3.1 Number of awards/medals for outstanding performance in sports/cultural activities at inter-university / state /national / international events (award for a team event should be counted as one) during the last five years <span>10</span></div>
+                            <div>5.3.2 Presence of an active Student Council & representation of students on academic & administrative bodies/committees of the institution <span>10</span></div>
+                            <div>5.3.3 Average number of sports and cultural events / competitions organised by the institution per year <span>10</span></div>
+                        </div>
+                    </div>
+                    <div class="accordian">
+                        <div class="acc_title" data-target="26" >5.4  Alumni Engagement <span>10 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content26"  >
+                            <div>5.4.1 The Alumni Association/Chapters (registered and functional) contributes significantly to the development of the institution through financial and other support services  <span>5</span></div>
+                            <div>5.4.2 Alumni financial contribution during the last five years (in INR) <span>5</span></div>
+                        </div>
+                    </div>
+				</div>
+
+                <!-- End Section-->
              
                 </div>
             </div>            
