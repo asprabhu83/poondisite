@@ -69,7 +69,6 @@ $token=$_SESSION['name'];
                             <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="40px" /></a>
                             </div>
                         </div>
-                        </div>
                     </div>
 
                     <div class="accordian">
@@ -83,7 +82,6 @@ $token=$_SESSION['name'];
                                 <!-- <span>20</span></div> -->
                                 <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="40px" /></a>
                             </div>
-                        </div>
                         </div>
                     </div>    
                     
@@ -107,7 +105,6 @@ $token=$_SESSION['name'];
                                 <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="40px" /></a>
                             </div>
                         </div>
-                        </div>
                     </div>
                     
                     <div class="accordian">
@@ -121,7 +118,6 @@ $token=$_SESSION['name'];
                                 <!-- <span>10</span></div> -->
                                 <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="40px" /></a>
                             </div>
-                        </div>
                         </div>
                     </div>
                 </div>
