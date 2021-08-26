@@ -69,8 +69,7 @@ $token=$_SESSION['name'];
                             <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="40px" /></a>
                             </div>
                         </div>
-                    </div>
-
+                   
                     <div class="accordian">
                         <div class="acc_title" data-target="2" >1.2 Academic Flexibility <span>40 <i class="fas fa-chevron-down"></i></span></div>
                         <div class="acc_content acc_content2"  >
@@ -83,7 +82,6 @@ $token=$_SESSION['name'];
                                 <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="40px" /></a>
                             </div>
                         </div>
-                    </div>    
                     
                     <div class="accordian">
                         <div class="acc_title" data-target="3" >1.3 Curriculum Enrichment <span>40 <i class="fas fa-chevron-down"></i></span></div>
@@ -105,7 +103,6 @@ $token=$_SESSION['name'];
                                 <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="40px" /></a>
                             </div>
                         </div>
-                    </div>
                     
                     <div class="accordian">
                         <div class="acc_title" data-target="4" >1.4  Feedback System <span>20 <i class="fas fa-chevron-down"></i></span></div>
@@ -119,7 +116,6 @@ $token=$_SESSION['name'];
                                 <a href="/assets/NAAC/1.1.1_Front_Page.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" alt="" width="40px" /></a>
                             </div>
                         </div>
-                    </div>
                 </div>
                
                 <div class="content_item content_item2">
@@ -176,6 +172,7 @@ $token=$_SESSION['name'];
                             <div>2.7.1 Online student satisfaction survey regarding to teaching learning process. <span>50</span></div>
                         </div>
                     </div>
+                </div>
                 </div>
                 <div class="content_item content_item3">
                     <div class="accordian">
@@ -236,7 +233,6 @@ $token=$_SESSION['name'];
                             <div>3.7.2 Number of functional MoUs with institutions of national, international importance, other universities, industries, corporatehouses etc. during the last five years (only functional MoUs withongoing activities to be considered) <span>10</span></div>
                         </div>
                     </div>
-                </div>
                 <div class="content_item content_item4">
                     <div class="accordian">
                         <div class="acc_title" data-target="19" >4.1 Physical Facilities <span>30 <i class="fas fa-chevron-down"></i></span></div>
@@ -272,7 +268,6 @@ $token=$_SESSION['name'];
                             <div>4.4.2 There are established systems and procedures for maintaining and utilizing physical, academic and support facilities – laboratory, library, sports complex, computers, classrooms etc. <span>10</span></div>
                         </div>
                     </div>
-                </div>
                 <div class="content_item content_item5">
                    <div class="accordian">
                         <div class="acc_title" data-target="23" >5.1 Student Support <span>30 <i class="fas fa-chevron-down"></i></span></div>
@@ -307,7 +302,6 @@ $token=$_SESSION['name'];
                             <div>5.4.2 Alumni financial contribution during the last five years (in INR) <span>5</span></div>
                         </div>
                     </div>
-                </div>
                 <div class="content_item content_item6">
                 <div class="accordian">
                         <div class="acc_title" data-target="27" >6.1 Institutional Vision and Leadership <span>10 <i class="fas fa-chevron-down"></i></span></div>
