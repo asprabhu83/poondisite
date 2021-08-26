@@ -177,6 +177,67 @@ $token=$_SESSION['name'];
                     </div>
                
                 </div>
+
+                <div class="content_item content_item3">
+                    <div class="accordian">
+                        <div class="acc_title" data-target="12" >3.1 Promotion of Research and Facilities <span>20 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content12"  >
+                            <div>3.1.1 The institution Research facilities are frequently updated and there is well defined policy for promotion of research which is uploaded on the institutional website and implemented <span>6</span></div>
+                            <div>3.1.2 The institution provides seed money to its teachers for research <span>8</span></div>
+                            <div>3.1.3 Percentage of teachers awarded national / international fellowship for advanced studies/research during the last five years <span>6</span></div>
+                        </div>
+                    </div>
+                    <div class="accordian">
+                        <div class="acc_title" data-target="13" >3.2 Resource Mobilization for Research <span>10 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content13"  >
+                            <div>3.2.1 Grants received from Government and non-governmental agencies for research projects, endowments, Chairs in the institution during the last five years (INR in Lakhs)  <span>2</span></div>
+                            <div>3.2.2 Percentage of teachers having research projects during the last five years <span>2</span></div>
+                            <div>3.2.3 Percentage of teachers recognised as research guides  <span>3</span></div>
+                            <div>3.2.4 Average percentage of departments having Research projects funded by government and non-government agencies during the last five years <span>3</span></div>
+                        </div>
+                    </div>
+                    <div class="accordian">
+                        <div class="acc_title" data-target="14" >3.3 Innovation Ecosystem <span>10 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content14"  >
+                            <div>3.3.1 Institution has created an eco-system for innovations, creation and transfer of knowledge supported by dedicated centers for research, entrepreneurship, community orientation, Incubation etc. <span>5</span></div>
+                            <div>3.3.2 Number of workshops/seminars conducted on Research Methodology, Intellectual Property Rights (IPR), entrepreneurship and skills development during the last five years <span>5</span></div>
+                        </div>
+                    </div>
+                    <div class="accordian">
+                        <div class="acc_title" data-target="15" >3.4 Research Publications and Awards <span>30 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content15"  >
+                            <div>3.4.1 The Institution ensures implementation of its stated Code of Ethics for research through the following:  <span>5</span></div>
+                            <div>3.4.2 Number of Ph.D’s registered per teacher (as per the data given w.r.t recognized Ph.D guides/ supervisors provided at 3.2.3 metric) during the last five years <span>5</span></div>
+                            <div>3.4.3 Number of research papers per teacher in the Journals notified on UGC website during the last five years  <span>5</span></div>
+                            <div>3.4.4 Number of books and chapters in edited volumes / books published per teacher during the last five years <span>5</span></div>
+                            <div>3.4.5 Bibliometrics of the publications during the last five years based on average Citation index in Scopus/ Web of Science/ PubMed  <span>5</span></div>
+                            <div>3.4.6 Bibliometrics of the publications during the last five years based on Scopus/ Web of Science – h-index of the Institution   <span>5</span></div>
+                        </div>
+                    </div>
+                    <div class="accordian">
+                        <div class="acc_title" data-target="16" >3.5 Consultancy <span>10 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content16"  >
+                            <div>3.5.1 Revenue generated from consultancy and corporate training during the last five years (INR in Lakhs) <span>5</span></div>
+                            <div>3.5.2 Total amount spent on developing facilities, training teachers and staff for undertaking consultancy during the last five years <span>5</span></div>
+                        </div>
+                    </div>
+                    <div class="accordian">
+                        <div class="acc_title" data-target="17" >3.6 Extension Activities <span>50 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content17"  >
+                            <div>3.6.1 Extension activities are carried out in the neighbourhood community, sensitising students to social issues, for their holistic development, and impact thereof during the last five years  <span>10</span></div>
+                            <div>3.6.2 Number of awards and recognition received by the Institution, its teachers and students for extension activities from Government / Government recognised bodies during last five years  <span>15</span></div>
+                            <div>3.6.3 Number of extension and outreach programs conducted by the institution through NSS/NCC/Red cross/YRC etc., during the last five years (including Government initiated programs such as Swachh Bharat, Aids Awareness, Gender Issue, etc. and those organised in collaboration with industry, community and NGOs) <span>10</span></div>
+                            <div>3.6.4 Average percentage of students participating in extension activities listed at (3.6.3) above during the last five years <span>15</span></div>
+                        </div>
+                    </div>
+                    <div class="accordian">
+                        <div class="acc_title" data-target="18" >3.7 Collaboration <span>20 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content18"  >
+                            <div>3.7.1 Number of Collaborative activities per year for research/ faculty exchange/ student exchange/ internship/ on –the-job training/ project work  <span>10</span></div>
+                            <div>3.7.2 Number of functional MoUs with institutions of national, international importance, other universities, industries, corporatehouses etc. during the last five years (only functional MoUs withongoing activities to be considered) <span>10</span></div>
+                        </div>
+                    </div>
+                </div>
              
                 </div>
             </div>            
