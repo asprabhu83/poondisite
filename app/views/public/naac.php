@@ -45,6 +45,7 @@ $token=$_SESSION['name'];
             </div>
             
             <div class="naac_tab_content">
+            <div class="naac_tab_heading"> Key Indicators</div>
             <!----- Section 1-->
                 <div class="content_item content_item1 active">                    
                     <div class="accordian">                        
