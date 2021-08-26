@@ -238,6 +238,18 @@ $token=$_SESSION['name'];
                         </div>
                     </div>
                 </div>
+
+                <div class="content_item content_item4">
+                    <div class="accordian">
+                        <div class="acc_title" data-target="19" >4.1 Physical Facilities <span>30 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content19"  >
+                            <div>4.1.1 The Institution has adequate infrastructure and physical facilities for teaching – learning, viz., classrooms, laboratories, computing equipment, etc. <span>6</span></div>
+                            <div>4.1.2 The institution has adequate facilities for cultural activities, yoga, games (indoor, outdoor) and sports. (Gymnasium, yoga centre, auditorium, etc.) <span>4</span></div>
+                            <div>4.1.3 Percentage of classrooms and seminar halls with ICT – enabled facilities such as smart class, LMS, etc. (Data for the latest completed academic year) <span>10</span></div>
+                            <div>4.1.4 Average percentage of expenditure for infrastructure augmentation excluding salary during the last five years (INR in Lakhs) <span>10</span></div>
+                        </div>
+                    </div>
+                </div>
              
                 </div>
             </div>            
