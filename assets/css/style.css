@@ -39421,6 +39421,18 @@ tr:nth-child(even) {
     }
 
 }
+.naac_tab_content_heading {
+    margin-left: 75px;
+    width: 72%;
+    margin-bottom: 0px;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: #b68d5d;
+    color: white;
+    padding:15px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
 .naac_tab_heading{
     font-size: 25px;
     font-weight: bold;
