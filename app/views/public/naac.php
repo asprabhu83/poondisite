@@ -43,6 +43,7 @@ $token=$_SESSION['name'];
                 <div class="naac_tab_item" data-target="6">6.Governance, Leadership and Management <i class="fas fa-chevron-right" style="display:none;"></i></div>
                 <div class="naac_tab_item" data-target="7">7.Institutional Values and Best Practices <i class="fas fa-chevron-right" style="display:none;"></i></div>
             </div>
+            
             <div class="naac_tab_content">
                 <div class="content_item content_item1 active">                    
                     
