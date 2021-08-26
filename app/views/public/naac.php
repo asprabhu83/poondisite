@@ -45,6 +45,7 @@ $token=$_SESSION['name'];
             </div>
             
             <div class="naac_tab_content">
+            <!----- Section 1-->
                 <div class="content_item content_item1 active">                    
                     <div class="accordian">                        
                         <div class="acc_title active" data-target="1" >1.1 Curriculum Design and Development <span>50 <i class="fas fa-chevron-up"></i></span></div>
@@ -117,7 +118,8 @@ $token=$_SESSION['name'];
                         </div>
                     </div>
                 </div>
-               
+               <!-- End Section -->
+                  <!----- Section 2-->
                 <div class="content_item content_item2">
                     
                 
@@ -177,7 +179,9 @@ $token=$_SESSION['name'];
                     </div>
                
                 </div>
-
+                <!-- End Section -->
+                
+                <!----- Section 3 -->
                 <div class="content_item content_item3">
                     <div class="accordian">
                         <div class="acc_title" data-target="12" >3.1 Promotion of Research and Facilities <span>20 <i class="fas fa-chevron-down"></i></span></div>
@@ -238,7 +242,10 @@ $token=$_SESSION['name'];
                         </div>
                     </div>
                 </div>
-
+                <!-- End Section -->
+                
+                
+                <!----- Section 4-->
                 <div class="content_item content_item4">
                     <div class="accordian">
                         <div class="acc_title" data-target="19" >4.1 Physical Facilities <span>30 <i class="fas fa-chevron-down"></i></span></div>
@@ -275,7 +282,9 @@ $token=$_SESSION['name'];
                         </div>
                     </div>
                 </div>
-
+                <!-- End Section -->
+               
+               
                 <!----- Section 5-->
                 <div class="content_item content_item5">
                    <div class="accordian">
@@ -314,7 +323,89 @@ $token=$_SESSION['name'];
 				</div>
 
                 <!-- End Section-->
+
+                <!----- Section 6-->
+
+                <div class="content_item content_item6">
+                <div class="accordian">
+                        <div class="acc_title" data-target="27" >6.1 Institutional Vision and Leadership <span>10 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content27"  >
+                            <div>6.1.1 The governance of the institution is reflective of an effective leadership in tune with the vision and mission of the Institution <span>5</span></div>
+                            <div>6.1.2 The effective leadership is reflected in various institutional practices such as decentralization and participative management  <span>5</span></div>
+                        </div>
+                    </div>
+                    <div class="accordian">
+                        <div class="acc_title" data-target="28" >6.2 Strategy Development and Deployment <span>10 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content28"  >
+                            <div>6.2.1 The institutional Strategic/ Perspective plan is effectively deployed <span>2</span></div>
+                            <div>6.2.2 The functioning of the institutional bodies is effective and efficient as visible from policies, administrative setup appointment and service rules, procedures, etc. <span>4</span></div>
+                            <div>6.2.3 Implementation of e-governance in areas of operation: 1. Administration 2. Finance and Accounts 3. Student Admission and Support 4. Examination <span>4</span></div>
+                        </div>
+                    </div>
+                    <div class="accordian">
+                        <div class="acc_title" data-target="29" >6.3 Faculty Empowerment Strategies <span>30 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content29"  >
+                            <div>6.3.1 The institution has effective welfare measures for teaching and non-teaching staff and avenues for career development/ progression <span>4</span></div>
+                            <div>6.3.2 Average percentage of teachers provided with financial support to attend conferences / workshops and towards membership fee of professional bodies during the last five years <span>8</span></div>
+                            <div>6.3.3 Average number of professional development / administrative training programs organized by the Institution for teaching and non-teaching staff during the last five years <span>8</span></div>
+                            <div>6.3.4 Average percentage of teachers undergoing online/ face-to-face Faculty Development Programmes during the last five years (Professional Development Programmes, Orientation / Induction Programmes, Refresher Course, Short Term Course etc.,) <span>10</span></div>
+                        </div>
+                    </div>
+                    <div class="accordian">
+                        <div class="acc_title" data-target="30" >6.4 Financial Management and Resource Mobilization <span>20 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content30"  >
+                            <div>6.4.1 Institution conducts internal and external financial audits regularly <span>4</span></div>
+                            <div>6.4.2 Funds / Grants received from non-government bodies, individuals, philanthropists during the last five years (not covered in Criterion III and V) (INR in Lakhs) <span>10</span></div>
+                            <div>6.4.3 Institutional strategies for mobilisation of funds and the optimal utilisation of resources <span>6</span></div>
+                        </div>
+                    </div>
+                    <div class="accordian">
+                        <div class="acc_title" data-target="31" >6.5  Internal Quality Assurance System <span>30 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content31"  >
+                            <div>6.5.1 Internal Quality Assurance Cell (IQAC) has contributed significantly for institutionalizing the quality assurance strategies and processes visible in terms of – Incremental improvements made for the preceding five years with regard to quality (in case of first cycle) Incremental improvements made for the preceding five years with regard to quality and post accreditation quality initiatives (second and subsequent cycles) 
+								<span>10</span>
+							</div>
+                            <div>6.5.2 The institution reviews its teaching learning process, structures & methodologies of operations and learning outcomes at periodic intervals through IQAC set up as per norms <span>10</span></div>
+                            <div>6.5.3 Quality assurance initiatives of the institution include:  <span>10</span></div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <!-- End Section-->
              
+
+
+                <!----- Section 7-->
+                <div class="content_item content_item7">
+                   <div class="accordian">
+                        <div class="acc_title" data-target="32" >7.1 Institutional Values and Social Responsibilities <span>50 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content32"  >
+                            <div>7.1.1 Measures initiated by the Institution for the promotion of gender equity during the last five years. <span>5</span></div>
+                            <div>7.1.2 The Institution has facilities for alternate sources of energy and energy conservation measures  <span>5</span></div>
+                            <div>7.1.3 Describe the facilities in the Institution for the management of the following types of degradable and non-degradable waste (within 500 words) <span>4</span></div>
+                            <div>7.1.4 Water conservation facilities available in the Institution:<span>4</span></div>
+                            <div>7.1.5 Green campus initiatives include (4) <span>4</span></div>
+                            <div>7.1.6 Quality audits on environment and energy are regularly undertaken by the institution (5) <span>5</span></div>
+                            <div>7.1.7 The Institution has disabled-friendly, barrier free environment <span>4</span></div>
+                            <div>7.1.8 Describe the Institutional efforts/initiatives in providing an inclusive environment i.e., tolerance and harmony towards cultural, regional, linguistic, communal socioeconomic and other diversities (within 500 words). <span>5</span></div>
+                            <div>7.1.9 Sensitization of students and employees of the Institution to the constitutional obligations: values, rights, duties and responsibilities of citizens <span>4</span></div>
+                            <div>7.1.10 The Institution has a prescribed code of conduct for students, teachers, administrators and other staff and conducts periodic programmes in this regard. <span>5</span></div>
+                            <div>7.1.11 Institution celebrates / organizes national and international commemorative days, events and festivals <span>5</span></div>
+                        </div>
+                    </div>
+                    <div class="accordian">
+                        <div class="acc_title" data-target="33" >7.2 Best Practices <span>30 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content33"  >7.2.1 Describe two best practices successfully implemented by the Institution as per NAAC format provided in the Manual. <span>30</span></div>
+                    </div>
+                    <div class="accordian">
+                        <div class="acc_title" data-target="34" >7.3  Institutional Distinctiveness <span>20 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content34"  >7.3.1 Portray the performance of the Institution in one area distinctive to its priority and thrust within 1000 words <span>20</span></div>
+                    </div>
+				</div>
+
+
+                <!-- End Section-->
                 </div>
             </div>            
       
