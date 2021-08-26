@@ -119,6 +119,62 @@ $token=$_SESSION['name'];
                 </div>
                
                 <div class="content_item content_item2">
+                    
+                
+                    <div class="accordian">
+                        <div class="acc_title" data-target="5" >2.1 Student Enrolment and Profile <span>20 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content5"  >
+                            <div>2.1.1 Student Enrolment and Profile <span>10</span></div>
+                            <div>2.1.2 Average percentage of seats filled against reserved categories (SC, ST, OBC, Divyangjan, etc. as per applicable reservation policy) during the last five years (exclusive of supernumerary seats) <span>10</span></div>
+                        </div>
+                    </div>
+
+                    <div class="accordian">
+                        <div class="acc_title" data-target="6" >2.2 Catering to Student Diversity <span>30 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content6"  >
+                            <div>2.2.1 The institution assesses the learning levels of the students and organises special Programmes for advanced learners and slow learners <span>15</span></div>
+                            <div>2.2.2 Student - Full time teacher ratio (Data for the latest completed academic year) <span>15</span></div>
+                        </div>
+                    </div>
+                    <div class="accordian">
+                        <div class="acc_title" data-target="7" >2.3 Teaching - Learning Process  <span>50 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content7"  >
+                            <div>2.3.1 Student centric methods, such as experiential learning, participative learning and problem-solving methodologies are used for enhancing learning experiences <span>15</span></div>
+                            <div>2.3.2 Teachers use ICT enabled tools including online resources for effective teaching and learning process <span>15</span></div>
+                            <div>2.3.3 Ratio of students to mentor for academic and other related issues (Data for the latest completed academic year) <span>10</span></div>
+                            <div>2.3.4 Preparation and adherence of Academic Calendar and Teaching plans by the institution <span>10</span></div>
+                        </div>
+                    </div>
+                    <div class="accordian">
+                        <div class="acc_title" data-target="8" >2.4 Teacher Profile and Quality <span>50 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content8"  >
+                            <div>2.4.1 Average percentage of full-time teachers against sanctioned posts during the last five years <span>15</span></div>
+                            <div>2.4.2 Average percentage of full-time teachers with Ph.D. / D.M. / M.Ch. / D.N.B Super speciality / D.Sc. / D.Litt. during the last five years <span>20</span></div>
+                            <div>2.4.3 Average teaching experience of full-time teachers in the same institution (Data for the latest completed academic year in number of years)  <span>15</span></div>
+                        </div>
+                    </div>
+                    <div class="accordian">
+                        <div class="acc_title" data-target="9" >2.5 Evaluation Process and Reforms <span>50 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content9"  >
+                            <div>2.5.1 Average number of days from the date of last semester-end/ yearend examination till the declaration of results during the last five years <span>20</span></div>
+                            <div>2.5.2 Average percentage of student complaints/grievances about evaluation against total number appeared in the examinations during the last five years <span>15</span></div>
+                            <div>2.5.3 IT integration and reforms in the examination procedures and processes including Continuous Internal Assessment (CIA) have brought in considerable improvement in Examination Management System (EMS) of the Institution <span>15</span> </div>
+                        </div>
+                    </div>
+                    <div class="accordian">
+                        <div class="acc_title" data-target="10" >2.6 Student Performance and Learning Outcomes <span>50 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content10"  >
+                            <div>2.6.1 Programme outcomes and course outcomes for all Programmes offered by the institution are stated and displayed on website and communicated to teachers and students <span>20</span></div>
+                            <div>2.6.2 Attainment of program outcomes and course outcomes are evaluated by the institution <span>10</span> </div>
+                            <div>2.6.3 Pass percentage of students (Data for the latest completed academic year)  <span>20</span></div>
+                        </div>
+                    </div>
+                    <div class="accordian">
+                        <div class="acc_title" data-target="11" >2.7 Student Satisfaction Survey <span>50 <i class="fas fa-chevron-down"></i></span></div>
+                        <div class="acc_content acc_content11"  >
+                            <div>2.7.1 Online student satisfaction survey regarding to teaching learning process. <span>50</span></div>
+                        </div>
+                    </div>
                
                 </div>
              
