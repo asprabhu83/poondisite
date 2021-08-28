@@ -170,6 +170,8 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('naac'); ?>"><span>NAAC </span></a>
                                                     </li>
+                                                    <li class="active "><a href="<?php echo base_url('newnaac'); ?>"><span>\\\NEW NAAC </span></a>
+                                                    </li>
                                                     <li class="active "><a href="<?php echo base_url('iqac_meet') ?>"><span>IQAC Meet </span></a>
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/IQAC/Code_of_conduct_SSR-converted.pdf') ?>"><span>Code Of Conduct</span></a>
