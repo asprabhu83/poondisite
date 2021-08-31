@@ -1,0 +1,972 @@
+{
+    "data":[
+        {
+            "id":1,
+            "name":"1. Curricular Aspects",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":"2.Teaching- Learning and Evaluation",
+            "link":"/criteria-2"
+        },
+        {
+            "id":3,
+            "name":"3.Research, Innovations and Extension",
+            "link":"/criteria-3"
+        },
+        {
+            "id":4,
+            "name":"4.Infrastructure and Learning Resources",
+            "link":"/criteria-4"
+        },
+        {
+            "id":5,
+            "name":"5.Student Support and Progression",
+            "link":"/criteria-5"
+        },
+        {
+            "id":6,
+            "name":"6.Governance, Leadership and Management",
+            "link":"/criteria-6"
+        },
+        {
+            "id":7,
+            "name":"7.Institutional Values and Best Practices",
+            "link":"/criteria-7"
+        }
+    ],
+    "c_1":[
+        {
+            "id":1,
+            "name":" 1.1*(U) -Curriculum Design and Development",
+            "link":"/c_1.1"
+        },
+        {
+            "id":2,
+            "name":"  1.2 Academic Flexibility",
+            "link":"/c_1.2"
+        },
+        {
+            "id":3,
+            "name":"   1.3 Curriculum Enrichment",
+            "link":"/c_1.3"
+        },
+        {
+            "id":4,
+            "name":"  1.4 Feedback System",
+            "link":"/c_1.4"
+        }
+    ],
+    "c_2":[
+        {
+            "id":1,
+            "name":"2.1 Student Enrolment and Profile",
+            "link":"/c_2.1"
+        },
+        {
+            "id":2,
+            "name":"2.2 Catering to Student Diversity",
+            "link":"/c_2.2"
+        },
+        {
+            "id":3,
+            "name":" 2.3 Teaching-Learning Process",
+            "link":"/c_2.3"
+        },
+        {
+            "id":4,
+            "name":"2.4 Teacher Profile and Quality",
+            "link":"/c_2.4"
+        },
+        {
+            "id":5,
+            "name":" 2.5 Evaluation Process and Reforms",
+            "link":"/c_2.5"
+        },
+        {
+            "id":6,
+            "name":"2.6 Student Performance and Learning Outcomes",
+            "link":"/c_2.6"
+        },
+        {
+            "id":7,
+            "name":" 2.7 Student Satisfaction Survey",
+            "link":"/c_2.7"
+        }
+    ],
+    "c_3":[
+        {
+            "id":1,
+            "name":"  3.1 Promotion of Research and Facilities",
+            "link":"/c_3.1"
+        },
+        {
+            "id":2,
+            "name":" 3.2 Resource Mobilization for Research",
+            "link":"/c_3.2"
+        },
+        {
+            "id":3,
+            "name":" 3.3 Innovation Ecosystem",
+            "link":"/c_3.3"
+        },
+        {
+            "id":4,
+            "name":" 3.4 Research Publications and Awards",
+            "link":"/c_3.4"
+        },
+        {
+            "id":5,
+            "name":"  3.5 Consultancy",
+            "link":"/c_3.5"
+        },
+        {
+            "id":6,
+            "name":"  3.6 Extension Activities",
+            "link":"/c_3.6"
+        },
+        {
+            "id":7,
+            "name":"  3.7 Collaboration",
+            "link":"/c_3.7"
+        }
+    ],
+    "c_4":[
+        {
+            "id":1,
+            "name":" 4.1 Physical Facilities",
+            "link":"/c_4.1"
+        },
+        {
+            "id":2,
+            "name":"  4.2 Library as a Learning Resource",
+            "link":"/c_4.2"
+        },
+        {
+            "id":3,
+            "name":"  4.3 IT Infrastructure",
+            "link":"/c_4.3"
+        },
+        {
+            "id":4,
+            "name":"  4.4 Maintenance of Campus Infrastructure",
+            "link":"/c_4.4"
+        }
+    ],
+    "c_5":[
+        {
+            "id":1,
+            "name":"  5.1 Student Support",
+            "link":"/c_5.1"
+        },
+        {
+            "id":2,
+            "name":"   5.2 Student Progression",
+            "link":"/c_5.2"
+        },
+        {
+            "id":3,
+            "name":"  5.3 Student Participation and Activities",
+            "link":"/c_5.3"
+        },
+        {
+            "id":4,
+            "name":"5.4 Alumni Engagement",
+            "link":"/c_5.4"
+        }
+    ],
+    "c_6":[
+        {
+            "id":1,
+            "name":"  6.1 Institutional Vision and Leadership",
+            "link":"/c_6.1"
+        },
+        {
+            "id":2,
+            "name":" 6.2 Strategy Development and Deployment",
+            "link":"/c_6.2"
+        },
+        {
+            "id":3,
+            "name":" 6.3 Faculty Empowerment Strategies",
+            "link":"/c_6.3"
+        },
+        {
+            "id":4,
+            "name":"  6.4 Financial Management and Resource Mobilization",
+            "link":"/c_6.4"
+        },
+        {
+            "id":5,
+            "name":"6.5 Internal Quality Assurance System (IQAS)",
+            "link":"/c_6.5"
+        }
+    ],
+    "c_7":[
+        {
+            "id":1,
+            "name":"  7.1 Institutional Values and Social Responsibilities",
+            "link":"/c_7.1"
+        },
+        {
+            "id":2,
+            "name":"  7.2 Best Practices",
+            "link":"/c_7.2"
+        },
+        {
+            "id":3,
+            "name":"   7.3 Institutional Distinctiveness",
+            "link":"/c_7.3"
+        }
+    ],
+    "c_1_1":[
+        {
+            "id":1,
+            "name":"  1.1.1 Revision of Curricula",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":"   1.1.2 Programmes with Syllabus Revision",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":"  1.1.3 Courses with Employability/Entrepreneurship/Skill Development",
+            "link":"/"
+        }
+    ],
+    "c_1_2":[
+        {
+            "id":1,
+            "name":" 1.2.1 New Courses Introduced",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":" 1.2.2 CBCS / Elective Course System",
+            "link":"/"
+        }
+    ],
+    "c_1_3":[
+        {
+            "id":1,
+            "name":"  1.3.1 Cross Cutting Issues",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":" 1.3.2 Value Added Courses",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":"  1.3.3 Average Percentage of students enrolled in the courses under 1.3.2 above",
+            "link":"/"
+        },
+        {
+            "id":4,
+            "name":" 1.3.4 Field Projects / Internships",
+            "link":"/"
+        }
+    ],
+    "c_1_4":[
+        {
+            "id":1,
+            "name":"  1.4.1 Feedback Process",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":"   1.4.2 Feedback Analysis",
+            "link":"/"
+        }
+    ],
+    "c_2_1":[
+        {
+            "id":1,
+            "name":"  2.1.1 Student Diversity",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":"  2.1.2 Demand Ratio",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":"  2.1.3 Reserved Category",
+            "link":"/"
+        }
+    ],
+    "c_2_2":[
+        {
+            "id":1,
+            "name":" 2.2.1 Asses learning Level",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":" 2.2.2 Student - Full time Teacher Ratio",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":" 2.2.3 Divyangjan Students",
+            "link":"/"
+        }
+    ],
+    "c_2_3":[
+        {
+            "id":1,
+            "name":" 2.3.1 Student Centric Methods",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":"  2.3.2 Teachers using ICT",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":" 2.3.3 Mentor:Mentee",
+            "link":"/"
+        },
+        {
+            "id":4,
+            "name":" 2.3.4 Academic Calendar & Teacher Plan",
+            "link":"/"
+        }
+    ],
+    "c_2_4":[
+        {
+            "id":1,
+            "name":"  2.4.1 Teachers against Sanctioned Posts",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":" 2.4.2 Teachers with Ph. D.",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":"  2.4.3 Experience of Full Time Teachers",
+            "link":"/"
+        },
+        {
+            "id":4,
+            "name":"   2.4.4 Awards and Recognitions",
+            "link":"/"
+        },
+        {
+            "id":5,
+            "name":"   2.4.5 Staff Diversity",
+            "link":"/"
+        }
+    ],
+    "c_2_5":[
+        {
+            "id":1,
+            "name":"   2.5.1 Declaration of Results",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":"  2.5.2 Student Complaints / Grievances",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":"   2.5.3 Marks Changes after Revaluation",
+            "link":"/"
+        },
+        {
+            "id":4,
+            "name":" 2.5.4 Exam Reforms",
+            "link":"/"
+        },
+        {
+            "id":5,
+            "name":"  2.5.5 Present Status of Automation",
+            "link":"/"
+        }
+    ],
+    "c_2_6":[
+        {
+            "id":1,
+            "name":" 2.6.1 PO/PSO/CO",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":" 2.6.2 Attainment of POs,PSOs and COs",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":" 2.6.3 Average pass percentage of students",
+            "link":"/"
+        }
+    ],
+    "c_2_7":[
+        {
+            "id":1,
+            "name":" 2.7.1 Online student satisfaction survey regarding to teaching learning process.",
+            "link":"/"
+        }
+    ],
+    "c_3_1":[
+        {
+            "id":1,
+            "name":" 3.1.1 Policies for Research,Consultancy and Extension",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":"  3.1.2 Seed Money",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":" 3.1.3 International Fellowship",
+            "link":"/"
+        },
+        {
+            "id":4,
+            "name":" 3.1.4 Facilities of the Institution",
+            "link":"/"
+        }
+    ],
+    "c_3_2":[
+        {
+            "id":1,
+            "name":" 3.2.1 Grants for Research Projects",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":"  3.2.2 Research Centers",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":" 3.2.3 Research Guides",
+            "link":"/"
+        },
+        {
+            "id":4,
+            "name":"3.2.4 Research Projects per Teacher",
+            "link":"/"
+        }
+    ],
+    "c_3_3":[
+        {
+            "id":1,
+            "name":" 3.3.1 Incubation Centres",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":" 3.3.2 IPR / Industry Academic Initiatives",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":" 3.3.3 Innovation Awards",
+            "link":"/"
+        },
+        {
+            "id":4,
+            "name":" 3.3.4 Start-ups",
+            "link":"/"
+        }
+    ],
+    "c_3_4":[
+        {
+            "id":1,
+            "name":"  3.4.1 Code of Ethics",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":"  3.4.2 Incentives to Teachers",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":"3.4.3 Patents",
+            "link":"/"
+        },
+        {
+            "id":4,
+            "name":" 3.4.4 Ph. D. Awarded",
+            "link":"/"
+        },
+        {
+            "id":5,
+            "name":"  3.4.5 Research Papers in UGC Enlisted Journals",
+            "link":"/"
+        },
+        {
+            "id":6,
+            "name":"  3.4.6 Books and Chapters Published",
+            "link":"/"
+        },
+        {
+            "id":7,
+            "name":"3.4.7 Average Citation Index",
+            "link":"/"
+        },
+        {
+            "id":8,
+            "name":"3.4.8 h-Index",
+            "link":"/"
+        }
+    ],
+    "c_3_5":[
+        {
+            "id":1,
+            "name":" 3.5.1 Consultancy Policy And Minutes",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":" 3.5.2 Revenue Generated through Consultancy",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":"  3.5.3 Revenue Generated through Corporate Training",
+            "link":"/"
+        }
+    ],
+    "c_3_6":[
+        {
+            "id":1,
+            "name":"   3.6.1 Extension Activities",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":"   3.6.2 Awards and Recognitions for Extension Activities",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":" 3.6.3 Extension and Outreach Programmes",
+            "link":"/"
+        },
+        {
+            "id":4,
+            "name":"3.6.4 Student's Participation in Extension Activities",
+            "link":"/"
+        }
+    ],
+    "c_3_7":[
+        {
+            "id":1,
+            "name":"   3.7.1 Collaborations",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":" 3.7.2 Linkages",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":"  3.7.3 Functional MoUs",
+            "link":"/"
+        }
+    ],
+    "c_4_1":[
+        {
+            "id":1,
+            "name":" 4.1.1 Facilities for Teaching - Learning",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":" 4.1.2 Facilities for Sports & Culturals",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":"4.1.3 ICT Infrastructure",
+            "link":"/"
+        },
+        {
+            "id":4,
+            "name":"4.1.4 Infrastructure Augmentation",
+            "link":"/"
+        }
+    ],
+    "c_4_2":[
+        {
+            "id":1,
+            "name":"4.2.1 Library Automation",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":" 4.2.2 Collection of Rare Books",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":" 4.2.3 Subscription of E-Resources",
+            "link":"/"
+        },
+        {
+            "id":4,
+            "name":" 4.2.4 Purchase of Books and Journals",
+            "link":"/"
+        },
+        {
+            "id":5,
+            "name":"4.2.5 Remote Access",
+            "link":"/"
+        },
+        {
+            "id":6,
+            "name":" 4.2.6 Usage of Library",
+            "link":"/"
+        }
+    ],
+    "c_4_3":[
+        {
+            "id":1,
+            "name":"  4.3.1 Updation of IT Facilities",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":"  4.3.2 Student Computer Ratio",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":"  4.3.3 Internet Bandwidth",
+            "link":"/"
+        },
+        {
+            "id":4,
+            "name":"  4.3.4 E-Content Facilities",
+            "link":"/"
+        }
+    ],
+    "c_4_4":[
+        {
+            "id":1,
+            "name":"  4.4.1 Physical & Academic Support Facilities",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":"4.4.2 Annual Maintenance",
+            "link":"/"
+        }
+    ],
+    "c_5_1":[
+        {
+            "id":1,
+            "name":" 5.1.1 Government Scholarships",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":" 5.1.2 Institutional Scholarships",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":" 5.1.3 Capability Enhancement Schemes",
+            "link":"/"
+        },
+        {
+            "id":4,
+            "name":"5.1.4 Students Benefited by Guidance for Competitive Examination and Career Counselling",
+            "link":"/"
+        },
+        {
+            "id":5,
+            "name":"5.1.5 Vocational Education and Training offered by the Institution",
+            "link":"/"
+        },
+        {
+            "id":6,
+            "name":" 5.1.6 Redressal of Student Grievances",
+            "link":"/"
+        }
+    ],
+    "c_5_2":[
+        {
+            "id":1,
+            "name":"  5.2.1 Placements",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":"5.2.2 Progression to Higher Education",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":"  5.2.3 Student Qualified for NET/SET/Other Government Exams",
+            "link":"/"
+        }
+    ],
+    "c_5_3":[
+        {
+            "id":1,
+            "name":"  5.3.1 Sports/Cultutral Awards",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":" 5.3.2 Presence of Student Council",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":"5.3.3 Sports & Cultural Activities",
+            "link":"/"
+        }
+    ],
+    "c_5_4":[
+        {
+            "id":1,
+            "name":"  5.4.1 Registered Alumni Associations",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":"  5.4.2 Alumni Contribution",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":"  5.4.3 Alumni Meetings",
+            "link":"/"
+        }
+    ],
+    "c_6_1":[
+        {
+            "id":1,
+            "name":" 6.1.1 Governance of Institution",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":" 6.1.2 Decentralization & Participative Management",
+            "link":"/"
+        }
+    ],
+    "c_6_2":[
+        {
+            "id":1,
+            "name":" 6.2.1 Strategic Plan & Deployment Documents",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":" 6.2.2 Organizational Structure",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":" 6.2.3 e-Governance",
+            "link":"/"
+        },
+        {
+            "id":4,
+            "name":" 6.2.4 Effectiveness of various bodies",
+            "link":"/"
+        }
+    ],
+    "c_6_3":[
+        {
+            "id":1,
+            "name":"  6.3.1 Welfare measures - Teaching & Non-Teaching",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":" 6.3.2 Financial Support",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":"  6.3.3 Training Programmes",
+            "link":"/"
+        },
+        {
+            "id":4,
+            "name":"  6.3.4 Professional Enrichment",
+            "link":"/"
+        },
+        {
+            "id":5,
+            "name":"6.3.5 Performance Appraisal System",
+            "link":"/"
+        }
+    ],
+    "c_6_4":[
+        {
+            "id":1,
+            "name":"  6.4.1 Financial Audits",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":" 6.4.2 Funds/Grants Received",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":" 6.4.3 Mobilization of Funds",
+            "link":"/"
+        }
+    ],
+    "c_6_5":[
+        {
+            "id":1,
+            "name":"  6.5.1 Institutionalized Quality Assurance Strategies and Processes",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":" 6.5.2 Reforms for Quality Enhancement",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":" 6.5.3 Quality Initiatives by IQAC",
+            "link":"/"
+        },
+        {
+            "id":4,
+            "name":" 6.5.4 Quality Initiatives of the Institution",
+            "link":"/"
+        },
+        {
+            "id":5,
+            "name":" 6.5.5 Post Accreditation Initiatives",
+            "link":"/"
+        }
+    ],
+    "c_7_1":[
+        {
+            "id":1,
+            "name":"  7.1.1 Gender Equity Programmes",
+            "link":"/"
+        },
+        {
+            "id":2,
+            "name":"  7.1.2 Facilities for Gender Sensitivity",
+            "link":"/"
+        },
+        {
+            "id":3,
+            "name":"  7.1.3 Renewable Energy Sources",
+            "link":"/"
+        },
+        {
+            "id":4,
+            "name":" 7.1.4 Lighting Power Requirements",
+            "link":"/"
+        },
+        {
+            "id":5,
+            "name":" 7.1.5 Waste Management Steps",
+            "link":"/"
+        },
+        {
+            "id":6,
+            "name":" 7.1.6 Rain Water Harvesting",
+            "link":"/"
+        },
+        {
+            "id":7,
+            "name":"   7.1.7 Green Practices",
+            "link":"/"
+        },
+        {
+            "id":8,
+            "name":"7.1.8 Green Initiatives",
+            "link":"/"
+        },
+        {
+            "id":9,
+            "name":"  7.1.9 Divyangjan Friendliness",
+            "link":"/"
+        },
+        {
+            "id":10,
+            "name":" 7.1.10 Locational Initiatives",
+            "link":"/"
+        },
+        {
+            "id":11,
+            "name":" 7.1.11 Local Community Initiatives",
+            "link":"/"
+        },
+        {
+            "id":12,
+            "name":" 7.1.12 Code of Conduct",
+            "link":"/"
+        },
+        {
+            "id":13,
+            "name":" 7.1.13 Core Values",
+            "link":"/"
+        },
+        {
+            "id":14,
+            "name":" 7.1.14 National Identities and Symbols",
+            "link":"/"
+        },
+        {
+            "id":15,
+            "name":" 7.1.15 Human Values and Professional Ethics",
+            "link":"/"
+        },
+        {
+            "id":16,
+            "name":" 7.1.16 Institutional Functioning",
+            "link":"/"
+        },
+        {
+            "id":17,
+            "name":"  7.1.17 Universal Values",
+            "link":"/"
+        },
+        {
+            "id":18,
+            "name":"  7.1.18 Organization of National Festivals",
+            "link":"/"
+        },
+        {
+            "id":19 ,
+            "name":"7.1.19 Transparency of Institution",
+            "link":"/"
+        }
+    ],
+    "c_7_2":[
+        {
+            "id":1,
+            "name":" 7.2.1 Best Two Institutional Practices",
+            "link":"/"
+        }
+    ],
+    "c_7_3":[
+        {
+            "id":1,
+            "name":"  7.3.1 Institutional Distinctiveness",
+            "link":"/"
+        }
+    ]
+
+}
