@@ -5,12 +5,12 @@ init_public_head();
 <div class="section-height-800 breadcrumb-committee context-dark text-center">
 	<div class="shell section-bottom-30">
 		<div class="veil reveal-md-block">
-			<h1 class="text-bold" style="color: cornsilk;">Committee of Management</h1>
+			<h1 class="text-bold" style="color: cornsilk;">Management Committee</h1>
 		</div>
 		<ul class="list-inline list-inline-with-arrows p">
 			<ul class="list-inline list-inline-with-arrows p">
 				<li><a href="<?php echo base_url()?>" class="text-white">Home </a></li>
-				<li>Committee of Management</li>
+				<li>Management Committee</li>
 			</ul>
 		</ul>
 	</div>
@@ -33,7 +33,7 @@ init_public_head();
 <br /><br /><!-- Upcoming Events-->
 <section class="section-90 section-md-top-120 section-md-bottom-111 bg-qua-haze">
 	<div class="shell-fluid">
-		<h2 class="text-bold"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;President&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Members &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             Secretary and Correspondent </h2>
+		<h2 class="text-bold"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;President&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Members &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             Secretary and Correspondent </h2>
 		<div class="range range-xs-center range-md-left text-left">
 			<div class="cell-xs-10 cell-sm-8 cell-md-4">
 				<article class="post post-event"><img alt="" class="img-responsive" height="330" src="<?php echo base_url('assets/images/committee/1.President.jpg') ?>" width="570" />
@@ -41,6 +41,9 @@ init_public_head();
 				</article>
 			</div>
 			<div class="cell-xs-10 cell-sm-8 cell-md-4 offset-top-60 offset-md-top-0">
+				<article class="post post-event"><img alt="" class="img-responsive" height="330" src="<?php echo base_url('assets/images/committee/Ayyaru.jpg') ?>" width="570" />
+					<h4 align="center" class="text-bold">Thiru K. Ayyaru Vandayar</h4>
+				</article>
 				<article class="post post-event"><img alt="" class="img-responsive" height="330" src="<?php echo base_url('assets/images/committee/Veeriya.jpg') ?>" width="570" />
 					<h4 align="center" class="text-bold">Thiru A. Veeriya Vandayar</h4>
 				</article>
