@@ -21,10 +21,10 @@ init_public_head();
 		<div class="inset-lg-left-30 inset-lg-right-30 inset-xl-right-55 inset-xl-left-55" align="center">
 			<h4 class="text-bold"><br /><br />Thiru. K. Thulasiah Vandayar</h4>
 			<br />
-			<h5 class="text-bold">Secretary and Correspondent</h5>
+			<h5 class="text-bold">Former Secretary and Correspondent</h5>
 			<p class="offset-md-top-20">An Octogenarian Gandhian and a devoted educationalist, serving in this position from 1972 onwards with the unique vision for quality education and academic excellence.</p>
 			<br /><br />
-			<p align="center">Message from Secretary and Correspondent</p>
+			<p align="center">Message from Former Secretary and Correspondent</p>
 			<br />
 			<p align="center"><strong>Be with Sri Pushpam, Wisdom will guide you!</strong></p>
 		</div>
@@ -33,11 +33,11 @@ init_public_head();
 <br /><br /><!-- Upcoming Events-->
 <section class="section-90 section-md-top-120 section-md-bottom-111 bg-qua-haze">
 	<div class="shell-fluid">
-		<h2 class="text-bold">Members</h2>
+		<h2 class="text-bold"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;President&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Members &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             Secretary and Correspondent </h2>
 		<div class="range range-xs-center range-md-left text-left">
 			<div class="cell-xs-10 cell-sm-8 cell-md-4">
 				<article class="post post-event"><img alt="" class="img-responsive" height="330" src="<?php echo base_url('assets/images/committee/1.President.jpg') ?>" width="570" />
-					<h4 align="center" class="text-bold">Thiru T. Krishnasamy Vandayar, B.A.</h4>
+					<h4 align="center" class="text-bold">Thiru T. Krishnasamy Vandayar, B.Tech.</h4>
 				</article>
 			</div>
 			<div class="cell-xs-10 cell-sm-8 cell-md-4 offset-top-60 offset-md-top-0">
