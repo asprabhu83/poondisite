@@ -119,6 +119,13 @@ class Website extends App_Controller
         $this->data['menu_naac'] = "active";
         $this->load->view('public/naac', $this->data);
     }
+    public function course_outcomes()
+    {
+
+        $this->data['title'] = "Course Outcomes";
+        $this->data['menu_course_outcomes'] = "active";
+        $this->load->view('public/course_outcome', $this->data);
+    }
     public function committee_of_management()
     {
 
