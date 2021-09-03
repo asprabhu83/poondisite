@@ -39566,6 +39566,7 @@ tr:nth-child(even) {
     text-align:left;
 }
 .course_outcomes .pg_courses .head, .course_outcomes .ug_courses .head{
+    padding: 10px;
     font-weight:bold;
     text-align:center;
     background:#0066cc;
