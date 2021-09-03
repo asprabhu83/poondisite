@@ -37,7 +37,7 @@ init_public_head();
 		<div class="range range-xs-center range-md-left text-left">
 			<div class="cell-xs-10 cell-sm-8 cell-md-4">
 				<article class="post post-event"><img alt="" class="img-responsive" height="330" src="<?php echo base_url('assets/images/committee/1.President.jpg') ?>" width="570" />
-					<h4 align="center" class="text-bold">Thiru K. Ayyaru Vandayar, B.A.</h4>
+					<h4 align="center" class="text-bold">Thiru T. Krishnasamy Vandayar, B.A.</h4>
 				</article>
 			</div>
 			<div class="cell-xs-10 cell-sm-8 cell-md-4 offset-top-60 offset-md-top-0">
@@ -46,7 +46,7 @@ init_public_head();
 				</article>
 			</div>
 			<div class="cell-xs-10 cell-sm-8 cell-md-4 offset-top-60 offset-md-top-0">
-				<article class="post post-event"><img alt="" class="img-responsive" height="330" src="<?php echo base_url('assets/images/committee/2.Secretary.jpg') ?>" width="570" />
+				<article class="post post-event"><img alt="" class="img-responsive" height="330" src="<?php echo base_url('assets/images/committee/2. Secretary.jpg') ?>" width="570" />
 					<h4 align="center" class="text-bold">Thiru A.Balasubramania Vandayar, M.A.</h4>
 				</article>
 			</div>
