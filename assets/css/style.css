@@ -39580,5 +39580,10 @@ tr:nth-child(even) {
     width: 100%;
 }
 
+@media only screen and (min-width:300px) and (max-width:600px){
+    .course_outcomes .pg_courses ,.course_outcomes .ug_courses{
+        width: 100%;
+    }
+}
 
 /* Course Outcomes CSS End */
