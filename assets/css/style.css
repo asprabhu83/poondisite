@@ -39562,7 +39562,6 @@ tr:nth-child(even) {
 
 .course_outcomes .pg_courses div,.course_outcomes .ug_courses div{
     font-size:18px;
-    padding:10px;
     border:1px solid black;
     text-align:left;
 }
@@ -39571,6 +39570,13 @@ tr:nth-child(even) {
     text-align:center;
     background:#0066cc;
     color:white;
+}
+
+.course_outcomes .pg_courses a, .course_outcomes .ug_courses a{
+    color: black;
+    padding: 10px;
+    display: inline-block;
+    width: 100%;
 }
 
 
