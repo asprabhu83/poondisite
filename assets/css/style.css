@@ -39587,3 +39587,32 @@ tr:nth-child(even) {
 }
 
 /* Course Outcomes CSS End */
+
+
+/* syllabus revision css start */
+
+.syllabus_revision{
+    margin:40px 0;
+}
+.syllabus_revision .heading{
+    margin:20px 0;
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+}
+.syllabus_revision .table_contents table{
+    border-collapse: collapse;
+    width:80%;
+    margin:10px auto;
+}
+
+.table_contents table th, .table_contents table td{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.table_contents .pdf_items{
+    text-align: center;
+}
+
+/* syllabus revision css end */
