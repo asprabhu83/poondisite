@@ -39595,9 +39595,9 @@ tr:nth-child(even) {
     margin:40px 0;
 }
 .syllabus_revision .heading{
-    margin:20px 0;
+    margin:40px 0;
     font-weight: bold;
-    font-size: 35px;
+    font-size: 30px;
     text-align: center;
 }
 .syllabus_revision .table_contents table{
@@ -39613,6 +39613,14 @@ tr:nth-child(even) {
 
 .table_contents .pdf_items{
     text-align: center;
+}
+
+@media only screen and (min-width:300px) and (max-width:600px){
+    .syllabus_revision .heading {
+        margin: 30px 0;
+        font-size: 20px;
+        margin-top: 60px;
+    }
 }
 
 /* syllabus revision css end */
