@@ -129,7 +129,7 @@ class Website extends App_Controller
     public function syllabus_revision()
     {
 
-        $this->data['title'] = "Course Outcomes";
+        $this->data['title'] = "Syllabus Revision";
         $this->data['menu_syllabus_revision'] = "active";
         $this->load->view('public/syllabus_revision', $this->data);
     }
