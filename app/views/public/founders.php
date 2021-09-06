@@ -37,7 +37,7 @@ init_public_head();
 					</div>
 				</div>
 			</div>
-			<div class="cell-xs-10 cell-sm-8 cell-md-3 offset-top-60 offset-md-top-0">
+			<!-- <div class="cell-xs-10 cell-sm-8 cell-md-3 offset-top-60 offset-md-top-0">
 				<div class="thumbnail-team-1">
 					<div class="image-wrap"><img alt="" class="img-responsive" height="420" src="<?php echo base_url('assets/images/founders/Appavoo.jpg') ?>" width="420" /></div>
 					<div class="thumbnail-team-body">
@@ -54,7 +54,7 @@ init_public_head();
 						<p><strong>Thiru.V. AppaswamyVandayar</strong></p>
 					</div>
 				</div>
-			</div>
+			</div> -->
 		</div>
 	</div>
 	<br /><br />
