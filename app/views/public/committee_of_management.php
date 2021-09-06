@@ -44,7 +44,7 @@ init_public_head();
 				<article class="post post-event"><img alt="" class="img-responsive" height="330" src="<?php echo base_url('assets/images/committee/Ayyaru.jpg') ?>" width="570" />
 					<h4 align="center" class="text-bold">Thiru K. Ayyaru Vandayar</h4>
 				</article>
-				<article class="post post-event"><img alt="" class="img-responsive" height="330" src="<?php echo base_url('assets/images/committee/Veeriya.jpg') ?>" width="570" />
+				<article class="post post-event"><img alt="" class="img-responsive" height="330" src="<?php echo base_url('assets/images/committee/Veeriya1.jpg') ?>" width="570" />
 					<h4 align="center" class="text-bold">Thiru A. Veeriya Vandayar</h4>
 				</article>
 			</div>
