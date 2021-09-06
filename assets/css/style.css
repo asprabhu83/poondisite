@@ -39535,7 +39535,7 @@ tr:nth-child(even) {
 .naac_tab_item.active i::before{
     color:white;
 }
-.naac_table .container{
+.naac_table .container, .course_outcomes .container{
     width:1600px!important;
     max-width:100%;
 }
@@ -39550,3 +39550,77 @@ tr:nth-child(even) {
 /* NAAC Table CSS End */
 
 
+/* Course Outcomes CSS */
+
+
+.course_outcomes .pg_courses ,.course_outcomes .ug_courses{
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+    box-shadow:0 2px 10px 4px rgb(0 0 0/15%);
+}
+
+.course_outcomes .pg_courses div,.course_outcomes .ug_courses div{
+    font-size:18px;
+    border:1px solid black;
+    text-align:left;
+}
+.course_outcomes .pg_courses .head, .course_outcomes .ug_courses .head{
+    padding: 10px;
+    font-weight:bold;
+    text-align:center;
+    background:#0066cc;
+    color:white;
+}
+
+.course_outcomes .pg_courses a, .course_outcomes .ug_courses a{
+    color: black;
+    padding: 10px;
+    display: inline-block;
+    width: 100%;
+}
+
+@media only screen and (min-width:300px) and (max-width:600px){
+    .course_outcomes .pg_courses ,.course_outcomes .ug_courses{
+        width: 100%;
+    }
+}
+
+/* Course Outcomes CSS End */
+
+
+/* syllabus revision css start */
+
+.syllabus_revision{
+    margin:40px 0;
+}
+.syllabus_revision .heading{
+    margin:40px 0;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+.syllabus_revision .table_contents table{
+    border-collapse: collapse;
+    width:80%;
+    margin:10px auto;
+}
+
+.table_contents table th, .table_contents table td{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.table_contents .pdf_items{
+    text-align: center;
+}
+
+@media only screen and (min-width:300px) and (max-width:600px){
+    .syllabus_revision .heading {
+        margin: 30px 0;
+        font-size: 20px;
+        margin-top: 60px;
+    }
+}
+
+/* syllabus revision css end */
