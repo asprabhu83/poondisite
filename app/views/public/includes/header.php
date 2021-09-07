@@ -105,17 +105,17 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                             </li>
                                             <li class="active "><a href="#"><span>About Us </span></a>
                                                 <ul class="rd-navbar-dropdown">
+                                                    <li><a href="<?php echo base_url('sripushpam-history') ?>"><span class="text-middle">Sripushpam History </span></a>
+                                                    </li>
                                                     <li><a href="<?php echo base_url('founders') ?>"><span class="text-middle">Founders </span></a>
+                                                    </li>
+                                                    <li><a href="<?php echo base_url('committee-of-management') ?>"><span class="text-middle">Management Committee </span></a>
                                                     </li>
                                                     <li><a href="<?php echo base_url('vision-mission') ?>"><span class="text-middle">Vision &amp; Mission </span></a>
                                                     </li>
                                                     <li><a href="<?php echo base_url('principal-message') ?>"><span class="text-middle"> Principal&#039;s Message </span></a>
                                                     </li>
-                                                    <li><a href="<?php echo base_url('committee-of-management') ?>"><span class="text-middle">Committee of Management </span></a>
-                                                    </li>
                                                     <li><a href="<?php echo base_url('former-principals') ?>"><span class="text-middle">Former Principals </span></a>
-                                                    </li>
-                                                    <li><a href="<?php echo base_url('sripushpam-history') ?>"><span class="text-middle">Sripushpam History </span></a>
                                                     </li>
                                                     <li><a href="<?php echo base_url('milestones') ?>"><span class="text-middle">Milestones </span></a>
                                                     </li>
