@@ -125,20 +125,70 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                         <ul class="rd-navbar-dropdown">
                                                             <li><a href="<?php echo base_url('statutory-committees') ?>"><span class="text-middle">Statutory Committees </span></a></li>
                                                             <li><a href="<?php echo base_url('non-statutory-committees') ?>"><span class="text-middle">Non-Statutory Committees </span></a></li>
-
                                                         </ul>
+                                                    </li> 
+                                                </ul>
+                                            </li>
+     
+
+                                            <li class="active "><a href="<?php echo base_url('programmes') ?>"><span>Programmes </span></a>
+                                                <ul class="rd-navbar-dropdown">
+                                                    <li class="active "><a href="<?php echo base_url('/assets/NAAC/1.1.1_Programme_outcomes.pdf') ?>"><span>Program Outcomes</span></a>
                                                     </li>
+                                                    <li class="active "><a href="<?php echo base_url('assets/NAAC/1.1.1_Programme_specific_outcomes.pdf') ?>"><span>Program Specific Outcomes</span></a>
+                                                    </li>
+                                                    
+                                                    <li><a href="#"><span class="text-middle">Course Outcomes</span></a>
+                                                        <ul class="rd-navbar-dropdown">
+                                                        <li><a href="#"><span class="text-middle">UG Course Outcomes</span></a>
+                                                        <ul class="rd-navbar-dropdown">                                                                                                          
+                                                            <li><a href="<?php echo base_url('His_UG_Course_Outcomes') ?>"><span class="text-middle">Histroy </span></a></li>
+                                                            <li><a href="<?php echo base_url('Eco_UG_Course_Outcomes') ?>"><span class="text-middle">Economics </span></a></li>
+                                                            <li><a href="<?php echo base_url('Tam_UG_Course_Outcomes') ?>"><span class="text-middle">Tamil </span></a></li>
+                                                            <li><a href="<?php echo base_url('Ic_UG_Course_Outcomes') ?>"><span class="text-middle">Indian Culture </span></a></li>
+                                                            <li><a href="<?php echo base_url('BLitt_UG_Course_Outcomes') ?>"><span class="text-middle">B.Litt </span></a></li>
+                                                            <li><a href="<?php echo base_url('Eng_UG_Course_Outcomes') ?>"><span class="text-middle">English </span></a></li>
+                                                            <li><a href="<?php echo base_url('Com_UG_Course_Outcomes') ?>"><span class="text-middle">Commerce </span></a></li>
+                                                            <li><a href="<?php echo base_url('Com_CA_UG_Course_Outcomes') ?>"><span class="text-middle">Commerce(CA) </span></a></li>
+                                                            <li><a href="<?php echo base_url('Com_BM_UG_Course_Outcomes') ?>"><span class="text-middle">Commerce(BM) </span></a></li>
+                                                            <li><a href="<?php echo base_url('Mat_UG_Course_Outcomes') ?>"><span class="text-middle">Mathematics </span></a></li>
+                                                            <li><a href="<?php echo base_url('Phy_UG_Course_Outcomes') ?>"><span class="text-middle">Physics </span></a></li>
+                                                            <li><a href="<?php echo base_url('Che_UG_Course_Outcomes') ?>"><span class="text-middle">Chemistry </span></a></li>
+                                                            <li><a href="<?php echo base_url('Bot_UG_Course_Outcomes') ?>"><span class="text-middle">Botany </span></a></li>
+                                                            <li><a href="<?php echo base_url('Zoo_UG_Course_Outcomes') ?>"><span class="text-middle">Zoology </span></a></li>
+                                                            <li><a href="<?php echo base_url('PE_UG_Course_Outcomes') ?>"><span class="text-middle">Physical Education </span></a></li>
+                                                            <li><a href="<?php echo base_url('CS_UG_Course_Outcomes') ?>"><span class="text-middle">Computer Science </span></a></li>
+                                                            <li><a href="<?php echo base_url('BCA_UG_Course_Outcomes') ?>"><span class="text-middle">BCA </span></a></li>
+                                                            <li><a href="<?php echo base_url('BBA_UG_Course_Outcomes') ?>"><span class="text-middle">BBA </span></a></li>
+                                                            <li><a href="<?php echo base_url('Geo_UG_Course_Outcomes') ?>"><span class="text-middle">Geography </span></a></li>
+                                                            <li><a href="<?php echo base_url('Sta_UG_Course_Outcomes') ?>"><span class="text-middle">Statistics </span></a></li>
+                                                        </ul>   
+                                                        <li><a href="#"><span class="text-middle">PG Course Outcomes</span></a>
+                                                        <ul class="rd-navbar-dropdown">                                                                                                          
+                                                            <li><a href="<?php echo base_url('His_PG_Course_Outcomes') ?>"><span class="text-middle">Histroy </span></a></li>
+                                                            <li><a href="<?php echo base_url('Eco_PG_Course_Outcomes') ?>"><span class="text-middle">Economics </span></a></li>
+                                                            <li><a href="<?php echo base_url('Tam_PG_Course_Outcomes') ?>"><span class="text-middle">Tamil </span></a></li>
+                                                            <li><a href="<?php echo base_url('Eng_PG_Course_Outcomes') ?>"><span class="text-middle">English </span></a></li>
+                                                            <li><a href="<?php echo base_url('Com_PG_Course_Outcomes') ?>"><span class="text-middle">Commerce </span></a></li>
+                                                            
+                                                            <li><a href="<?php echo base_url('Mat_PG_Course_Outcomes') ?>"><span class="text-middle">Mathematics </span></a></li>
+                                                            <li><a href="<?php echo base_url('Phy_PG_Course_Outcomes') ?>"><span class="text-middle">Physics </span></a></li>
+                                                            <li><a href="<?php echo base_url('Che_PG_Course_Outcomes') ?>"><span class="text-middle">Chemistry </span></a></li>
+                                                            <li><a href="<?php echo base_url('Bot_PG_Course_Outcomes') ?>"><span class="text-middle">Botany </span></a></li>
+                                                            <li><a href="<?php echo base_url('Mic_PG_Course_Outcomes') ?>"><span class="text-middle">Microbiology </span></a></li>
+                                                            <li><a href="<?php echo base_url('Zoo_PG_Course_Outcomes') ?>"><span class="text-middle">Zoology </span></a></li>
+                                                            <li><a href="<?php echo base_url('Bio_PG_Course_Outcomes') ?>"><span class="text-middle">Biotechnology </span></a></li>
+                                                            <li><a href="<?php echo base_url('CS_PG_Course_Outcomes') ?>"><span class="text-middle">Computer Science </span></a></li>
+                                                            <li><a href="<?php echo base_url('MCA_PG_Course_Outcomes') ?>"><span class="text-middle">MCA </span></a></li>
+                                                            <li><a href="<?php echo base_url('MA_PG_Course_Outcomes') ?>"><span class="text-middle">MBA </span></a></li>
+                                                            <li><a href="<?php echo base_url('MLIS_PG_Course_Outcomes') ?>"><span class="text-middle">MLIS </span></a></li>
+                                                        </ul>
+                                                        </ul>
+                                                    </li> 
+                                                                                                      
                                                 </ul>
                                             </li>
 
-                                            <li class="active "><a href="<?php echo base_url('programmes') ?>"><span>Programmes </span></a>
-                                                <!-- <ul class="rd-navbar-dropdown">
-                                                    <li class="active "><a href="<?php echo base_url('public/pdf/Programmes/Programme_Outcomes_merged.pdf') ?>"><span>Program Outcomes</span></a>
-                                                    </li>
-                                                    <li class="active "><a href="<?php echo base_url('public/pdf/Programmes/Programme%20Specific%20Outcomes.pdf') ?>"><span>Program Specific Outcomes</span></a>
-                                                    </li>
-                                                </ul> -->
-                                            </li>
                                             <li class="active "><a href="<?php echo base_url('departments') ?>"><span>Departments </span></a>
                                             </li>
                                             <li class="active"><a herf="#"><span>Campus Life</span></a>

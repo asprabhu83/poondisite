@@ -42,13 +42,13 @@ init_public_head();
 			<li>Dr. C. Chandran,	Controller of Examinations.</li>
 			<li>Dr. V. Ambikapathy,	Botany</li>
 			<!-- <li>National Loan Scholarship.</li> -->
-			<li>Dr. K.Ravichandran, Physics </li>
-			<li>Dr. V.Nandhakumar,	Chemistry</li>
+			<!-- <li>Dr. K.Ravichandran, Physics </li>
+			<li>Dr. V.Nandhakumar,	Chemistry</li> -->
 			<li>Dr.T.S.Baskaran,	Computer Science</li>
 			<li>Dr. R. Manikandan,	Chemistry</li>
-			<li>Dr. S. Ganesan,	Zoology</li>
 			<li>Dr. A. Venkatesh,	Mathematics</li>
 			<li>Dr. M. Ayyanar,	Botany</li>
+			<li>Dr. S. Ganesan,	Zoology</li>
 			<li>Mr. Anandha Narayanan,	Office Superintendent</li>
 		</ul><br>
 		<ul class="list list-marked">

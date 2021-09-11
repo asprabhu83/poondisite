@@ -27,11 +27,11 @@ init_public_head();
 						<div>
 							<div data-type="horizontal" class="responsive-tabs responsive-tabs-classic horizontal">
 								<ul class="resp-tabs-list tabs-1 text-center tabs-group-default" data-group="tabs-group-default">
-									<li class="tab">Governing Body</li>
-									<li class="tab">Internal Quality Assurance Cell (IQAC)</li>
-									<li class="tab">Academic Council</li>
-									<li class="tab">College Council</li>
-									<li class="tab">College committee</li>
+									<li class="tab"><strong>Governing Body</strong></li>
+									<li class="tab"><strong>Internal Quality Assurance Cell (IQAC)</strong></li>
+									<li class="tab"><strong>Academic Council</strong></li>
+									<li class="tab"><strong>College Council</strong></li>
+									<li class="tab"><strong>College committee</strong></li>
 								</ul><br><br>
 								<div data-group="tabs-group-default" class="resp-tabs-container text-sm-left tabs-group-default">
 									<div>
@@ -39,11 +39,10 @@ init_public_head();
 											<h5>GOVERNING BODY</h5>
 											<br />
 											<p align="justify" class="text-gray-darker"><strong>CHAIRMAN</strong></p>
-											<p>Thiru. K. Thulasiah Vandayar</p>
-											<p><strong>MEMBERS</strong></p>
-											<p>Thiru K. Ayyaru Vandayar, B.A.</p>
-											<p>Thiru A. Veeriya Vandayar</p>
+											<p>Thiru. T. Krishnasamy Vandayar, B.Tech.</p>
 											<p>Thiru A. Balasubramania Vandayar, M.A.</p>
+											<p><strong>MEMBERS</strong></p>
+											<p>Thiru A. Veeriya Vandayar</p>
 											<p align="justify" class="text-gray-darker"></p>
 											<p><strong>NOMINEES OF THE MANAGEMENT </strong></p>
 											<p>Dr. D.L. Abraham, M.D., Thanjavur.</p>
@@ -54,8 +53,8 @@ init_public_head();
 											<p><strong>NOMINEE OF THE STATE GOVERNMENT</strong></p>
 											<p>The Joint Director of Collegiate Education,<br />Thanjavur.</p>
 											<p><strong>NOMINEES FROM THE TEACHING FACULTY</strong></p>
-											<p>Dr.V.Maniraj - Computer Science</p>
-											<p>Dr.K.Balakrishnan - Chemistry</p>
+											<!-- <p>Dr.V.Maniraj - Computer Science</p> -->
+											<!-- <p>Dr.K.Balakrishnan - Chemistry</p> -->
 											<p><strong>EX-OFFICIO MEMBER - SECRETARY </strong></p>
 											<p>Dr. R. Sivakumar , Principal</p>
 										</div>
@@ -69,16 +68,18 @@ init_public_head();
 												<tbody></tbody>
 												<tbody>
 													<tr>
-														<td><strong>PATRON</strong><br />Shri.K.Thulasiah Vandayar</td>
-														<td>Secretary and Correspondent</td>
+														<td><strong>PATRON</strong><br />Thiru. T. Krishnasamy Vandayar, B.Tech.
+														<br />Thiru. A. Balasubramania Vandayar, M.A.
+														<td>President<br />
+														Secretary and Correspondent</td>
 													</tr>
 													<tr>
 														<td><strong>CHAIRPERSON</strong><br />Dr. R. Sivakumar , Principal</td>
 														<td>Principal</td>
 													</tr>
 													<tr>
-														<td><strong>CO-ORDINATOR</strong><br />Dr.R.Shanthi</td>
-														<td>English</td>
+														<td><strong>CO-ORDINATOR</strong><br />Dr.R.Subashchandrabose</td>
+														<td>Computer Science</td>
 													</tr>
 													<tr>
 														<td colspan="2"><strong>MEMBERS</strong></td>
@@ -87,11 +88,11 @@ init_public_head();
 														<td colspan="2">Thiruvalargal</td>
 													</tr>
 													<tr>
-														<td>N.Rajendran, M.Phil</td>
-														<td>Dean-Arts &amp; Commerce</td>
+														<td>Dr. V.Ravichandaran, Ph.D.<br /> Dr. S.Kumaravel, Ph.D.</td>
+														<td>Dean-Arts &amp; Commerce <br /> Dean-Science</td>
 													</tr>
 													<tr>
-														<td>Dr.G.Karikalan, Ph.D.</td>
+														<td>Dr. C.Chandran, Ph.D.</td>
 														<td>Controller of Examinations.</td>
 													</tr>
 													<tr>
@@ -99,39 +100,28 @@ init_public_head();
 														<td>Botany</td>
 													</tr>
 													<tr>
-														<td>Dr.T.S.Baskaran</td>
+														<td>Dr. T.S.Baskaran</td>
 														<td>Computer Science</td>
+													</tr>
+													<tr>
+														<td>Dr. R. Manikandan</td>
+														<td>Chemistry</td>
+													</tr>
+																																							
+													<tr>
+														<td>Dr. A.Venkatesh</td>
+														<td>Mathematics</td>
+													</tr>
+													<tr>
+														<td>Dr. M.Ayyanar</td>
+														<td>Botany</td>
 													</tr>
 													<tr>
 														<td>Dr. S. Ganesan</td>
 														<td>Zoology</td>
 													</tr>
 													<tr>
-														<td>Dr. V. Radhakrishnan</td>
-														<td>English</td>
-													</tr>
-													<tr>
-														<td>Dr. R. Manikandan</td>
-														<td>Chemistry</td>
-													</tr>
-													<tr>
-														<td>Dr.A.Venkatesh</td>
-														<td>Mathematics</td>
-													</tr>
-													<tr>
-														<td>Dr.M.Ayyanar</td>
-														<td>Botany</td>
-													</tr>
-													<tr>
-														<td>Dr. S. Sangeetha</td>
-														<td>Economics</td>
-													</tr>
-													<tr>
-														<td>Dr. T. Jayalalitha</td>
-														<td>Tamil</td>
-													</tr>
-													<tr>
-														<td>S.Durairajan, D.C.P.,</td>
+														<td>Anandanarayanan.,</td>
 														<td>Office Superintendent</td>
 													</tr>
 												</tbody>
@@ -159,8 +149,8 @@ init_public_head();
 														<td colspan="2"><strong>VICE &ndash; CHAIRMEN</strong></td>
 													</tr>
 													<tr>
-														<td>Prof.N.Rajendran</td>
-														<td>Dean-Arts &amp; Commerce</td>
+														<td>Dr. V.Ravichandaran, Ph.D.<br /> Dr. S.Kumaravel, Ph.D.</td>
+														<td>Dean-Arts &amp; Commerce <br /> Dean-Science</td>
 													</tr>
 													<tr>
 														<td colspan="2"><strong>MEMBERS</strong></td>
@@ -174,7 +164,7 @@ init_public_head();
 														<td>Botany and Microbiology</td>
 													</tr>
 													<tr>
-														<td>Dr. P.Natarajan</td>
+														<td>Dr. R.Rajakumar</td>
 														<td>Zoology and Biotechnology</td>
 													</tr>
 													<tr>
@@ -182,27 +172,27 @@ init_public_head();
 														<td>Tamil</td>
 													</tr>
 													<tr>
-														<td>Dr.M.Pramesh</td>
+														<td>Dr. V.Nandhakumar</td>
 														<td>Chemistry</td>
 													</tr>
 													<tr>
-														<td>Dr.K.Ravichandran</td>
+														<td>Dr. K.Ravichandran</td>
 														<td>Physics</td>
 													</tr>
 													<tr>
-														<td>Dr. R. Shanthi</td>
-														<td>English &amp; IQAC Co-ordinator</td>
+														<td>Dr. C. Radhakrishnan</td>
+														<td>English </td>
 													</tr>
 													<tr>
-														<td>Dr.V.Ramakrishnan</td>
+														<td>Dr. K.Thirumavalavan</td>
 														<td>Commerce</td>
 													</tr>
 													<tr>
-														<td>Prof.S.Rajarajeswari</td>
+														<td>Dr. S.Sangeetha</td>
 														<td>Economics</td>
 													</tr>
 													<tr>
-														<td>Dr. S. Prabhakaran</td>
+														<td>Dr. V. Malarvizhi</td>
 														<td>History</td>
 													</tr>
 													<tr>
@@ -210,16 +200,16 @@ init_public_head();
 														<td>Hindi</td>
 													</tr>
 													<tr>
-														<td>Dr.J.Selvam</td>
+														<td>Dr. J.Selvam</td>
 														<td>Library and Info. Science</td>
 													</tr>
 													<tr>
-														<td colspan="2"><strong>CONTROLLER OF EXAMINATIONS</strong><br />Thiru. G.Karikalan.</td>
+														<td colspan="2"><strong>CONTROLLER OF EXAMINATIONS</strong><br />Thiru. C.Chandran.</td>
 													</tr>
 													<tr>
 														<td colspan="2"><strong>FOUR TEACHERS FROM THE COLLEGE AT DIFFERENT LEVELS FOR 2 YEARS<br />Thiruvalargal</strong></td>
 													</tr>
-													<tr>
+													<!-- <tr>
 														<td>Dr. G.Marimuthu</td>
 														<td>Maths</td>
 													</tr>
@@ -234,7 +224,7 @@ init_public_head();
 													<tr>
 														<td>Dr.A.Ananth,</td>
 														<td>Commerce</td>
-													</tr>
+													</tr> -->
 												</tbody>
 											</table>
 											<br />
@@ -252,10 +242,10 @@ init_public_head();
 											<p align="justify" class="text-gray-darker"><strong>ONE REPRESENTATIVE OF THE STATE GOVERNMENT</strong></p>
 											<p>Joint Director of Collegiate Education, Thanjavur Region, Thanjavur.</p>
 											<p align="justify" class="text-gray-darker"><strong>STUDENT REPRESENTATIVES</strong></p>
-											<p>Ms. E. Manikandan, IIM.Sc Maths</p>
-											<p>R.Sudarvizhi, II M.A. English</p>
+											<!-- <p>Ms. E. Manikandan, IIM.Sc Maths</p>
+											<p>R.Sudarvizhi, II M.A. English</p> -->
 											<p align="justify" class="text-gray-darker"><strong>REPRESENTATIVE FROM THE COLLEGE OFFICE</strong></p>
-											<p>Mr. S. Durairajan, D.C.P. Superintendent.</p>
+											<p>Mr. Anandanarayanan, Superintendent.</p>
 											<p align="justify" class="text-gray-darker"><strong>NON MEMBER SECRETARY</strong></p>
 											<p>Dr. K. Ashokan Zoology</p>
 										</div>
@@ -275,15 +265,15 @@ init_public_head();
 														<td>Principal</td>
 													</tr>
 													<tr>
-														<td>N.Rajendran</td>
-														<td>Dean-Arts &amp; Commerce</td>
+														<td>Dr. V.Ravichandaran, Ph.D.<br /> Dr. S.Kumaravel, Ph.D.</td>
+														<td>Dean-Arts &amp; Commerce <br /> Dean-Science</td>
 													</tr>
 													<tr>
-														<td>Dr.G. Karikalan</td>
+														<td>Dr.C. Chandran </td>
 														<td>Controller of Examinations</td>
 													</tr>
 													<tr>
-														<td>Dr.M.Pramesh</td>
+														<td>Dr.V.Nandhakumar</td>
 														<td>Chemistry</td>
 													</tr>
 													<tr>
@@ -295,7 +285,7 @@ init_public_head();
 														<td>Botany and Microbiology</td>
 													</tr>
 													<tr>
-														<td>Dr.P.Natarajan</td>
+														<td>Dr.R.Rajakumar</td>
 														<td>Zoology and Bio-technology</td>
 													</tr>
 													<tr>
@@ -303,23 +293,23 @@ init_public_head();
 														<td>Physics</td>
 													</tr>
 													<tr>
-														<td>Dr. N. Shivaji Kabilan</td>
+														<td>Dr. N.Shivaji Kabilan</td>
 														<td>Tamil</td>
 													</tr>
 													<tr>
-														<td>Dr. R. Shanthi</td>
-														<td>English &amp; IQAC Co-ordinator</td>
+														<td>Dr. C.Radhakrishnan</td>
+														<td>English </td>
 													</tr>
 													<tr>
-														<td>Dr.V.Ramakrishnan</td>
+														<td>Dr.K.Thirumavalavan</td>
 														<td>Commerce</td>
 													</tr>
 													<tr>
-														<td>Prof.S.Rajarajeswari</td>
+														<td>Dr. S.Sangeetha</td>
 														<td>Economics</td>
 													</tr>
 													<tr>
-														<td>Dr.S. Prabhakaran</td>
+														<td>Dr.V. Malarvizhi</td>
 														<td>History</td>
 													</tr>
 													<tr>
@@ -331,7 +321,7 @@ init_public_head();
 														<td>Library and Info. Science</td>
 													</tr>
 													<tr>
-														<td>Mr. S.Durairajan, D.C.P.</td>
+														<td>Mr. Anandanarayanan</td>
 														<td>Office Superintendent</td>
 													</tr>
 												</tbody>
@@ -343,12 +333,14 @@ init_public_head();
 										<div class="inset-lg-left-30">
 											<h5>COLLEGE COMMITTEE</h5>
 											<br />
-											<p align="justify" class="text-gray-darker"><strong>SECRETARY</strong></p>
-											<p>Shri. K. Thulasiah Vandayar</p>
-											<p><strong>MEMBERS</strong></p>
-											<p>Thiru K. Ayyaru Vandayar, B.A.</p>
-											<p>Thiru A. Veeriya Vandayar</p>
+											<p align="justify" class="text-gray-darker"><strong>PRESIDENT</strong></p>
+											<p>Shri. T. Krishnasamy Vandayar, B.Tech. </p>
+											<p align="justify" class="text-gray-darker"><strong>SECRETARY & Correspondent</strong></p>
 											<p>Thiru A. Balasubramania Vandayar, M.A.</p>
+											<p><strong>MEMBERS</strong></p>
+											
+											<p>Thiru A. Veeriya Vandayar</p>
+											
 											<p><strong>EX-OFFICIO MEMBER </strong></p>
 											<p>Dr. R. Sivakumar , Principal</p>
 
@@ -361,10 +353,10 @@ init_public_head();
 											<p>Associate Professor of English,<br />Jamal Mohamed College (Autonomous),<br />Tiruchirappalli – 620 020.</p>
 
 											<p><strong>NOMINEES FROM THE TEACHING FACULTY</strong></p>
-											<p>Dr.V.Maniraj - Computer Science</p>
-											<p>Dr.K.Balakrishnan - Chemistry</p>
+											<!-- <p>Dr.V.Maniraj - Computer Science</p>
+											<p>Dr.K.Balakrishnan - Chemistry</p> -->
 											<p><strong>REPRESENTATIVE FROM COLLEGE OFFICE </strong></p>
-											<p>Mr. S. Durairajan, Supreintendent</p>
+											<p>Mr. Anandanarayanan, Supreintendent</p>
 										</div>
 									</div>
 								</div>
