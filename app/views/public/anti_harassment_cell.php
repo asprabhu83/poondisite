@@ -37,8 +37,8 @@ init_public_head();
 			<h5><strong>MEMBERS(Male)</strong></h5>
 		</ul><br>
 		<ul class="list list-marked">
-			<li>1. Dr. A. T. Muthiah Retd. Prof. of Tamil.</li>
-			<li>2. Prof. M. Suresh, (Asst. Prof. of Physics).Ph: 8098261466.</li>
+			<!-- <li>1. Dr. A. T. Muthiah Retd. Prof. of Tamil.</li> -->
+			<li>Prof. M. Suresh, (Asst. Prof. of Physics).Ph: 8098261466.</li>
 		</ul><br>
 		<ul class="list list-marked">
 			<h5><strong>For Complaints</strong></h5>

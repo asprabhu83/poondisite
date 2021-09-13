@@ -131,7 +131,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                             </li>
      
 
-                                            <li class="active "><a href="#"><span>Programmes </span></a>
+                                            <li class="active "><a href="#"><span>Academics</span></a>
                                                 <ul class="rd-navbar-dropdown">
                                                     <li class="active "><a href="<?php echo base_url('programmes') ?>"><span>Programmes</span></a>
                                                     </li>
@@ -222,7 +222,8 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     <li class="active"><a href="#"><span>CELL</span></a>
                                                         <ul class="rd-navbar-dropdown">
                                                             <!-- <li class="active "><a href="<?php echo base_url('pedc') ?>"><span>About CELL</span></a> -->
-                                                            <li class="active"><a href="<?php echo base_url('public/pdf/OBC_cell.pdf') ?>"><span>OBC Cell</span></a></li>
+                                                            <!-- <li class="active"><a href="<?php echo base_url('public/pdf/OBC_cell.pdf') ?>"><span>OBC Cell</span></a></li> -->
+                                                            <li class="active"><a href="<?php echo base_url('OBC_Cell') ?>"><span>OBC Cell</span></a></li>
                                                             <li class="active"><a href="<?php echo base_url('public/pdf/Minority_Cell.pdf') ?>"><span>Minority Cell</span></a></li>
                                                             <li class="active"><a href="<?php echo base_url('sc_st_cell') ?>"><span>SC & ST CELL</span></a></li>
                                                             <li class="active"><a href="<?php echo base_url('public/pdf/COMMITTEE_FOR_THE_DISPOSAL_OF_CASES_OF_REPORTED_MALPRACTICES.pdf') ?>"><span>Disposal Of Cases Of Reported Malpractice</span></a></li>
@@ -292,6 +293,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                             <li class="active "><a href="<?php echo base_url('coe') ?>"><span>Examinations </span></a>
                                             <ul class="rd-navbar-dropdown">
                                                     <li class="active "><a href="<?php echo base_url('coe') ?>"><span>About Examinations</span></a>
+                                                    <li class="active "><a href="https://www.iobnet.co.in/iobpay/entry.do?dirlinkmerid=AVVTAN&dirlinkcatcd=EDU" target="_blank"><span>Exam Fees</span></a>
                                                     <!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2021.pdf') ?>"><span>NIRF 2021</span></a>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2018.pdf') ?>"><span>NIRF 2018</span></a> -->
                                                     <li class="active "><a href="http://results.sripushpamcollege.co.in" target="_blank"><span>Exam Result </span></a>
