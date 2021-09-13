@@ -131,9 +131,9 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                             </li>
      
 
-                                            <li class="active "><a href="<?php echo base_url('programmes') ?>"><span>Programmes </span></a>
+                                            <li class="active "><a href="#"><span>Programmes </span></a>
                                                 <ul class="rd-navbar-dropdown">
-                                                <li class="active "><a href="<?php echo base_url('programmes') ?>"><span>Programmes</span></a>
+                                                    <li class="active "><a href="<?php echo base_url('programmes') ?>"><span>Programmes</span></a>
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('/assets/NAAC/1.1.1_Programme_outcomes.pdf') ?>"><span>Program Outcomes</span></a>
                                                     </li>
@@ -141,10 +141,12 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('https://naac.sripushpamcollege.co.in/curricular_aspects/1.1/1.1.1/course-outcomes') ?>"><span>Course Outcomes</span></a>
                                                     </li>
+                                                    <li class="active "><a href="<?php echo base_url('syllabus') ?>"><span>Syllabus</span></a>
+                                                    </li>
                                                     <!-- <li><a href="#"><span class="text-middle">Course Outcomes</span></a>
                                                         <ul class="rd-navbar-dropdown">
-                                                        <li><a href="#"><span class="text-middle">UG Course Outcomes</span></a>
-                                                        <ul class="rd-navbar-dropdown">                                                                                                          
+                                                         <li><a href="#"><span class="text-middle">UG Course Outcomes</span></a>
+                                                            <ul class="rd-navbar-dropdown">                                                                                                          
                                                             <li><a href="<?php echo base_url('His_UG_Course_Outcomes') ?>"><span class="text-middle">Histroy </span></a></li>
                                                             <li><a href="<?php echo base_url('Eco_UG_Course_Outcomes') ?>"><span class="text-middle">Economics </span></a></li>
                                                             <li><a href="<?php echo base_url('Tam_UG_Course_Outcomes') ?>"><span class="text-middle">Tamil </span></a></li>
@@ -165,7 +167,8 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                             <li><a href="<?php echo base_url('BBA_UG_Course_Outcomes') ?>"><span class="text-middle">BBA </span></a></li>
                                                             <li><a href="<?php echo base_url('Geo_UG_Course_Outcomes') ?>"><span class="text-middle">Geography </span></a></li>
                                                             <li><a href="<?php echo base_url('Sta_UG_Course_Outcomes') ?>"><span class="text-middle">Statistics </span></a></li>
-                                                        </ul>   
+                                                            </ul>
+                                                        </li>   
                                                         <li><a href="#"><span class="text-middle">PG Course Outcomes</span></a>
                                                         <ul class="rd-navbar-dropdown">                                                                                                          
                                                             <li><a href="<?php echo base_url('His_PG_Course_Outcomes') ?>"><span class="text-middle">Histroy </span></a></li>
@@ -186,7 +189,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                             <li><a href="<?php echo base_url('MA_PG_Course_Outcomes') ?>"><span class="text-middle">MBA </span></a></li>
                                                             <li><a href="<?php echo base_url('MLIS_PG_Course_Outcomes') ?>"><span class="text-middle">MLIS </span></a></li>
                                                         </ul>
-                                                        </ul>
+                                                        </li>
                                                     </li>  -->
                                                                                                       
                                                 </ul>
@@ -203,15 +206,43 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     <li class="active "><a href="<?php echo base_url('extracurricular-activities') ?>"><span>Extracurricular activities </span></a>
                                                     </li>
                                                     <li class="active"><a href="<?php echo base_url('scholarships') ?>"><span>Scholarships</span></a></li>
-                                                    <li class="active"><a href="<?php echo base_url('#') ?>"><span>OBC Cell</span></a></li>
-                                                    <li class="active"><a href="<?php echo base_url('public/pdf/Minority_Cell.pdf') ?>"><span>Minority Cell</span></a></li>
-                                                    <li class="active"><a href="<?php echo base_url('anti_harassment_cell') ?>"><span>Internal compliance Committee</span></a>
-                                                        <ul class="rd-navbar-dropdown">
-                                                            <li><a href="<?php echo base_url('public/pdf/internal_complaints_committee_minutes.pdf') ?>"><span class="text-middle">Minutes </span></a></li>
+                                                    <li class="active "><a href="<?php echo base_url('placement') ?>"><span>Placement </span></a>
+                                                    </li>
+                                                    
+                                                    <li class="active"><a href="#"><span>PEDC</span></a>
+                                                         <ul class="rd-navbar-dropdown">
+                                                            <li class="active "><a href="<?php echo base_url('pedc') ?>"><span>About PEDC</span></a>
+                                                            </li>
                                                         </ul>
                                                     </li>
-                                                    <li class="active"><a href="<?php echo base_url('sc_st_cell') ?>"><span>SC & ST CELL</span></a></li>
-                                                    <li class="active"><a href="<?php echo base_url('public/pdf/COMMITTEE_FOR_THE_DISPOSAL_OF_CASES_OF_REPORTED_MALPRACTICES.pdf') ?>"><span>Disposal Of Cases Of Reported Malpractice</span></a></li>
+                                                    
+                                                    <li class="active "><a href="http://www.avvmspclms.com/d" target="_blank"><span>LMS </span></a>
+                                                    </li>
+                                                    
+                                                    <li class="active"><a href="#"><span>CELL</span></a>
+                                                        <ul class="rd-navbar-dropdown">
+                                                            <!-- <li class="active "><a href="<?php echo base_url('pedc') ?>"><span>About CELL</span></a> -->
+                                                            <li class="active"><a href="<?php echo base_url('public/pdf/OBC_cell.pdf') ?>"><span>OBC Cell</span></a></li>
+                                                            <li class="active"><a href="<?php echo base_url('public/pdf/Minority_Cell.pdf') ?>"><span>Minority Cell</span></a></li>
+                                                            <li class="active"><a href="<?php echo base_url('sc_st_cell') ?>"><span>SC & ST CELL</span></a></li>
+                                                            <li class="active"><a href="<?php echo base_url('public/pdf/COMMITTEE_FOR_THE_DISPOSAL_OF_CASES_OF_REPORTED_MALPRACTICES.pdf') ?>"><span>Disposal Of Cases Of Reported Malpractice</span></a></li>
+                                                            <li class="active"><a href="<?php echo base_url('anti_harassment_cell') ?>"><span>Internal compliance Committee</span></a>
+                                                                <ul class="rd-navbar-dropdown">
+                                                                <li><a href="<?php echo base_url('public/pdf/internal_complaints_committee_minutes.pdf') ?>"><span class="text-middle">Minutes </span></a></li>
+                                                                </ul>
+                                                            </li>
+                                                        </ul>
+                                                    </li>
+                                                    
+                                                        <!-- <li class="active"><a href="<?php echo base_url('public/pdf/OBC_cell.pdf') ?>"><span>OBC Cell</span></a></li>
+                                                        <li class="active"><a href="<?php echo base_url('public/pdf/Minority_Cell.pdf') ?>"><span>Minority Cell</span></a></li>
+                                                        <li class="active"><a href="<?php echo base_url('anti_harassment_cell') ?>"><span>Internal compliance Committee</span></a>
+                                                            <ul class="rd-navbar-dropdown">
+                                                            <li><a href="<?php echo base_url('public/pdf/internal_complaints_committee_minutes.pdf') ?>"><span class="text-middle">Minutes </span></a></li>
+                                                            </ul>
+                                                        </li>
+                                                        <li class="active"><a href="<?php echo base_url('sc_st_cell') ?>"><span>SC & ST CELL</span></a></li>
+                                                        <li class="active"><a href="<?php echo base_url('public/pdf/COMMITTEE_FOR_THE_DISPOSAL_OF_CASES_OF_REPORTED_MALPRACTICES.pdf') ?>"><span>Disposal Of Cases Of Reported Malpractice</span></a></li> -->
 
                                                 </ul>
                                             </li>
@@ -251,22 +282,29 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>
                                                 </ul>
                                             </li>
-                                            <li class="active"><a href="#"><span>PEDC</span></a>
+                                            <!-- <li class="active"><a href="#"><span>PEDC</span></a>
                                                 <ul class="rd-navbar-dropdown">
                                                     <li class="active "><a href="<?php echo base_url('pedc') ?>"><span>About PEDC</span></a>
                                                     </li>
                                                 </ul>
+                                            </li> -->
+
+                                            <li class="active "><a href="<?php echo base_url('coe') ?>"><span>Examinations </span></a>
+                                            <ul class="rd-navbar-dropdown">
+                                                    <li class="active "><a href="<?php echo base_url('coe') ?>"><span>About Examinations</span></a>
+                                                    <!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2021.pdf') ?>"><span>NIRF 2021</span></a>
+                                                    <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2018.pdf') ?>"><span>NIRF 2018</span></a> -->
+                                                    <li class="active "><a href="http://results.sripushpamcollege.co.in" target="_blank"><span>Exam Result </span></a>
+                                                    </li>
+                                                </ul>
                                             </li>
 
-                                            <li class="active "><a href="<?php echo base_url('coe') ?>"><span>COE </span></a>
-                                            </li>
-
-                                            <li class="active "><a href="http://results.sripushpamcollege.co.in" target="_blank"><span>Exam Result </span></a>
-                                            </li>
-                                            <li class="active "><a href="<?php echo base_url('placement') ?>"><span>Placement </span></a>
-                                            </li>
-                                            <li class="active "><a href="http://www.avvmspclms.com/d" target="_blank"><span>LMS </span></a>
-                                            </li>
+                                            <!-- <li class="active "><a href="http://results.sripushpamcollege.co.in" target="_blank"><span>Exam Result </span></a>
+                                            </li> -->
+                                            <!-- <li class="active "><a href="<?php echo base_url('placement') ?>"><span>Placement </span></a>
+                                            </li> -->
+                                            <!-- <li class="active "><a href="http://www.avvmspclms.com/d" target="_blank"><span>LMS </span></a>
+                                            </li> -->
                                             <!-- <li class="active "><a href="<?php echo base_url('spcte') ?>"><span>SPCTE </span></a> -->
                                             <!-- </li> -->
                                             <li class="active"><a herf="#"><span>SPCTE</span></a>
