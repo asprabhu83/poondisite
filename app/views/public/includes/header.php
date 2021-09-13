@@ -133,12 +133,15 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
 
                                             <li class="active "><a href="<?php echo base_url('programmes') ?>"><span>Programmes </span></a>
                                                 <ul class="rd-navbar-dropdown">
+                                                <li class="active "><a href="<?php echo base_url('programmes') ?>"><span>Programmes</span></a>
+                                                    </li>
                                                     <li class="active "><a href="<?php echo base_url('/assets/NAAC/1.1.1_Programme_outcomes.pdf') ?>"><span>Program Outcomes</span></a>
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('assets/NAAC/1.1.1_Programme_specific_outcomes.pdf') ?>"><span>Program Specific Outcomes</span></a>
                                                     </li>
-                                                    
-                                                    <li><a href="#"><span class="text-middle">Course Outcomes</span></a>
+                                                    <li class="active "><a href="<?php echo base_url('https://naac.sripushpamcollege.co.in/curricular_aspects/1.1/1.1.1/course-outcomes') ?>"><span>Course Outcomes</span></a>
+                                                    </li>
+                                                    <!-- <li><a href="#"><span class="text-middle">Course Outcomes</span></a>
                                                         <ul class="rd-navbar-dropdown">
                                                         <li><a href="#"><span class="text-middle">UG Course Outcomes</span></a>
                                                         <ul class="rd-navbar-dropdown">                                                                                                          
@@ -184,7 +187,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                             <li><a href="<?php echo base_url('MLIS_PG_Course_Outcomes') ?>"><span class="text-middle">MLIS </span></a></li>
                                                         </ul>
                                                         </ul>
-                                                    </li> 
+                                                    </li>  -->
                                                                                                       
                                                 </ul>
                                             </li>
