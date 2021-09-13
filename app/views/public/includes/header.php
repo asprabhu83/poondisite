@@ -253,8 +253,21 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('iqac_members') ?>"><span>IQAC Members </span></a>
                                                     </li>
+                                                    <!-- <li class="active "><a href="https://naac.sripushpamcollege.co.in/" target="_blank"><span>AQAR </span></a> -->
+                                                    <li class="active"><a href="<?php echo base_url('#') ?>"><span>AQAR</span></a>
+                                                        <ul class="rd-navbar-dropdown">
+                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2013.pdf"><span class="text-middle">2013-2014</span></a></li>
+                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2014.pdf"><span class="text-middle">2014-2015</span></a></li>
+                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2015.pdf"><span class="text-middle">2015-2016</span></a></li>
+                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2016.pdf"><span class="text-middle">2016-2017</span></a></li>
+                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2017.pdf"><span class="text-middle">2017-2018</span></a></li>
+                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2017.pdf"><span class="text-middle">2018-2019</span></a></li>
+                                                                                                                        
+                                                        </ul>
+                                                    </li>
+                                                    <!-- </li>    -->
                                                     <li class="active "><a href="https://naac.sripushpamcollege.co.in/" target="_blank"><span>NAAC </span></a>
-                                                    </li>                                                    
+                                                    </li>                                                                                                        
                                                     <li class="active "><a href="<?php echo base_url('iqac_meet') ?>"><span>IQAC Meet </span></a>
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/IQAC/Code_of_conduct_SSR-converted.pdf') ?>"><span>Code Of Conduct</span></a>
@@ -264,7 +277,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>
                                                     <li class="active"><a href="<?php echo base_url('#') ?>"><span>Feedback for Curriculum</span></a>
                                                         <ul class="rd-navbar-dropdown">
-                                                            <li><a href="https://forms.gle/uEL9XVQjEcLKRD9WA"><span class="text-middle"> Staff </span></a></li>
+                                                            <li><a href="https://forms.gle/uEL9XVQjEcLKRD9WA"><span class="text-middle">Staff </span></a></li>
                                                             <li><a href="https://forms.gle/trMhu4hBFnisgeQk9"><span class="text-middle">Students </span></a></li>
                                                             <li><a href="https://forms.gle/hpUmpKEcK2fpXuD8A"><span class="text-middle">Alumni </span></a></li>
                                                         </ul>
