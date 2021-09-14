@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 
 defined('BASEPATH') or exit('No direct script access allowed'); ?>
 <!-- Footer Area Starts -->
@@ -111,4 +111,4 @@ defined('BASEPATH') or exit('No direct script access allowed'); ?>
 <?php echo app_compile_scripts('public', ['defer' => 'defer']); ?>
 </body>
 
-</html>
+</html> -->
