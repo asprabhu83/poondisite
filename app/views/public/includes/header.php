@@ -273,8 +273,8 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                 </ul>
                                             </li>
 
-                                            <!-- <li class="active "><a href="http://results.sripushpamcollege.co.in" target="_blank"><span>Exam Result </span></a>
-                                            </li> -->
+                                             <li class="active "><a href="https://examresult.sripushpamcollege.co.in/" target="_blank"><span>Exam Result </span></a>
+                                            </li>
                                             <!-- <li class="active "><a href="<?php echo base_url('placement') ?>"><span>Placement </span></a>
                                             </li> -->
                                             <!-- <li class="active "><a href="http://www.avvmspclms.com/d" target="_blank"><span>LMS </span></a>
