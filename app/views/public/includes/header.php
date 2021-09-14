@@ -58,11 +58,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                 </div>
                                             </div>
                                         </div> -->
-                                        
-                                        <div id="content-desktop">
-                                        <h6 align="center" style="color: #fff; padding-left: 40px; font-variant: small-caps; font-size: 26px; margin-top: -35px;"><strong>Poondi - 613 503, Thanjavur Dt, Tamil Nadu</strong></h6>
-                                        <div class="left-side">
-                                       
+                                                                                
                                         <!-- <div class="reveal-inline-block">
                                             <div class="unit unit-middle unit-horizontal unit-spacing-xs unit-xs-top">
                                                 <div class="unit-left"><span class="icon icon-sm-size-1 text-white mdi mdi-map-marker"></span></div>
@@ -80,10 +76,15 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                         <li><a href="https://www.facebook.com/spc.poondi/" target="_blank" class="icon fa fa-facebook icon-silver"></a></li>
                                         <li><a href="https://www.youtube.com/channel/UCXrJLcudKedf1LN3uQeZGUQ" target="_blank" class="icon fa fa-youtube-play icon-silver"></a></li>
                                         <li><a href="https://www.linkedin.com/school/a.v.v.m.-sri-pushpam-college-poondi---613-503./" target="_blank" class="icon fa fa-linkedin-square icon-silver"></a></li>
-
                                     </ul>
                                 </div>
+
                             </div>
+                            
+                            <div id="content-desktop">
+                                        <h6 align="center" style="color: #fff; padding-right: 60px; font-variant: small-caps; font-size: 13px; margin-top: 15px;">Poondi - 613 503, Thanjavur Dt, Tamil Nadu</h6>
+                            </div>
+
                             <div id="content-mobile">
                                 <img src="<?php echo base_url('assets/images/company-logo.jpg') ?>">
                                 <h4 style="color:#fff; font-size:14px"><br />A. Veeriya Vandayar Memorial Sri Pushpam College (Autonomous), Poondi, Thanjavur(Dt.) </h4>
@@ -375,11 +376,12 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                             <li><a href="<?php echo base_url('#') ?>"><span class="text-middle">Financial Literacy Club </span></a></li>
                                                         </ul>
                                                     </li>
-                                                    <!-- <li class="active"><a href="<?php echo base_url('sc_st_cell') ?>"><span>News & Events</span></a></li> -->
+                                                    
+                                                   
 
                                                 </ul>
                                             </li>
-
+                                            <li class="active"><a href="<?php echo base_url('contact') ?>"><span>Contact</span></a></li>
                                         </ul>
                                     </div>
                                 </div>
