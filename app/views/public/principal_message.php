@@ -25,8 +25,8 @@ init_public_head();
 		<div class="range range-xs-center  text-left ">
 			<div class="cell-xs-12 cell-sm-12 cell-md-12 offset-top-60 offset-md-top-0"><center>
 				<h2><strong>Principal's Message</strong></h2>
-				<!-- <br /><img alt="" class="img-responsive" height="200" src="<?php echo base_url('assets/images/principal1.jpg') ?>" width="250" /><center> -->
-				<br /><img alt="" class="img-responsive" height="1200" src="<?php echo base_url('assets/images/principal1.jpg') ?>" width="750" /><center>
+				<br /><img alt="" class="img-responsive" height="200" src="<?php echo base_url('assets/images/principal1.jpg') ?>" width="250" /><center>
+				<!-- <br /><img alt="" class="img-responsive" height="1200" src="<?php echo base_url('assets/images/principal1.jpg') ?>" width="750" /><center> -->
 				<p><strong>Dr. R. Sivakumar <br />Principal</strong></p>
 				</center></center>
 				<div class="inset-md-left-36 inset-xl-left-110 offset-top-60">
