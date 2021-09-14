@@ -39623,4 +39623,8 @@ tr:nth-child(even) {
     }
 }
 
+.container-fluid.marqueewrap{padding:0;}
+.container-fluid.marqueewrap .alert-primary{ height: 50px;}
+.container-fluid.marqueewrap .alert-primary span{padding: 0 30px;}
+.container-fluid.marqueewrap .alert-primary a{color: #004085;}
 /* syllabus revision css end */

@@ -2,6 +2,15 @@
 defined('BASEPATH') or exit('No direct script access allowed');
 init_public_head();
 ?>
+<div class="container-fluid marqueewrap">
+	<div class="alert alert-primary alert-dismissible" role="alert">
+		<marquee>
+			<strong>35th Academic Council Meeting on 18.09.2021 at 10.30 a.m.</strong><span>&#9733;</span>
+			<strong><a href="<?php echo base_url('assets/images/founderdaysep2021.jpeg') ?>" target="_blank">51st Founder's Commemoration Day on 17.09.2021</strong></a><span>&#9733;</span>
+			<strong><a href="<?php echo base_url('assets/images/iobpay.jpeg') ?>" target="_blank">Inaugural Function of IOB Pay on 14.09.2021 at 2.30 p.m.</strong></a><span>&#9733;</span>
+		</marquee>
+	</div>
+</div>
 <!-- Home 01 Banner Starts -->
 <div id="wowslider-container1">
 	<div class="ws_images">
