@@ -12,7 +12,7 @@ init_public_head();
 	</div>
 </div>
 <!-- Home 01 Banner Starts -->
-<div id="wowslider-container1">
+<!-- <div id="wowslider-container1">
 	<div class="ws_images">
 		<ul>
 			<li><img src="<?php echo base_url('assets/images/homebanner.jpg') ?>" /></li>
@@ -22,7 +22,7 @@ init_public_head();
 			<li><img src="<?php echo base_url('assets/images/MBA-Block-2.jpg') ?>" /></li>
 		</ul>
 	</div>
-</div>
+</div> -->
 <!-- Home 01 Banner Ends -->
 <!----------------------------------------------------------------------------------------------------------------------->
 <section class="section-90 section-md-top-111 section-md-bottom-120">
