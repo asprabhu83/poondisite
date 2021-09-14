@@ -262,12 +262,12 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     <!-- <li class="active "><a href="https://naac.sripushpamcollege.co.in/" target="_blank"><span>AQAR </span></a> -->
                                                     <li class="active"><a href="<?php echo base_url('#') ?>"><span>AQAR</span></a>
                                                         <ul class="rd-navbar-dropdown">
-                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2013.pdf"><span class="text-middle">2013-2014</span></a></li>
-                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2014.pdf"><span class="text-middle">2014-2015</span></a></li>
-                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2015.pdf"><span class="text-middle">2015-2016</span></a></li>
-                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2016.pdf"><span class="text-middle">2016-2017</span></a></li>
-                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2017.pdf"><span class="text-middle">2017-2018</span></a></li>
-                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2017.pdf"><span class="text-middle">2018-2019</span></a></li>
+                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2013-2014.pdf"><span class="text-middle">2013-2014</span></a></li>
+                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2014-2015.pdf"><span class="text-middle">2014-2015</span></a></li>
+                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2015-2016.pdf"><span class="text-middle">2015-2016</span></a></li>
+                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2016-2017.pdf"><span class="text-middle">2016-2017</span></a></li>
+                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2017-2018.pdf"><span class="text-middle">2017-2018</span></a></li>
+                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2018-2019.pdf"><span class="text-middle">2018-2019</span></a></li>
                                                                                                                         
                                                         </ul>
                                                     </li>
