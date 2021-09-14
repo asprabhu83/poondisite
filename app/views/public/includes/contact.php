@@ -33,67 +33,13 @@ defined('BASEPATH') or exit('No direct script access allowed'); ?>
                             </div>
                         </div>
                     </div>
-                    <div class="cell-xs-12 cell-sm-5 cell-md-4 cell-lg-2 offset-lg-top-0">
-                        <div class="inset-lg-left-30 inset-lg-right-30">
-                            <div class="inset-md-right-36"><a class="brand">Quick Links</a>
-                                <ul>
-                                    <ul>
-                                        <!-- <li><a href="<?php echo base_url('founders') ?>" style="color: #fff;">Founding Fathers</a></li> -->
-                                    </ul>
-                                </ul>
-                                <ul>
-                                    <ul>
-                                        <!-- <li><a href="<?php echo base_url('committee-of-management') ?>" style="color: #fff;">Committee of Management</a></li>
-                                        <li><a href="<?php echo base_url('former-principals') ?>" style="color: #fff;">Principals</a></li>
-                                        <li><a href="<?php echo base_url('committees') ?>" style="color: #fff;">Managing Committee</a></li>
-                                        <li><a href="<?php echo base_url('statutory-committees') ?>" style="color: #fff;">Governing Body</a></li> -->
-                                        <li><a href="<?php echo base_url('programmes') ?>" style="color: #fff;">Programmes</a></li>
-                                        <li><a href="<?php echo base_url('departments') ?>" style="color: #fff;">Departments</a></li>
-                                        <li><a href="<?php echo base_url('iqac') ?>" style="color: #fff;">IQAC </a></li>
-                                        <li><a href="<?php echo base_url('coe') ?>" style="color: #fff;">COE</a></li>
-                                        <!-- <li><a href="<?php echo base_url('page-not-found') ?>" style="color: #fff;">Placement</a></li> -->
-                                        <li><a href="http://www.avvmspclms.com/d" style="color: #fff;">LMS</a></li>
-                                        <li><a href="<?php echo base_url('scholarships') ?>" style="color: #fff;">Scholarships</a></li>
-                                        <li><a href="<?php echo base_url('library') ?>" style="color: #fff;">Library</a></li>
-                                        <li><a href="<?php echo base_url('spcte') ?>" style="color: #fff;">SPCTE</a></li>
-                                        <li><a href="http://sripushpamcollege.co.in/pdf/EDC-Objective.pdf" style="color: #fff;">Entrepreneurship development Cell</a></li>
-                                        <!-- <li><a href="http://sripushpamcollege.co.in/pdf/EDC-Objective.pdf" style="color: #fff;">Development Cell</a></li> -->
-                                        <!-- <li><a href="<?php echo base_url('associations') ?>" style="color: #fff;">Associations</a></li> -->
-                                    </ul>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="cell-xs-12 cell-sm-2 cell-md-4 cell-lg-2  offset-lg-top-0">
-                        <div class="inset-lg-left-15 inset-lg-right-30">
-                            <div class="inset-md-right-36"><a class="brand">Alumni</a>
-                                <ul>
-                                    <ul>
-                                        <!-- <li><a href="<?php echo base_url('founders') ?>" style="color: #fff;">Founding Fathers</a></li> -->
-                                    </ul>
-                                </ul>
-                                <ul>
-                                    <ul>
-                                        <li> <a href="https://forms.gle/q9x1R9YESwV47pm56" style="color:white;">Alumni  Registration
-                                            </a></li>
-                                        <li><a href="https://forms.gle/BprKBw4PLGhpgTif6" style="color:white;">
-                                                 Alumni Feedback
-                                            </a></li>
-                                    </ul>
-                                </ul>
-                            </div>
-
-
-                        </div>
-                    </div>
+                   
+                    
                     <div class="cell-xs-12 cell-sm-12 cell-md-12 cell-lg-6  ">
                         <div class="inset-lg-left-30 inset-lg-right-30 color: #fff;">
                             <div class="inset-md-right-36"><a class="brand"> Address</a> <br /><br />
 
-                                <!-- <li><a href="<?php echo base_url('statutory-committees#undefined3') ?>" style="color: #fff;">Academic Council </a></li>
-                                        <li><a href="<?php echo base_url('statutory-committees#undefined4') ?>" style="color: #fff;">College Council</a></li> -->
-
-
+                               
                                 <iframe frameborder="0" height="450" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6591.777213529097!2d79.24363808909177!3d10.773411681446479!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3dbfdda441f8867f!2sA.V.V.M.+Sri+Pushpam+College!5e0!3m2!1sen!2sin!4v1561802003599!5m2!1sen!2sin" style="border: 0;" width="100%"></iframe>
                             </div>
                         </div>
