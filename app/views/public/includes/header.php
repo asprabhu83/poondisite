@@ -268,13 +268,13 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     <li class="active "><a href="https://www.iobnet.co.in/iobpay/entry.do?dirlinkmerid=AVVTAN&dirlinkcatcd=EDU" target="_blank"><span>Exam Fees</span></a>
                                                     <!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2021.pdf') ?>"><span>NIRF 2021</span></a>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2018.pdf') ?>"><span>NIRF 2018</span></a> -->
-                                                    <li class="active "><a href="http://results.sripushpamcollege.co.in" target="_blank"><span>Exam Result </span></a>
+                                                    <li class="active "><a href="https://examresult.sripushpamcollege.co.in/" target="_blank"><span>Exam Result </span></a>
                                                     </li>
                                                 </ul>
                                             </li>
 
-                                             <li class="active "><a href="https://examresult.sripushpamcollege.co.in/" target="_blank"><span>Exam Result </span></a>
-                                            </li>
+                                             <!--<li class="active "><a href="https://examresult.sripushpamcollege.co.in/" target="_blank"><span>Exam Result </span></a>
+                                            </li>-->
                                             <!-- <li class="active "><a href="<?php echo base_url('placement') ?>"><span>Placement </span></a>
                                             </li> -->
                                             <!-- <li class="active "><a href="http://www.avvmspclms.com/d" target="_blank"><span>LMS </span></a>
