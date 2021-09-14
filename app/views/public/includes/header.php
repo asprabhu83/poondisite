@@ -35,37 +35,42 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
 
                         <div class="rd-navbar-top-panel" style="padding: 70px;">
                             <div id="content-desktop">
-                                <h5 align="center" style="color: #fff; padding-left: 40px;     font-variant: small-caps; font-size: 26px; margin-top: -35px;"><strong>A. Veeriya Vandayar Memorial Sri Pushpam College (Autonomous)</strong></h5>
+                                <h5 align="center" style="color: #fff; padding-left: 40px; font-variant: small-caps; font-size: 26px; margin-top: -35px;"><strong>A. Veeriya Vandayar Memorial Sri Pushpam College (Autonomous)</strong></h5>
                                 <div class="left-side">
 
                                     <address class="contact-info text-left" style="padding-left: 50px;">
 
                                         <div style="margin-bottom:55px;"><img src="<?php echo base_url('assets/images/company-logo.jpg') ?>"></div>
 
-                                        <div class="reveal-inline-block">
+                                        <!-- <div class="reveal-inline-block">
                                             <div class="unit unit-middle unit-horizontal unit-spacing-xs unit-xs-top">
                                                 <div class="unit-left"><span class="icon icon-sm-size-1 text-white mdi mdi-phone"></span></div>
                                                 <div class="unit-body">
                                                     <div class="p"><a href="callto:04374239328" class="text-alto">04374 - 239523 </a></div>
-                                                </div>
+                                                </div> 
                                             </div>
-                                        </div>
-                                        <div class="reveal-inline-block">
+                                        </div> -->
+                                        <!-- <div class="reveal-inline-block">
                                             <div class="unit unit-middle unit-horizontal unit-spacing-xs unit-xs-top">
                                                 <div class="unit-left"><span class="icon icon-sm-size-1 text-white mdi mdi-email-outline"></span></div>
                                                 <div class="unit-body">
                                                     <div class="p"><a href="mailto:avvmspc@hotmail.com" class="text-alto"><span class="__cf_email__" data-cfemail="e38a8d858ca387868e8c8f8a8d88cd8c9184">avvmspc@hotmail.com </span></a></div>
                                                 </div>
                                             </div>
-                                        </div>
-                                        <div class="reveal-inline-block">
+                                        </div> -->
+                                        
+                                        <div id="content-desktop">
+                                        <h6 align="center" style="color: #fff; padding-left: 40px; font-variant: small-caps; font-size: 26px; margin-top: -35px;"><strong>Poondi - 613 503, Thanjavur Dt, Tamil Nadu</strong></h6>
+                                        <div class="left-side">
+                                       
+                                        <!-- <div class="reveal-inline-block">
                                             <div class="unit unit-middle unit-horizontal unit-spacing-xs unit-xs-top">
                                                 <div class="unit-left"><span class="icon icon-sm-size-1 text-white mdi mdi-map-marker"></span></div>
                                                 <div class="unit-body">
                                                     <div class="p" style="color: #fff;">Poondi - 613 503, Thanjavur Dt, Tamil Nadu </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
 
                                     </address>
                                 </div>
