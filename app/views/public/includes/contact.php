@@ -1,9 +1,6 @@
 <?php
 
 defined('BASEPATH') or exit('No direct script access allowed'); ?>
-<!-- Footer Area Starts -->
-<!-- <footer>
-    <footer class="page-footer" id="footer"> -->
         <div class="shell-fluid">
             <div class="text-left section-90 section-lg-top-111 section-lg-bottom-120 context-dark">
                 <div class="range range-xs-center">
@@ -48,13 +45,5 @@ defined('BASEPATH') or exit('No direct script access allowed'); ?>
             </div>
         </div>
 
-        <br /><br />
-        <p class="rights " style="color: #fff;">@ 2021 Copyright Sri Pushpam College All Rights Reserved. Powered by <a href="https://kavisoftek.in/" target="_blank" style="color:#fff;"><u>Kavisoftek</u></p>
-        <br /><br />
-    <!-- </footer>
-</footer> -->
-<!---end footer--->
+       
 <?php echo app_compile_scripts('public', ['defer' => 'defer']); ?>
-</body>
-
-</html>
