@@ -2,7 +2,7 @@
 defined('BASEPATH') or exit('No direct script access allowed');
 init_public_head();
 ?>
-<div class="section-height-800 breadcrumb-committee context-dark text-center">
+<!--<div class="section-height-800 breadcrumb-committee context-dark text-center">
 	<div class="shell section-bottom-30">
 		<div class="veil reveal-md-block">
 			<h1 class="text-bold" style="color: cornsilk;">Management Committee</h1>
@@ -14,7 +14,7 @@ init_public_head();
 			</ul>
 		</ul>
 	</div>
-</div>
+</div>-->
 <!-- <div class="range range-xs-center range-md-left text-left">
 	<div class="cell-xs-10 cell-sm-8 cell-md-3"><img alt="" class="img-responsive" height="420" src="<?php echo base_url('assets/images/committee/Thulasiah.jpg') ?>" width="420" /></div>
 	<div class="cell-xs-10 cell-sm-8 cell-md-5 offset-top-20 offset-md-top-0">
@@ -30,7 +30,6 @@ init_public_head();
 		</div>
 	</div>
 </div> -->
-<br /><br /><!-- Upcoming Events-->
 <section class="section-90 section-md-top-120 section-md-bottom-111 bg-qua-haze">
 	<div class="shell-fluid">
 		<!-- <h2 class="text-bold"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;President&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Members &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             Secretary and Correspondent </h2> -->
@@ -46,7 +45,7 @@ init_public_head();
 
 			<div class="cell-xs-10 cell-sm-8 cell-md-4 offset-top-60 offset-md-top-0">
 				<!-- <article class="post post-event"><img alt="" class="img-responsive" height="330" src="<?php echo base_url('assets/images/committee/avv.jpg') ?>" width="570" /> -->
-				<article class="post post-event"><img alt="" class="img-responsive" height="330" src="<?php echo base_url('assets/images/committee/Veeriya1.jpg') ?>" width="570" /> -->
+				<article class="post post-event"><img alt="" class="img-responsive" height="330" src="<?php echo base_url('assets/images/committee/Veeriya3.jpg') ?>" width="570" /> 
 					<h4 align="center" class="text-bold">Thiru A. Veeriya Vandayar</h4>
 					<p><h5 align="center" class="text-bold">Member</h5><strong></strong></p>
 				</article>
@@ -72,7 +71,7 @@ init_public_head();
 					<p><h5 align="center" class="text-bold">Secretary and Correspondent</h5><strong></strong></p>
 				</article>
 			</div>
-
+<!--
 			<div class="cell-xs-10 cell-sm-8 cell-md-4 offset-top-60 offset-md-top-0">
 				<article class="post post-event"><img alt="" class="img-responsive" height="330" src="<?php echo base_url('assets/images/committee/Thulasiah3.jpg') ?>" width="570" />
 					<h4 align="center" class="text-bold">Thiru. K. Thulasiah Vandayar,  </h4>
@@ -86,7 +85,7 @@ init_public_head();
 					<p><h5 align="center" class="text-bold">Former Member</h5><strong></strong></p>
 				</article>
 			</div>
-
+-->
 		</div>
 		<br /><br />
 		<h4 align="left" class="text-bold">EX-OFFICIO MEMBER - SECRETARY</h4>
