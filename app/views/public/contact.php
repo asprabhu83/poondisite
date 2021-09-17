@@ -60,6 +60,26 @@ init_public_head();
                         </div>
                     </div>
                     
+
+                    <div class="cell-xs-12 cell-sm-5 cell-md-4 cell-lg-2 offset-lg-top-0">
+                        <div class="inset-lg-left-30 inset-lg-right-30">
+                            <div class="inset-md-right-36"><a class="brand">Quick Links</a>
+                                
+                                <ul>
+                                    <ul>
+                                       <p class="text-left"><strong>Contact</strong></p>
+                                       <p><strong>Dr. J. Selvam,</strong> M. Sc, MLIS, M. Phil, Ph.D.,<br />Librarian and Co-Ordinator<br />P.G. Department of Library and Information Science<br />A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9442594627<br /><strong>E-mail :</strong> selvampkk75@gmail.com<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;avvmspc.library@gmail.com</p>
+		                               <p><strong>Chat with Librarian:</strong> Chat with Librarian: In all working days 8:30 am to 4:15 pm. Users can chat with the librarian for any clarification on library services. Do you have a general libraries question and need a quick answer? Get instant answers on our Instant Librarian Chat Service</p>
+		                               <p><strong>Information Display Service:</strong><br />Library is displaying selection of current journals, new books and newspapers in respective section in the Library.</p>
+    
+
+                                    </ul>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+
                     <div class="cell-xs-12 cell-sm-12 cell-md-12 cell-lg-6  ">
                         <div class="inset-lg-left-30 inset-lg-right-30 color: #fff;">
                             <div class="inset-md-right-36"><a class="brand"> Address</a> <br /><br />
@@ -70,6 +90,10 @@ init_public_head();
                 </div>
             </div>
         </div>
+
+
+
+
 
         <br /><br />
         <p class="rights " style="color: #fff;">@ 2021 Copyright Sri Pushpam College All Rights Reserved. Powered by <a href="https://kavisoftek.in/" target="_blank" style="color:#fff;"><u>Kavisoftek</u></p>
