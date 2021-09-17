@@ -182,7 +182,8 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                             <!-- <li class="active "><a href="<?php echo base_url('pedc') ?>"><span>About CELL</span></a> -->
                                                             <!-- <li class="active"><a href="<?php echo base_url('public/pdf/OBC_cell.pdf') ?>"><span>OBC Cell</span></a></li> -->
                                                             <!-- <li class="active"><a href="<?php echo base_url('OBC_Cell') ?>"><span>OBC Cell</span></a></li> -->
-                                                            <li class="active"><a href="<?php echo base_url('obc1') ?>"><span>OBC CELL</span></a></li>
+                                                            <li class="active"><a href="<?php echo base_url('sc_st_cell') ?>"><span>OBC CELL</span></a></li>
+                                                            <!-- <li class="active"><a href="<?php echo base_url('obc1') ?>"><span>OBC CELL</span></a></li> -->
                                                             <li class="active"><a href="<?php echo base_url('public/pdf/Minority_Cell.pdf') ?>"><span>Minority Cell</span></a></li>
                                                             <li class="active"><a href="<?php echo base_url('sc_st_cell') ?>"><span>SC & ST CELL</span></a></li>
                                                             <!-- <li class="active"><a href="<?php echo base_url('public/pdf/COMMITTEE_FOR_THE_DISPOSAL_OF_CASES_OF_REPORTED_MALPRACTICES.pdf') ?>"><span>Disposal Of Cases Of Reported Malpractice</span></a></li> -->
