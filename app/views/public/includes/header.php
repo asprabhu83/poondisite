@@ -185,7 +185,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                             <li class="active"><a href="<?php echo base_url('obc1') ?>"><span>OBC CELL</span></a>
                                                             <li class="active"><a href="<?php echo base_url('public/pdf/Minority_Cell.pdf') ?>"><span>Minority Cell</span></a></li>
                                                             <li class="active"><a href="<?php echo base_url('sc_st_cell') ?>"><span>SC & ST CELL</span></a></li>
-                                                            <li class="active"><a href="<?php echo base_url('public/pdf/COMMITTEE_FOR_THE_DISPOSAL_OF_CASES_OF_REPORTED_MALPRACTICES.pdf') ?>"><span>Disposal Of Cases Of Reported Malpractice</span></a></li>
+                                                            <!-- <li class="active"><a href="<?php echo base_url('public/pdf/COMMITTEE_FOR_THE_DISPOSAL_OF_CASES_OF_REPORTED_MALPRACTICES.pdf') ?>"><span>Disposal Of Cases Of Reported Malpractice</span></a></li> -->
                                                             <li class="active"><a href="<?php echo base_url('anti_harassment_cell') ?>"><span>Internal compliance Committee</span></a>
                                                                 <ul class="rd-navbar-dropdown">
                                                                 <li><a href="<?php echo base_url('public/pdf/internal_complaints_committee_minutes.pdf') ?>"><span class="text-middle">Minutes </span></a></li>
@@ -269,6 +269,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     <!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2021.pdf') ?>"><span>NIRF 2021</span></a>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2018.pdf') ?>"><span>NIRF 2018</span></a> -->
                                                     <li class="active "><a href="https://examresult.sripushpamcollege.co.in/" target="_blank"><span>Exam Result </span></a>
+                                                    <li class="active"><a href="<?php echo base_url('public/pdf/COMMITTEE_FOR_THE_DISPOSAL_OF_CASES_OF_REPORTED_MALPRACTICES.pdf') ?>"><span>Disposal Of Cases Of Reported Malpractice</span></a></li>
                                                     </li>
                                                 </ul>
                                             </li>
