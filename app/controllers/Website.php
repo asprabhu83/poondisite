@@ -581,6 +581,12 @@ class Website extends App_Controller
         $this->data['menu_sc_st_cell'] = "active";
         $this->load->view('public/sc_st_cell',$this->data);
     }
+    public function obc_cell1()
+    {
+        $this->data['title'] = "OBC CELL";
+        $this->data['menu_obc_cell'] = "active";
+        $this->load->view('public/obc_cell1',$this->data);
+    }
     public function iqac_members()
     {
         $this->data['title'] = "IQAC Members";
