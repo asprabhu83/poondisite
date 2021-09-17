@@ -2,6 +2,8 @@
 defined('BASEPATH') or exit('No direct script access allowed');
 init_public_head();
 ?>
+<!-- <section class="section-90 section-md-111 text-left"> -->
+
 <div class="section-height-800 breadcrumb-departments context-dark text-center">
 	<div class="shell section-bottom-30">
 		<div class="veil reveal-md-block">
@@ -15,7 +17,7 @@ init_public_head();
 		</ul>
 	</div>
 </div>
-<footer>
+<!-- <footer> -->
     <footer class="page-footer" id="footer">
         <div class="shell-fluid">
             <div class="text-left section-90 section-lg-top-111 section-lg-bottom-120 context-dark">
@@ -72,8 +74,15 @@ init_public_head();
         <br /><br />
         <p class="rights " style="color: #fff;">@ 2021 Copyright Sri Pushpam College All Rights Reserved. Powered by <a href="https://kavisoftek.in/" target="_blank" style="color:#fff;"><u>Kavisoftek</u></p>
         <br /><br />
+    
+
+        <!-- <p class="text-left"><strong>Contact</strong></p> -->
+        <p class="rights " style="color: #fff;">Contact</p>
+		<p><strong>Dr. J. Selvam,</strong> M. Sc, MLIS, M. Phil, Ph.D.,<br />Librarian and Co-Ordinator<br />P.G. Department of Library and Information Science<br />A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9442594627<br /><strong>E-mail :</strong> selvampkk75@gmail.com<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;avvmspc.library@gmail.com</p>
+		<p><strong>Chat with Librarian:</strong> Chat with Librarian: In all working days 8:30 am to 4:15 pm. Users can chat with the librarian for any clarification on library services. Do you have a general libraries question and need a quick answer? Get instant answers on our Instant Librarian Chat Service</p>
+		<p><strong>Information Display Service:</strong><br />Library is displaying selection of current journals, new books and newspapers in respective section in the Library.</p>
     </footer>
-</footer>
+<!-- </footer> -->
 
 <!-- <section class="section-90 section-md-top-20 section-md-bottom-111 ">
 	<div id="fb-root"></div>
