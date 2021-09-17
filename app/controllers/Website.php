@@ -58,7 +58,6 @@ class Website extends App_Controller
     }
     public function vision_mission()
     {
-
         $this->data['title'] = "Vision & Mission";
         $this->data['menu_vision_mission'] = "active";
         $this->load->view('public/vision_mission', $this->data);
@@ -587,6 +586,7 @@ class Website extends App_Controller
         $this->data['menu_obc_cell'] = "active";
         $this->load->view('public/obc_cell1',$this->data);
     }
+    
     public function iqac_members()
     {
         $this->data['title'] = "IQAC Members";
@@ -615,4 +615,4 @@ class Website extends App_Controller
     {
         redirect(base_url('public/pdf/edc/EDC-Objective.pdf'));
     }
-}
+    }
