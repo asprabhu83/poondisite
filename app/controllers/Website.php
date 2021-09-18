@@ -194,6 +194,15 @@ class Website extends App_Controller
         $this->load->view('public/programmes', $this->data);
     }
 
+    // public function course_outcomes()
+    // {
+
+    //     $this->data['title'] = "Course Outcomes";
+    //     $this->data['menu_course_outcomes'] = "active";
+    //     $this->load->view('https://naac.sripushpamcollege.co.in/curricular_aspects/1.1/1.1.1/course-outcomes', $this->data);
+    // }
+
+
     public function departments()
     {
 

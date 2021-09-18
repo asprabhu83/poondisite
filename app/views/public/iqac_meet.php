@@ -104,6 +104,33 @@ init_public_head();
 									<td>IQAC MEET 14.06.2019</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/IQAC%20MEET%2012.07.2019.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
 								</tr>
+
+								<tr>
+									<td><strong>Previous Year MEET</strong></td>
+									<td colspan="4"><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener"></a></td>
+								</tr>
+
+								<tr>
+									<td>IQAC MEET 2018-2019</td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/IQAC_Meet_2018_19.pdf.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+								</tr>
+
+								<tr>
+									<td>IQAC MEET 2017-2018</td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/IQAC_Meet_2017_18.pdf.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+								</tr>
+
+								<tr>
+									<td>IQAC MEET 2016-2017</td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/IQAC_Meet_2016_17.pdf.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+								</tr>
+
+								<tr>
+									<td>IQAC MEET 2015-2016</td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/IQAC_Meet_2015_16.pdf.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+								</tr>
+
+
 								<!-- <tr>
 									<th colspan="4">
 										<center><a href="<?php echo base_url('public/pdf/Naac/NAAC%20Reaccreditation%204th%20Cycle/NAAC%20rar/NAAC%20Reaccreditation%204th%20Cycle.rar') ?>">All File Download NAAC Reaccreditation 4th Cycle</a></center>
