@@ -2,12 +2,12 @@
 defined('BASEPATH') or exit('No direct script access allowed');
 init_public_head();
 ?>
-<!-- <section class="section-90 section-md-111 text-left"> -->
+<section class="section-90 section-md-111 text-left">
 
 <div class="section-height-800 breadcrumb-departments context-dark text-center">
 	<div class="shell section-bottom-30">
 		<div class="veil reveal-md-block">
-			<h1 class="text-bold" style="color: cornsilk;">CONTACT</h1>
+			<h1 class="text-bold" style="color: cornsilk;">CONTACT INFORMATION</h1>
 		</div>
 		<ul class="list-inline list-inline-with-arrows p">
 			<ul class="list-inline list-inline-with-arrows p">
@@ -17,13 +17,15 @@ init_public_head();
 		</ul>
 	</div>
 </div>
+</section>
+
 <!-- <footer> -->
     <footer class="page-footer" id="footer">
         <div class="shell-fluid">
             <div class="text-left section-90 section-lg-top-111 section-lg-bottom-120 context-dark">
                 <div class="range range-xs-center">
                     <div class="cell-xs-12 cell-sm-5 cell-md-4 cell-lg-2 ">
-                        <h4 class="brand">Contact Information</h4>
+                        <h4 class="brand">For Administrative office</h4>
                         <br />
                         <div class="unit unit-middle unit-horizontal unit-spacing-xs unit-xs-top offset-top-20">
                             <div class="unit-left"><span class="icon icon-sm-size-1 mdi mdi-map-marker"></span></div>
@@ -48,7 +50,7 @@ init_public_head();
                             </div>
                         </div>
                     </div>
-                    <div class="cell-xs-12 cell-sm-5 cell-md-4 cell-lg-2 offset-lg-top-0">
+                    <!-- <div class="cell-xs-12 cell-sm-5 cell-md-4 cell-lg-2 offset-lg-top-0">
                         <div class="inset-lg-left-30 inset-lg-right-30">
                             
                         </div>
@@ -58,21 +60,52 @@ init_public_head();
                         <div class="inset-lg-left-15 inset-lg-right-30">
                             
                         </div>
-                    </div>
+                    </div> -->
                     
-
                     <div class="cell-xs-12 cell-sm-5 cell-md-4 cell-lg-2 offset-lg-top-0">
                         <div class="inset-lg-left-30 inset-lg-right-30">
-                            <div class="inset-md-right-36"><a class="brand">Quick Links</a>
+                            <div class="inset-md-right-36"><a class="brand">For Principal</a>
                                 
                                 <ul>
                                     <ul>
-                                       <p class="text-left"><strong>Contact</strong></p>
-                                       <p><strong>Dr. J. Selvam,</strong> M. Sc, MLIS, M. Phil, Ph.D.,<br />Librarian and Co-Ordinator<br />P.G. Department of Library and Information Science<br />A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9442594627<br /><strong>E-mail :</strong> selvampkk75@gmail.com<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;avvmspc.library@gmail.com</p>
-		                               <p><strong>Chat with Librarian:</strong> Chat with Librarian: In all working days 8:30 am to 4:15 pm. Users can chat with the librarian for any clarification on library services. Do you have a general libraries question and need a quick answer? Get instant answers on our Instant Librarian Chat Service</p>
-		                               <p><strong>Information Display Service:</strong><br />Library is displaying selection of current journals, new books and newspapers in respective section in the Library.</p>
-    
+                                       
+                                       <p><strong>Dr. R.Sivakumar,</strong> <br />M.Sc, M.Phil, Ph.D.,<br />Principal<br />A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9443662536<br /><strong>E-mail :</strong> rskumar.avvmspc@gmail.com<br />principal@sripushpamcollege.co.in<br /> </p>
+		                               
+                                    </ul>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
 
+                    
+
+                    
+                    <div class="cell-xs-12 cell-sm-5 cell-md-4 cell-lg-2 offset-lg-top-0">
+                        <div class="inset-lg-left-30 inset-lg-right-30">
+                            <div class="inset-md-right-36"><a class="brand">For Examination</a>
+                                
+                                <ul>
+                                    <ul>
+                                     
+                                       <p><strong>Dr. C.Chandran,</strong> <br />M.Sc, M.Phil, Ph.D.,<br />Controller of Examinations<br />A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9787797833 <br /><strong>E-mail :</strong> coe.avvmspc@gmail.com<br /> </p>
+		                               
+                                    </ul>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="cell-xs-12 cell-sm-5 cell-md-4 cell-lg-2 offset-lg-top-0">
+                        <div class="inset-lg-left-30 inset-lg-right-30">
+                            <div class="inset-md-right-36"><a class="brand">For Library</a>
+                                
+                                <ul>
+                                    <ul>
+                                       <!-- <p class="text-left"><strong>Contact</strong></p> -->
+                                       <p><strong>Dr. J. Selvam,</strong> <br />M. Sc, MLIS, M. Phil, Ph.D.,<br />Librarian<br />A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9442594627<br /><strong>E-mail :</strong> selvampkk75@gmail.com<br />avvmspc.library@gmail.com<br /> </p>
+		                               <!-- <p><strong>Chat with Librarian:</strong> Chat with Librarian: In all working days 8:30 am to 4:15 pm. Users can chat with the librarian for any clarification on library services. Do you have a general libraries question and need a quick answer? Get instant answers on our Instant Librarian Chat Service</p> -->
+		                               <!-- <p><strong>Information Display Service:</strong><br />Library is displaying selection of current journals, new books and newspapers in respective section in the Library.</p> -->
+    
                                     </ul>
                                 </ul>
                             </div>
@@ -80,9 +113,41 @@ init_public_head();
                     </div>
 
 
+                    <div class="cell-xs-12 cell-sm-5 cell-md-4 cell-lg-2 offset-lg-top-0">
+                        <div class="inset-lg-left-30 inset-lg-right-30">
+                            <div class="inset-md-right-36"><a class="brand">For Admission</a>
+                                
+                                <ul>
+                                    <ul>
+                                       
+                                       <p><strong>Admission Committee Chairman / Members </strong> <br />A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9443972870<br /><strong>E-mail :</strong> admission@sripushpamcollege.co.in<br /></p>
+		                               
+                                    </ul>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="cell-xs-12 cell-sm-5 cell-md-4 cell-lg-2 offset-lg-top-0">
+                        <div class="inset-lg-left-30 inset-lg-right-30">
+                            <div class="inset-md-right-36"><a class="brand">For Hostel </a>
+                                
+                                <ul>
+                                    <ul>
+                                       
+                                       <p><strong>Hostal Warden </strong> <br />Srimathi Sethukannamal Hostal <br />> A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 04374-239522<br /><strong>E-mail :</strong> hostal.boys@sripushpamcollege.co.in<br />hostal.girls@sripushpamcollege.co.in<br /></p>
+		                               
+                                    </ul>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+
+
                     <div class="cell-xs-12 cell-sm-12 cell-md-12 cell-lg-6  ">
                         <div class="inset-lg-left-30 inset-lg-right-30 color: #fff;">
-                            <div class="inset-md-right-36"><a class="brand"> Address</a> <br /><br />
+                            <div class="inset-md-right-36"> <br /><br /> <a class="brand"> <br /><br /> Address</a> <br /><br />
                                 <iframe frameborder="0" height="250" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6591.777213529097!2d79.24363808909177!3d10.773411681446479!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3dbfdda441f8867f!2sA.V.V.M.+Sri+Pushpam+College!5e0!3m2!1sen!2sin!4v1561802003599!5m2!1sen!2sin" style="border: 0;" width="100%"></iframe>
                             </div>
                         </div>
@@ -108,17 +173,17 @@ init_public_head();
     </footer>
 <!-- </footer> -->
 
-<!-- <section class="section-90 section-md-top-20 section-md-bottom-111 ">
+<section class="section-90 section-md-top-20 section-md-bottom-111 ">
 	<div id="fb-root"></div>
 	<div class="shell-fluid">
 		<div class=" text-left">
-		<div class="cell-xs-4 cell-lg-4">
+		<!-- <div class="cell-xs-4 cell-lg-4">
 					<?php department_quicklinks();?>
-				</div>
+				</div> -->
 
 		</div>
 	</div>
-</section> -->
+</section> 
 <?php
 // init_public_tail();
 ?> 
