@@ -4,7 +4,7 @@ init_public_head();
 ?>
 <section class="section-90 section-md-111 text-left">
 	<div class="shell">
-		<h2><strong>MINORITY CELL</strong></h2>
+		<h2><center><strong>MINORITY CELL</strong></center></h2>
 		<br /><br />
 		
 		<h5><strong>MINORITY CELL </strong></h5> <br />

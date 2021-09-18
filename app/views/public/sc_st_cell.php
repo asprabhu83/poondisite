@@ -6,7 +6,7 @@ init_public_head();
 <!------------------------------------------------------------------------------------------------>
 <section class="section-90 section-md-111 text-left">
     <div class="shell">
-        <h2><strong>SC & ST CELL</strong></h2>
+        <h2><center><strong>SC & ST CELL</strong></center></h2>
         <br />
 
         <h5><strong>Ref.No :</strong></h5> <br />

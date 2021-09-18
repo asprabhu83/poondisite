@@ -4,7 +4,7 @@ init_public_head();
 ?>
 <section class="section-90 section-md-111 text-left">
 	<div class="shell">
-		<h2><strong>OBC CELL</strong></h2>
+		<h2><center><strong>OBC CELL</strong></center></h2>
 		<br /><br />
 		
 		<h5><strong>OBC CELL </strong></h5> <br />
