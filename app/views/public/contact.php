@@ -135,7 +135,7 @@ init_public_head();
                                 <ul>
                                     <ul>
                                        
-                                       <p><strong>Hostal Warden </strong> <br />Srimathi Sethukannamal Hostal <br />> A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 04374-239522<br /><strong>E-mail :</strong> hostal.boys@sripushpamcollege.co.in<br />hostal.girls@sripushpamcollege.co.in<br /></p>
+                                       <p><strong>Hostal Warden </strong> <br />Srimathi Sethukannamal Hostal <br /> A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 04374-239522<br /><strong>E-mail :</strong> hostal.boys@sripushpamcollege.co.in<br />hostal.girls@sripushpamcollege.co.in<br /></p>
 		                               
                                     </ul>
                                 </ul>
