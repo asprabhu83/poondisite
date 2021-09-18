@@ -596,6 +596,14 @@ class Website extends App_Controller
         $this->load->view('public/obc_cell1',$this->data);
     }
     
+    public function minority_cell()
+    {
+        $this->data['title'] = "MINORITY CELL";
+        $this->data['menu_minority_cell'] = "active";
+        $this->load->view('public/minority_cell',$this->data);
+    }
+    
+
     public function iqac_members()
     {
         $this->data['title'] = "IQAC Members";
