@@ -5,9 +5,10 @@ init_public_head();
 <div class="container-fluid marqueewrap">
 	<div class="alert alert-primary alert-dismissible" role="alert">
 		<marquee>
-			<strong>35th Academic Council Meeting on 18.09.2021 at 10.30 a.m.</strong><span>&#9733;</span>
-			<strong><a href="<?php echo base_url('assets/images/founderdaysep2021.jpeg') ?>" target="_blank">51st Founder's Commemoration Day on 17.09.2021</strong></a><span>&#9733;</span>
-			<strong><a href="<?php echo base_url('assets/images/iobpay.jpeg') ?>" target="_blank">Inaugural Function of IOB Pay on 14.09.2021 at 2.30 p.m.</strong></a>
+			<strong><span>&#9733;</span> <a href="<?php echo base_url('https://cubonline.biz/StudentLogin?Instname=AVVMSPCP') ?>" target="_blank">Last date for Payment of Tuition Fees on 28.09.2021 at 4.30 p.m.</a><span>&#9733;</span></strong>
+			<!-- <strong>35th Academic Council Meeting on 18.09.2021 at 10.30 a.m.</strong><span>&#9733;</span> -->
+			<!-- <strong><a href="<?php echo base_url('assets/images/founderdaysep2021.jpeg') ?>" target="_blank">51st Founder's Commemoration Day on 17.09.2021</strong></a><span>&#9733;</span> -->
+			<!-- <strong><a href="<?php echo base_url('assets/images/iobpay.jpeg') ?>" target="_blank">Inaugural Function of IOB Pay on 14.09.2021 at 2.30 p.m.</strong></a> -->
 		</marquee>
 	</div>
 </div>
