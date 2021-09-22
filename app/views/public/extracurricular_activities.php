@@ -29,6 +29,8 @@ init_public_head();
 						<li><a href="<?php echo base_url('yrc')?>"style="color: #31708f;"> Youth Red Cross</a></li>
 						<li><a href="<?php echo base_url('associations')?>" style="color: #31708f;">Associations</a></li>
 						<li><a href="<?php echo base_url('ecoclub')?>"  style="color: #31708f;">Eco Club</a></li>
+						<li><a href="<?php echo base_url('public/pdf/extra/uba.pdf')?>"  style="color: #31708f;">Unnat Bharat Abhiyan(UBA)</a></li>
+						<!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2018.pdf') ?>"><span>NIRF 2018</span></a> -->
 					</ul>
 				</div>
 			</div>
