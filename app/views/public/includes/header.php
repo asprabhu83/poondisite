@@ -231,7 +231,15 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>                                                                                                        
                                                     <li class="active "><a href="<?php echo base_url('iqac_meet') ?>"><span>IQAC Meet </span></a>
                                                     </li>
-                                                    <li class="active "><a href="<?php echo base_url('public/pdf/IQAC/Code_of_conduct_SSR-converted.pdf') ?>"><span>Code Of Conduct</span></a>
+                                                    <!-- <li class="active "><a href="<?php echo base_url('public/pdf/IQAC/Code_of_conduct_SSR-converted.pdf') ?>"><span>Code Of Conduct</span></a> -->
+                                                    <li class="active"><a href="<?php echo base_url('#') ?>"><span>Policies</span></a>
+                                                        <ul class="rd-navbar-dropdown">
+                                                            <li class="active "><a href="<?php echo base_url('public/pdf/IQAC/Code_of_conduct_SSR-converted.pdf') ?>"><span>Code Of Conduct</span></a>
+                                                            <li class="active "><a href="<?php echo base_url('public/pdf/IQAC/Research_Policy.pdf') ?>"><span>Research Policy</span></a>
+                                                        </ul>
+                                                    </li>
+
+
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/IQAC/Action%20Taken%20Report%20of%20IQAC%202019.pdf') ?>"><span>Action Taken Report </span></a>
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/IQAC/Undertaking%20Form%20and%20RTI.pdf') ?>"><span>Principal's Undertaking</span></a>
@@ -337,7 +345,16 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
 
                                                 </ul>
                                             </li>
-                                            <li class="active"><a href="<?php echo base_url('contact') ?>"><span>Contact</span></a></li>
+                                            <li class="active"><a href="#"><span>Events 2021</span></a>
+                                                <ul class="rd-navbar-dropdown">
+                                                    <!-- <li class="active "><a href="<?php echo base_url('nirf') ?>"><span>About NIRF</span></a> -->
+                                                    <li class="active "><a href="<?php echo base_url('#') ?>"><span>Founder's Day 2021 (122 nd)</span></a>
+                                                    <li class="active "><a href="<?php echo base_url('public/pdf/Events/Founders_Commemoration_Day_17_09_2021.pdf') ?>"><span>Founder's Commemoration Day 2021 (51 st)</span></a>
+                                                    <li class="active "><a href="<?php echo base_url('#') ?>"><span>Academic Councial Meeting 2021</span></a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li class="active"><a href="<?php echo base_url('contact') ?>"><span>Contact Us</span></a></li>
                                         </ul>
                                     </div>
                                 </div>

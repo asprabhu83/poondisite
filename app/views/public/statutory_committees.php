@@ -149,11 +149,22 @@ init_public_head();
 														<td colspan="2"><strong>VICE &ndash; CHAIRMEN</strong></td>
 													</tr>
 													<tr>
-														<td>Dr. V.Ravichandaran, Ph.D.<br /> Dr. S.Kumaravel, Ph.D.</td>
-														<td>Dean-Arts &amp; Commerce <br /> Dean-Science</td>
+														<td>Dr. S.Kumaravel, Ph.D.<br /> Dr. V.Ravichandaran, Ph.D.</td>														
+														<td>Dean, Faculty of Science <br /> Dean, Faculty of Arts &amp; Commerce</td>
+														
 													</tr>
 													<tr>
 														<td colspan="2"><strong>MEMBERS</strong></td>
+													</tr>
+
+													<tr>
+														<td><strong>Thiru. C.Chandran.</td>
+														<td>CONTROLLER OF Examinations</td></strong>
+													</tr>
+
+													<tr>
+														<td>Dr. V.Maniraj</td>
+														<td>Computer Science</td>
 													</tr>
 													<tr>
 														<td>Dr. M.S.Muthuramalingam</td>
@@ -164,9 +175,18 @@ init_public_head();
 														<td>Botany and Microbiology</td>
 													</tr>
 													<tr>
-														<td>Dr. R.Rajakumar</td>
-														<td>Zoology and Biotechnology</td>
+														<td>Dr. C. Radhakrishnan</td>
+														<td>English </td>
 													</tr>
+													<tr>
+														<td>Dr. R. Subashchandrabose</td>
+														<td>IQAC Coordinator </td>
+													</tr>
+													<tr>
+														<td>Dr. K.Thirumavalavan</td>
+														<td>Commerce</td>
+													</tr>
+													
 													<tr>
 														<td>Dr. N. Shivaji Kabilan</td>
 														<td>Tamil</td>
@@ -176,78 +196,93 @@ init_public_head();
 														<td>Chemistry</td>
 													</tr>
 													<tr>
+														<td>Dr. G. Marimuthu</td>
+														<td>Mathematics </td>
+													</tr>
+													
+													<tr>
 														<td>Dr. K.Ravichandran</td>
 														<td>Physics</td>
 													</tr>
 													<tr>
-														<td>Dr. C. Radhakrishnan</td>
-														<td>English </td>
+														<td>Dr. R.Rajakumar</td>
+														<td>Zoology and Biotechnology</td>
 													</tr>
 													<tr>
-														<td>Dr. K.Thirumavalavan</td>
-														<td>Commerce</td>
+														<td>Dr. P.Jegan</td>
+														<td>Director - SPCTE</td>
 													</tr>
 													<tr>
 														<td>Dr. S.Sangeetha</td>
 														<td>Economics</td>
 													</tr>
 													<tr>
-														<td>Dr. V. Malarvizhi</td>
-														<td>History</td>
-													</tr>
-													<tr>
 														<td>Dr. D. Bhuvaneswari</td>
 														<td>Hindi</td>
+													</tr>
+													<tr>
+														<td>Dr. V. Malarvizhi</td>
+														<td>History</td>
 													</tr>
 													<tr>
 														<td>Dr. J.Selvam</td>
 														<td>Library and Info. Science</td>
 													</tr>
-													<tr>
-														<td colspan="2"><strong>CONTROLLER OF EXAMINATIONS</strong><br />Thiru. C.Chandran.</td>
-													</tr>
+													
 													<tr>
 														<td colspan="2"><strong>FOUR TEACHERS FROM THE COLLEGE AT DIFFERENT LEVELS FOR 2 YEARS<br />Thiruvalargal</strong></td>
 													</tr>
-													<!-- <tr>
-														<td>Dr. G.Marimuthu</td>
-														<td>Maths</td>
+													<tr>
+														<td>Dr. T.Chakkaravarthy</td>
+														<td>Computer Science</td>
 													</tr>
 													<tr>
-														<td>Dr.K.Sivakumar,</td>
-														<td>English</td>
-													</tr>
-													<tr>
-														<td>Dr. A.R.Balu,</td>
+														<td>Dr.B.Sakthivel,</td>
 														<td>Physics</td>
 													</tr>
 													<tr>
-														<td>Dr.A.Ananth,</td>
-														<td>Commerce</td>
-													</tr> -->
+														<td>Dr. R.Mayilraj,</td>
+														<td>English</td>
+													</tr>
+													<tr>
+														<td>Dr.S.Vijayakumar,</td>
+														<td>Botany</td>
+													</tr>
 												</tbody>
 											</table>
 											<br />
+											
+											
 											<p align="justify" class="text-gray-darker"><strong>FOUR EXPERTS FROM OUTSIDE</strong></p>
 											<p><strong>Dr. V. Varadharajan,</strong><br />III Cross, Arulananda Nagar, Thanjavur.</p>
 											<p><strong>Er. S. Rajendran,</strong><br />11, Ketharapuram, Eswari Nagar, Thanjavur.</p>
-											<p><strong>Dr. G.Vasuki, ,</strong><br />Associate Professor of Physics &amp; COE <br />KNG College for Women, Thanjavur</p>
-											<p><strong>Dr. G. Arunachalam, </strong><br />Associate Professor &amp; Head, <br />RSG College, <br />Thanjavur.</p>
+											<p><strong>Dr. G. Vasuki, ,</strong><br />Associate Professor of Physics &amp; COE <br />KNG College for Women, Thanjavur</p>
+											<p><strong>Dr. R. Elavarasu, </strong><br />Head &amp; Associate Professor of English, <br />National College, <br />Trichirapalli.</p>
 											<br />
+											
+											
 											<p align="justify" class="text-gray-darker"><strong>NOMINEES OF THE UNIVERSITY</strong></p>
 											<p><strong>Dr. S.Narkunaraja,</strong><br />Professor and Head, Department of Bio Medical Science, <br />Bharathidasan University, <br />Thiruchirapalli - 24.</p>
 											<p><strong>Dr. A.Tamilselvan,</strong><br />Professor and Head,<br />Department of Environmental Management<br />Bharathidasan University,<br />Thiruchirapalli - 24.</p>
+											
 											<p align="justify" class="text-gray-darker"><strong>Member - Co-odinator</strong></p>
 											<p><strong> Dr. S.Arumugam</strong><br />Professor, Department of Physics, <br />Bharathidasan University,<br />Thiruchirapalli - 24.</p>
+											
+											<p align="justify" class="text-gray-darker"><strong>Special Invitee</strong></p>
+											<p><strong> Dr. A.S.Nageshwaran</strong><br />Director, Council for College & Curriculum Development, <br />Bharathidasan University,<br />Thiruchirapalli - 24.</p>
+
 											<p align="justify" class="text-gray-darker"><strong>ONE REPRESENTATIVE OF THE STATE GOVERNMENT</strong></p>
-											<p>Joint Director of Collegiate Education, Thanjavur Region, Thanjavur.</p>
+											<p><strong>Dr.T.Arivudai Nambi,</strong> <br/>Joint Director of Collegiate Education, Thanjavur Region, Thanjavur.</p>
+											
 											<p align="justify" class="text-gray-darker"><strong>STUDENT REPRESENTATIVES</strong></p>
-											<!-- <p>Ms. E. Manikandan, IIM.Sc Maths</p>
-											<p>R.Sudarvizhi, II M.A. English</p> -->
+											<p>N.Narmatha, II M.A., Economics</p>
+											<p>R.Vishvashyam, II M.Sc., Botany</p>
+											
 											<p align="justify" class="text-gray-darker"><strong>REPRESENTATIVE FROM THE COLLEGE OFFICE</strong></p>
-											<p>Mr. Anandanarayanan, Superintendent.</p>
+											<p>Mr. M. Anandanarayanan, Superintendent.</p>
+											
 											<p align="justify" class="text-gray-darker"><strong>NON MEMBER SECRETARY</strong></p>
-											<p>Dr. K. Ashokan Zoology</p>
+											<p>Dr. K. Balakrishnan, Chemistry</p>
 										</div>
 									</div><br>
 									<div>
@@ -258,23 +293,29 @@ init_public_head();
 												<tbody></tbody>
 												<tbody>
 													<tr>
-														<td colspan="2">Thiruvalargal/Tmt.</td>
-													</tr>
-													<tr>
-														<td>Dr. R. Sivakumar</td>
+														<td><strong>CHAIRMAN</strong><br />Dr.R.Sivakumar</td>
 														<td>Principal</td>
 													</tr>
 													<tr>
-														<td>Dr. V.Ravichandaran, Ph.D.<br /> Dr. S.Kumaravel, Ph.D.</td>
-														<td>Dean-Arts &amp; Commerce <br /> Dean-Science</td>
+														<td colspan="2"><strong>VICE &ndash; CHAIRMEN</strong></td>
 													</tr>
 													<tr>
-														<td>Dr.C. Chandran </td>
-														<td>Controller of Examinations</td>
+														<td>Dr. S.Kumaravel, Ph.D.<br /> Dr. V.Ravichandaran, Ph.D.</td>														
+														<td>Dean, Faculty of Science <br /> Dean, Faculty of Arts &amp; Commerce</td>
+														
 													</tr>
 													<tr>
-														<td>Dr.V.Nandhakumar</td>
-														<td>Chemistry</td>
+														<td colspan="2"><strong>MEMBERS</strong></td>
+													</tr>
+
+													<tr>
+														<td><strong>Thiru. C.Chandran.</td>
+														<td>CONTROLLER OF Examinations</td></strong>
+													</tr>
+
+													<tr>
+														<td>Dr. V.Maniraj</td>
+														<td>Computer Science</td>
 													</tr>
 													<tr>
 														<td>Dr. M.S.Muthuramalingam</td>
@@ -285,47 +326,68 @@ init_public_head();
 														<td>Botany and Microbiology</td>
 													</tr>
 													<tr>
-														<td>Dr.R.Rajakumar</td>
-														<td>Zoology and Bio-technology</td>
+														<td>Dr. C. Radhakrishnan</td>
+														<td>English </td>
 													</tr>
+													<!-- <tr>
+														<td>Dr. R. Subashchandrabose</td>
+														<td>Computer Science </td>
+													</tr> -->
+													<tr>
+														<td>Dr. K.Thirumavalavan</td>
+														<td>Commerce</td>
+													</tr>
+													
+													<tr>
+														<td>Dr. N. Shivaji Kabilan</td>
+														<td>Tamil</td>
+													</tr>
+													<tr>
+														<td>Dr. V.Nandhakumar</td>
+														<td>Chemistry</td>
+													</tr>
+													<tr>
+														<td>Dr. G. Marimuthu</td>
+														<td>Mathematics </td>
+													</tr>
+													
 													<tr>
 														<td>Dr. K.Ravichandran</td>
 														<td>Physics</td>
 													</tr>
 													<tr>
-														<td>Dr. N.Shivaji Kabilan</td>
-														<td>Tamil</td>
+														<td>Dr. R.Rajakumar</td>
+														<td>Zoology and Biotechnology</td>
 													</tr>
 													<tr>
-														<td>Dr. C.Radhakrishnan</td>
-														<td>English </td>
-													</tr>
-													<tr>
-														<td>Dr.K.Thirumavalavan</td>
-														<td>Commerce</td>
+														<td>Dr. P.Jegan</td>
+														<td>Director - SPCTE</td>
 													</tr>
 													<tr>
 														<td>Dr. S.Sangeetha</td>
 														<td>Economics</td>
 													</tr>
 													<tr>
-														<td>Dr.V. Malarvizhi</td>
-														<td>History</td>
-													</tr>
-													<tr>
 														<td>Dr. D. Bhuvaneswari</td>
 														<td>Hindi</td>
 													</tr>
 													<tr>
-														<td>Dr.J.Selvam</td>
+														<td>Dr. V. Malarvizhi</td>
+														<td>History</td>
+													</tr>
+													<tr>
+														<td>Dr. J.Selvam</td>
 														<td>Library and Info. Science</td>
 													</tr>
+																										
 													<tr>
 														<td>Mr. Anandanarayanan</td>
 														<td>Office Superintendent</td>
 													</tr>
 												</tbody>
 											</table>
+											<br />
+												
 
 										</div>
 									</div>
@@ -353,8 +415,8 @@ init_public_head();
 											<p>Associate Professor of English,<br />Jamal Mohamed College (Autonomous),<br />Tiruchirappalli – 620 020.</p>
 
 											<p><strong>NOMINEES FROM THE TEACHING FACULTY</strong></p>
-											<!-- <p>Dr.V.Maniraj - Computer Science</p>
-											<p>Dr.K.Balakrishnan - Chemistry</p> -->
+											<p>Dr.V.Maniraj - Computer Science</p>
+											<p>Dr.K.Balakrishnan - Chemistry</p>
 											<p><strong>REPRESENTATIVE FROM COLLEGE OFFICE </strong></p>
 											<p>Mr. Anandanarayanan, Supreintendent</p>
 										</div>
