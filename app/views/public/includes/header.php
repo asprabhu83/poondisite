@@ -273,7 +273,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                             </li> -->
 
                                             <li class="active "><a href="<?php echo base_url('coe') ?>"><span>Examinations </span></a>
-                                            <ul class="rd-navbar-dropdown">
+                                                <ul class="rd-navbar-dropdown">
                                                     <li class="active "><a href="<?php echo base_url('coe') ?>"><span>About Examinations</span></a>
                                                     <li class="active "><a href="https://www.iobnet.co.in/iobpay/entry.do?dirlinkmerid=AVVTAN&dirlinkcatcd=EDU" target="_blank"><span>Exam Fees</span></a>
                                                     <!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2021.pdf') ?>"><span>NIRF 2021</span></a>
