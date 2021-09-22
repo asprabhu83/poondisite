@@ -149,7 +149,8 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('syllabus') ?>"><span>Syllabus</span></a>
                                                     </li>
-                                                                                                                                                         
+                                                    <li class="active "><a href="<?php echo base_url('research') ?>"><span>Research</span></a>
+                                                    </li>                                                                                                                                                         
                                                 </ul>
                                             </li>
 

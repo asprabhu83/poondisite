@@ -203,22 +203,22 @@ init_public_head();
 											</tr>
 											<tr>
 												<td></td>
-												<td>Industrial Chemistry</td>
-												<td>1983-84</td>
+												<td>Industrial Chemistry Changed into Chemistry</td>
+												<td>1983-84 changed year 2009-10</td>
 											</tr>
-											<tr>
+											<!-- <tr>
 												<td></td>
 												<td align="center">Changed into</td>
 												<td></td>
 											</tr>
 											<tr>
 												<td></td>
-												<td align="center">General Chemistry</td>
+												<td align="center"> Chemistry</td>
 												<td>2009-10</td>
-											</tr>
+											</tr> -->
 											<tr>
 												<td></td>
-												<td align="center">General Chemistry</td>
+												<td align="center">Chemistry</td>
 												<td>2002-03</td>
 											</tr>
 											<tr>
@@ -271,9 +271,9 @@ init_public_head();
 								</div>
 								<div><br />
 									<ul class="list list-marked">
-										<li> History</li>
-										<li> Economics</li>
-										<li> Tamil</li>
+										<li>History</li>
+										<li>Economics</li>
+										<li>Tamil</li>
 										<li>English</li>
 										<li>Commerce</li>
 										<li>Mathematics</li>
