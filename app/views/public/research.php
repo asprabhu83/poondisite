@@ -5,12 +5,12 @@ init_public_head();
 <div class="section-height-800 breadcrumb-departments context-dark text-center">
 	<div class="shell section-bottom-30">
 		<div class="veil reveal-md-block">
-			<h1 class="text-bold" style="color: cornsilk;">DEPARTMENTS</h1>
+			<h1 class="text-bold" style="color: cornsilk;">RESEARCH</h1>
 		</div>
 		<ul class="list-inline list-inline-with-arrows p">
 			<ul class="list-inline list-inline-with-arrows p">
 				<li><a href="<?php echo base_url()?>" class="text-white">Home </a></li>
-				<li>Departments</li>
+				<li>Research</li>
 			</ul>
 		</ul>
 	</div>
