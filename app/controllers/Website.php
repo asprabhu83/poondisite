@@ -194,6 +194,14 @@ class Website extends App_Controller
         $this->load->view('public/programmes', $this->data);
     }
 
+    public function research()
+    {
+
+        $this->data['title'] = "Research";
+        $this->data['menu_reseaarch'] = "active";
+        $this->load->view('public/research', $this->data);
+    }
+
     // public function course_outcomes()
     // {
 
