@@ -25,7 +25,7 @@ init_public_head();
             <div class="text-left section-90 section-lg-top-111 section-lg-bottom-120 context-dark">
                 <div class="range range-xs-center">
                     <div class="cell-xs-12 cell-sm-5 cell-md-4 cell-lg-2 ">
-                        <h4 class="brand">For Administrative office</h4>
+                        <h4 class="brand">Administrative office</h4>
                         <br />
                         <div class="unit unit-middle unit-horizontal unit-spacing-xs unit-xs-top offset-top-20">
                             <div class="unit-left"><span class="icon icon-sm-size-1 mdi mdi-map-marker"></span></div>
@@ -64,7 +64,7 @@ init_public_head();
                     
                     <div class="cell-xs-12 cell-sm-5 cell-md-4 cell-lg-2 offset-lg-top-0">
                         <div class="inset-lg-left-30 inset-lg-right-30">
-                            <div class="inset-md-right-36"><a class="brand">For Principal</a>
+                            <div class="inset-md-right-36"><a class="brand">Principal</a>
                                 
                                 <ul>
                                     <ul>
@@ -82,7 +82,7 @@ init_public_head();
                     
                     <div class="cell-xs-12 cell-sm-5 cell-md-4 cell-lg-2 offset-lg-top-0">
                         <div class="inset-lg-left-30 inset-lg-right-30">
-                            <div class="inset-md-right-36"><a class="brand">For Examination</a>
+                            <div class="inset-md-right-36"><a class="brand">Examination</a>
                                 
                                 <ul>
                                     <ul>
@@ -97,12 +97,12 @@ init_public_head();
 
                     <div class="cell-xs-12 cell-sm-5 cell-md-4 cell-lg-2 offset-lg-top-0">
                         <div class="inset-lg-left-30 inset-lg-right-30">
-                            <div class="inset-md-right-36"><a class="brand">For Library</a>
+                            <div class="inset-md-right-36"><a class="brand">Library</a>
                                 
                                 <ul>
                                     <ul>
                                        <!-- <p class="text-left"><strong>Contact</strong></p> -->
-                                       <p><strong>Dr. J. Selvam,</strong> <br />M. Sc, MLIS, M. Phil, Ph.D.,<br />Librarian<br />A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9442594627<br /><strong>E-mail :</strong> selvampkk75@gmail.com<br />avvmspc.library@gmail.com<br /> </p>
+                                       <p><strong>Dr. J. Selvam,</strong> <br />M. Sc, MLIS, M. Phil, Ph.D.,<br />Librarian<br />A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 8056996031<br /><strong>E-mail :</strong> selvampkk75@gmail.com<br />avvmspc.library@gmail.com<br /> </p>
 		                               <!-- <p><strong>Chat with Librarian:</strong> Chat with Librarian: In all working days 8:30 am to 4:15 pm. Users can chat with the librarian for any clarification on library services. Do you have a general libraries question and need a quick answer? Get instant answers on our Instant Librarian Chat Service</p> -->
 		                               <!-- <p><strong>Information Display Service:</strong><br />Library is displaying selection of current journals, new books and newspapers in respective section in the Library.</p> -->
     
@@ -115,7 +115,7 @@ init_public_head();
 
                     <div class="cell-xs-12 cell-sm-5 cell-md-4 cell-lg-2 offset-lg-top-0">
                         <div class="inset-lg-left-30 inset-lg-right-30">
-                            <div class="inset-md-right-36"><a class="brand">For Admission</a>
+                            <div class="inset-md-right-36"><a class="brand">Admission</a>
                                 
                                 <ul>
                                     <ul>
@@ -130,7 +130,7 @@ init_public_head();
 
                     <div class="cell-xs-12 cell-sm-5 cell-md-4 cell-lg-2 offset-lg-top-0">
                         <div class="inset-lg-left-30 inset-lg-right-30">
-                            <div class="inset-md-right-36"><a class="brand">For Hostel </a>
+                            <div class="inset-md-right-36"><a class="brand">Hostel </a>
                                 
                                 <ul>
                                     <ul>

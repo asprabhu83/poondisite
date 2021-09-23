@@ -5,7 +5,7 @@ init_public_head();
 <div class="section-height-800 breadcrumb-chemistry context-dark text-center">
 	<div class="shell section-bottom-30">
 		<div class="veil reveal-md-block">
-			<h1 class="text-bold">PG &amp; RESEARCH DEPARTMENT OF CHEMISTRY</h1>
+			<h1 class="text-bold">Chemistry</h1>
 		</div>
 		<ul class="list-inline list-inline-with-arrows p">
 			<ul class="list-inline list-inline-with-arrows p">
@@ -24,7 +24,7 @@ init_public_head();
 
 				</div>
 				<div class="cell-xs-8 cell-lg-8">
-					<h2 class="text-bold text-center">Chemistry</h2>
+					<h2 class="text-bold text-center">PG &amp; RESEARCH DEPARTMENT OF CHEMISTRY</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
 					<!--	<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
