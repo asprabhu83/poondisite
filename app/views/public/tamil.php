@@ -5,7 +5,7 @@ init_public_head();
 <div class="section-height-800 breadcrumb-tamil context-dark text-center">
 	<div class="shell section-bottom-30">
 		<div class="veil reveal-md-block">
-			<h1 class="text-bold">Tamil</h1>
+			<h1 class="text-bold">PG &amp; RESEARCH DEPARTMENT OF TAMIL</h1>
 		</div>
 		<ul class="list-inline list-inline-with-arrows p">
 			<ul class="list-inline list-inline-with-arrows p">
@@ -28,7 +28,7 @@ init_public_head();
 					<div class="offset-top-20"></div>
 					<br />
 					<div class="offset-top-20">
-						<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
+				<!--		<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>
@@ -127,7 +127,7 @@ init_public_head();
 									</tr>
 								</tbody>
 							</table>
-						</div>
+						</div> -->
 						<h4 align="" class="text-bold offset-top-30" id="q-3">FACULTY MEMBERS</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">

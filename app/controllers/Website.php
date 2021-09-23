@@ -287,6 +287,106 @@ class Website extends App_Controller
         $this->load->view('public/statistics', $this->data);
     }
 
+    
+    public function res_history()
+    {
+
+        $this->data['title'] = "History";
+        $this->data['menu_res_history'] = "active";
+        $this->load->view('public/res_history', $this->data);
+    }
+
+    public function res_economics()
+    {
+
+        $this->data['title'] = "Economics";
+        $this->data['menu_res_economics'] = "active";
+        $this->load->view('public/res_economics', $this->data);
+    }
+    
+    public function res_tamil()
+    {
+
+        $this->data['title'] = "Tamil";
+        $this->data['menu_res_tamil'] = "active";
+        $this->load->view('public/res_tamil', $this->data);
+    }
+
+    public function res_english()
+    {
+
+        $this->data['title'] = "English";
+        $this->data['menu_res_english'] = "active";
+        $this->load->view('public/res_english', $this->data);
+    }
+
+    public function res_commerce()
+    {
+
+        $this->data['title'] = "Commerce";
+        $this->data['menu_res_commerce'] = "active";
+        $this->load->view('public/res_commerce', $this->data);
+    }
+
+    public function res_mathematics()
+    {
+
+        $this->data['title'] = "Mathematics";
+        $this->data['menu_res_mathematics'] = "active";
+        $this->load->view('public/res_mathematics', $this->data);
+    }
+
+    public function res_physics()
+    {
+
+        $this->data['title'] = "Physics";
+        $this->data['menu_res_physics'] = "active";
+        $this->load->view('public/res_physics', $this->data);
+    }
+    public function res_chemistry()
+    {
+
+        $this->data['title'] = "Chemistry";
+        $this->data['menu_res_chemistry'] = "active";
+        $this->load->view('public/res_chemistry', $this->data);
+    }
+
+    public function res_botany()
+    {
+
+        $this->data['title'] = "Botany";
+        $this->data['menu_res_botany'] = "active";
+        $this->load->view('public/res_botany', $this->data);
+    }
+
+    public function res_microbiology()
+    {
+
+        $this->data['title'] = "Microbiology";
+        $this->data['menu_res_microbiology'] = "active";
+        $this->load->view('public/res_microbiology', $this->data);
+    }
+    public function res_zoology()
+    {
+
+        $this->data['title'] = "Zoology";
+        $this->data['menu_res_zoology'] = "active";
+        $this->load->view('public/res_zoology', $this->data);
+    }
+    public function res_computer_science()
+    {
+
+        $this->data['title'] = "Computer Science";
+        $this->data['menu_res_computer_science'] = "active";
+        $this->load->view('public/res_computer_science', $this->data);
+    }
+    public function res_hindi()
+    {
+
+        $this->data['title'] = "Hindi";
+        $this->data['menu_res_hindi'] = "active";
+        $this->load->view('public/res_hindi', $this->data);
+    }
     public function tamil()
     {
 

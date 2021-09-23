@@ -5,7 +5,7 @@ init_public_head();
 <div class="section-height-800 breadcrumb-geography context-dark text-center">
     <div class="shell section-bottom-30">
         <div class="veil reveal-md-block">
-            <h1 class="text-bold">Business Administration</h1>
+            <h1 class="text-bold">DEPARTMENT OF BUSINESS ADMINISTRATION </h1>
         </div>
         <ul class="list-inline list-inline-with-arrows p">
             <ul class="list-inline list-inline-with-arrows p">
@@ -27,7 +27,7 @@ init_public_head();
                     <h2 class="text-bold text-center">Department of Business Administration</h2>
                     <div class="offset-top-20"></div>
                     <div class="offset-top-20">
-                        <h4 align="" class="text-bold offset-top-30" id="q-2">PROGRAMMES</h4>
+               <!--         <h4 align="" class="text-bold offset-top-30" id="q-2">PROGRAMMES</h4>
                         <br />
                         <table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
                             <tbody>
@@ -45,7 +45,7 @@ init_public_head();
                         </table>
 
                         <!--outcome--->
-                        <section class="">
+                      <!--      <section class="">
                             <div class="">
                                 <div class="">
                                     <div class="cell-sm-10 cell-md-11 cell-lg-9 cell-xl-6 offset-top-30">
@@ -53,7 +53,7 @@ init_public_head();
                                             <h4 class="text-bold center">PROGRAMME OUTCOMES</h4>
                                             <div class="offset-top-20">
                                                 <!-- Classic Accordion-->
-                                                <div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
+                                              <!--      <div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
                                                     <ul class="resp-tabs-list tabs-group-default" data-group="tabs-group-default">
                                                         <li>Undergraduate</li>
                                                     </ul>
@@ -87,7 +87,7 @@ init_public_head();
                                             <h4 class="text-bold center">PROGRAMME SPECIFIC OUTCOMES</h4>
                                             <div class="offset-top-20">
                                                 <!-- Classic Accordion-->
-                                                <div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
+                                              <!--      <div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
                                                     <ul class="resp-tabs-list tabs-group-default" data-group="tabs-group-default">
                                                         <li>Undergraduate</li>
                                                     </ul>
@@ -115,7 +115,7 @@ init_public_head();
                             </div>
                         </section>
                         <!-- end outcome-->
-                        <div class="handing-divider">
+                        <!--    <div class="handing-divider">
                             <div class="cell-sm-10 cell-md-11 cell-lg-9 cell-xl-6 offset-top-30">
                                 <div>
                                     <h4 class="text-bold center">SYLLABUS</h4>
@@ -129,10 +129,11 @@ init_public_head();
 
                             </div>
 
-                        </div>
+                        </div> 
                         <h4 align="" class="text-bold offset-top-30" id="q-2">RESEARCH ACTIVITIES</h4>
-                        <br />
-                        <h6 align="">Under process</h6>
+                        <br /> 
+                        <h6 align="">Under process</h6> 
+                        -->
                         <h4 align="" class="text-bold offset-top-30" id="q-3">FACULTY MEMBERS</h4>
                         <br />
                         <table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">

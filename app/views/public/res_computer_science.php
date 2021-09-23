@@ -5,7 +5,7 @@ init_public_head();
 <div class="section-height-800 breadcrumb-computer-science context-dark text-center">
 	<div class="shell section-bottom-30">
 		<div class="veil reveal-md-block">
-			<h1 class="text-bold">PG &amp; RESEARCH DEPARTMENT OF COMPUTER SCIENCE</h1>
+			<h1 class="text-bold">Computer Science</h1>
 		</div>
 		<ul class="list-inline list-inline-with-arrows p">
 			<ul class="list-inline list-inline-with-arrows p">
@@ -20,13 +20,13 @@ init_public_head();
 		<div class="shell-fluid">
 			<div class="range range-75 text-left">
 				<div class="cell-xs-4 cell-lg-4">
-					<?php department_quicklinks();?>
+					<?php research_quicklinks();?>
 				</div>
 				<div class="cell-xs-8 cell-lg-8">
 					<h2 class="text-bold text-center">Computer Science</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
-				<!--		<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
+						<!-- <h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>
@@ -73,7 +73,7 @@ init_public_head();
 											<h4 class="text-bold">PROGRAMMES OUTCOMES</h4>
 											<div class="offset-top-20">
 												<!-- Classic Accordion-->
-												<!--	<div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
+											<!--	<div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
 													<ul class="resp-tabs-list tabs-group-default" data-group="tabs-group-default">
 
 														<li>Undergraduate</li>
@@ -173,7 +173,7 @@ init_public_head();
 											<h4 class="text-bold">PROGRAMMES SPECIFIC OUTCOMES</h4>
 											<div class="offset-top-20">
 												<!-- Classic Accordion-->
-											<!--		<div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
+											<!--	<div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
 													<ul class="resp-tabs-list tabs-group-default" data-group="tabs-group-default">
 														<li>Undergraduate</li>
 														<li>Postgraduate</li>
@@ -264,7 +264,8 @@ init_public_head();
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
+
 						<h4 align="" class="text-bold offset-top-30" id="q-2">RESEARCH ACTIVITIES</h4>
 						<br />
 						<div style="overflow-x: auto;">
@@ -308,8 +309,8 @@ init_public_head();
 									</tr>
 								</tbody>
 							</table>
-						</div> -->
-						<h4 align="" class="text-bold offset-top-30" id="q-3">FACULTY MEMBERS</h4>
+						</div>
+					<!--	<h4 align="" class="text-bold offset-top-30" id="q-3">FACULTY MEMBERS</h4>
 						<br />
 						<div style="overflow-x: auto;">
 							<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
@@ -520,7 +521,7 @@ init_public_head();
 					<h4 align="" class="text-bold offset-top-30" id="q-2">BLOG</h4>
 					<br />
 					<h6 align=""><a href="http://avvmspccsc.blogspot.com" target="_blank" class="text-matrix" rel="noopener">click here</a></h6>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</div>

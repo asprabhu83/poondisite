@@ -24,10 +24,10 @@ init_public_head();
 
 				</div>
 				<div class="cell-xs-8 cell-lg-8">
-					<h2 class="text-bold text-center">Department of Statistics</h2>
+					<h2 class="text-bold text-center">PG & RESEARCH DEPARTMENT OF STATISTICS</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
-						<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
+					<!--	<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>
@@ -45,7 +45,7 @@ init_public_head();
 							</tbody>
 						</table>
 						<!--outcomes-->
-						<section class="">
+						<!-- <section class="">
 							<div class="">
 								<div class="">
 									<div class="cell-sm-10 cell-md-11 cell-lg-9 cell-xl-6 offset-top-30">
@@ -53,7 +53,7 @@ init_public_head();
 											<h4 class="text-bold center">PROGRAMME OUTCOMES</h4>
 											<div class="offset-top-20">
 												<!-- Classic Accordion-->
-												<div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
+													<!--	<div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
 													<ul class="resp-tabs-list tabs-group-default" data-group="tabs-group-default">
 														<li>Undergraduate</li>
 
@@ -85,7 +85,7 @@ init_public_head();
 											<h4 class="text-bold center">PROGRAMME SPECIFIC OUTCOMES</h4>
 											<div class="offset-top-20">
 												<!-- Classic Accordion-->
-												<div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
+													<!--	<div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
 													<ul class="resp-tabs-list tabs-group-default" data-group="tabs-group-default">
 														<li>Undergraduate</li>
 													</ul>
@@ -120,7 +120,7 @@ init_public_head();
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 						<h4 align="" class="text-bold offset-top-30" id="q-3">FACULTY MEMBERS</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">

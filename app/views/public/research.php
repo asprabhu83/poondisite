@@ -20,7 +20,7 @@ init_public_head();
 	<div class="shell-fluid">
 		<div class=" text-left">
 		<div class="cell-xs-4 cell-lg-4">
-					<?php department_quicklinks();?>
+					<?php research_quicklinks();?>
 				</div>
 
 		</div>

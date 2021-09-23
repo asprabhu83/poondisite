@@ -5,7 +5,7 @@ init_public_head();
 <div class="section-height-800 breadcrumb-botany context-dark text-center">
 	<div class="shell section-bottom-30">
 		<div class="veil reveal-md-block">
-			<h1 class="text-bold">PG &amp; RESEARCH DEPARTMENT OF MICROBIOLOGY</h1>
+			<h1 class="text-bold">Microbiology</h1>
 		</div>
 		<ul class="list-inline list-inline-with-arrows p">
 			<ul class="list-inline list-inline-with-arrows p">
@@ -20,14 +20,14 @@ init_public_head();
 		<div class="shell-fluid">
 			<div class="range range-75 text-left">
 				<div class="cell-xs-4 cell-lg-4">
-					<?php department_quicklinks(); ?>
+					<?php research_quicklinks(); ?>
 
 				</div>
 				<div class="cell-xs-8 cell-lg-8">
 					<h2 class="text-bold text-center">Microbiology</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
-						<!--	<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
+						<!-- <h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>
@@ -58,15 +58,15 @@ init_public_head();
 											<h4 class="text-bold center">PROGRAMME SPECIFIC OUTCOMES</h4>
 											<div class="offset-top-20">
 												<!-- Classic Accordion-->
-												<!--	<div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
+												<!-- <div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
 													<ul class="resp-tabs-list tabs-group-default" data-group="tabs-group-default">
-														<!-- <li>Undergraduate</li> -->
-														<!--	<li>Postgraduate</li>
+														<li>Undergraduate</li> 
+														<li>Postgraduate</li>
 														<li>M.Phil.</li>
 														<li>Ph.D.Microbiology</li>
 													</ul>
 													<div data-group="tabs-group-default" class="resp-tabs-container tabs-group-default">
-														<!-- <div>
+														<div>
 															<h5 class="inset-left-10"><strong> Programme Specific Outcomes for M.Sc. Microbiology</strong></h5><br>
 															<ul class="inset-left-30 list list-marked">
 
@@ -89,7 +89,7 @@ init_public_head();
 															</ul>
 															<br> -->
 
-														<!--		<h5 class="inset-left-10"><strong> Programme Specific Outcomes for M.Sc.Microbiology</strong></h5><br>
+												<!-- 			<h5 class="inset-left-10"><strong> Programme Specific Outcomes for M.Sc.Microbiology</strong></h5><br>
 															<ul class="inset-left-30 list list-marked">
 																<li> provides learning opportunities in basic principles of microbiology and infectious diseases, helpful to understand the lab animals in medical fields</li><br>
 																<li>become an entrepreneur in the field of medical lab technology, microbiologists in the govt. and private medical colleges, district headquarters. </li><br>
@@ -106,8 +106,8 @@ init_public_head();
 																<li>learn the combination of general and specialized education, simultaneously introducing the concepts of breadth and depth in learning. </li><br>
 																<li>not only advance their knowledge and understanding of the subject, but will also increase the ability of critical thinking, development of scientific attitude, handling of problems and generating solution, improve practical skills, enhance communication skill, social interaction, increase awareness in environment related issues and recognize the ethical value system.  </li><br>
 															</ul> -->
-															<br>
-															<!--	<h5 class="inset-left-10"><strong> Programme Specific Outcomes for M.Phil.Microbiology</strong></h5><br>
+														<!-- 	<br>
+															<h5 class="inset-left-10"><strong> Programme Specific Outcomes for M.Phil.Microbiology</strong></h5><br>
 															<ul class="inset-left-30 list list-marked">
 																<li> get employment opportunities in state and central govt. organizations like Indian Institute of Crop Processing Technology (Thanjavur), Central Food Technology Research Institute(Mysuru), National Research Centre for Banana(Trichy), Vector Control Board(Puducherry& Madurai), Tamil Nadu Pollution Control Board, lab technicians in medical colleges.</li><br>
 																<li>become Microbiologists and have an avenue to become entrepreneur in the area of agricultural, medical, food and environmental microbiology. </li><br>
@@ -135,7 +135,7 @@ init_public_head();
 
                             </div>
 
-                        </div>
+                        </div>  -->
 						<h4 align="" class="text-bold offset-top-30" id="q-2">RESEARCH ACTIVITIES</h4>
 						<br />
 						<div style="overflow-x: auto;">
@@ -198,8 +198,8 @@ init_public_head();
 										<td style="width: 20%;">Completed 2013-2016</td>
 										<td style="width: 10%;">Dr. M. Ayyanar</td>
 									</tr> -->
-									<!--	<tr>
-										<td style="width: 5%;">7.</td>
+									<tr>
+										<td style="width: 5%;">1.</td>
 										<td style="width: 20%;">Studies on isolation characterization and effect of different strains of Azospirillum spp. on paddy from Thanjavur dist.</td>
 										<td style="width: 10%;">UGC - Minor</td>
 										<td style="width: 10%;">2,70.000</td>
@@ -207,7 +207,7 @@ init_public_head();
 										<td style="width: 10%;">Dr. K. Kanimozhi</td>
 									</tr>
 									<tr>
-										<td style="width: 5%;">8.</td>
+										<td style="width: 5%;">2.</td>
 										<td style="width: 20%;">Evaluation of Phosphate solubilising fungi from mangrove soil as bio fertilizer</td>
 										<td style="width: 10%;">UGC - Minor</td>
 										<td style="width: 10%;">4,20.000</td>
@@ -215,7 +215,7 @@ init_public_head();
 										<td style="width: 10%;">Dr.G. Kanimozhi</td>
 									</tr>
 									<tr>
-										<td style="width: 5%;">9.</td>
+										<td style="width: 5%;">3.</td>
 										<td style="width: 20%;">Utilization of Agro waste for cultivation and biotechnological application of Volvariella sp</td>
 										<td style="width: 10%;">UGC - Minor</td>
 										<td style="width: 10%;">4,60.000</td>
@@ -230,10 +230,10 @@ init_public_head();
 										<td style="width: 20%;">Ongoing 2018-2021</td>
 										<td style="width: 10%;">Dr. M. Ayyanar</td>
 									</tr> -->
-								<!--	</tbody>
+								</tbody>
 							</table>
-						</div> -->
-						<h4 align="" class="text-bold offset-top-30" id="q-3">FACULTY MEMBERS</h4>
+						</div>
+						<!--<h4 align="" class="text-bold offset-top-30" id="q-3">FACULTY MEMBERS</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>
@@ -301,7 +301,7 @@ init_public_head();
 									<th><a href="<?php echo base_url('public/pdf/Departments/botany/14.%20Dr.Merlyn%20Stephen.pdf') ?>" target="_blank" rel="noopener">Dr. Merlyn Stephan</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr> -->
-								<tr>
+							<!--	<tr>
 									<th colspan="3">Self &ndash; Finance Faculty</th>
 								</tr>
 								<tr>
@@ -324,7 +324,7 @@ init_public_head();
 									<th><a href="<?php echo base_url('public/pdf/Departments/botany/19.%20R.ELAKIYA.pdf') ?>" target="_blank" rel="noopener">Mrs. R. Elakkiya </a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
-								<!-- <tr>
+							 <tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/botany/20.%20R.KALAVATHI.pdf') ?>" target="_blank" rel="noopener">R.Kalavathi</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
@@ -339,14 +339,14 @@ init_public_head();
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/botany/23.%20S.SUGUNA.pdf') ?>" target="_blank" rel="noopener">Ms. S. Suguna</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
-								</tr> -->
+								</tr> 
 							</tbody>
 						</table>
 					</div>
 					<h4 align="" class="text-bold offset-top-30" id="q-2">BLOG</h4>
 					<br />
 					<h6 align=""><a href="http://avvmspcbot.blogspot.com" target="_blank" class="text-matrix" rel="noopener">click here</a></h6>
-				</div>
+				</div> -->
 
 			</div>
 		</div>

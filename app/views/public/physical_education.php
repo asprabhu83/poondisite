@@ -6,7 +6,7 @@ pt.php
 <div class="section-height-800 breadcrumb-physical-education context-dark text-center">
 	<div class="shell section-bottom-30">
 		<div class="veil reveal-md-block">
-			<h1 class="text-bold">Physical Education</h1>
+			<h1 class="text-bold">DEPARTMENT OF PHYSICAL EDUCATION </h1>
 		</div>
 		<ul class="list-inline list-inline-with-arrows p">
 			<ul class="list-inline list-inline-with-arrows p">
@@ -28,7 +28,7 @@ pt.php
 					<h2 class="text-bold text-center">Physical Education</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
-						<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
+			<!--			<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>
@@ -84,7 +84,8 @@ pt.php
 						<h4 align="" class="text-bold offset-top-30" id="q-2">RESEARCH ACTIVITIES</h4>
 						<br />
 						<h6 align="">Under Process</h6>
-						<h4 align="" class="text-bold offset-top-30" id="q-3">STAFF MEMBERS</h4>
+-->
+						<h4 align="" class="text-bold offset-top-30" id="q-3">FACULTY MEMBERS</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>

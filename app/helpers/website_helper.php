@@ -317,10 +317,10 @@ function department_quicklinks()
             <ul class="list list-marked inset-left-30" style="font-size: 18px;">
                 <ul class="list list-marked inset-right-30" style="font-size: 18px;">
                     <ul class="list list-marked inset-right-30" style="font-size: 18px;">
-                        <li><a href="' . base_url("tamil") . '" class="text-matrix"><strong>Tamil </strong></a></li>
+                        
                         <li><a href="' . base_url("history") . '" class="text-matrix"><strong>History </strong></a></li>
-                        <li><a href="' . base_url("geography") . '" class="text-matrix"><strong>Geography </strong></a></li>
                         <li><a href="' . base_url("economics") . '" class="text-matrix"><strong>Economics </strong></a></li>
+                        <li><a href="' . base_url("tamil") . '" class="text-matrix"><strong>Tamil </strong></a></li>
                         <li><a href="' . base_url("english") . '" class="text-matrix"><strong>English </strong></a></li>
                         <li><a href="' . base_url("commerce") . '" class="text-matrix"><strong>Commerce </strong></a></li>
                         <li><a href="' . base_url("business_administration") . '" class="text-matrix"><strong>Business Administration </strong></a></li>
@@ -334,7 +334,37 @@ function department_quicklinks()
                         <li><a href="' . base_url("physical_education") . '" class="text-matrix"><strong>Physical Education </strong></a></li>
                         <li><a href="' . base_url("library_and_information_science") . '" class="text-matrix"><strong>Library and Information Science </strong></a></li>
                         <li><a href="' . base_url("hindi") . '" class="text-matrix"><strong>Hindi </strong></a></li>
+                        <li><a href="' . base_url("geography") . '" class="text-matrix"><strong>Geography </strong></a></li>
                         <li><a href="' . base_url("statistics") . '" class="text-matrix"><strong>Statistics </strong></a></li>
+                    </ul>
+                </ul>
+            </ul>
+        </ul>
+    </ul>';
+}
+
+function research_quicklinks()
+{
+    echo '<h4 class="text-ubold inset-left-20 offset-top-30">RESEARCH QUICK LINKS</h4>
+    <div class="heading-divider"></div>
+    <ul class="list list-marked inset-left-30" style="font-size: 18px;">
+        <ul class="list list-marked inset-left-30" style="font-size: 18px;">
+            <ul class="list list-marked inset-left-30" style="font-size: 18px;">
+                <ul class="list list-marked inset-right-30" style="font-size: 18px;">
+                    <ul class="list list-marked inset-right-30" style="font-size: 18px;">
+                        <li><a href="' . base_url("res_history") . '" class="text-matrix"><strong>History </strong></a></li>
+                        <li><a href="' . base_url("res_economics") . '" class="text-matrix"><strong>Economics </strong></a></li>
+                        <li><a href="' . base_url("res_tamil") . '" class="text-matrix"><strong>Tamil </strong></a></li>
+                        <li><a href="' . base_url("res_english") . '" class="text-matrix"><strong>English </strong></a></li>
+                        <li><a href="' . base_url("res_commerce") . '" class="text-matrix"><strong>Commerce </strong></a></li>
+                        <li><a href="' . base_url("res_mathematics") . '" class="text-matrix"><strong>Mathematics </strong></a></li>
+                        <li><a href="' . base_url("res_physics") . '" class="text-matrix"><strong>Physics </strong></a></li>
+                        <li><a href="' . base_url("res_chemistry") . '" class="text-matrix"><strong>Chemistry </strong></a></li>
+                        <li><a href="' . base_url("res_botany") . '" class="text-matrix"><strong>Botany </strong></a></li>
+                        <li><a href="' . base_url("res_microbiology") . '" class="text-matrix"><strong>Microbiology </strong></a></li>
+                        <li><a href="' . base_url("res_zoology") . '" class="text-matrix"><strong>Zoology & Biotechnology</strong></a></li>
+                        <li><a href="' . base_url("res_computer_science") . '" class="text-matrix"><strong>Computer Science </strong></a></li>
+                        <li><a href="' . base_url("res_hindi") . '" class="text-matrix"><strong>Hindi</strong></a></li>
                     </ul>
                 </ul>
             </ul>

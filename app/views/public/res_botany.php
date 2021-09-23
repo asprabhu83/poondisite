@@ -5,12 +5,12 @@ init_public_head();
 <div class="section-height-800 breadcrumb-botany context-dark text-center">
 	<div class="shell section-bottom-30">
 		<div class="veil reveal-md-block">
-			<h1 class="text-bold">PG &amp; RESEARCH DEPARTMENT OF MICROBIOLOGY</h1>
+			<h1 class="text-bold">Botany</h1>
 		</div>
 		<ul class="list-inline list-inline-with-arrows p">
 			<ul class="list-inline list-inline-with-arrows p">
 				<li><a href="<?php echo base_url() ?>" class="text-white">Home </a></li>
-				<li>Microbiology</li>
+				<li>Botany</li>
 			</ul>
 		</ul>
 	</div>
@@ -20,14 +20,13 @@ init_public_head();
 		<div class="shell-fluid">
 			<div class="range range-75 text-left">
 				<div class="cell-xs-4 cell-lg-4">
-					<?php department_quicklinks(); ?>
-
+					<?php research_quicklinks(); ?>
 				</div>
 				<div class="cell-xs-8 cell-lg-8">
-					<h2 class="text-bold text-center">Microbiology</h2>
+					<h2 class="text-bold text-center">Botany</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
-						<!--	<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
+						<!-- <h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>
@@ -37,6 +36,22 @@ init_public_head();
 									<th align="justify" style="text-align: center;">Year of Affiliation</th>
 								</tr>
 								<tr>
+									<td>B.Sc. Botany</td>
+									<td>1969 - 70</td>
+								</tr>
+								<tr>
+									<td>M.Sc. Botany</td>
+									<td>1980 - 81</td>
+								</tr>
+								<tr>
+									<td>M.Phil. Botany</td>
+									<td>1985 - 86</td>
+								</tr>
+								<tr>
+									<td>Ph.D. Botany</td>
+									<td>1989</td>
+								</tr>
+								<!-- <tr>
 									<td>M.Sc. Microbiology</td>
 									<td>1998 - 99</td>
 								</tr>
@@ -47,8 +62,8 @@ init_public_head();
 								<tr>
 									<td>Ph.D. Microbiology</td>
 									<td>2000</td>
-								</tr>
-							</tbody>
+								</tr> -->
+					<!--		</tbody>
 						</table>
 						<section class="">
 							<div class="">
@@ -58,38 +73,38 @@ init_public_head();
 											<h4 class="text-bold center">PROGRAMME SPECIFIC OUTCOMES</h4>
 											<div class="offset-top-20">
 												<!-- Classic Accordion-->
-												<!--	<div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
+											<!--	<div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
 													<ul class="resp-tabs-list tabs-group-default" data-group="tabs-group-default">
-														<!-- <li>Undergraduate</li> -->
-														<!--	<li>Postgraduate</li>
+														<li>Undergraduate</li>
+														<li>Postgraduate</li>
 														<li>M.Phil.</li>
 														<li>Ph.D.Microbiology</li>
 													</ul>
 													<div data-group="tabs-group-default" class="resp-tabs-container tabs-group-default">
-														<!-- <div>
-															<h5 class="inset-left-10"><strong> Programme Specific Outcomes for M.Sc. Microbiology</strong></h5><br>
-															<ul class="inset-left-30 list list-marked">
-
-																<li>successful completion of B.Sc. Botany, they will acquire knowledge about medicinal plants, pharmacognosy, pharmacology, economic importance of useful plants, phytogeography, etc. </li><br>
-																<li>get an employment opportunity in various governmental and non-governmental sectors.</li><br>
-																<li> become entrepreneur and they can also start small scale industries like algal, fungal and bacterial biofertilizers unit, edible mushroom cultivation technology unit, nursery management, etc.</li><br>
-																<li> identify and analyse the morphological and anatomical features of plants, their structures and learn evolutionary history of plants.</li><br>
-															</ul>
-
-														</div> -->
 														<div>
-															<!-- <h5 class="inset-left-10"><strong> Programme Specific Outcomes for M.Sc.Botany</strong></h5><br>
+															<h5 class="inset-left-10"><strong> Programme Specific Outcomes for B.Sc. Botany</strong></h5><br>
 															<ul class="inset-left-30 list list-marked">
-																<li> successful completion of PG botany the students will acquire knowledge about phytochemical, pharmacological and pharmacognostic aspects of higher plants.</li><br>
-																<li>improve their knowledge in preparing competitive examinations for getting employment in Government and public sector undertaking institutions.  </li><br>
-																<li> get idea about various scholarships and become eligible for JRF, SRF, and other relevant scholarships.</li><br>
-																<li>learn various techniques of plant breeding to enable better crop production for human welfare and economic upliftment.</li><br>
-																<li> acquire basic knowledge of biostatistics and learn its application in biological studies.</li><br>
-																<li>learn the basic principles and research methodology, thesis writing and research publications.</li>
-															</ul>
-															<br> -->
 
-														<!--		<h5 class="inset-left-10"><strong> Programme Specific Outcomes for M.Sc.Microbiology</strong></h5><br>
+																<li>The students on successful completion of B.Sc. Botany, they will acquire knowledge about medicinal plants, pharmacognosy, pharmacology, economic importance of useful plants, phytogeography, etc. </li><br>
+																<li>This knowledge will be helpful to get an employment opportunity in various governmental and non-governmental sectors.</li><br>
+																<li>The students are able to become entrepreneur and they can also start small scale industries like algal, fungal and bacterial biofertilizers unit, edible mushroom cultivation technology unit, nursery management, etc.</li><br>
+																<li>The graduates will be able to  identify and analyse the morphological and anatomical features of plants, their structures and learn evolutionary history of plants.</li><br>
+															</ul>
+
+														</div>
+														<div>
+															<h5 class="inset-left-10"><strong> Programme Specific Outcomes for M.Sc.Botany</strong></h5><br>
+															<ul class="inset-left-30 list list-marked">
+																<li>On successful completion of PG botany the students will acquire knowledge about phytochemical, pharmacological and pharmacognostic aspects of higher plants.</li><br>
+																<li>They can improve their knowledge in preparing competitive examinations for getting employment in Government and public sector undertaking institutions.  </li><br>
+																<li>The students will  get idea about various scholarships and become eligible for JRF, SRF, and other relevant scholarships.</li><br>
+																<li>The students will learn various techniques of plant breeding to enable better crop production for human welfare and economic upliftment.</li><br>
+																<li>The students will  acquire basic knowledge of biostatistics and learn its application in biological studies.</li><br>
+																<li>The students will learn the basic principles and research methodology, thesis writing and research publications.</li>
+															</ul>
+															<br>
+
+															<!-- <h5 class="inset-left-10"><strong> Programme Specific Outcomes for M.Sc.Microbiology</strong></h5><br>
 															<ul class="inset-left-30 list list-marked">
 																<li> provides learning opportunities in basic principles of microbiology and infectious diseases, helpful to understand the lab animals in medical fields</li><br>
 																<li>become an entrepreneur in the field of medical lab technology, microbiologists in the govt. and private medical colleges, district headquarters. </li><br>
@@ -97,22 +112,22 @@ init_public_head();
 																<li> get an employment opportunity in the forest departments and nurseries in order to mass multiply the biofertilizers, especially VAM.</li><br>
 																<li>learn basic principles of industrial microbiology and become an entrepreneur in the area of enzyme production which is used in the field of food technology, leather technology and also in the sewage treatment.</li><br>
 																<li>learn the principles of water quality and become an entrepreneur in the mineral water project at national and international level. </li>
-															</ul>
-														</div>
-														<div>
-															<!-- <h5 class="inset-left-10"><strong>Programme Specific Outcomes for M.Phil.Botany</strong></h5><br>
-															<ul class="inset-left-30 list list-marked">
-																<li>successful completion of M.Phil.degree,the students can gain knowledge about instrumentation technology used in biological sciences and eligible to get employability in hospitals, clinical laboratories and pharmaceutical industries. </li><br>
-																<li>learn the combination of general and specialized education, simultaneously introducing the concepts of breadth and depth in learning. </li><br>
-																<li>not only advance their knowledge and understanding of the subject, but will also increase the ability of critical thinking, development of scientific attitude, handling of problems and generating solution, improve practical skills, enhance communication skill, social interaction, increase awareness in environment related issues and recognize the ethical value system.  </li><br>
 															</ul> -->
+													<!--	</div>
+														<div>
+															<h5 class="inset-left-10"><strong>Programme Specific Outcomes for M.Phil.Botany</strong></h5><br>
+															<ul class="inset-left-30 list list-marked">
+																<li>On successful completion of M.Phil.degree,the students can gain knowledge about instrumentation technology used in biological sciences and eligible to get employability in hospitals, clinical laboratories and pharmaceutical industries. </li><br>
+																<li>The courses are in combination of general and specialized education, simultaneously introducing the concepts of breadth and depth in learning. </li><br>
+																<li>The present curriculum will not only advance their knowledge and understanding of the subject, but will also increase the ability of critical thinking, development of scientific attitude, handling of problems and generating solution, improve practical skills, enhance communication skill, social interaction, increase awareness in environment related issues and recognize the ethical value system.  </li><br>
+															</ul>
 															<br>
-															<!--	<h5 class="inset-left-10"><strong> Programme Specific Outcomes for M.Phil.Microbiology</strong></h5><br>
+															<!-- <h5 class="inset-left-10"><strong> Programme Specific Outcomes for M.Phil.Microbiology</strong></h5><br>
 															<ul class="inset-left-30 list list-marked">
 																<li> get employment opportunities in state and central govt. organizations like Indian Institute of Crop Processing Technology (Thanjavur), Central Food Technology Research Institute(Mysuru), National Research Centre for Banana(Trichy), Vector Control Board(Puducherry& Madurai), Tamil Nadu Pollution Control Board, lab technicians in medical colleges.</li><br>
 																<li>become Microbiologists and have an avenue to become entrepreneur in the area of agricultural, medical, food and environmental microbiology. </li><br>
-															</ul>
-														</div>
+															</ul> -->
+													<!--	</div>
 													</div>
 												</div>
 											</div>
@@ -127,7 +142,8 @@ init_public_head();
                                     <h4 class="text-bold center">SYLLABUS</h4>
                                     <div class="offset-top-20">
                                         <ul class="inset-left-30 list list-marked">
-											<li> <?php syllabus_link('M.Sc Microbiology', 'Microbiology/msc') ?></li>
+											<li> <?php syllabus_link('B.Sc Botany', 'botany/bsc') ?></li>
+											<li> <?php syllabus_link('M.Sc Botany', 'botany/msc') ?></li>
                                         </ul>
 
                                     </div>
@@ -135,14 +151,14 @@ init_public_head();
 
                             </div>
 
-                        </div>
+                        </div> -->
 						<h4 align="" class="text-bold offset-top-30" id="q-2">RESEARCH ACTIVITIES</h4>
 						<br />
 						<div style="overflow-x: auto;">
 							<table border="1px" height="100" style="width: 100%;" width="70">
 								<tbody></tbody>
 								<tbody>
-									<!-- <tr>
+									<tr>
 										<th style="width: 5%;">Sl.No.</th>
 										<th style="width: 20%;">Title of the Project</th>
 										<th style="width: 10%;">Funding Agency</th>
@@ -197,8 +213,8 @@ init_public_head();
 										<td style="width: 10%;">12,52,000</td>
 										<td style="width: 20%;">Completed 2013-2016</td>
 										<td style="width: 10%;">Dr. M. Ayyanar</td>
-									</tr> -->
-									<!--	<tr>
+									</tr>
+									<!-- <tr>
 										<td style="width: 5%;">7.</td>
 										<td style="width: 20%;">Studies on isolation characterization and effect of different strains of Azospirillum spp. on paddy from Thanjavur dist.</td>
 										<td style="width: 10%;">UGC - Minor</td>
@@ -221,19 +237,19 @@ init_public_head();
 										<td style="width: 10%;">4,60.000</td>
 										<td style="width: 20%;">Completed 2016-18</td>
 										<td style="width: 10%;">Dr.G.Senthilkumar</td>
-									</tr>
-									<!-- <tr>
-										<td style="width: 5%;">10.</td>
+									</tr> -->
+									<tr>
+										<td style="width: 5%;">7.</td>
 										<td style="width: 20%;">Isolation and characterization of antidiabetic principles from selected traditional medicinal plants using animal models</td>
 										<td style="width: 10%;">SERB, New Delhi Major(Extra Mural Research)</td>
 										<td style="width: 10%;">Rs. 25,19,000</td>
 										<td style="width: 20%;">Ongoing 2018-2021</td>
 										<td style="width: 10%;">Dr. M. Ayyanar</td>
-									</tr> -->
-								<!--	</tbody>
+									</tr>
+								</tbody>
 							</table>
-						</div> -->
-						<h4 align="" class="text-bold offset-top-30" id="q-3">FACULTY MEMBERS</h4>
+						</div>
+					<!--	<h4 align="" class="text-bold offset-top-30" id="q-3">FACULTY MEMBERS</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>
@@ -242,7 +258,7 @@ init_public_head();
 									<th style="text-align: center;">Name of the Faculty Member</th>
 									<th style="text-align: center;">Designation</th>
 								</tr>
-								<!-- <tr>
+								<tr>
 									<th colspan="3">Aided Faculty</th>
 								</tr>
 								<tr>
@@ -300,11 +316,11 @@ init_public_head();
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/botany/14.%20Dr.Merlyn%20Stephen.pdf') ?>" target="_blank" rel="noopener">Dr. Merlyn Stephan</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
-								</tr> -->
-								<tr>
-									<th colspan="3">Self &ndash; Finance Faculty</th>
 								</tr>
 								<tr>
+									<th colspan="3">Self &ndash; Finance Faculty</th>
+								</tr>-->
+								<!-- <tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/botany/15. Dr.K.Kanimozhi.pdf') ?>" target="_blank" rel="noopener">Dr. K.Kanimozhi</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
@@ -323,8 +339,8 @@ init_public_head();
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/botany/19.%20R.ELAKIYA.pdf') ?>" target="_blank" rel="noopener">Mrs. R. Elakkiya </a></th>
 									<td style="text-align: center;">Assistant Professor</td>
-								</tr>
-								<!-- <tr>
+								</tr> -->
+						<!--		<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/botany/20.%20R.KALAVATHI.pdf') ?>" target="_blank" rel="noopener">R.Kalavathi</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
@@ -339,14 +355,14 @@ init_public_head();
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/botany/23.%20S.SUGUNA.pdf') ?>" target="_blank" rel="noopener">Ms. S. Suguna</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
-								</tr> -->
+								</tr>
 							</tbody>
 						</table>
 					</div>
 					<h4 align="" class="text-bold offset-top-30" id="q-2">BLOG</h4>
 					<br />
 					<h6 align=""><a href="http://avvmspcbot.blogspot.com" target="_blank" class="text-matrix" rel="noopener">click here</a></h6>
-				</div>
+				</div> -->
 
 			</div>
 		</div>

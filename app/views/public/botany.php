@@ -5,7 +5,7 @@ init_public_head();
 <div class="section-height-800 breadcrumb-botany context-dark text-center">
 	<div class="shell section-bottom-30">
 		<div class="veil reveal-md-block">
-			<h1 class="text-bold">Botany</h1>
+			<h1 class="text-bold">PG &amp; RESEARCH DEPARTMENT OF BOTANY</h1>
 		</div>
 		<ul class="list-inline list-inline-with-arrows p">
 			<ul class="list-inline list-inline-with-arrows p">
@@ -27,7 +27,7 @@ init_public_head();
 					<h2 class="text-bold text-center">Botany</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
-						<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
+					<!--	<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>
@@ -64,7 +64,7 @@ init_public_head();
 									<td>Ph.D. Microbiology</td>
 									<td>2000</td>
 								</tr> -->
-							</tbody>
+						<!--	</tbody>
 						</table>
 						<section class="">
 							<div class="">
@@ -74,7 +74,7 @@ init_public_head();
 											<h4 class="text-bold center">PROGRAMME SPECIFIC OUTCOMES</h4>
 											<div class="offset-top-20">
 												<!-- Classic Accordion-->
-												<div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
+													<!--<div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
 													<ul class="resp-tabs-list tabs-group-default" data-group="tabs-group-default">
 														<li>Undergraduate</li>
 														<li>Postgraduate</li>
@@ -114,7 +114,7 @@ init_public_head();
 																<li>learn basic principles of industrial microbiology and become an entrepreneur in the area of enzyme production which is used in the field of food technology, leather technology and also in the sewage treatment.</li><br>
 																<li>learn the principles of water quality and become an entrepreneur in the mineral water project at national and international level. </li>
 															</ul> -->
-														</div>
+														<!--	</div>
 														<div>
 															<h5 class="inset-left-10"><strong>Programme Specific Outcomes for M.Phil.Botany</strong></h5><br>
 															<ul class="inset-left-30 list list-marked">
@@ -128,7 +128,7 @@ init_public_head();
 																<li> get employment opportunities in state and central govt. organizations like Indian Institute of Crop Processing Technology (Thanjavur), Central Food Technology Research Institute(Mysuru), National Research Centre for Banana(Trichy), Vector Control Board(Puducherry& Madurai), Tamil Nadu Pollution Control Board, lab technicians in medical colleges.</li><br>
 																<li>become Microbiologists and have an avenue to become entrepreneur in the area of agricultural, medical, food and environmental microbiology. </li><br>
 															</ul> -->
-														</div>
+														<!--	</div>
 													</div>
 												</div>
 											</div>
@@ -239,7 +239,7 @@ init_public_head();
 										<td style="width: 20%;">Completed 2016-18</td>
 										<td style="width: 10%;">Dr.G.Senthilkumar</td>
 									</tr> -->
-									<tr>
+									<!--	<tr>
 										<td style="width: 5%;">7.</td>
 										<td style="width: 20%;">Isolation and characterization of antidiabetic principles from selected traditional medicinal plants using animal models</td>
 										<td style="width: 10%;">SERB, New Delhi Major(Extra Mural Research)</td>
@@ -249,7 +249,7 @@ init_public_head();
 									</tr>
 								</tbody>
 							</table>
-						</div>
+						</div> -->
 						<h4 align="" class="text-bold offset-top-30" id="q-3">FACULTY MEMBERS</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">

@@ -24,10 +24,10 @@ init_public_head();
 
 				</div>
 				<div class="cell-xs-8 cell-lg-8">
-					<h2 class="text-bold text-center"> DEPARTMENT OF HINDI</h2>
+					<h2 class="text-bold text-center">DEPARTMENT OF HINDI</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20">
-				<!--		<h4 align="" class="text-bold offset-top-20" id="q-2">RESEARCH ACTIVITIES</h4>
+						<h4 align="" class="text-bold offset-top-20" id="q-2">RESEARCH ACTIVITIES</h4>
 						<br />
 						<div style="overflow-x: auto;">
 							<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
@@ -54,8 +54,8 @@ init_public_head();
 								</tbody>
 							</table>
 						</div>
-						<br /> -->
-						<h4 align="" class="text-bold" id="q-1" data-type="anchor">FACLUTY MEMBERS</h4>
+						<br />
+					<!--	<h4 align="" class="text-bold" id="q-1" data-type="anchor">FACLUTY MEMBERS</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>
@@ -77,13 +77,12 @@ init_public_head();
 					<h4 align="" class="text-bold offset-top-20" id="q-2">BLOG</h4>
 					<br />
 					<h6 align=""><a href="http://avvmspchin.blogspot.com" target="_blank" class="text-matrix" rel="noopener">click here</a></h6>
-				</div>
+				</div>-->
 				
 			</div>
 		</div>
 	</div>
 </section>
-<!-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <?php
 init_public_tail();
 ?>

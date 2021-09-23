@@ -5,7 +5,7 @@ init_public_head();
 <div class="section-height-800 breadcrumb-library-and-information-science context-dark text-center">
 	<div class="shell section-bottom-30">
 		<div class="veil reveal-md-block">
-			<h1 class="text-bold">Library and Information Science</h1>
+			<h1 class="text-bold">PG &amp; RESEARCH DEPARTMENT OF LIBRARY AND INFORMATION SCIENCE</h1>
 		</div>
 		<ul class="list-inline list-inline-with-arrows p">
 			<ul class="list-inline list-inline-with-arrows p">
@@ -27,7 +27,7 @@ init_public_head();
 					<h2 class="text-bold text-center">Library and Information Science</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
-						<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
+				<!--		<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>
@@ -58,7 +58,7 @@ init_public_head();
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 						<h4 align="" class="text-bold offset-top-30" id="q-3">FACULTY MEMBERS</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
