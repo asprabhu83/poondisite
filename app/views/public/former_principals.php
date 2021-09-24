@@ -102,9 +102,11 @@ init_public_head();
 							</tr>
 						</tbody>
 					</table>
-					<br /><center><img alt="" class="img-responsive" height="200" src="<?php echo base_url('assets/images/principal.jpg')?>" width="250" />
+					<!-- <br /><center><img alt="" class="img-responsive" height="200" src="<?php echo base_url('assets/images/principal.jpg')?>" width="250" />
 					<p><strong>Dr. R. Sivakumar <br />Principal</strong></p>
-					</center></div>
+					</center></div> -->
+					<br> 	<br>
+
 			</div>
 		</div>
 	</div>

@@ -145,17 +145,39 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('assets/NAAC/1.1.1_Programme_specific_outcomes.pdf') ?>"><span>Program Specific Outcomes</span></a>
                                                     </li>
-                                                    <li class="active "><a href="<?php echo base_url('https://naac.sripushpamcollege.co.in/curricular_aspects/1.1/1.1.1/course-outcomes') ?>"><span>Course Outcomes</span></a>
+                                                    <li class="active "><a href="<?php echo base_url('course_outcome') ?>"><span>Course Outcomes</span></a>
                                                     </li>
+                                                    <!-- <li class="active "><a href="<?php echo base_url('https://naac.sripushpamcollege.co.in/curricular_aspects/1.1/1.1.1/course-outcomes') ?>"><span>Course Outcomes</span></a>
+                                                    </li> -->
                                                     <li class="active "><a href="<?php echo base_url('syllabus') ?>"><span>Syllabus</span></a>
                                                     </li>
-                                                    <li class="active "><a href="<?php echo base_url('research') ?>"><span>Research</span></a>
-                                                    </li>                                                                                                                                                         
+                                                   
+                                                    <!-- <li class="active "><a href="<?php echo base_url('research') ?>"><span>Research</span></a> -->
+                                                    <!-- </li>   -->
+                                                    <li class="active"><a href="#"><span>Research</span></a>
+                                                    <ul class="rd-navbar-dropdown">
+                                                    <li class="active "><a href="<?php echo base_url('research') ?>"><span>Research Project</span></a>
+                                                    <!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2021.pdf') ?>"><span>NIRF 2021</span></a> -->
+                                                    <!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2018.pdf') ?>"><span>NIRF 2018</span></a> -->
+                                                        </li>
+                                                </ul>
+                                            </li>
+                                                    
+                                            </ul>
+                                            </li>
+
+                                            <!-- <li class="active "><a href="<?php echo base_url('departments') ?>"><span>Departments </span></a> -->
+                                            <!-- </li> -->
+
+                                            <li class="active"><a href="#"><span>Department</span></a>
+                                                <ul class="rd-navbar-dropdown">
+                                                <li class="active "><a href="<?php echo base_url('departments') ?>"><span>Faculty Members </span></a>
+                                                    <!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2021.pdf') ?>"><span>NIRF 2021</span></a> -->
+                                                    <!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2018.pdf') ?>"><span>NIRF 2018</span></a> -->
+                                                </li>
                                                 </ul>
                                             </li>
 
-                                            <li class="active "><a href="<?php echo base_url('departments') ?>"><span>Departments </span></a>
-                                            </li>
                                             <li class="active"><a herf="#"><span>Campus Life</span></a>
                                                 <ul class="rd-navbar-dropdown">
                                                     <li class="active "><a href="<?php echo base_url('library') ?>"><span>Library </span></a>

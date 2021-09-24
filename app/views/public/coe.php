@@ -17,7 +17,7 @@ init_public_head();
 </div>
 <section class="section-90 section-md-top-120 section-md-bottom-111">
 	<div class="shell">
-		<h4 class="text-bold">COE</h4>
+		<h4 class="text-bold">CONTROLLER OF EXAMIANTION</h4>
 		<div class="offset-top-60">
 			<div class="isotope-wrap">
 				<div class="row"><!-- Isotope Filters-->
