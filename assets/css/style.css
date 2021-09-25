@@ -39628,3 +39628,45 @@ tr:nth-child(even) {
 .container-fluid.marqueewrap .alert-primary span{padding: 0 30px;}
 .container-fluid.marqueewrap .alert-primary a{color: #004085;}
 /* syllabus revision css end */
+
+
+
+/* syllabus 2007 css start */
+
+.syllabus_2007{
+    margin:40px 0;
+}
+.syllabus_2007 .heading{
+    margin:40px 0;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+.syllabus_2007 .table_contents table{
+    border-collapse: collapse;
+    width:80%;
+    margin:10px auto;
+}
+
+.table_contents table th, .table_contents table td{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.table_contents .pdf_items{
+    text-align: center;
+}
+
+@media only screen and (min-width:300px) and (max-width:600px){
+    .syllabus_2007 .heading {
+        margin: 30px 0;
+        font-size: 20px;
+        margin-top: 60px;
+    }
+}
+
+.container-fluid.marqueewrap{padding:0;}
+.container-fluid.marqueewrap .alert-primary{ height: 50px;}
+.container-fluid.marqueewrap .alert-primary span{padding: 0 30px;}
+.container-fluid.marqueewrap .alert-primary a{color: #004085;}
+/* syllabus 2007 css end */
