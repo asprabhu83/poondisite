@@ -3,7 +3,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 init_public_head();
 ?>
 
-<main class="syllabus_revision">
+<main class="syllabus_2007">
     <div class="container">
         <div class="heading">Syllabus - 2007</div>
         <div class="table_contents" style="overflow-x:auto;">
