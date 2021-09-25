@@ -5,7 +5,7 @@ init_public_head();
 
 <main class="syllabus_2007">
     <div class="container">
-        <div class="heading">Syllabus - 2007</div>
+        <div class="heading">Syllabus 2007</div>
         <div class="table_contents" style="overflow-x:auto;">
             <table>
                 <thead>
