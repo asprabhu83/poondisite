@@ -373,7 +373,12 @@ function research_quicklinks()
 }
 
 
-function syllabus_link($name, $file)
+function syllabus_link($file)
 {
-    echo '<a href="' . base_url('public/pdf/syllabus/' . $file . '.pdf') . '" target="_blank"><strong>' . $name . '</strong> <small> (click here)</small></a>';
+    echo '<a href="' . base_url('public/pdf/syllabus/' . $file . '.pdf') . '" target="_blank"><img src="assets/images/pdf_icon2.png" style="width:30px;"></a>';
 }
+
+// function syllabus_link($name, $file)
+// {
+//     echo '<a href="' . base_url('public/pdf/syllabus/' . $file . '.pdf') . '" target="_blank"><strong>' . $name . '</strong></a>';
+// }

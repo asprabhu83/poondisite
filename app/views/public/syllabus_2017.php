@@ -13,17 +13,35 @@ init_public_head();
                         <th></th>
                         <th>UG</th>
                         <th>PG</th>
-                        <th>M.Phil.</th>
-                        <th>Ph.D</th>
+                        
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
                         <td>History</td>
-                        <td class="pdf_items"><a href="/assets/syllabus/B.A_History_Syllabus_Revision.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" style="width:30px;"></a></td>
+                        <td><?php syllabus_link('B.A History ', 'History/bahistory') ?></td>
+						<td><?php syllabus_link('M.A History', 'History/mahistory') ?></td>
+                        <!-- <td class="pdf_items"><a href="/assets/syllabus/B.A_History_Syllabus_Revision.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" style="width:30px;"></a></td>
                         <td class="pdf_items">-</td>
                         <td class="pdf_items"><a href="/assets/syllabus/M.Phil_History_Syllabus_revision.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" style="width:30px;"></a></td>
                         <td class="pdf_items"><a href="/assets/syllabus/Ph.D_History_Coursework.pdf" target="_blank"><img src="assets/images/pdf_icon2.png" style="width:30px;"></a></td>
+
+                        <div class="handing-divider">
+                            <div class="cell-sm-10 cell-md-11 cell-lg-9 cell-xl-6 offset-top-30">
+                                <div>
+                                    <h4 class="text-bold center">SYLLABUS</h4>
+                                    <div class="offset-top-20">
+                                        <ul class="inset-left-30 list list-marked">
+											<li> <?php syllabus_link('B.A History ', 'History/bahistory') ?></li>
+											<li> <?php syllabus_link('M.A History', 'History/mahistory') ?></li>
+										
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+-->
+
                     </tr>
                     <tr>
                         <td>Economics</td>
