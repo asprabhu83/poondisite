@@ -94,7 +94,7 @@ defined('BASEPATH') or exit('No direct script access allowed'); ?>
                                         <li><a href="<?php echo base_url('statutory-committees#undefined4') ?>" style="color: #fff;">College Council</a></li> -->
 
 
-                                <iframe frameborder="0" height="450" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6591.777213529097!2d79.24363808909177!3d10.773411681446479!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3dbfdda441f8867f!2sA.V.V.M.+Sri+Pushpam+College!5e0!3m2!1sen!2sin!4v1561802003599!5m2!1sen!2sin" style="border: 0;" width="100%"></iframe>
+                                <iframe frameborder="0" height="250" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6591.777213529097!2d79.24363808909177!3d10.773411681446479!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3dbfdda441f8867f!2sA.V.V.M.+Sri+Pushpam+College!5e0!3m2!1sen!2sin!4v1561802003599!5m2!1sen!2sin" style="border: 0;" width="100%"></iframe>
                             </div>
                         </div>
                     </div>
@@ -102,7 +102,7 @@ defined('BASEPATH') or exit('No direct script access allowed'); ?>
             </div>
         </div>
 
-        <br /><br />
+        <br />
         <p class="rights " style="color: #fff;">@ 2021 Copyright Sri Pushpam College All Rights Reserved. Powered by <a href="https://kavisoftek.in/" target="_blank" style="color:#fff;"><u>Kavisoftek</u></p>
         <br /><br />
     </footer>
