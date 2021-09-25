@@ -64,11 +64,6 @@ init_public_head();
     </div>   
 </main>
 
-
-
-
-
-
 <?php
 init_public_tail();
 ?>
