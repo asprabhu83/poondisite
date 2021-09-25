@@ -16,12 +16,22 @@ init_public_head();
 <div id="wowslider-container1">
 	<div class="ws_images">
 		<ul>
-			<li><img src="<?php echo base_url('assets/images/homebanner.jpg') ?>" /></li>
-			<!-- <li><img src="<?php echo base_url('assets/images/002.jpg') ?>" /></li> -->
+			
+		<li><img src="<?php echo base_url('assets/images/banner/002.jpg') ?>" /></li>  
+		<li><img src="<?php echo base_url('assets/images/banner/003.jpg') ?>" /></li>  
+		<li><img src="<?php echo base_url('assets/images/banner/004.jpg') ?>" /></li>  
+		<li><img src="<?php echo base_url('assets/images/banner/005.jpg') ?>" /></li>  
+		<li><img src="<?php echo base_url('assets/images/banner/006.jpg') ?>" /></li>  
+		<li><img src="<?php echo base_url('assets/images/banner/007.jpg') ?>" /></li>  
+		<li><img src="<?php echo base_url('assets/images/banner/008.jpg') ?>" /></li>  
+		<li><img src="<?php echo base_url('assets/images/banner/009.jpg') ?>" /></li>  
+
+			<!-- <li><img src="<?php echo base_url('assets/images/homebanner.jpg') ?>" /></li>
+			
 			<li><img src="<?php echo base_url('assets/images/home1.jpg') ?>" /></li>
 			<li><img src="<?php echo base_url('assets/images/Library-2.jpg') ?>" /></li>
 			<li><img src="<?php echo base_url('assets/images/Maths-Block.jpg') ?>" /></li>
-			<li><img src="<?php echo base_url('assets/images/MBA-Block-2.jpg') ?>" /></li>
+			<li><img src="<?php echo base_url('assets/images/MBA-Block-2.jpg') ?>" /></li> -->
 			
 		</ul>
 	</div>
