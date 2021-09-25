@@ -132,6 +132,15 @@ class Website extends App_Controller
         $this->data['menu_syllabus_revision'] = "active";
         $this->load->view('public/syllabus_revision', $this->data);
     }
+    
+    public function syllabus_2007()
+    {
+
+        $this->data['title'] = "Syllabus 2007";
+        $this->data['menu_syllabus_2007'] = "active";
+        $this->load->view('public/syllabus_2007', $this->data);
+    }
+
     public function committee_of_management()
     {
 

@@ -25,7 +25,7 @@ init_public_head();
 					<div class="inset-md-left-30 offset-top-10">
 						<li>
 							<!-- <p align="justify">Started by Rao Bahadur <strong>Shri.A.Veeriya Vandayar</strong> and his illustrious brother <strong>Shri.A.Krishnaswamy Vandayar</strong> of Poondi with a far-sighted vision of educating the rural masses, the motto of the College is <strong>"to learn and to serve"</strong>. The Secretary and Correspondent of the college, <strong>Shri.K.Thulasiah Vandayar</strong> has a vision to offer quality academic programmes and value oriented higher education to the rural community in Tamilnadu to equip them to meet the challenges of time in terms of regional, national and global demands with moral standards and quality. -->
-							<li><p align="justify">	The vision of the college shoots from <strong> RaoBahadur Sri A. VeeriyaVandayar</strong> and his eminent brother <strong>Sri A. KrishnaswamyVandayar</strong> of Poondi is to educate the rural masses and elevate the living condition of the people of delta region. </li>
+							<li><p align="justify">	<span>&#9733;</span>  The vision of the college shoots from <strong> RaoBahadur Sri A. VeeriyaVandayar</strong> and his eminent brother <strong>Sri A. KrishnaswamyVandayar</strong> of Poondi is to educate the rural masses and elevate the living condition of the people of delta region. </li>
 							<li><p align="justify"> In keeping with the vision the college, it works towards making education purposeful for the society. </li>
 							<li><p align="justify">	The motto of the college is ‘To Learn and To Serve’.</li>
 							<li><p align="justify">	The motto unfolds out of the philosophy ‘come to team and go to serve’. </li>
