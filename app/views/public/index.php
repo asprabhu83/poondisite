@@ -17,10 +17,12 @@ init_public_head();
 	<div class="ws_images">
 		<ul>
 			<li><img src="<?php echo base_url('assets/images/homebanner.jpg') ?>" /></li>
+			<!-- <li><img src="<?php echo base_url('assets/images/002.jpg') ?>" /></li> -->
 			<li><img src="<?php echo base_url('assets/images/home1.jpg') ?>" /></li>
 			<li><img src="<?php echo base_url('assets/images/Library-2.jpg') ?>" /></li>
 			<li><img src="<?php echo base_url('assets/images/Maths-Block.jpg') ?>" /></li>
 			<li><img src="<?php echo base_url('assets/images/MBA-Block-2.jpg') ?>" /></li>
+			
 		</ul>
 	</div>
 </div>

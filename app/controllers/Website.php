@@ -667,6 +667,13 @@ class Website extends App_Controller
         $this->data['menu_iqac'] = "active";
         $this->load->view('public/iqac', $this->data);
     }
+
+    public function iqacnew()
+    {
+        $this->data['title'] = "IQAC NEW";
+        $this->data['menu_iqacnew'] = "active";
+        $this->load->view('public/iqacnew', $this->data);
+    }
     public function iqac_meet()
     {
         $this->data['title'] = "IQAC Meet";
