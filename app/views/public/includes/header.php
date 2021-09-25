@@ -149,7 +149,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>
                                                     <!-- <li class="active "><a href="<?php echo base_url('https://naac.sripushpamcollege.co.in/curricular_aspects/1.1/1.1.1/course-outcomes') ?>"><span>Course Outcomes</span></a>
                                                     </li> -->
-                                                    <li class="active "><a href="<?php echo base_url('syllabus_2007') ?>"><span>Syllabus</span></a>
+                                                    <li class="active "><a href="<?php echo base_url('syllabus_2017') ?>"><span>Syllabus</span></a>
                                                     </li>
                                                    
                                                     <!-- <li class="active "><a href="<?php echo base_url('research') ?>"><span>Research</span></a> -->

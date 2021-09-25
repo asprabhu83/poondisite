@@ -133,12 +133,12 @@ class Website extends App_Controller
         $this->load->view('public/syllabus_revision', $this->data);
     }
     
-    public function syllabus_2007()
+    public function syllabus_2017()
     {
 
-        $this->data['title'] = "Syllabus 2007";
-        $this->data['menu_syllabus_2007'] = "active";
-        $this->load->view('public/syllabus_2007', $this->data);
+        $this->data['title'] = "Syllabus 2017";
+        $this->data['menu_syllabus_2017'] = "active";
+        $this->load->view('public/syllabus_2017', $this->data);
     }
 
     public function committee_of_management()
