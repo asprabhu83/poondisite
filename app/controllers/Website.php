@@ -111,6 +111,13 @@ class Website extends App_Controller
         $this->data['menu_extracurricular_activities'] = "active";
         $this->load->view('public/extracurricular_activities', $this->data);
     }
+    public function certificate()
+    {
+
+        $this->data['title'] = "Certificate";
+        $this->data['menu_certificate'] = "active";
+        $this->load->view('public/certificate', $this->data);
+    }
     public function naac()
     {
 
