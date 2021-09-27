@@ -139,6 +139,21 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
 
                                             <li class="active "><a href="#"><span>Academics</span></a>
                                                 <ul class="rd-navbar-dropdown">
+                                                    <!-- <li class="active "><a href="<?php echo base_url('programmes') ?>"><span>Programmes</span></a>
+                                                    </li> -->
+
+                                                    <li class="active"><a href="#"><span>Department</span></a>
+                                                    <ul class="rd-navbar-dropdown">
+                                                    <li class="active "><a href="<?php echo base_url('departments') ?>"><span>Faculty Members </span></a>
+                                                    <li class="active "><a href="<?php echo base_url('syllabus_2017') ?>"><span>Syllabus</span></a>
+                                                    </li>
+                                                        <!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2018.pdf') ?>"><span>NIRF 2018</span></a> -->
+                                                    </li>
+                                                    </ul>
+                                                    </li>
+
+                                                    <li class="active"><a href="#"><span>Programme</span></a>
+                                                    <ul class="rd-navbar-dropdown">
                                                     <li class="active "><a href="<?php echo base_url('programmes') ?>"><span>Programmes</span></a>
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('/assets/NAAC/1.1.1_Programme_outcomes.pdf') ?>"><span>Program Outcomes</span></a>
@@ -147,36 +162,30 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('course_outcome') ?>"><span>Course Outcomes</span></a>
                                                     </li>
-                                                    <!-- <li class="active "><a href="<?php echo base_url('https://naac.sripushpamcollege.co.in/curricular_aspects/1.1/1.1.1/course-outcomes') ?>"><span>Course Outcomes</span></a>
-                                                    </li> -->
-                                                    <li class="active "><a href="<?php echo base_url('syllabus_2017') ?>"><span>Syllabus</span></a>
+                                                    <!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2021.pdf') ?>"><span>NIRF 2021</span></a> -->
+                                                    <!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2018.pdf') ?>"><span>NIRF 2018</span></a> -->
                                                     </li>
-                                                   
-                                                    <!-- <li class="active "><a href="<?php echo base_url('research') ?>"><span>Research</span></a> -->
-                                                    <!-- </li>   -->
+                                                    </ul>
+                                                    </li>
+                                                                                                       
+                                                    
+                                                                                                      
                                                     <li class="active"><a href="#"><span>Research</span></a>
                                                     <ul class="rd-navbar-dropdown">
                                                     <li class="active "><a href="<?php echo base_url('research') ?>"><span>Research Project</span></a>
                                                     <!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2021.pdf') ?>"><span>NIRF 2021</span></a> -->
                                                     <!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2018.pdf') ?>"><span>NIRF 2018</span></a> -->
-                                                        </li>
-                                                </ul>
-                                            </li>
+                                                    </li>
+                                                    </ul>
+                                                    </li>
                                                     
-                                            </ul>
+                                                </ul>
                                             </li>
 
                                             <!-- <li class="active "><a href="<?php echo base_url('departments') ?>"><span>Departments </span></a> -->
                                             <!-- </li> -->
 
-                                            <li class="active"><a href="#"><span>Department</span></a>
-                                                <ul class="rd-navbar-dropdown">
-                                                <li class="active "><a href="<?php echo base_url('departments') ?>"><span>Faculty Members </span></a>
-                                                    <!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2021.pdf') ?>"><span>NIRF 2021</span></a> -->
-                                                    <!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2018.pdf') ?>"><span>NIRF 2018</span></a> -->
-                                                </li>
-                                                </ul>
-                                            </li>
+                                            
 
                                             <li class="active"><a herf="#"><span>Campus Life</span></a>
                                                 <ul class="rd-navbar-dropdown">
@@ -249,9 +258,27 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                                                                                         
                                                         </ul>
                                                     </li>
+                                                    <li class="active"><a href="<?php echo base_url('#') ?>"><span>NAAC</span></a>
+                                                        <ul class="rd-navbar-dropdown">
+                                                        <li class="active "><a href="https://naac.sripushpamcollege.co.in/" target="_blank"><span>NAAC Criteria </span></a>
+                                                        </li>   
+                                                        
+                                                        <li class="active"><a href="<?php echo base_url('#') ?>"><span>NAAC Certificate</span></a>
+                                                        <ul class="rd-navbar-dropdown">
+                                                                                                              
+                                                        <li><a href="assets/NAAC/Certificate/1999.pdf"><span class="text-middle">1999</span></a></li>
+                                                        <li><a href="assets/NAAC/Certificate/2007.pdf"><span class="text-middle">2007</span></a></li>
+                                                        <li><a href="assets/NAAC/Certificate/2014.pdf"><span class="text-middle">2014</span></a></li>
+                                                                                                                                                                                
+                                                        </ul>
+                                                    </li>
+                                                                                                                                                                                
+                                                        </ul>
+                                                    </li>
+
                                                     <!-- </li>    -->
-                                                    <li class="active "><a href="https://naac.sripushpamcollege.co.in/" target="_blank"><span>NAAC </span></a>
-                                                    </li>                                                                                                        
+                                                                                                        
+
                                                     <li class="active "><a href="<?php echo base_url('iqac_meet') ?>"><span>IQAC Meet </span></a>
                                                     </li>
                                                     <!-- <li class="active "><a href="<?php echo base_url('public/pdf/IQAC/Code_of_conduct_SSR-converted.pdf') ?>"><span>Code Of Conduct</span></a> -->

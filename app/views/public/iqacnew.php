@@ -79,6 +79,8 @@ $token=$_SESSION['name'];
                         <!-- </div> -->
                     <!-- </div>                    -->
                    
+
+                    
                     <div class="accordian">
                         <div class="acc_title" data-target="2" >IQAC Member <span> <i class="fas fa-chevron-down"></i></span></div>
                         <div class="acc_content acc_content2"  >

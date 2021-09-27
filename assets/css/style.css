@@ -39670,3 +39670,58 @@ tr:nth-child(even) {
 .container-fluid.marqueewrap .alert-primary span{padding: 0 30px;}
 .container-fluid.marqueewrap .alert-primary a{color: #004085;}
 /* syllabus 2017 css end */
+
+/* indent css start */
+rol,rli {
+    margin: 0;
+    padding: 0;
+}
+
+rol {
+    counter-reset: foo;
+    display: table;
+}
+
+rli {
+    list-style: none;
+    counter-increment: foo;
+    display: table-row;
+}
+
+rli::before {
+    content: counter(foo) ".";
+    display: table-cell;
+    text-align: right;
+    padding-right: .3em;
+}
+/* indent css end */
+
+/* indent css start */
+rmol,rmli {
+    margin: 0;
+    padding: 0;
+}
+
+rmol {
+    counter-reset: foo;
+    display: table;
+}
+
+rmli {
+    list-style: none;
+    counter-increment: foo;
+    display: table-row;
+}
+
+rmli::before {
+    content: counter(foo) ".";
+    display: table-cell;
+    text-align: right;
+    padding-right: .3em;
+}
+/* indent css end */
+
+div.rm {
+        text-indent: -36px;
+        padding-left: 36px;
+    }
