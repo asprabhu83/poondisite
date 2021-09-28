@@ -20,7 +20,7 @@ init_public_head();
                     <tr>
                         <td>History</td>
                         <td><?php syllabus_link('syllabus_2017_updated/UG_SYLLABUS/ba_history_syllabus') ?></td>
-						<td><?php syllabus_link('syllabus_2017_updated/UG_SYLLABUS/ba_history_syllabus') ?></td>
+						<td><?php syllabus_link('syllabus_2017_updated/PG_SYLLABUS/ma_history_syllabus') ?></td>
                     </tr>
                     <tr>
                         <td>Economics</td>
