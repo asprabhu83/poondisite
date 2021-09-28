@@ -39721,7 +39721,7 @@ rmli::before {
 }
 /* indent css end */
 
-div.rm {
+div .rm {
         text-indent: -36px;
         padding-left: 36px;
     }

@@ -263,14 +263,14 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                         <li class="active "><a href="https://naac.sripushpamcollege.co.in/" target="_blank"><span>NAAC Criteria </span></a>
                                                         </li>   
                                                         
-                                                        <li class="active"><a href="<?php echo base_url('#') ?>"><span>NAAC Certificate</span></a>
-                                                        <ul class="rd-navbar-dropdown">
+                                                        <li class="active"><a href="<?php echo base_url('certificate') ?>"><span>NAAC Certificate</span></a>
+                                                        <!-- <ul class="rd-navbar-dropdown">
                                                                                                               
-                                                        <li><a href="assets/NAAC/Certificate/1999.pdf"><span class="text-middle">1999</span></a></li>
-                                                        <li><a href="assets/NAAC/Certificate/2007.pdf"><span class="text-middle">2007</span></a></li>
-                                                        <li><a href="assets/NAAC/Certificate/2014.pdf"><span class="text-middle">2014</span></a></li>
+                                                        <li><a href="assets/NAAC/Certificate/1999.pdf" target="_blank"><span class="text-middle">1999</span></a></li>
+                                                        <li><a href="assets/NAAC/Certificate/2007.pdf" target="_blank"><span class="text-middle">2007</span></a></li>
+                                                        <li><a href="assets/NAAC/Certificate/2014.pdf" target="_blank"><span class="text-middle">2014</span></a></li>
                                                                                                                                                                                 
-                                                        </ul>
+                                                        </ul> -->
                                                     </li>
                                                                                                                                                                                 
                                                         </ul>

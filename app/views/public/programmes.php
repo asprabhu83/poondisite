@@ -72,7 +72,7 @@ init_public_head();
 											</tr>
 											<tr>
 												<td>B.Com</td>
-												<td>Commerce with Tax Procedure &amp; Practice</td>
+												<td>Commerce</td>
 												<td>1995-96</td>
 											</tr>
 											<tr>
@@ -105,21 +105,21 @@ init_public_head();
 												<td>Botany</td>
 												<td>1969-70</td>
 											</tr>
-											<tr>
+											<!-- <tr>
 												<td></td>
 												<td>Botany with Industrial Microbiology</td>
 												<td>1995-96</td>
-											</tr>
+											</tr> -->
 											<tr>
 												<td></td>
 												<td>Zoology</td>
 												<td>1961-62</td>
 											</tr>
-											<tr>
+											<!-- <tr>
 												<td></td>
 												<td> Zoology with Biotechnology</td>
 												<td>2002-03</td>
-											</tr>
+											</tr> -->
 											<tr>
 												<td></td>
 												<td>Computer Science</td>
@@ -127,7 +127,7 @@ init_public_head();
 											</tr>
 											<tr>
 												<td></td>
-												<td>Physical Education</td>
+												<td>Physical Education, Health Education & Sports</td>
 												<td>1988-89</td>
 											</tr>
 											<tr>
@@ -201,11 +201,11 @@ init_public_head();
 												<td>Physics</td>
 												<td>1972-73</td>
 											</tr>
-											<tr>
+											<!-- <tr>
 												<td></td>
 												<td>Industrial Chemistry Changed into Chemistry</td>
 												<td>1983-84 changed year 2009-10</td>
-											</tr>
+											</tr> -->
 											<!-- <tr>
 												<td></td>
 												<td align="center">Changed into</td>

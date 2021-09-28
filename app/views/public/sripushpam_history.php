@@ -20,7 +20,7 @@ init_public_head();
 <section class="section-90 section-md-top-111 section-md-bottom-120">
 	<div class="shell-fluid">
 		<div class="range range-xs-center range-md-left text-md-left section-with-images">
-			<div class="cell-xs-10 cell-md-6 cell-lg-4">
+			<div class="cell-xs-12 cell-md-8 cell-lg-6">
 			<div class="inset-md-left-36 inset-xl-left-10 inset-xs-left-20 offset-top-45">
 							<!-- <h2 class="inset-left-10"><strong>Sri Pushpam History</strong></h2><br> -->
 							<!-- <ul align="justify" class="inset-left-10 list list-marked"> -->
@@ -44,7 +44,7 @@ init_public_head();
 					<p><strong>Sri Pushpam</strong> with its sylvan delta surroundings which has a balanced eco system, is a haven for education.</p>
 				</div> -->
 			</div>
-			<div class="cell-xs-10 cell-md-6 cell-lg-7 cell-lg-preffix-1 offset-top-60 offset-md-top-0 range">
+			<div class="cell-xs-8 cell-md-4 cell-lg-4 cell-lg-preffix-1 offset-top-60 offset-md-top-0 range">
 				<div class="cell-lg-6 cell-lg-bottom first-image-wrap to-front"><img alt="" class="img-responsive max-width-lg-custom" height="750" src="<?php echo base_url('assets/images/history1.jpg') ?>" width="570" /></div>
 				<!-- <div class="cell-lg-6 cell-lg-top veil reveal-lg-block second-image-wrap"><img alt="" class="img-responsive max-width-lg-custom" height="420" src="<?php echo base_url('assets/images/history.jpg') ?>" width="570" /></div> -->
 			</div>
