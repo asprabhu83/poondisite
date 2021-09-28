@@ -25,10 +25,14 @@ init_public_head();
 							<!-- <h2 class="inset-left-10"><strong>Sri Pushpam History</strong></h2><br> -->
 							<!-- <ul align="justify" class="inset-left-10 list list-marked"> -->
 							<div class="rm">
-								<p> <span>&#9733;</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It was not a dream but a relative thought of <strong>Sri A.Veeriya Vandayar</strong> and his truthful brother <strong>Sri.A.Krishnaswamy Vandayar</strong> in the year <strong>1956.</strong></p>
-								<p> <span>&#9733;</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Started in his residence with <strong>11</strong> students and <strong>3</strong> duty-bound teachers, Sri Pushpam College has now spread its banyan shade for a prosperous learning.</p>
-								<p> <span>&#9733;</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vandayars are gentlemen farmers with a comprehensive skill for administrative management.</p>
-								<p> <span>&#9733;</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Sri Pushpam</strong> with its sylvan delta surroundings which has a balanced eco system, is a haven for education.</p>
+								<!-- <p style="background-color:Tomato;"> <span>&#9733;</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It was not a dream but a relative thought of <strong>Sri A.Veeriya Vandayar</strong> and his truthful brother <strong>Sri.A.Krishnaswamy Vandayar</strong> in the year <strong>1956.</strong></p>
+								<p style="background-color:DodgerBlue;"> <span>&#9733;</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Started in his residence with <strong>11</strong> students and <strong>3</strong> duty-bound teachers, Sri Pushpam College has now spread its banyan shade for a prosperous learning.</p>
+								<p style="background-color:MediumSeaGreen;"> <span>&#9733;</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vandayars are gentlemen farmers with a comprehensive skill for administrative management.</p>
+								<p style="background-color:Gray;"> <span>&#9733;</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong> Sri Pushpam</strong> with its sylvan delta surroundings which has a balanced eco system, is a haven for education.</p> -->
+								<p> <span>&#9733;</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It was not a dream but a relative thought of <strong>Sri A.Veeriya Vandayar</strong> and his truthful brother <strong>Sri.A.Krishnaswamy Vandayar</strong> in the year <strong>1956.</strong></p>
+								<p> <span>&#9733;</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Started in his residence with <strong>11</strong> students and <strong>3</strong> duty-bound teachers, Sri Pushpam College has now spread its banyan shade for a prosperous learning.</p>
+								<p> <span>&#9733;</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vandayars are gentlemen farmers with a comprehensive skill for administrative management.</p>
+								<p> <span>&#9733;</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong> Sri Pushpam</strong> with its sylvan delta surroundings which has a balanced eco system, is a haven for education.</p>
 							</div>
 							</ul>
 						</div>

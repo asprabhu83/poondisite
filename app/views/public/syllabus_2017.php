@@ -19,8 +19,8 @@ init_public_head();
                 <tbody>
                     <tr>
                         <td>History</td>
-                        <td><?php syllabus_link('History/bahistory') ?></td>
-						<td><?php syllabus_link('History/mahistory') ?></td>
+                        <td><?php syllabus_link('assets/syllabus_2017_updated/UG_SYLLABUS/ba_history_syllabus.pdf') ?></td>
+						<td><?php syllabus_link('assets/syllabus_2017_updated/UG_SYLLABUS/ba_history_syllabus.pdf') ?></td>
                     </tr>
                     <tr>
                         <td>Economics</td>

@@ -56,6 +56,7 @@ init_public_head();
 						<div class="inset-md-left-36 inset-xl-left-10 inset-xs-left-20 offset-top-45">
 							<h2 class="inset-left-10"><strong>Sri Pushpam History</strong></h2><br>
 							<ul align="justify" class="inset-left-10 list list-marked">
+								
 								<li>It was not a dream but a relative thought of <strong>Sri A.Veeriya Vandayar</strong> and his truthful brother <strong>Sri.A.Krishnaswamy Vandayar</strong> in the year <strong>1956.</strong></li>
 								<li>Started in his residence with <strong>11</strong> students and <strong>3</strong> duty-bound teachers, Sri Pushpam College has now spread its banyan shade for a prosperous learning.</li>
 								<li>Vandayars are gentlemen farmers with a comprehensive skill for administrative management.</li>
