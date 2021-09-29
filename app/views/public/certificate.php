@@ -34,14 +34,16 @@ init_public_head();
 						<div class="events fill-height">
 							<div class="range range-condensed">
 								<div class="cell-sm-4">
+                                <h4 class="text-bold"><a href="#">1999</a></h4> <br/>
 									<article>
-										<div class="post-image-wrap"><img alt="" style="border: #2f2b4f 3px solid;" class="img-responsive" height="370" src="<?php echo base_url('assets/NAAC/Certificate/1999.jpg') ?>" width="640" /></div>
+                                        <div class="post-image-wrap"><img alt="" style="border: #2f2b4f 3px solid;" class="img-responsive" height="370" src="<?php echo base_url('assets/NAAC/Certificate/1999.jpg') ?>" width="640" /></div>
 										<div class="post-body">
-											<!-- <h4 class="text-bold"><a href="<?php echo base_url('alumni') ?>">Alumni</a></h4> -->
+										<!-- <h4 class="text-bold"><a href="<?php echo base_url('alumni') ?>">Alumni</a></h4> -->
 										</div>
 									</article>
 								</div>
 								<div class="cell-sm-4">
+                                <h4 class="text-bold"><a href="#">2007</a></h4><br/>
 									<article>
 										<div class="post-image-wrap"><img alt="" style="margin-left: 10px; border: #2f2b4f 3px solid;" class="img-responsive" height="370" src="<?php echo base_url('assets/NAAC/Certificate/2007.jpg') ?>" width="640" /></div>
 										<div class="post-body">
@@ -50,6 +52,7 @@ init_public_head();
 									</article>
 								</div>
 								<div class="cell-sm-4">
+                                <h4 class="text-bold"><a href="#">2014</a></h4><br/>
 									<article>
 										<div class="post-image-wrap"><img alt="" style="margin-left: 17px; border: #2f2b4f 3px solid;" class="img-responsive" height="370" src="<?php echo base_url('assets/NAAC/Certificate/2014.jpg') ?>" width="640" /></div>
 										<div class="post-body">
