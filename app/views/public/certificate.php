@@ -26,7 +26,7 @@ init_public_head();
 					<div class="cell-xs-12 cell-sm-12 cell-lg-12">
 						<h2 class="text-bold"></h2>
 						<div class="inset-md-left-36 inset-xl-left-10 inset-xs-left-20 offset-top-45">
-							<h2 class="inset-left-10"><strong>Certificate of Accreditation</strong></h2><br>
+							<h2 class="inset-left-10"><strong>Certificates of Accreditation</strong></h2><br>
 							
 						</div>
 					</div>
