@@ -263,6 +263,7 @@ init_public_head();
 								<tr>
 									<th style="text-align: center;">Name of the Faculty Member</th>
 									<th style="text-align: center;">Designation</th>
+                                    <td style="text-align: center;">Attendance</td>
 								</tr>
 								<tr>
 									<th colspan="3"><strong>Aided Faculty</strong></th>
@@ -270,42 +271,52 @@ init_public_head();
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/History/1.Ravichandran.pdf') ?>" target="_blank" rel="noopener">Dr.V. Ravichandran</a></th>
 									<td style="text-align: center;">Associate Professor</td>
+                                    <td style="text-align: center;">Attendance</td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/History/2.Prabakaran.pdf') ?>" target="_blank" rel="noopener">Dr.S.Prabhakaran</a></th>
-									<td style="text-align: center;">Assistant Professor &amp; Coordinator</td>
+									<td style="text-align: center;">Assistant Professor</td>
+                                    <td style="text-align: center;">Attendance</td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/History/3.Ganesan.pdf') ?>" target="_blank" rel="noopener">Dr.P.Ganesan</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
+                                    <td style="text-align: center;">Attendance</td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/History/4.pandiyan_doc.pdf') ?>" target="_blank" rel="noopener">Dr.N.Pandiyan</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
+                                    <td style="text-align: center;">Attendance</td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/History/5.Malarvizhi.pdf') ?>" target="_blank" rel="noopener">Dr.V.Malarvizhi</a></th>
 									<td style="text-align: center;">Assistant Professor &amp; Coordinator</td>
+                                    <td style="text-align: center;">Attendance</td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/History/6.Thenmozhi.pdf') ?>" target="_blank" rel="noopener">Prof.S.Thenmozhi</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
+                                    <td style="text-align: center;">Attendance</td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/History/7.Pathy.pdf') ?>" target="_blank" rel="noopener">Dr.G.Pathy</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
+                                    <td style="text-align: center;">Attendance</td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/History/9.Selvam .pdf') ?>" target="_blank" rel="noopener">Prof.T.Selvam</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
+                                    <td style="text-align: center;">Attendance</td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/History/8.veeramani.pdf') ?>" target="_blank" rel="noopener">Dr.P.V.Veeramani</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
+                                    <td style="text-align: center;">Attendance</td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/History/10.vinothkumar') ?>" target="_blank" rel="noopener">Dr.N.Vinoth kumar</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
+                                    <td style="text-align: center;">Attendance</td>
 								</tr>
 								<tr>
 									<th colspan="3">Self &ndash; Finance Faculty</th>
@@ -313,6 +324,7 @@ init_public_head();
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/History/11.Rajakumaran.pdf') ?>" target="_blank" rel="noopener">Dr.R.Rajakumaran</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
+                                    <td style="text-align: center;">Attendance</td>
 								</tr>
 							</tbody>
 						</table>

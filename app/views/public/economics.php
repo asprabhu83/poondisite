@@ -270,7 +270,7 @@ init_public_head();
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/Economics/2.%20S.%20Rajarajeswari.pdf') ?>" target="_blank" rel="noopener">Prof.S.RajaRajeswari</a></th>
-									<td style="text-align: center;">Associate Prof. &amp; Coordinator</td>
+									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/Economics/3.%20V.%20Valarmathi.pdf') ?>" target="_blank" rel="noopener">Prof.V.Valarmathy</a></th>
@@ -278,7 +278,7 @@ init_public_head();
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/Economics/4.%20S.%20Sangeetha.pdf') ?>" target="_blank" rel="noopener">Prof.S.Sangeetha</a></th>
-									<td style="text-align: center;">Assistant Professor</td>
+									<td style="text-align: center;">Assistant Professor &amp; Coordinator</td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/Economics/5.Dr.S.Thennarasu.pdf') ?>" target="_blank" rel="noopener">Dr.S.Thennarusu</a></th>

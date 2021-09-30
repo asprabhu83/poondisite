@@ -179,11 +179,11 @@ init_public_head();
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/AIDED/3.%20Dr.%20V.%20Nanthakumar.pdf')?>" target="_blank" rel="noopener">Dr. V. Nandhakumar</a></th>
-									<td style="text-align: center;">Associate Professor</td>
+									<td style="text-align: center;">Associate Professor &amp; Coordinator</td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/AIDED/4.%20M.%20Pramesh.pdf')?>" target="_blank" rel="noopener">Prof.M. Pramesh</a></th>
-									<td style="text-align: center;">Associate Prof. &amp; Coordinator</td>
+									<td style="text-align: center;">Associate Professor</td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/AIDED/5.%20G.%20Muruganantham.pdf')?>" target="_blank" rel="noopener">Prof.G.Muruganandam</a></th>

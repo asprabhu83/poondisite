@@ -374,7 +374,7 @@ function research_quicklinks()
 
 function classattendance_quicklinks()
 {
-    echo '<h4 class="text-ubold inset-left-20 offset-top-30">DEPARTMENT QUICK LINKS</h4>
+    echo '<h4 class="text-ubold inset-left-20 offset-top-30">CLASS ATTENDANCE QUICK LINKS</h4>
     <div class="heading-divider"></div>
     <ul class="list list-marked inset-left-30" style="font-size: 18px;">
         <ul class="list list-marked inset-left-30" style="font-size: 18px;">
@@ -382,7 +382,7 @@ function classattendance_quicklinks()
                 <ul class="list list-marked inset-right-30" style="font-size: 18px;">
                     <ul class="list list-marked inset-right-30" style="font-size: 18px;">
                         
-                        <li><a href="' . base_url("history") . '" class="text-matrix"><strong>History </strong></a></li>
+                        <li><a href="' . base_url("attendance_history") . '" class="text-matrix"><strong>History </strong></a></li>
                         <li><a href="' . base_url("economics") . '" class="text-matrix"><strong>Economics </strong></a></li>
                         <li><a href="' . base_url("tamil") . '" class="text-matrix"><strong>Tamil </strong></a></li>
                         <li><a href="' . base_url("english") . '" class="text-matrix"><strong>English </strong></a></li>

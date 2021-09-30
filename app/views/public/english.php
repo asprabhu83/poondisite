@@ -249,7 +249,7 @@ init_public_head();
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/english/AIDED/Eng.%202.C.%20Radhakrishnan.pdf') ?>" target="_blank" rel="noopener">Dr.C.Radha krishnan</a></th>
-									<td style="text-align: center;">Associate Professor</td>
+									<td style="text-align: center;">Associate Professor &amp; Coordinator</td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/english/AIDED/Eng.%203.%20Dr.%20B.R.%20Veeramani.pdf') ?>" target="_blank" rel="noopener">Dr.B.R.Veeramani</a></th>
@@ -269,7 +269,7 @@ init_public_head();
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/english/AIDED/Eng.%207.Dr.R.Shanthi.pdf') ?>" target="_blank" rel="noopener">Dr. R. Shanthi</a></th>
-									<td style="text-align: center;">Associate Prof. &amp; Coordinator</td>
+									<td style="text-align: center;">Associate Professor</td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/english/AIDED/Eng.%208.%20V.%20Radhakrishnan.pdf') ?>" target="_blank" rel="noopener">Prof.V.Radhakrishnan</a></th>
