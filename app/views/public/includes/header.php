@@ -145,6 +145,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     <li class="active"><a href="#"><span>Department</span></a>
                                                     <ul class="rd-navbar-dropdown">
                                                     <li class="active "><a href="<?php echo base_url('departments') ?>"><span>Faculty Members </span></a>
+                                                    <li class="active "><a href="<?php echo base_url('staffportal') ?>"><span>Staff Portal</span></a>
                                                     <li class="active "><a href="<?php echo base_url('syllabus_2017') ?>"><span>Syllabus</span></a>
                                                     </li>
                                                         <!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2018.pdf') ?>"><span>NIRF 2018</span></a> -->
