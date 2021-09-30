@@ -125,6 +125,14 @@ class Website extends App_Controller
         $this->data['menu_naac'] = "active";
         $this->load->view('public/naac', $this->data);
     }
+
+    public function staffportal()
+    {
+
+        $this->data['title'] = "Staff Portal";
+        $this->data['menu_staffportal'] = "active";
+        $this->load->view('public/staffportal', $this->data);
+    }
     public function course_outcome()
     {
 

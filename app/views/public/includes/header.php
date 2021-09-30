@@ -286,6 +286,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                         <ul class="rd-navbar-dropdown">
                                                             <li class="active "><a href="<?php echo base_url('public/pdf/IQAC/Code_of_conduct_SSR-converted.pdf') ?>"><span>Code Of Conduct</span></a>
                                                             <li class="active "><a href="<?php echo base_url('public/pdf/IQAC/Research_Policy.pdf') ?>"><span>Research Policy</span></a>
+                                                            <li class="active "><a href="<?php echo base_url('public/pdf/IQAC/Strategic_plan_and_Deployment_Policy.pdf') ?>"><span>Strategic Plan and Deployment</span></a>
                                                         </ul>
                                                     </li>
 
