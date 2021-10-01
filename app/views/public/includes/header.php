@@ -260,12 +260,19 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                                                                                         
                                                         </ul>
                                                     </li>
-                                                    <li class="active"><a href="<?php echo base_url('#') ?>"><span>NAAC</span></a>
+
+                                                    <li class="active "><a href="https://naac.sripushpamcollege.co.in/" target="_blank"><span>NAAC</span></a>
+                                                        </li>   
+                                                        
+                                                    <li class="active"><a href="<?php echo base_url('certificate') ?>"><span>NAAC Certificate</span></a>
+                                                        </li>
+                                                   
+                                                        <!-- <li class="active"><a href="<?php echo base_url('#') ?>"><span>NAAC</span></a>
                                                         <ul class="rd-navbar-dropdown">
                                                         <li class="active "><a href="https://naac.sripushpamcollege.co.in/" target="_blank"><span>NAAC Criteria </span></a>
                                                         </li>   
                                                         
-                                                        <li class="active"><a href="<?php echo base_url('certificate') ?>"><span>NAAC Certificate</span></a>
+                                                        <li class="active"><a href="<?php echo base_url('certificate') ?>"><span>NAAC Certificate</span></a> -->
                                                         <!-- <ul class="rd-navbar-dropdown">
                                                                                                               
                                                         <li><a href="assets/NAAC/Certificate/1999.pdf" target="_blank"><span class="text-middle">1999</span></a></li>
@@ -273,10 +280,10 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                         <li><a href="assets/NAAC/Certificate/2014.pdf" target="_blank"><span class="text-middle">2014</span></a></li>
                                                                                                                                                                                 
                                                         </ul> -->
-                                                    </li>
+                                                    <!-- </li> -->
                                                                                                                                                                                 
-                                                        </ul>
-                                                    </li>
+                                                        <!-- </ul>
+                                                    </li> -->
 
                                                     <!-- </li>    -->
                                                                                                         
