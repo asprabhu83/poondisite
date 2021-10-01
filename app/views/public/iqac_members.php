@@ -21,7 +21,7 @@ init_public_head();
 			<h5><strong>CHAIRPERSON</strong></h5> <br />
 				<ul>
 
-					<li>Dr. R. Sivakumar , Principal	Principal</li>
+					<li>Dr. R. Sivakumar , Principal</li>
 					
 				</ul>
         </ul><br>

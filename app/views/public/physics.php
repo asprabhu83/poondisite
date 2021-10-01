@@ -300,7 +300,7 @@ init_public_head();
 								</tr> -->
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/Dr.K.Ravichandran.pdf') ?>" target="_blank" rel="noopener">Dr. K. Ravichandran</a></th>
-									<td style="text-align: center;">Associate Professor</td>
+									<td style="text-align: center;">Associate Professor &amp; Coordinator</td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/3.Dr.%20B.%20Sakthivel.pdf') ?>" target="_blank" rel="noopener">Dr.B. Sakthivel</a></th>

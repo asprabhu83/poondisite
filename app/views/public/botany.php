@@ -264,7 +264,7 @@ init_public_head();
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/botany/1.%20Dr.T.KUMAR.pdf') ?>" target="_blank" rel="noopener">Dr. T. Kumar</a></th>
-									<td style="text-align: center;">Associate professor</td>
+									<td style="text-align: center;">Associate professor &amp; Coordinator</td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/botany/2.%20Dr.C.CHANDRAN.pdf') ?>" target="_blank" rel="noopener">Dr. C. Chandran</a></th>

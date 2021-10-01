@@ -273,18 +273,18 @@ init_public_head();
 									<th style="text-align: center;">Name of the Faculty Member</th>
 									<th style="text-align: center;">Designation</th>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.P.Natarajan.pdf') ?>" target="_blank" rel="noopener">Dr. P. Natarajan</a></th>
 									<td style="text-align: center;">Associate Professor &amp; Coordinator</td>
-								</tr>
+								</tr> -->
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/DR.R.Rajakumar.pdf') ?>" target="_blank" rel="noopener">Dr. R. Rajkumar</a></th>
-									<td style="text-align: center;">Assistant Professor</td>
+									<td style="text-align: center;">Associate Professor &amp; Coordinator</td>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.Asokan.pdf') ?>" target="_blank" rel="noopener">Dr.K.ASKOAN</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
-								</tr>
+								</tr> -->
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.R.Pragashraj.pdf') ?>" target="_blank" rel="noopener">Dr. R. Prakashraj</a></th>
 									<td style="text-align: center;">Assistant Professor</td>

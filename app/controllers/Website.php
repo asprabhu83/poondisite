@@ -311,6 +311,14 @@ class Website extends App_Controller
         $this->load->view('public/statistics', $this->data);
     }
 
+    public function attendance()
+    {
+
+        $this->data['title'] = "Attendance";
+        $this->data['menu_attendance'] = "active";
+        $this->load->view('public/attendance', $this->data);
+    }
+
     public function attendance_history()
     {
 
@@ -318,7 +326,6 @@ class Website extends App_Controller
         $this->data['menu_attendance_history'] = "active";
         $this->load->view('public/attendance_history', $this->data);
     }
-
 
     
     public function res_history()

@@ -324,15 +324,15 @@ init_public_head();
 									</tr>
 									<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/1.%20Dr.%20V.%20Maniraj.pdf') ?>" target="_blank" rel="noopener">Dr.V.ManiRaj</a></th>
-										<td style="text-align: center;">Associate Professor & Co-ordinator</td>
+										<td style="text-align: center;">Associate Professor  &amp; Co-ordinator</td>
 									</tr>
 									<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/2.Dr.R.Sivakumar.pdf') ?>" target="_blank" rel="noopener">Dr.R.Sivakumar </a></th>
-										<td style="text-align: center;">Associate Prof. &amp; Principal</td>
+										<td style="text-align: center;">Associate Professor &amp; Principal</td>
 									</tr>
 									<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/3.Dr.S.Kumaravel.pdf') ?>" target="_blank" rel="noopener">Dr.S. Kumaravel</a></th>
-										<td style="text-align: center;">Associate Professor</td>
+										<td style="text-align: center;">Associate Professor &amp; Dean of Sciences</td>
 									</tr>
 									<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/4.Dr.T.ChakaravarthI.pdf') ?>" target="_blank" rel="noopener">Dr. T. Chakkaravarthi</a></th>
@@ -340,7 +340,7 @@ init_public_head();
 									</tr>
 									<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/5.Dr.R.Subash%20chandra%20Bose.pdf') ?>" target="_blank" rel="noopener">Dr.R. Subash Chandra Bose</a></th>
-										<td style="text-align: center;">Associate Professor</td>
+										<td style="text-align: center;">Associate Professor &amp; IQAC Co-ordinator</td>
 									</tr>
 									<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/6.Prof.R.Sivakumar.pdf') ?>" target="_blank" rel="noopener">Prof.R.Sivakumar</a></th>

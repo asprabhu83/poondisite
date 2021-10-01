@@ -269,11 +269,11 @@ init_public_head();
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/History/1.Ravichandran.pdf') ?>" target="_blank" rel="noopener">Dr.V. Ravichandran</a></th>
-									<td style="text-align: center;">Associate Professor</td>
+									<td style="text-align: center;">Associate Professor &amp; Dean of Atrs &amp; commerce</td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/History/2.Prabakaran.pdf') ?>" target="_blank" rel="noopener">Dr.S.Prabhakaran</a></th>
-									<td style="text-align: center;">Assistant Professor &amp; Coordinator</td>
+									<td style="text-align: center;">Assistant Professor </td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/History/3.Ganesan.pdf') ?>" target="_blank" rel="noopener">Dr.P.Ganesan</a></th>

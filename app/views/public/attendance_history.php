@@ -263,13 +263,13 @@ init_public_head();
 								<tr>
 									<th style="text-align: center;">Name of the Faculty Member</th>
 									<th style="text-align: center;">Designation</th>
-                                    <td style="text-align: center;">Attendance</td>
+                                    <th style="text-align: center;">Attendance</th>
 								</tr>
 								<tr>
 									<th colspan="3"><strong>Aided Faculty</strong></th>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/History/1.Ravichandran.pdf') ?>" target="_blank" rel="noopener">Dr.V. Ravichandran</a></th>
+									<th><a href="<?php echo base_url('attendance') ?>" target="_blank" rel="noopener">Dr.V. Ravichandran</a></th>
 									<td style="text-align: center;">Associate Professor</td>
                                     <td style="text-align: center;">Attendance</td>
 								</tr>
