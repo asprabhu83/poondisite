@@ -63,7 +63,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                             <div class="unit unit-middle unit-horizontal unit-spacing-xs unit-xs-top">
                                                 <div class="unit-left"><span class="icon icon-sm-size-1 text-white mdi mdi-map-marker"></span></div>
                                                 <div class="unit-body">
-                                                    <div class="p" style="color: #fff;">Poondi - 613 503, Thanjavur Dt, Tamil Nadu </div>
+                                                    <div class="p" style="color: #fff;"><strong></strong>Poondi - 613 503, Thanjavur Dt, Tamil Nadu </strong></div>
                                                 </div>
                                             </div>
                                         </div> -->
@@ -82,7 +82,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                             </div>
                             
                             <div id="content-desktop">
-                                        <h6 align="center" style="color: #fff; padding-right: 60px; font-variant: small-caps; font-size: 13px; margin-top: 15px;">Poondi - 613 503, Thanjavur Dt, Tamil Nadu</h6>
+                                        <h3 align="center" style="color: #fff; padding-right: 60px; font-variant: small-caps; font-size: 22px; margin-top: 15px;">Poondi - 613 503, Thanjavur Dt, Tamil Nadu</h3>
                             </div>
 
                             <div id="content-mobile">
@@ -133,9 +133,10 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                             <li><a href="<?php echo base_url('non-statutory-committees') ?>"><span class="text-middle">Non-Statutory Committees </span></a></li>
                                                         </ul>
                                                     </li> 
+                                                    <li><a href="<?php echo base_url('public/pdf/Organogram.pdf') ?>"><span class="text-middle">Organogram </span></a>
                                                 </ul>
                                             </li>
-     
+                                            
 
                                             <li class="active "><a href="#"><span>Academics</span></a>
                                                 <ul class="rd-navbar-dropdown">
