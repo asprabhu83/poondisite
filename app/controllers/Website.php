@@ -218,6 +218,14 @@ class Website extends App_Controller
         $this->load->view('public/programmes', $this->data);
     }
 
+    public function popsoco()
+    {
+
+        $this->data['title'] = "PO, PSO & CO";
+        $this->data['menu_popsoco'] = "active";
+        $this->load->view('public/popsoco', $this->data);
+    }
+
     public function research()
     {
 

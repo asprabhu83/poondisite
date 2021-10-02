@@ -154,7 +154,15 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </ul>
                                                     </li>
 
-                                                    <li class="active"><a href="#"><span>Programme</span></a>
+                                                   
+                                                    <li class="active "><a href="<?php echo base_url('programmes') ?>"><span>Programmes</span></a>
+                                                    </li>
+                                                                                                     
+                                                    <li class="active "><a href="<?php echo base_url('popsoco') ?>"><span>PO, PSO & CO</span></a>
+                                                    </li>
+                                                   
+                                                   
+                                                    <!-- <li class="active"><a href="#"><span>Programme</span></a>
                                                     <ul class="rd-navbar-dropdown">
                                                     <li class="active "><a href="<?php echo base_url('programmes') ?>"><span>Programmes</span></a>
                                                     </li>
@@ -164,11 +172,11 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('course_outcome') ?>"><span>Course Outcomes</span></a>
                                                     </li>
-                                                    <!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2021.pdf') ?>"><span>NIRF 2021</span></a> -->
-                                                    <!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2018.pdf') ?>"><span>NIRF 2018</span></a> -->
+                                                    <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2021.pdf') ?>"><span>NIRF 2021</span></a>
+                                                    <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2018.pdf') ?>"><span>NIRF 2018</span></a> 
                                                     </li>
                                                     </ul>
-                                                    </li>
+                                                    </li> -->
                                                                                                        
                                                     
                                                                                                       
@@ -332,7 +340,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                 </ul>
                                             </li> -->
 
-                                            <li class="active "><a href="<?php echo base_url('coe') ?>"><span>Examinations </span></a>
+                                            <li class="active "><a href="<?php echo base_url('coe') ?>"><span>COE </span></a>
                                                 <ul class="rd-navbar-dropdown">
                                                     <li class="active "><a href="<?php echo base_url('coe') ?>"><span>About Examinations</span></a>
                                                     <li class="active "><a href="https://www.iobnet.co.in/iobpay/entry.do?dirlinkmerid=AVVTAN&dirlinkcatcd=EDU" target="_blank"><span>Exam Fees</span></a>
