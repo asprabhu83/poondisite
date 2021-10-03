@@ -432,7 +432,7 @@
 		<!--//main-->
 		<!--footer-->
 		<div class="footer">
-			<p>&copy; <?php echo date('Y'); ?> Academic Planner 2021 - 2022. All rights reserved | Design by <a href="https://www.sripushpamcollege.co.in/" target="_blank">AVVM SPC</a></p>
+			<p>&copy; <?php echo date('Y'); ?> Attendace Entry From 2020-2021. All rights reserved | Design by <a href="https://www.sripushpamcollege.co.in/" target="_blank">AVVM SPC</a></p>
 		</div>
 		<!--//footer-->
 	

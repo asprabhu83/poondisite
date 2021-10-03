@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Academic Planner 2021 - 2022</title>
+<title>Attendance 2021 - 2022</title>
 <!-- Meta tag Keywords -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -15,7 +15,7 @@
 <!-- web-fonts -->
 <link href="//fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;subset=latin-ext" rel="stylesheet">
 <!-- //web-fonts -->
-<script src="js/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="js/jquery-3.6.0.min.js" crossorigin="anonymous"></script>
 
  <link href="vendor/mdi-font/css/material-design-iconic-font.min.css" rel="stylesheet" media="all">
     <link href="vendor/font-awesome-4.7/css/font-awesome.min.css" rel="stylesheet" media="all">
@@ -35,25 +35,21 @@
         <div class="wrapper wrapper--w680">
             <div class="card card-4">
                 <div class="card-body">
-                    <h2 class="title">Academic Planner 2021 - 2022</h2>
+                    <h2 class="title"  style="font-size:300%;">Attendance Entry Form</h2>
+                   
                     <form method="POST" action="data.php">
                         <div class="row row-space">
-                            <div class="col-2">
+                            <!-- <div class="col-2"> -->
                                 <div class="input-group">
-                                    <label class="label">Name</label>
-                                    <input class="input--style-4" type="text" name="name">
+                                    <label class="label">staffid</label>
+                                    <input class="input--style-4" type="text" name="staffid">
                                 </div>
-                            </div>
+                            <!-- </div> -->
+                            
+
+                        <!-- <div class="row row-space"> 
                             <div class="col-2">
-                                <div class="input-group">
-                                   <label class="label">Email</label>
-                                    <input class="input--style-4" type="email" name="email">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row row-space">
-                            <div class="col-2">
-                               <div class="input-group select2 select2-container select2-container--default">
+                            <div class="input-group select2 select2-container select2-container--default">
                             <label class="label pe-4">Designation </label>
                             <div class="rs-select2 js-select-simple select--no-search">
                                 <select name="designation">
@@ -63,8 +59,10 @@
                                 </select>
                                 <div class="select-dropdown"></div>
                             </div>
-                        </div>
                             </div>
+                        </div> 
+                            
+                            
                             <div class="col-2">
                                <div class="input-group">
                             <label class="label pe-4">Department  </label>
@@ -101,24 +99,11 @@
                         </div>
                             </div>
                         </div>
-                        <div class="row row-space">
-                            <div class="col-2">
-                                <div class="input-group">
-                                   <div class="p-t-10">
-								    <label class="label pe-4">Shift  </label>
-<label class="radio-container m-r-45">Day
-<input type="radio" checked="checked" name="shift" value="day">
-<span class="checkmark"></span>
-</label>
-<label class="radio-container">Evening
-<input type="radio" name="shift" value="evening">
-<span class="checkmark"></span>
-</label>
-</div>
-                                </div>
-                            </div>
-                            <div class="col-2">
-                               <div class="input-group">
+                       
+
+                            
+                            <div class="col-2"> -->
+                            <div class="input-group">
                             <label class="label pe-4">Academic Year </label>
                             <div class="rs-select2 js-select-simple select--no-search">
                                 <select name="academic_year">
@@ -128,12 +113,13 @@
                                 </select>
                                 <div class="select-dropdown"></div>
                             </div>
-                        </div>
                             </div>
-                        </div>
-						  <div class="row row-space">
-						 <div class="col-3">
-                       <div class="input-group">
+                            
+
+
+                            <!-- <div class="row row-space">
+						    <div class="col-3"> -->
+                            <div class="input-group">
                             <label class="label pe-4">Semester  </label>
                             <div class="rs-select2 js-select-simple select--no-search">
                                 <select name="semester">
@@ -144,13 +130,68 @@
                                 <div class="select-dropdown"></div>
                             </div>
                         </div>
-						</div>
+						<!-- </div> -->
 						
-						 <div class="col-2">
-                       <div class="input-group">
+                        <div class="col-2">
+                                <div class="input-group">
+                                   <label class="label">Date </label>
+                                    <input class="input--style-4" type="text" name="date1">
+                                </div>
+                            </div>
+
+
+                        <div class="input-group">
+                            <label class="label pe-4">Hour </label>
+                            <div class="rs-select2 js-select-simple select--no-search">
+                                <select name="hour">
+                                    <option disabled="disabled" selected="selected">Choose option</option>
+										<option value="1">I</option>
+										<option value="2">II</option>
+										<option value="3">III</option>
+										<option value="4">IV </option>
+										<option value="5">V </option>
+								</select>
+                                <div class="select-dropdown"></div>
+                            </div>
+                        </div>
+
+
+                            <div class="col-2">
+                                <div class="input-group">
+                                   <label class="label">Subject Code </label>
+                                    <input class="input--style-4" type="text" name="sub_code">
+                                </div>
+                            </div>
+
+
+
+
+
+                        <div class="row row-space">
+                            <div class="col-2">
+                                <div class="input-group">
+                                   <div class="p-t-10">
+								    <label class="label pe-4">Shift  </label>
+                                            <label class="radio-container m-r-45">Day
+                                                <input type="radio" checked="checked" name="shift" value="day">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                            <label class="radio-container">Evening
+                                                <input type="radio" name="shift" value="evening">
+                                                <span class="checkmark"></span>
+                                            </label>
+                                    </div>
+                                </div>
+                            </div>                        
+
+                        </div>
+
+
+                        <!-- <div class="col-2"> -->
+                        <div class="input-group">
                             <label class="label pe-4">Year  </label>
                             <div class="rs-select2 js-select-simple select--no-search">
-                                <select name="year">
+                                <select name="year" id="year">
                                     <option disabled="disabled" selected="selected">Choose option</option>
                                     <option value="1">I</option>
                                     <option value="2">II</option>
@@ -159,15 +200,17 @@
                                 <div class="select-dropdown"></div>
                             </div>
                         </div>
-						</div>
-						</div>
+						<!-- </div> -->
+
+                          
+                        
 						
-						  <div class="row row-space">
-						   <div class="col-3">
-                       <div class="input-group">
+						  <!-- <div class="row row-space">
+						   <div class="col-3"> -->
+                        <div class="input-group">
                             <label class="label pe-4">Programme   </label>
                             <div class="rs-select2 js-select-simple select--no-search">
-                                <select name="programme">
+                                <select name="programme" id="programme">
                                     <option disabled="disabled" selected="selected">Choose option</option>
 										<option value="ba">B.A</option>
 										<option value="bcom">B.COM</option>
@@ -185,14 +228,14 @@
                                 <div class="select-dropdown"></div>
                             </div>
                         </div>
-						</div>
+						<!-- </div> -->
 						
 						
-						 <div class="col-2">
-                       <div class="input-group">
+					    <!-- <div class="col-2"> -->
+                        <div class="input-group">
                             <label class="label pe-4">Class   </label>
                             <div class="rs-select2 js-select-simple select--no-search">
-                               <select name="class">
+                               <select name="class" id="class">
                                     <option disabled="disabled" selected="selected">Choose option</option>
 									 <option disabled="disabled" selected="selected">Choose option</option>
 									<option value="history">History</option>
@@ -223,97 +266,40 @@
                                 <div class="select-dropdown"></div>
                             </div>
                         </div>
-						</div>
-						  </div>
-						  
-						  <div class="row row-space">
-						   <div class="col-3">
-                       <div class="input-group">
-                            <label class="label pe-4">Cycle No   </label>
-                            <div class="rs-select2 js-select-simple select--no-search">
-                                <select name="cycle_no">
-                                    <option disabled="disabled" selected="selected">Choose option</option>
-										<option value="1">I</option>
-										<option value="2">II</option>
-										<option value="3">III</option>
-										<option value="4">IV </option>
-										<option value="5">V </option>
-										<option value="6">VI </option>
-										<option value="7">VII </option>
-										<option value="8">VIII </option>
-										<option value="9">IX </option>
-										<option value="10">X </option>
-										<option value="11">XI </option>
-										<option value="12">XII </option>
-										<option value="13">XIII </option>
-										<option value="14">XIV </option>
-										<option value="15">XV </option>
-                                </select>
-                                <div class="select-dropdown"></div>
-                            </div>
-                        </div>
-						</div>
+						<!-- </div> -->
 						
-						 <div class="col-2">
-                                <div class="input-group">
-                                   <label class="label">Subject Code </label>
-                                    <input class="input--style-4" type="text" name="subject_code">
-                                </div>
-                            </div>
-						
-						  </div>
-						  <div class="row row-space">
-						  		 <div class="col-2">
-                       <div class="input-group">
-                            <label class="label pe-4">Hour </label>
-                            <div class="rs-select2 js-select-simple select--no-search">
-                                <select name="hour">
-                                    <option disabled="disabled" selected="selected">Choose option</option>
-										<option value="1">I</option>
-										<option value="2">II</option>
-										<option value="3">III</option>
-										<option value="4">IV </option>
-										<option value="5">V </option>
-										
-                                </select>
-                                <div class="select-dropdown"></div>
-                            </div>
-                        </div>
-						</div>
-						
-								 <div class="col-2">
-                       <div class="input-group">
-                            <label class="label pe-4">Unit  </label>
-                            <div class="rs-select2 js-select-simple select--no-search">
-                                <select name="unit">
-                                    <option disabled="disabled" selected="selected">Choose option</option>
-										<option value="1">1</option>
-										<option value="2">2</option>
-										<option value="3">3</option>
-										<option value="4">4 </option>
-										<option value="5">5 </option>
-										
-                                </select>
-                                <div class="select-dropdown"></div>
-                            </div>
-                        </div>
-						</div>
+                    </div>
 
-						  </div>
-						  <div class="row row-space">
-						   <div class="col-2">
-                                <div class="input-group">
-                                   <label class="label">Title  </label>
-                                    <input class="input--style-4" type="text" name="title">
-                                </div>
+                    <div class="col-2">
+                       <div class="input-group">
+                            <label class="label pe-4">Section  </label>
+                            <div class="rs-select2 js-select-simple select--no-search">
+                                <select name="section" id="section">
+                                    <option disabled="disabled" selected="selected">Choose option</option>
+                                    <option value="A">A</option>
+                                    <option value="B">B</option>
+									 <option value="C">C</option>
+                                </select>
+                                <div class="select-dropdown"></div>
                             </div>
-							 <div class="col-2">
-                                <div class="input-group">
-                                   <label class="label">Portion covered </label>
-                                    <input class="input--style-4" type="text" name="portion_covered">
-                                </div>
+                        </div>
+						</div>
+						  
+                        <div class="col-2">
+                       <div class="input-group" id="rollno_data">
+                            <label class="label pe-4">Roll No.  </label>
+                            <input type="checkbox" id="rollnochb" name="rollno" value="rollno">
+                            <label for="rollnolbl"> 20CHM101</label><br>
                             </div>
+                        </div>
+						</div>
+						  						
+						 
+						
 						  </div>
+						 
+						  
+					
                         <div class="p-t-15">
                             <button class="btn btn--radius-2 btn--blue" type="submit">Submit</button>
                         </div>
@@ -326,7 +312,7 @@
 		<!--//main-->
 		<!--footer-->
 		<div class="footer">
-			<p>&copy; <?php echo date('Y'); ?> Academic Planner 2021 - 2022. All rights reserved | Design by <a href="https://www.sripushpamcollege.co.in/" target="_blank">AVVM SPC</a></p>
+			<p>&copy; <?php echo date('Y'); ?> Attendace Entry From 2020-2021.. All rights reserved | Design by <a href="https://www.sripushpamcollege.co.in/" target="_blank">AVVM SPC</a></p>
 		</div>
 		<!--//footer-->
 	
@@ -340,3 +326,33 @@
     <script src="js/global.js"></script>
 </body>
 </html>
+
+<script>
+
+$(function() {
+    var base_url = window.location.origin;
+
+    $("#section").change(function() {
+        var year = $("#year").val();
+        var programme = $("#programme").val();
+        var class1 = $("#class").val();
+        var section = $("#section").val();
+
+        $.ajax({
+            type: "POST",
+            data: {"year":year,"program":programme,"class":class1,"section":section},
+            dataType  : 'json',
+            url: base_url+"/attendance/rollno.php",
+            success: function(data){
+               //data will contain the vote count echoed by the controller i.e.  
+                
+              //then append the result where ever you want like
+              $("#rollno_data").html(data); //data will be containing the vote count which you have echoed from the controller
+
+                }
+            });
+    });
+});
+
+
+</script>
