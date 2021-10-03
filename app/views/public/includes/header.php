@@ -314,18 +314,24 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/IQAC/Undertaking%20Form%20and%20RTI.pdf') ?>"><span>Principal's Undertaking</span></a>
                                                     </li>
-                                                    <li class="active"><a href="<?php echo base_url('#') ?>"><span>Feedback for Curriculum</span></a>
+
+                                            <li class="active"><a href="#"><span>Curriculum</span></a>
+                                                <ul class="rd-navbar-dropdown">
+                                                    
+                                                    <li class="active"><a href="<?php echo base_url('#') ?>"><span>Feedback from</span></a>
                                                         <ul class="rd-navbar-dropdown">
                                                             <li><a href="https://forms.gle/uEL9XVQjEcLKRD9WA"><span class="text-middle">Staff </span></a></li>
                                                             <li><a href="https://forms.gle/trMhu4hBFnisgeQk9"><span class="text-middle">Students </span></a></li>
                                                             <li><a href="https://forms.gle/hpUmpKEcK2fpXuD8A"><span class="text-middle">Alumni </span></a></li>
                                                         </ul>
                                                     </li>
-
-                                                    <!-- <li class="active "><a href="http://sripushpamcollege.co.in/pdf/nirf.pdf" target="_blank"><span>NIRF </span></a>
-                                                    </li> -->
-
+                                                    <li class="active "><a href="<?php echo base_url('public/pdf/IQAC/Department_wise_Action_Taken_Report_on_Feedback.pdf') ?>"><span>Action Taken Report </span></a>
                                                 </ul>
+                                            </li>
+                                                    
+                                                  
+                                                   
+                                            </ul>
                                             </li>
                                             <li class="active"><a href="#"><span>NIRF</span></a>
                                                 <ul class="rd-navbar-dropdown">
