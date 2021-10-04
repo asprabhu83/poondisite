@@ -120,6 +120,14 @@ class Website extends App_Controller
         $this->load->view('public/curriculum_feedback', $this->data);
     }
 
+    public function institutional_distinctiveness()
+    {
+
+        $this->data['title'] = "Institutional Distinctiveness";
+        $this->data['menu_institutional_distinctiveness'] = "active";
+        $this->load->view('public/institutional_distinctiveness', $this->data);
+    }
+
     public function certificate()
     {
 
