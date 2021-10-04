@@ -31,13 +31,13 @@ init_public_head();
 						
                     <p align="justify"> A.V.V.M. Sri Pushpam College has been steadily marching ahead since its inceptionfocusingon the overall growth of students, sustaining its core value of service, integrity, anddiscipline.Theinstitutionstrivesto make the students with healthymindandhealthybody.As mere bookish knowledge is not adequate to forgethestudentstoencounterthe survival challenges posed by the social life, the college adopts a value based learning process for holistic development with the following objectives.	</p>
                     <p align="justify"> 
-                        <li>	To transform thestudentsphysicallyfit,mentallyalertandemotionallybalanced.</li>
-                        <li>    Tointegrate yoga, meditation, sports andculturalactivitiesforthecomprehensiveeducationalexperience.</li>
-                        <li>	Totrainthestudents to adapt themselves for thechangingenvironment and social scenario.</li>
-                        <li>	Tofillthegapbetweenprofessionalknowledgeandsociallife.</li>
+                        <li>	To transform the students physically fit,mentally alert and emotionally balanced.</li>
+                        <li>    To integrate yoga, meditation, sports and cultural activities for the comprehensive educational experience.</li>
+                        <li>	To train the students to adapt themselves for the changing environment and social scenario.</li>
+                        <li>	To fill the gap between professional knowledge and social life.</li>
                         <li>	To enable the students to obtain will power and mental strengththroughmeditation utilizing thefacility thatthecampus providesas anintegral partofeducation.</li>
-                        <li>	Todevelopthepersonalityofthestudentsintermsofintellectual,physical and mentalwellbeing.</li>
-                        <li>	Tomakethebuddingstudentsblossomintocomplete citizens.</li>
+                        <li>	To develop the personality of the students interms of intellectual, physical and mental wellbeing.</li>
+                        <li>	To make the budding students blossom into complete citizens.</li>
                         
                      </p>
                     
@@ -51,11 +51,11 @@ init_public_head();
                     
                     
                     <h4 style="color:red;" class="text-left"><strong>4.The Practice </strong></h4>
-                    <h5 style="color:blue;" class="text-left"><strong>Intellectualfitness </strong></h5>
+                    <h5 style="color:blue;" class="text-left"><strong>Intellectual fitness </strong></h5>
 					<!-- <div class="offset-top-60"></div>
 					<div class="offset-top-100"> -->
 						
-                    <p align="justify"> The institution conductsassociationmeetingineachdepartmenttoupgradeleadershipskillsof thestudents. Activities such as quiz, essay writing, elocution, debates, group discussions etc., are heldin order tohone the intellectual skill of thestudents.</p>
+                    <p align="justify"> The institution conducts association meeting in each department to upgrade leaderships kills of the students. Activities such as quiz, essay writing, elocution, debates, group discussions etc., are heldin order tohone the intellectual skill of thestudents.</p>
                     
                     
                     <h5 style="color:blue;" class="text-left"><strong>Library</strong></h5>
@@ -65,8 +65,8 @@ init_public_head();
                     <p align="justify"> A well-resourced library with nearly one lakh books excluding periodicals, back volumes and copious e- sources facilitates intellectual faculty of the students. The college has mandated library hours for all the students,  and recognizes the student, who optimizes the use of library, with the Best Library User award every year during the college day celebration.</p>
                    
                     <h5 style="color:blue;" class="text-left"><strong>Mentalfitness</strong></h5>
-                    <p align="justify"> Todevelopmental strength, yogais a valuable practice followed since India’sancient period.Itembodiesa holistic approach to health and well-being. Regular yogaclassesare arranged for all the students withaqualified yogamaster.</p>
-                    <p align="justify"> Adistinctiveculturalevent, Pushpamalaisconductedeveryyearwithaviewto nourish thecreativepotentialitiesofthestudents.All the events are deliberately designed to sensitize the students on human values, national integrity, social responsibility and etiquette.</p>
+                    <p align="justify"> To developmental strength, yogais a valuable practice followed since India’sancient period.Itembodiesa holistic approach to health and well-being. Regular yogaclassesare arranged for all the students withaqualified yogamaster.</p>
+                    <p align="justify"> Adistinctive cultural event, Pushpamala is conducted every year with a view to nourish the creative potentialities of the students.All the events are deliberately designed to sensitize the students on human values, national integrity, social responsibility and etiquette.</p>
                    
                     <h5 style="color:blue;" class="text-left"><strong>Spiritualfitness</strong></h5>
                     <p align="justify"> Pranayama (breathing exercise) for five minutes every day before thecommencement of classes is strictly implemented forcreatinga disciplined value systemin the learners. The serene quiet interior of DhyanaMandapamamidst the green coveroftheHerbalGardenprovides the students,staffandvisitorsaconduciveatmospheretomeditate.</p>
@@ -81,11 +81,11 @@ init_public_head();
                     <p align="justify"> 
                         <li>	Prevalence of ragging-free campus, self-disciplined students, protest-free campus and gender amity with zero harassment environment	</li>
                         <li>    Cases of academic malpractice are in declining every year.</li>
-                        <li>	Increaseintheusersof library annually.</li>
+                        <li>	Increase in the users of library annually.</li>
                         <li>	Increase inthe students’participation inseminars andconferences.</li>
-                        <li>	Students’participationinculturaleventstoexhibittheirtalentsisontherise.</li>
-                        <li>	Enthusiasticparticipationinnationallevelsportsmeets.</li>
-                        <li>	Studentsvolunteeringforsocialservice.</li>
+                        <li>	Students’participation incultural events to exhibit their talents is on the rise.</li>
+                        <li>	Enthusiastic participation in national level sports meets.</li>
+                        <li>	Students volunteering for social service.</li>
                         <li>	The institution has produced scores of prestigious alumni who are eminent personalities all over the world.</li>
                        
                      </p>
@@ -93,7 +93,7 @@ init_public_head();
                      <h4 style="color:red;" class="text-left"><strong>6. Problems Encountered and Resources Required</strong></h4>
 					                    
                     <p align="justify"> 
-                        <li>	Difficultyinvolvedinaccessingthecampusas it is 1 km away from National Highways (NH-67)</li>
+                        <li>	Difficulty involved in accessing the campusas it is 1 km away from National Highways (NH-67)</li>
                         <li>    Need for more financial assistance to provide sports equipment to the students whocome from poor socio-economic backgrounds</li>
                         <li>	Generally, rural students lack communication skill as most of them are first generation learners. Toaddress this issue, additional language laboratories are required to provide soft skill training.</li>
                                                
