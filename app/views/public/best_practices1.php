@@ -69,7 +69,7 @@ init_public_head();
                     <p align="justify"> Adistinctive cultural event, Pushpamala is conducted every year with a view to nourish the creative potentialities of the students.All the events are deliberately designed to sensitize the students on human values, national integrity, social responsibility and etiquette.</p>
                    
                     <h5 style="color:blue;" class="text-left"><strong>Spiritualfitness</strong></h5>
-                    <p align="justify"> Pranayama (breathing exercise) for five minutes every day before thecommencement of classes is strictly implemented forcreatinga disciplined value systemin the learners. The serene quiet interior of DhyanaMandapamamidst the green coveroftheHerbalGardenprovides the students,staffandvisitorsaconduciveatmospheretomeditate.</p>
+                    <p align="justify"> Pranayama (breathing exercise) for five minutes every day before the commencement of classes is strictly implemented forcreatinga disciplined value systemin the learners. The serene quiet interior of Dhyana Mandapam amidst the green cover of the Herbal Garden provides the students, staff and visitors a conducive atmosphere to meditate.</p>
                    
                     <h5 style="color:blue;" class="text-left"><strong>NatureasTeacher</strong></h5>
                     <p align="justify"> Above all, the green campus with different varietiesof trees providesa splendid ambience and plays the role ofa teacher who facilitates the students with social values.</p>
