@@ -314,8 +314,10 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/IQAC/Undertaking%20Form%20and%20RTI.pdf') ?>"><span>Principal's Undertaking</span></a>
                                                     </li>
+                                                    <li class="active "><a href="<?php echo base_url('curriculum_feedback') ?>"><span>Curriculum Feedback </span></a>
+                                                    </li>
 
-                                            <li class="active"><a href="#"><span>Curriculum</span></a>
+                                            <!-- <li class="active"><a href="#"><span>Curriculum</span></a>
                                                 <ul class="rd-navbar-dropdown">
                                                     
                                                     <li class="active"><a href="<?php echo base_url('#') ?>"><span>Feedback from</span></a>
@@ -327,7 +329,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/IQAC/Department_wise_Action_Taken_Report_on_Feedback.pdf') ?>"><span>Action Taken Report </span></a>
                                                 </ul>
-                                            </li>
+                                            </li> -->
                                                     
                                                   
                                                    

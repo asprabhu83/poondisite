@@ -111,6 +111,15 @@ class Website extends App_Controller
         $this->data['menu_extracurricular_activities'] = "active";
         $this->load->view('public/extracurricular_activities', $this->data);
     }
+
+    public function curriculum_feedback()
+    {
+
+        $this->data['title'] = "Curriculum Feedback";
+        $this->data['menu_curriculum_feedback'] = "active";
+        $this->load->view('public/curriculum_feedback', $this->data);
+    }
+
     public function certificate()
     {
 
