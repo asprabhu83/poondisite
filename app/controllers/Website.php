@@ -128,6 +128,22 @@ class Website extends App_Controller
         $this->load->view('public/institutional_distinctiveness', $this->data);
     }
 
+    public function best_practices1()
+    {
+
+        $this->data['title'] = "Best Practices - I";
+        $this->data['menu_best_practices1'] = "active";
+        $this->load->view('public/best_practices1', $this->data);
+    }
+
+    public function best_practices2()
+    {
+
+        $this->data['title'] = "Best Practices - II";
+        $this->data['menu_best_practices2'] = "active";
+        $this->load->view('public/best_practices2', $this->data);
+    }
+
     public function certificate()
     {
 

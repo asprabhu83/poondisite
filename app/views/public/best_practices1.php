@@ -1,0 +1,111 @@
+<?php
+defined('BASEPATH') or exit('No direct script access allowed');
+init_public_head();
+?>
+<div class="section-height-800 breadcrumb-modern context-dark text-center">
+	<div class="shell section-bottom-30">
+		<div class="veil reveal-md-block">
+			<h1 class="text-bold">Best Practices-I</h1>
+		</div>
+		<ul class="list-inline list-inline-with-arrows p">
+			<ul class="list-inline list-inline-with-arrows p">
+				<li><a href="<?php echo base_url() ?>" class="text-white">Home </a></li>
+				<li>Best Practices-I</li>
+			</ul>
+		</ul>
+	</div>
+</div>
+<section class="sec-ptb">
+	<div id="fb-root">
+		<div class="shell-fluid">
+			<div class="range range-75 text-left">
+				<div class="cell-xs-8 cell-md-12 cell-lg-12">
+					<h2 style="color:Brown;" class="text-bold text-center pb-20">Best Practices-I</h2>
+					<h4 style="color:red;" class="text-left"><strong>1. Title of the practice</strong></h4>
+                    <h4 style="color:blue;" class="text-left"><strong>Pushpam’s FullBloom</strong></h4>
+					<br>
+                                     
+					<h4 style="color:red;" class="text-left"><strong>2. Objectives of the practice</strong></h4>
+					<!-- <div class="offset-top-60"></div>
+					<div class="offset-top-100"> -->
+						
+                    <p align="justify"> A.V.V.M. Sri Pushpam College has been steadily marching ahead since its inceptionfocusingon the overall growth of students, sustaining its core value of service, integrity, anddiscipline.Theinstitutionstrivesto make the students with healthymindandhealthybody.As mere bookish knowledge is not adequate to forgethestudentstoencounterthe survival challenges posed by the social life, the college adopts a value based learning process for holistic development with the following objectives.	</p>
+                    <p align="justify"> 
+                        <li>	To transform thestudentsphysicallyfit,mentallyalertandemotionallybalanced.</li>
+                        <li>    Tointegrate yoga, meditation, sports andculturalactivitiesforthecomprehensiveeducationalexperience.</li>
+                        <li>	Totrainthestudents to adapt themselves for thechangingenvironment and social scenario.</li>
+                        <li>	Tofillthegapbetweenprofessionalknowledgeandsociallife.</li>
+                        <li>	To enable the students to obtain will power and mental strengththroughmeditation utilizing thefacility thatthecampus providesas anintegral partofeducation.</li>
+                        <li>	Todevelopthepersonalityofthestudentsintermsofintellectual,physical and mentalwellbeing.</li>
+                        <li>	Tomakethebuddingstudentsblossomintocomplete citizens.</li>
+                        
+                     </p>
+                    
+                    <h4 style="color:red;" class="text-left"><strong>3. The Context</strong></h4>
+					<!-- <div class="offset-top-60"></div>
+					<div class="offset-top-100"> -->
+						
+                    <p align="justify"> Every yearthousands of students enroll in this higher education institution situated in a remote rural area of which most of them come from poor economicbackgroundandas first generation learners. Hence, this institution aims to bring out their latent talents, to impart life skills and send them as full bloom. Alltheprogramsaredesignedtosupportthestudents even beyond their classroom and target to strengthen their intellectual, physical and mentalfitnessinthe prevailing digital era thatisladen with distractions due to the negativeimpacts of social media.</p>
+                    <p align="justify"> Students’ physical and mental fitness are challenged in recent times owing to the continuousexposuretothe unrestrained social media. Therefore, sports, yogaand meditation have been the hallmark activitieswhich arerecognized as one among the best practices oftheinstitutionbythe internal and externalstakeholders. The institution believes thatsportsareindispensableconstituentoftheholistic education and it helps the students to develop social relationship, leadership quality andaboveall, the traits of a well-trained personality.</p>
+                    
+                    
+                    
+                    <h4 style="color:red;" class="text-left"><strong>4.The Practice </strong></h4>
+                    <h5 style="color:blue;" class="text-left"><strong>Intellectualfitness </strong></h5>
+					<!-- <div class="offset-top-60"></div>
+					<div class="offset-top-100"> -->
+						
+                    <p align="justify"> The institution conductsassociationmeetingineachdepartmenttoupgradeleadershipskillsof thestudents. Activities such as quiz, essay writing, elocution, debates, group discussions etc., are heldin order tohone the intellectual skill of thestudents.</p>
+                    
+                    
+                    <h5 style="color:blue;" class="text-left"><strong>Library</strong></h5>
+                    <p align="justify"> A well-resourced library with nearly one lakh books excluding periodicals, back volumes and copious e- sources facilitates intellectual faculty of the students. The college has mandated library hours for all the students,  and recognizes the student, who optimizes the use of library, with the Best Library User award every year during the college day celebration.</p>
+                   
+                    <h5 style="color:blue;" class="text-left"><strong>PhysicalFitness</strong></h5>
+                    <p align="justify"> A well-resourced library with nearly one lakh books excluding periodicals, back volumes and copious e- sources facilitates intellectual faculty of the students. The college has mandated library hours for all the students,  and recognizes the student, who optimizes the use of library, with the Best Library User award every year during the college day celebration.</p>
+                   
+                    <h5 style="color:blue;" class="text-left"><strong>Mentalfitness</strong></h5>
+                    <p align="justify"> Todevelopmental strength, yogais a valuable practice followed since India’sancient period.Itembodiesa holistic approach to health and well-being. Regular yogaclassesare arranged for all the students withaqualified yogamaster.</p>
+                    <p align="justify"> Adistinctiveculturalevent, Pushpamalaisconductedeveryyearwithaviewto nourish thecreativepotentialitiesofthestudents.All the events are deliberately designed to sensitize the students on human values, national integrity, social responsibility and etiquette.</p>
+                   
+                    <h5 style="color:blue;" class="text-left"><strong>Spiritualfitness</strong></h5>
+                    <p align="justify"> Pranayama (breathing exercise) for five minutes every day before thecommencement of classes is strictly implemented forcreatinga disciplined value systemin the learners. The serene quiet interior of DhyanaMandapamamidst the green coveroftheHerbalGardenprovides the students,staffandvisitorsaconduciveatmospheretomeditate.</p>
+                   
+                    <h5 style="color:blue;" class="text-left"><strong>NatureasTeacher</strong></h5>
+                    <p align="justify"> Above all, the green campus with different varietiesof trees providesa splendid ambience and plays the role ofa teacher who facilitates the students with social values.</p>
+                    <p align="justify"> The books and videos on yoga and meditation brought out by our secretary and correspondentwhoisaneminentpersonalityguidethestudentsandthestaffmembers to beresponsibleglobal citizens.</p>
+                   
+
+                    <h4 style="color:red;" class="text-left"><strong>5. Evidence of success</strong></h4>
+					                    
+                    <p align="justify"> 
+                        <li>	Prevalence of ragging-free campus, self-disciplined students, protest-free campus and gender amity with zero harassment environment	</li>
+                        <li>    Cases of academic malpractice are in declining every year.</li>
+                        <li>	Increaseintheusersof library annually.</li>
+                        <li>	Increase inthe students’participation inseminars andconferences.</li>
+                        <li>	Students’participationinculturaleventstoexhibittheirtalentsisontherise.</li>
+                        <li>	Enthusiasticparticipationinnationallevelsportsmeets.</li>
+                        <li>	Studentsvolunteeringforsocialservice.</li>
+                        <li>	The institution has produced scores of prestigious alumni who are eminent personalities all over the world.</li>
+                       
+                     </p>
+
+                     <h4 style="color:red;" class="text-left"><strong>6. Problems Encountered and Resources Required</strong></h4>
+					                    
+                    <p align="justify"> 
+                        <li>	Difficultyinvolvedinaccessingthecampusas it is 1 km away from National Highways (NH-67)</li>
+                        <li>    Need for more financial assistance to provide sports equipment to the students whocome from poor socio-economic backgrounds</li>
+                        <li>	Generally, rural students lack communication skill as most of them are first generation learners. Toaddress this issue, additional language laboratories are required to provide soft skill training.</li>
+                                               
+                     </p>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<?php
+init_public_tail();
+?>
