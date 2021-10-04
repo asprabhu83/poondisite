@@ -15,13 +15,13 @@ init_public_head();
 		</ul>
 	</div>
 </div>
-<section class="section-90 section-md-120">
+<section class="section-90 section-md-20">
 	<div class="shell">
 		<div class="range range-xs-center">
 			<div class="cell-sm-10 cell-md-12">
 				<h2>Curriculum Feedback</h2>
 				<div style="overflow-x: auto;">
-					<div class="offset-top-90">
+					<div class="offset-top-30">
 						<table border="1px">
 							<tbody>
 								
@@ -46,14 +46,14 @@ init_public_head();
 					</div>
 
                     
-                    </div>
+                </div>
 			</div>
 		</div>
 	</div>
 </section><br>
 
 
-<section class="section-90 section-md-120">
+<section class="section-90 section-md-20">
 	<div class="shell">
 		<div class="range range-xs-center">
 			<div class="cell-sm-10 cell-md-12">
@@ -62,7 +62,7 @@ init_public_head();
 
 
 
-                    <div class="offset-top-90">
+                    <div class="offset-top-30">
 						<table border="1px">
 							<tbody>
 								
@@ -95,7 +95,7 @@ init_public_head();
 					</div>
 
 
-                    <div class="offset-top-90">
+                    <div class="offset-top-30">
 						<table border="1px">
 							<tbody>
 								
@@ -127,7 +127,7 @@ init_public_head();
 						</table>
 					</div>
 
-                    <div class="offset-top-90">
+                    <div class="offset-top-30">
 						<table border="1px">
 							<tbody>
 								
@@ -160,7 +160,7 @@ init_public_head();
 					</div>
 
 
-                    <div class="offset-top-90">
+                    <div class="offset-top-30">
 						<table border="1px">
 							<tbody>
 								
@@ -192,13 +192,13 @@ init_public_head();
 						</table>
 					</div>
 
-                    </div>
+                </div>
 			</div>
 		</div>
 	</div>
 </section><br>
 
-<section class="section-90 section-md-120">
+<section class="section-90 section-md-20">
 	<div class="shell">
 		<div class="range range-xs-center">
 			<div class="cell-sm-10 cell-md-12">
@@ -207,7 +207,7 @@ init_public_head();
 
 
 
-                    <div class="offset-top-90">
+                    <div class="offset-top-30">
 						<table border="1px">
 							<tbody>
 																
@@ -228,7 +228,7 @@ init_public_head();
 			</div>
 		</div>
 	</div>
-</section><br>
+</section><br><br><br>
 <?php
 init_public_tail();
 ?>
