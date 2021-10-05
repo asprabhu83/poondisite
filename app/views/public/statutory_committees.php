@@ -68,38 +68,49 @@ init_public_head();
 												<tbody></tbody>
 												<tbody>
 													<tr>
-														<td><strong>PATRONS</strong><br />Shri. T. Krishnasamy Vandayar, B.Tech.
+														<td colspan="2"><strong>PATRONS</strong><br /></td>
+													</tr>
+													<tr>
+														<td>Shri. T. Krishnasamy Vandayar, B.Tech.
 														<br />Shri. A. Balasubramania Vandayar, M.A.
 														<td>President<br />
 														Secretary and Correspondent</td>
 													</tr>
 													<tr>
-														<td><strong>Management Nominee</strong><br />Shri. K.Ramanatha Thulasiah Vandayar.
+														<td colspan="2"><strong>MANAGEMENT NOMINEE</strong><br /></td>
 													</tr>
-
 													<tr>
-														<td><strong>CHAIRPERSON</strong><br />Dr. R. Sivakumar , Principal</td>
+														<td>Shri. K.Ramanatha Thulasiah Vandayar.
+													</tr>
+													<tr>
+														<td colspan="2"><strong>CHAIRPERSON</strong><br /></td>
+													</tr>
+													<tr>
+														<td>Dr. R. Sivakumar , Principal</td>
 														<td>Principal</td>
 													</tr>
 													<tr>
-														<td><strong>CO-ORDINATOR</strong><br />Dr.R.Subashchandrabose</td>
+														<td colspan="2"><strong>CO-ORDINATOR</strong><br /></td>
+													</tr>
+													<tr>
+														<td>Dr.R.Subashchandrabose</td>
 														<td>Computer Science</td>
 													</tr>
 													<tr>
-														<td colspan="2"><strong>MEMBERS</strong></td>
+														<td colspan="2"><strong>SENIOR ADMINISTRATIVE OFFICERS</strong></td>
 													</tr>
-													<tr>
-														<td colspan="2">Thiruvalargal</td>
-													</tr>
+													
 													<tr>
 														<td>Dr. V.Ravichandaran, Ph.D.<br /> Dr. S.Kumaravel, Ph.D.</td>
-														<td>Dean-Arts &amp; Commerce <br /> Dean-Science</td>
+														<td>Dean - Arts &amp; Commerce <br /> Dean - Sciences</td>
 													</tr>
 													<tr>
 														<td>Dr. C.Chandran, Ph.D.</td>
 														<td>Controller of Examinations.</td>
 													</tr>
-													
+													<tr>
+														<td colspan="2"><strong>TEACHERS' REPRESENTATION </strong><br /></td>
+													</tr>
 													<tr>
 														<td>Dr. K.Sivakumar</td>
 														<td>English</td>
@@ -144,22 +155,22 @@ init_public_head();
 												</tbody>
 											</table>
 											<br />
-											<p align="justify" class="text-gray-darker"><strong>NOMINEES FROM THE LOCAL SOCIETY</strong></p>
-											<p><strong>Er.S.Rajendran,</strong></p>
-											<p>11, Ketharapuram, Eswari Nagar, Thanjavur.</p>
+											<p align="justify" class="text-gray-darker"><strong>Nominees from the Local Society</strong></p>
+											<p><strong>Er.S.Rajendran,</strong><br>
+											11, Ketharapuram, Eswari Nagar, Thanjavur.</p>
 										
 											<p align="justify" class="text-gray-darker"><strong>Alumni Representation </strong></p>
-											<p><strong>Mr.S.Mohamed Asif Ali,</strong></p>
-											<p>Thanjavur.</p>
+											<p><strong>Mr.S.Mohamed Asif Ali,</strong><br>
+											Thanjavur.</p>
 											
 											<p align="justify" class="text-gray-darker"><strong>Representation From the Industry</strong></p>
-											<p><strong>Mr.S.Vijayakumar,</strong></p>
-											<p>Associate Vice President.</p>
-											<p>Chartered GBS Pvt. Ltd. Chennai.</p>
+											<p><strong>Mr.S.Vijayakumar,</strong><br>
+											Associate Vice President.<br>
+											Chartered GBS Pvt. Ltd. Chennai.</p>
 											
 											<p align="justify" class="text-gray-darker"><strong>Student Representation </strong></p>
-											<p><strong>R.Kamal,</strong></p>
-											<p>II M.Sc., (C.S)</p>
+											<p><strong>R.Kamal,</strong>II M.Sc., (C.S)</p>
+											
 									</div><br>
 									</div>
 									<div>
