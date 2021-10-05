@@ -961,19 +961,24 @@ init_public_head();
 														<table cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 															<tbody>
 																<tr>
-																	<td>Dr. S.Kumaravel</td>
+																	<td>Dr. R.Sivakumar - Principal</td>
 																	<td></td>
-																	<td>Dean of Sciences</td>
+																	<td>Chairman</td>
 																</tr>
 																<tr>
-																	<td>Dr. V. Ravichandran</td>
+																	<td>The Regional Joint Director - Thanjavur </td>
 																	<td></td>
-																	<td>Dean of Arts and Commerce</td>
+																	<td>Member</td>
 																</tr>
 																<tr>
-																	<td>Mr. S. Francis</td>
+																	<td>The Finance Officer - Bharathidasan University </td>
 																	<td></td>
-																	<td>Charted Accountant</td>
+																	<td>Member</td>
+																</tr>
+																<tr>
+																	<td>Dr.C.Chandran - Controller of Examinations </td>
+																	<td></td>
+																	<td>Member</td>
 																</tr>
 															</tbody>
 														</table>

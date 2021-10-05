@@ -96,35 +96,35 @@ pt.php
 								</tr>
 								<tr>
 									<td><a href="<?php echo base_url('public/pdf/Departments/Physicaleducation/M.S.M.pdf') ?>" target="_blank" rel="noopener">Dr.M.S. Muthuramalingam</a></td>
-									<td>Coordinator &amp; Associate Professor</td>
+									<td>Associate Professor &amp; Coordinator  </td>
 								</tr>
 								<tr>
 									<td><a href="<?php echo base_url('public/pdf/Departments/Physicaleducation/M.M.M.pdf') ?>" target="_blank" rel="noopener">Dr.M. Madan Mohan</a></td>
 									<td>Associate Professor</td>
 								</tr>
 								<tr>
-									<td><a href="#" target="_blank" rel="noopener">Prof.S.Dharakeswari</a></td>
+									<td><a href="#" target="_blank" rel="noopener">Dr.S.Dharakeswari</a></td>
+									<td>Assistant Professor</td>
+								</tr>
+								<tr>
+									<td><a href="#" target="_blank" rel="noopener">Dr.D.Suresh</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
 									<td><a href="#" target="_blank" rel="noopener">Dr.C.Malathy</a></td>
-									<td>Director</td>
+									<td>Director of Physical Education</td>
 								</tr>
+								
 								<tr>
 									<td colspan="3">Self - Finance Staff</td>
 								</tr>
-								<tr>
-									<td><a href="#" target="_blank" rel="noopener">Dr.P.Anandakumar</a></td>
-									<td>Assistant Professor</td>
-								</tr>
-								<tr>
-									<td><a href="#" target="_blank" rel="noopener">Prof.K.Sathiyaselvam</a></td>
-									<td>Assistant Professor</td>
-								</tr>
+								
 								<tr>
 									<td><a href="#" target="_blank" rel="noopener">Dr.E.Ravichandiran</a></td>
 									<td>Assistant Professor</td>
 								</tr>
+
+								
 							</tbody>
 						</table>
 					</div>

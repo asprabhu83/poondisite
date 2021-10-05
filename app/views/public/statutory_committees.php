@@ -68,11 +68,15 @@ init_public_head();
 												<tbody></tbody>
 												<tbody>
 													<tr>
-														<td><strong>PATRON</strong><br />Thiru. T. Krishnasamy Vandayar, B.Tech.
-														<br />Thiru. A. Balasubramania Vandayar, M.A.
+														<td><strong>PATRONS</strong><br />Shri. T. Krishnasamy Vandayar, B.Tech.
+														<br />Shri. A. Balasubramania Vandayar, M.A.
 														<td>President<br />
 														Secretary and Correspondent</td>
 													</tr>
+													<tr>
+														<td><strong>Management Nominee</strong><br />Shri. K.Ramanatha Thulasiah Vandayar.
+													</tr>
+
 													<tr>
 														<td><strong>CHAIRPERSON</strong><br />Dr. R. Sivakumar , Principal</td>
 														<td>Principal</td>
@@ -95,14 +99,12 @@ init_public_head();
 														<td>Dr. C.Chandran, Ph.D.</td>
 														<td>Controller of Examinations.</td>
 													</tr>
+													
 													<tr>
-														<td>Dr. V. Ambikapathy</td>
-														<td>Botany</td>
+														<td>Dr. K.Sivakumar</td>
+														<td>English</td>
 													</tr>
-													<tr>
-														<td>Dr. T.S.Baskaran</td>
-														<td>Computer Science</td>
-													</tr>
+
 													<tr>
 														<td>Dr. R. Manikandan</td>
 														<td>Chemistry</td>
@@ -121,19 +123,45 @@ init_public_head();
 														<td>Zoology</td>
 													</tr>
 													<tr>
+														<td>Dr. R.Sangeetha </td>
+														<td>Mathematics</td>
+													</tr>
+													<tr>
+														<td>Dr. K.Muruganantham</td>
+														<td>Physics</td>
+													</tr>
+													<tr>
+														<td>Dr. T.Saravanan</td>
+														<td>Economics</td>
+													</tr>
+													<tr>
+														<td colspan="2"><strong>Representation from the Office</strong></td>
+													</tr>
+													<tr>
 														<td>Anandanarayanan.,</td>
-														<td>Office Superintendent</td>
+														<td>Assistant</td>
 													</tr>
 												</tbody>
 											</table>
 											<br />
-											<p align="justify" class="text-gray-darker"><strong>TWO NOMINEES FROM THE LOCAL SOCIETY</strong></p>
-											<p><strong>Dr.V.Varatharajan,</strong></p>
-											<p>III Cross, Arulananda Nagar, Thanjavur.</p>
+											<p align="justify" class="text-gray-darker"><strong>NOMINEES FROM THE LOCAL SOCIETY</strong></p>
 											<p><strong>Er.S.Rajendran,</strong></p>
 											<p>11, Ketharapuram, Eswari Nagar, Thanjavur.</p>
-										</div>
+										
+											<p align="justify" class="text-gray-darker"><strong>Alumni Representation </strong></p>
+											<p><strong>Mr.S.Mohamed Asif Ali,</strong></p>
+											<p>Thanjavur.</p>
+											
+											<p align="justify" class="text-gray-darker"><strong>Representation From the Industry</strong></p>
+											<p><strong>Mr.S.Vijayakumar,</strong></p>
+											<p>Associate Vice President.</p>
+											<p>Chartered GBS Pvt. Ltd. Chennai.</p>
+											
+											<p align="justify" class="text-gray-darker"><strong>Student Representation </strong></p>
+											<p><strong>R.Kamal,</strong></p>
+											<p>II M.Sc., (C.S)</p>
 									</div><br>
+									</div>
 									<div>
 										<div class="inset-lg-left-30">
 											<h5>ACADEMIC COUNCIL</h5>

@@ -16,7 +16,10 @@ init_public_head();
 <div id="wowslider-container1">
 	<div class="ws_images">
 		<ul>
-			
+	 <!--<li><img src="<?php echo base_url('assets/images/programme.jpg') ?>" /></li>	
+		<li><img src="<?php echo base_url('assets/images/teacher.png') ?>" /></li>
+		<li><img src="<?php echo base_url('assets/images/students.png') ?>" /></li>
+		<li><img src="<?php echo base_url('assets/images/programme.png') ?>" /></li>	 -->
 		<li><img src="<?php echo base_url('assets/images/banner/002.jpg') ?>" /></li>  
 		<li><img src="<?php echo base_url('assets/images/banner/003.jpg') ?>" /></li>  
 		<li><img src="<?php echo base_url('assets/images/banner/004.jpg') ?>" /></li>  
@@ -25,20 +28,11 @@ init_public_head();
 		<li><img src="<?php echo base_url('assets/images/banner/007.jpg') ?>" /></li>  
 		<li><img src="<?php echo base_url('assets/images/banner/008.jpg') ?>" /></li>  
 		<li><img src="<?php echo base_url('assets/images/banner/009.jpg') ?>" /></li> 
-		<!-- <li><img src="<?php echo base_url('assets/images/banner/11.jpg') ?>" /></li>  
-		<li><img src="<?php echo base_url('assets/images/banner/12.jpg') ?>" /></li>  
-		<li><img src="<?php echo base_url('assets/images/banner/13.jpg') ?>" /></li>  
-		<li><img src="<?php echo base_url('assets/images/banner/14.jpg') ?>" /></li>  
-		<li><img src="<?php echo base_url('assets/images/banner/15.jpg') ?>" /></li>  
-		<li><img src="<?php echo base_url('assets/images/banner/16.jpg') ?>" /></li>  
-		<li><img src="<?php echo base_url('assets/images/banner/17.jpg') ?>" /></li>   -->
-		
-
-			<li><img src="<?php echo base_url('assets/images/homebanner.jpg') ?>" /></li>
-			<li><img src="<?php echo base_url('assets/images/home1.jpg') ?>" /></li>
-			<li><img src="<?php echo base_url('assets/images/Library-2.jpg') ?>" /></li>
-			<li><img src="<?php echo base_url('assets/images/Maths-Block.jpg') ?>" /></li>
-			<li><img src="<?php echo base_url('assets/images/MBA-Block-2.jpg') ?>" /></li>
+		<li><img src="<?php echo base_url('assets/images/homebanner.jpg') ?>" /></li>
+		<li><img src="<?php echo base_url('assets/images/home1.jpg') ?>" /></li>
+		<li><img src="<?php echo base_url('assets/images/Library-2.jpg') ?>" /></li>
+		<li><img src="<?php echo base_url('assets/images/Maths-Block.jpg') ?>" /></li>
+		<li><img src="<?php echo base_url('assets/images/MBA-Block-2.jpg') ?>" /></li>
 			
 		</ul>
 	</div>

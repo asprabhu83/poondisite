@@ -136,6 +136,14 @@ class Website extends App_Controller
         $this->load->view('public/best_practices1', $this->data);
     }
 
+    public function best_practices1_new()
+    {
+
+        $this->data['title'] = "Best Practices - I";
+        $this->data['menu_best_practices1_new'] = "active";
+        $this->load->view('public/best_practices1_new', $this->data);
+    }
+
     public function best_practices2()
     {
 
