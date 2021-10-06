@@ -289,7 +289,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                         </ul>
                                                     </li>
 
-                                                    <li class="active "><a href="https://naac.sripushpamcollege.co.in/" target="_blank"><span>NAAC</span></a>
+                                                    <li class="active "><a href="https://naac.sripushpamcollege.co.in/" target="_blank"><span>NAAC-HEI Portal</span></a>
                                                         </li>   
                                                         
                                                     <li class="active"><a href="<?php echo base_url('certificate') ?>"><span>NAAC Certificate</span></a>
