@@ -61,7 +61,7 @@ init_public_head();
 -->
 		</div>
 		<br /><br />
-		<h4 style="color:red;" align="center"  class="text-bold"> Has figured in the list of World top 2% Scientist by "Stanford Universtiry, USA" </h4>
+		<h4 style="color:red;" align="center"  class="text-bold"> Has figured in the list of World top 2% Scientist relesed by "Stanford Universtiry, USA" </h4>
         <!-- <h4 style="color:red;" align="center"  class="text-bold">Dr.K.Ravichandran, Associate Professor of PG & Research Department of Physics has figured in the list of Wordl top 2% Scientist by "Stanford Universtiry, USA" </h4> -->
 		<!-- <p align="left" class="offset-md-top-20">has figured in the list of Wordl top 2% Scientist by "Stanford Universtiry, USA" </p> -->
 		<!-- <h4 align="left" class="text-bold">UNIVERSITY REPRESENTATIVE</h4>
