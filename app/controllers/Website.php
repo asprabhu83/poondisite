@@ -188,6 +188,21 @@ class Website extends App_Controller
         $this->data['menu_syllabus_revision'] = "active";
         $this->load->view('public/syllabus_revision', $this->data);
     }
+  
+    public function research_page()
+    {
+
+        $this->data['title'] = "Research Page";
+        $this->data['menu_research_page'] = "active";
+        $this->load->view('public/research_page', $this->data);
+    }
+    public function research_honored()
+    {
+
+        $this->data['title'] = "Research Honored";
+        $this->data['menu_research_honored'] = "active";
+        $this->load->view('public/research_honored', $this->data);
+    }
     
     public function syllabus_2017()
     {

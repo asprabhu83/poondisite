@@ -185,8 +185,8 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                 </ul>
                                             </li>
 
-                                            <li class="active"><a href="#"><span>Research</span></a>
-                                                    <ul class="rd-navbar-dropdown">
+                                            <li class="active"><a href="research_page"><span>Research</span></a>
+                                                    <!-- <ul class="rd-navbar-dropdown">
                                                     
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/Research/Research_policy.pdf') ?>"><span>Research policy</span></a>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/Research/Code_of_Ethics.pdf') ?>"><span>Code of Ethics</span></a>
@@ -197,7 +197,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     <li class="active "><a href="<?php echo base_url('research') ?>"><span>Research Project</span></a>
                                                    
                                                     </li>
-                                                    </ul>
+                                                    </ul> -->
                                             </li>
 
 

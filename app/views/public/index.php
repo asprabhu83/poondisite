@@ -16,10 +16,10 @@ init_public_head();
 <div id="wowslider-container1">
 	<div class="ws_images">
 		<ul>
-	 <!--<li><img src="<?php echo base_url('assets/images/programme.jpg') ?>" /></li>	
-		<li><img src="<?php echo base_url('assets/images/teacher.png') ?>" /></li>
-		<li><img src="<?php echo base_url('assets/images/students.png') ?>" /></li>
-		<li><img src="<?php echo base_url('assets/images/programme.png') ?>" /></li>	 -->
+	 <li><img src="<?php echo base_url('assets/images/banner/programme.jpg') ?>" /></li>	
+		<li><img src="<?php echo base_url('assets/images/banner/teacher.png') ?>" /></li>
+		<li><img src="<?php echo base_url('assets/images/banner/students.png') ?>" /></li>
+		<li><img src="<?php echo base_url('assets/images/banner/programme.png') ?>" /></li>	
 		<li><img src="<?php echo base_url('assets/images/banner/002.jpg') ?>" /></li>  
 		<li><img src="<?php echo base_url('assets/images/banner/003.jpg') ?>" /></li>  
 		<li><img src="<?php echo base_url('assets/images/banner/004.jpg') ?>" /></li>  
