@@ -20,7 +20,7 @@ init_public_head();
 		<div class="shell-fluid">
 			<div class="range range-75 text-left">
 				<div class="cell-xs-8 cell-md-12 cell-lg-12">
-					<h2 style="color:Brown;" class="text-bold text-center pb-20">Best Practices-II</h2>
+					<h2 style="color:Brown;" class="font-accent text-bold text-center pb-20">Best Practices-II</h2>
 					<h4 style="color:red;" class="text-left"><strong>1. Title of the practice</strong></h4>
                     <h4 style="color:blue;" class="text-left"><strong>Academic outreach and inclusiveness</strong></h4>
 					<br>

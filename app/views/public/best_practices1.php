@@ -15,6 +15,95 @@ init_public_head();
 		</ul>
 	</div>
 </div>
+
+
+<div>
+										<div class="inset-lg-left-30">
+											<h5>INTERNAL QUALITY ASSURANCE CELL (IQAC)</h5>
+											<br />
+											<table border="1px">
+												<tbody></tbody>
+												<tbody>
+													<tr>
+														<td><strong>PATRON</strong><br />Thiru. T. Krishnasamy Vandayar, B.Tech.
+														<br />Thiru. A. Balasubramania Vandayar, M.A.
+														<td>President<br />
+														Secretary and Correspondent</td>
+													</tr>
+													<tr>
+														<td><strong>CHAIRPERSON</strong><br />Dr. R. Sivakumar , Principal</td>
+														<td>Principal</td>
+													</tr>
+													<tr>
+														<td><strong>CO-ORDINATOR</strong><br />Dr.R.Subashchandrabose</td>
+														<td>Computer Science</td>
+													</tr>
+													<tr>
+														<td colspan="2"><strong>MEMBERS</strong></td>
+													</tr>
+													<tr>
+														<td colspan="2">Thiruvalargal</td>
+													</tr>
+													<tr>
+														<td>Dr. V.Ravichandaran, Ph.D.<br /> Dr. S.Kumaravel, Ph.D.</td>
+														<td>Dean-Arts &amp; Commerce <br /> Dean-Science</td>
+													</tr>
+													<tr>
+														<td>Dr. C.Chandran, Ph.D.</td>
+														<td>Controller of Examinations.</td>
+													</tr>
+													<tr>
+														<td>Dr. V. Ambikapathy</td>
+														<td>Botany</td>
+													</tr>
+													<tr>
+														<td>Dr. T.S.Baskaran</td>
+														<td>Computer Science</td>
+													</tr>
+													<tr>
+														<td>Dr. R. Manikandan</td>
+														<td>Chemistry</td>
+													</tr>
+																																							
+													<tr>
+														<td>Dr. A.Venkatesh</td>
+														<td>Mathematics</td>
+													</tr>
+													<tr>
+														<td>Dr. M.Ayyanar</td>
+														<td>Botany</td>
+													</tr>
+													<tr>
+														<td>Dr. S. Ganesan</td>
+														<td>Zoology</td>
+													</tr>
+													<tr>
+														<td>Anandanarayanan.,</td>
+														<td>Office Superintendent</td>
+													</tr>
+												</tbody>
+											</table>
+											<br />
+											<p align="justify" class="text-gray-darker"><strong>TWO NOMINEES FROM THE LOCAL SOCIETY</strong></p>
+											<p><strong>Dr.V.Varatharajan,</strong></p>
+											<p>III Cross, Arulananda Nagar, Thanjavur.</p>
+											<p><strong>Er.S.Rajendran,</strong></p>
+											<p>11, Ketharapuram, Eswari Nagar, Thanjavur.</p>
+										</div>
+									</div><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <section class="sec-ptb">
 	<div id="fb-root">
 		<div class="shell-fluid">
