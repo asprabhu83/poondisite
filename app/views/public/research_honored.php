@@ -10,7 +10,7 @@ init_public_head();
 		<div class="range range-xs-center range-md-middle text-left">
 
 			<div class="cell-xs-10 cell-sm-8 cell-md-4">
-				<article class="post post-event"><img alt="" class="img-responsive" height="330" src="<?php echo base_url('assets/images/Dr.KR.jpg') ?>" width="570" />
+				<article class="post post-event"><img alt="" class="img-responsive" height="330" src="<?php echo base_url('assets/images/Dr.KR.jpeg') ?>" width="570" />
 					<h4 style="color:Blue;" align="center" class="text-bold">Dr.K.Ravichandran</h4>
 					<p><h5 style="color:green;" align="center" class="text-bold">Co-Ordinator and Associate Professor of Physics</h5><strong></strong></p>
 				</article>
