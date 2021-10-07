@@ -61,7 +61,7 @@ init_public_head();
 														<td colspan="2"><strong>CHAIRPERSON</strong><br /></td>
 													</tr>
 													<tr>
-														<td>Dr. R. Sivakumar , Principal</td>
+														<td>Dr. R. Sivakumar</td>
 														<td>Principal</td>
 													</tr>
 													<tr>
