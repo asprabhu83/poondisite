@@ -164,7 +164,8 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                                                                      
                                                     <li class="active "><a href="<?php echo base_url('popsoco') ?>"><span>PO, PSO & CO</span></a>
                                                     </li>
-                                                   
+                                                    <li class="active "><a href="<?php echo base_url('public/pdf/E_Contents/e_contents.pdf') ?>"><span>E_Content</span></a>
+                                                    </li>
                                                    
                                                     <!-- <li class="active"><a href="#"><span>Programme</span></a>
                                                     <ul class="rd-navbar-dropdown">
