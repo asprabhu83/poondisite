@@ -17,7 +17,6 @@ init_public_head();
 </div>
 
 
-
 													<div>
 													<br><br>
 													<h2 class="text-bold">
