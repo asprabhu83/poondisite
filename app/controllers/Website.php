@@ -97,6 +97,15 @@ class Website extends App_Controller
         $this->data['menu_associations'] = "active";
         $this->load->view('public/associations', $this->data);
     }
+
+    public function annual_reports()
+    {
+
+        $this->data['title'] = "Annual Reports";
+        $this->data['menu_annual_reports'] = "active";
+        $this->load->view('public/annual_reports', $this->data);
+    }
+
     public function non_statutory_committees()
     {
 
