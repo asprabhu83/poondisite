@@ -275,8 +275,8 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                 <ul class="rd-navbar-dropdown">
                                                     <li class="active "><a href="<?php echo base_url('iqac') ?>"><span>About IQAC</span></a>
                                                     </li>
-                                                    <li class="active "><a href="<?php echo base_url('iqac_members') ?>"><span>IQAC Members </span></a>
-                                                    </li>
+                                                    <!-- <li class="active "><a href="<?php echo base_url('iqac_members') ?>"><span>IQAC Members </span></a>
+                                                    </li> -->
                                                     <!-- <li class="active "><a href="https://naac.sripushpamcollege.co.in/" target="_blank"><span>AQAR </span></a> -->
                                                     <li class="active"><a href="<?php echo base_url('#') ?>"><span>AQAR</span></a>
                                                         <ul class="rd-navbar-dropdown">

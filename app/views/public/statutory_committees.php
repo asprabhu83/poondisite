@@ -28,7 +28,7 @@ init_public_head();
 							<div data-type="horizontal" class="responsive-tabs responsive-tabs-classic horizontal">
 								<ul class="resp-tabs-list tabs-1 text-center tabs-group-default" data-group="tabs-group-default">
 									<li class="tab"><strong>Governing Body</strong></li>
-									<li class="tab"><strong>Internal Quality Assurance Cell (IQAC)</strong></li>
+									<!-- <li class="tab"><strong>Internal Quality Assurance Cell (IQAC)</strong></li> -->
 									<li class="tab"><strong>Academic Council</strong></li>
 									<li class="tab"><strong>College Council</strong></li>
 									<li class="tab"><strong>College committee</strong></li>
@@ -60,7 +60,7 @@ init_public_head();
 										</div>
 									</div>
 									<br>
-									<div>
+									<!-- <div>
 										<div class="inset-lg-left-30">
 											<h5>INTERNAL QUALITY ASSURANCE CELL (IQAC)</h5>
 											<br />
@@ -172,7 +172,7 @@ init_public_head();
 											<p><strong>R.Kamal,</strong>II M.Sc., (C.S)</p>
 											
 									</div><br>
-									</div>
+									</div> -->
 									<div>
 										<div class="inset-lg-left-30">
 											<h5>ACADEMIC COUNCIL</h5>
