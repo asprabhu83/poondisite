@@ -316,7 +316,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('curriculum_feedback') ?>"><span>Curriculum Feedback </span></a>
                                                     </li>     
-                                                    <li class="active "><a href="<?php echo base_url('anual_reports') ?>"><span>Annual Report </span></a>
+                                                    <li class="active "><a href="<?php echo base_url('annual_reports') ?>"><span>Annual Report </span></a>
                                                     </li>   
                                                     
 
