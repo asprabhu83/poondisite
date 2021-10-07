@@ -316,9 +316,21 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('curriculum_feedback') ?>"><span>Curriculum Feedback </span></a>
                                                     </li>     
-                                                    <li class="active "><a href="<?php echo base_url('public/pdf/AVVMSPC_Annual_Report_2019_2020.pdf') ?>"><span>Annual Report 2019_2020 </span></a>
-                                                    </li>     
+                                                    <!-- <li class="active "><a href="<?php echo base_url('public/pdf/AVVMSPC_Annual_Report_2019_2020.pdf') ?>"><span>Annual Report 2019_2020 </span></a>
+                                                    </li>      -->
                                                     
+
+                                                    <li class="active"><a href="<?php echo base_url('#') ?>"><span>Annual Report</span></a>
+                                                        <ul class="rd-navbar-dropdown">
+                                                            
+                                                            <li><a href="public/pdf/AVVMSPC_Annual_Report_2019_2020.pdf"><span class="text-middle">2015-2016</span></a></li>
+                                                            <li><a href="public/pdf/AVVMSPC_Annual_Report_2019_2020.pdf"><span class="text-middle">2016-2017</span></a></li>
+                                                            <li><a href="public/pdf/AVVMSPC_Annual_Report_2019_2020.pdf"><span class="text-middle">2017-2018</span></a></li>
+                                                            <li><a href="public/pdf/AVVMSPC_Annual_Report_2019_2020.pdf"><span class="text-middle">2018-2019</span></a></li>
+                                                            <li><a href="public/pdf/AVVMSPC_Annual_Report_2019_2020.pdf"><span class="text-middle">2019-2020</span></a></li>
+                                                                                                                        
+                                                        </ul>
+                                                    </li>
 
                                             </ul>
                                             </li>
