@@ -315,7 +315,11 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/IQAC/Undertaking%20Form%20and%20RTI.pdf') ?>"><span>Principal's Undertaking</span></a>
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('curriculum_feedback') ?>"><span>Curriculum Feedback </span></a>
-                                                    </li>                                                    
+                                                    </li>     
+                                                    <li class="active "><a href="<?php echo base_url('public/pdf/AVVMSPC_Annual_Report_2019_2020.pdf') ?>"><span>Annual Report 2019_2020 </span></a>
+                                                    </li>     
+                                                    
+
                                             </ul>
                                             </li>
                                            

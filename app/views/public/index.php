@@ -15,11 +15,7 @@ init_public_head();
 <!-- Home 01 Banner Starts -->
 <div id="wowslider-container1">
 	<div class="ws_images">
-		<ul>
-	 
-		<li><img src="<?php echo base_url('assets/images/banner/teacher.jpg') ?>" /></li>
-		<li><img src="<?php echo base_url('assets/images/banner/students.jpg') ?>" /></li>
-		<li><img src="<?php echo base_url('assets/images/banner/programme1.jpg') ?>" /></li>	
+		<ul>	 
 		<li><img src="<?php echo base_url('assets/images/banner/002.jpg') ?>" /></li>  
 		<li><img src="<?php echo base_url('assets/images/banner/003.jpg') ?>" /></li>  
 		<li><img src="<?php echo base_url('assets/images/banner/004.jpg') ?>" /></li>  
@@ -38,6 +34,19 @@ init_public_head();
 	</div>
 </div>
 <!-- Home 01 Banner Ends -->
+<!-- Home 02 Banner Starts -->
+<div id="wowslider-container1">
+	<div class="ws_images">
+		<ul>
+		
+		<li><img src="<?php echo base_url('assets/images/banner/teacher1.jpg') ?>" width="1950" height="150" /></li>
+		<li><img src="<?php echo base_url('assets/images/banner/student1.jpg') ?>" width="1950" height="150"/></li>
+		<li><img src="<?php echo base_url('assets/images/banner/programme1.jpg') ?>" width="1950" height="150"/></li>	
+		
+		</ul>
+	</div>
+</div>
+<!-- Home 02 Banner Ends -->
 <!----------------------------------------------------------------------------------------------------------------------->
 <section class="section-90 section-md-top-111 section-md-bottom-120">
 	<div class="shell-fluid">
