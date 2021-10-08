@@ -38,9 +38,9 @@ init_public_head();
 <div id="wowslider-container1">
 	<div class="ws_images">
 		<ul>
-		<li><img src="<?php echo base_url('assets/images/banner/teacher1.jpg') ?>" width="1950" height="150" /></li>
-		<li><img src="<?php echo base_url('assets/images/banner/student1.jpg') ?>"  width="1950" height="150"/></li>
-		<li><img src="<?php echo base_url('assets/images/banner/programme1.jpg') ?>"  width="1950" height="150"/></li>	
+		<li><img src="<?php echo base_url('assets/images/banner/teacher1.jpg') ?>" width="1500" height="150" /></li>
+		<li><img src="<?php echo base_url('assets/images/banner/student1.jpg') ?>"  width="1500" height="150"/></li>
+		<li><img src="<?php echo base_url('assets/images/banner/programme1.jpg') ?>"  width="1500" height="150"/></li>	
 		
 		</ul>
 	</div>
