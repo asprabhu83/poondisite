@@ -5,7 +5,8 @@ init_public_head();
 <div class="container-fluid marqueewrap">
 	<div class="alert alert-primary alert-dismissible" role="alert">
 		<marquee>
-			<strong><span>&#9733;</span> <a href="<?php echo base_url('#') ?>" target="_blank">Mid Semester Examination start from 04.10.2021</a><span>&#9733;</span></strong>
+			<strong><span>&#9733;</span> <a href="<?php echo base_url('#') ?>" target="_blank"> Regular Classes for all I PG Programme will be commenced on 11.10.2021(Monday) in Regular Mode. </a><span>&#9733;</span></strong>
+			<strong><span>&#9733;</span> <a href="<?php echo base_url('#') ?>" target="_blank"> Mid Semester Examination start from 04.10.2021 </a><span>&#9733;</span></strong>
 			<!-- <strong>35th Academic Council Meeting on 18.09.2021 at 10.30 a.m.</strong><span>&#9733;</span> -->
 			<!-- <strong><a href="<?php echo base_url('assets/images/founderdaysep2021.jpeg') ?>" target="_blank">51st Founder's Commemoration Day on 17.09.2021</strong></a><span>&#9733;</span> -->
 			<!-- <strong><a href="<?php echo base_url('assets/images/iobpay.jpeg') ?>" target="_blank">Inaugural Function of IOB Pay on 14.09.2021 at 2.30 p.m.</strong></a> -->
@@ -35,12 +36,12 @@ init_public_head();
 </div>
 <!-- Home 01 Banner Ends -->
 <!-- Home 02 Banner Starts -->
-<div id="wowslider-container1">
+ <div id="wowslider-container1">
 	<div class="ws_images">
 		<ul>
 		<li><img src="<?php echo base_url('assets/images/banner/teacher1.jpg') ?>" width="1500" height="150" /></li>
 		<li><img src="<?php echo base_url('assets/images/banner/student1.jpg') ?>"  width="1500" height="150"/></li>
-		<li><img src="<?php echo base_url('assets/images/banner/programme1.jpg') ?>"  width="1500" height="150"/></li>	
+		<li><img src="<?php echo base_url('assets/images/banner/prog1.jpg') ?>"  width="1500" height="150"/></li>	
 		
 		</ul>
 	</div>
