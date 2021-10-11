@@ -17,7 +17,7 @@ init_public_head();
 </div>
 
 
-<div>
+<!-- <div>
 										<div class="inset-lg-left-30">
 											<h5>INTERNAL QUALITY ASSURANCE CELL (IQAC)</h5>
 											<br />
@@ -96,7 +96,7 @@ init_public_head();
 
 
 
-
+ -->
 
 
 
