@@ -106,6 +106,13 @@ class Website extends App_Controller
         $this->load->view('public/annual_reports', $this->data);
     }
 
+    public function best_practices_page()
+    {
+
+        $this->data['title'] = "Best Practices";
+        $this->data['menu_best_practices_page'] = "active";
+        $this->load->view('public/best_practices_page', $this->data);
+    }
     public function non_statutory_committees()
     {
 

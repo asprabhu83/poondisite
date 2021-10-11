@@ -36,7 +36,7 @@ init_public_head();
 </div>
 <!-- Home 01 Banner Ends -->
 <!-- Home 02 Banner Starts -->
- <div id="wowslider-container1">
+ <!-- <div id="wowslider-container1">
 	<div class="ws_images">
 		<ul>
 		<li><img src="<?php echo base_url('assets/images/banner/teacher1.jpg') ?>" width="1500" height="150" /></li>
@@ -45,7 +45,7 @@ init_public_head();
 		
 		</ul>
 	</div>
-</div>
+</div> -->
 <!-- Home 02 Banner Ends -->
 <!----------------------------------------------------------------------------------------------------------------------->
 <section class="section-90 section-md-top-111 section-md-bottom-120">

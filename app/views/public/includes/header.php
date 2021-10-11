@@ -127,15 +127,17 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>
                                                     <li><a href="<?php echo base_url('institutional_distinctiveness') ?>"><span class="text-middle">Distinctiveness</span></a>
                                                     </li>
-                                                    
-                                                    <li><a href="#"><span class="text-middle">Best Practices</span></a>
+                                                    <li><a href="<?php echo base_url('best_practices_page') ?>"><span class="text-middle">Best Practices</span></a>
+                                                    </li>
+                                                   
+                                                    <!-- <li><a href="#"><span class="text-middle">Best Practices</span></a>
                                                         <ul class="rd-navbar-dropdown">
                                                         <li><a href="<?php echo base_url('best_practices1') ?>"><span class="text-middle">Best Practices-I</span></a>
                                                         </li>
                                                         <li><a href="<?php echo base_url('best_practices2') ?>"><span class="text-middle">Best Practices-II</span></a>
                                                         </li>
                                                         </ul>
-                                                    </li> 
+                                                    </li>  -->
                                                
                                                     
                                                     <li><a href="#"><span class="text-middle">Committees</span></a>
