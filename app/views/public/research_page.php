@@ -61,9 +61,9 @@ init_public_head();
                                                        <a href="<?php echo base_url('research') ?>"><span>Research Project</span></a>
                                                        </h2>    
                                                        <br><br>
-                                                    <!-- <h2 class="text-bold">
-                                                       <a href="<?php echo base_url('research_honored') ?>"><span>Research Honor</span></a>
-                                                       </h2>    -->
+                                                    <h2 class="text-bold">
+                                                       <a href="<?php echo base_url('research_honored') ?>"><span>Research Achievement</span></a>
+                                                       </h2> 
                                                        <br><br> 
                                                 </dev>
 								
