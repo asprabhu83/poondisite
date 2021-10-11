@@ -54,7 +54,7 @@ init_public_head();
                                                        <br><br>
                                                        </h2>
                                                     <h2 class="text-bold">
-                                                       <a href="<?php echo base_url('public/pdf/Research/List_of_Ph.D_Completed_Scholars.pdf') ?>"><span>List of Ph.D Completed Scholars</span></a>
+                                                       <a href="<?php echo base_url('public/pdf/Research/Ph.D._Scholars_Registered_in_last_5_Years.pdf') ?>"><span>Ph.D. Scholars Registered in last 5 Years</span></a>
                                                        <br><br>
                                                        </h2>
                                                     <h2 class="text-bold">
