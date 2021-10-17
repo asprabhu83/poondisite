@@ -3,6 +3,9 @@ defined('BASEPATH') or exit('No direct script access allowed');
 init_public_head();
 ?>
 
+
+
+
 <section class="section-90 section-md-top-120 section-md-bottom-111 bg-qua-haze">
 	<div class="shell-fluid">
 		
@@ -14,7 +17,7 @@ init_public_head();
 					<h3 style="color:Blue;" align="center" class="text-bold">Dr.K.Ravichandran</h3>
 					<p><h5 style="color:green;" align="center" class="text-bold">Coordinator and Associate Professor, <br> Department of Physics</h5><strong></strong></p>
 				</article>
-				<h4 style="color:red;" align="center"  class="text-bold"> Has figured in the list of <br> World top 2% Scientists relesed by <br> </h4> <h4 style="color:brown;" align="center"  class="text-bold"> "Stanford Universtiry, USA" </h4>	
+				<h4 style="color:red;" align="center"  class="text-bold"> Has figured in the list of <br> World top 2% Scientists released by <br> </h4> <h4 style="color:brown;" align="center"  class="text-bold"> "Stanford Universtiry, USA" </h4>	
 				<br>
 				 <h4 style="color:red;" align="center"  class="text-bold"> Has Published 100(Hundred) research articles</h4> <h4 style="color:brown;" align="center"  class="text-bold">in SCI journals within a decade.</h4>	
 				
