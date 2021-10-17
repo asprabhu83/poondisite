@@ -105,6 +105,13 @@ class Website extends App_Controller
         $this->data['menu_annual_reports'] = "active";
         $this->load->view('public/annual_reports', $this->data);
     }
+    public function research_achieved()
+    {
+
+        $this->data['title'] = "Research Achieved";
+        $this->data['menu_research_achieved'] = "active";
+        $this->load->view('public/research_achieved', $this->data);
+    }
 
     public function best_practices_page()
     {
@@ -800,6 +807,19 @@ class Website extends App_Controller
         $this->data['menu_iqac_meet'] = "active";
         $this->load->view('public/iqac_meet', $this->data);
     }
+    public function about_iqac()
+    {
+        $this->data['title'] = "About IQAC";
+        $this->data['menu_about_iqac'] = "active";
+        $this->load->view('public/about_iqac', $this->data);
+    }
+    public function about_iqac1()
+    {
+        $this->data['title'] = "About IQAC";
+        $this->data['menu_about_iqac1'] = "active";
+        $this->load->view('public/about_iqac1', $this->data);
+    }
+
     // public function action_report()
     // {
     //     $this->data['title'] = "Action Taken Report";

@@ -282,7 +282,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                             </li>
                                             <li class="active"><a href="#"><span>IQAC</span></a>
                                                 <ul class="rd-navbar-dropdown">
-                                                    <li class="active "><a href="<?php echo base_url('iqac') ?>"><span>About IQAC</span></a>
+                                                    <li class="active "><a href="<?php echo base_url('about_iqac') ?>"><span>About IQAC</span></a>
                                                     </li>
                                                     <!-- <li class="active "><a href="<?php echo base_url('iqac_members') ?>"><span>IQAC Members </span></a>
                                                     </li> -->
