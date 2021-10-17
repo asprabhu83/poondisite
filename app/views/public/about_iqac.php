@@ -44,7 +44,7 @@ h6    {color: brown;}
         }
   
         /* <!-- Removes default style of bullet point --> */
-        li{
+        li.a{
             /* list-style-image:URL('https://media.geeksforgeeks.org/wp-content/uploads/20200331172037/image47.png'); */
             list-style-position: outside;
         }
@@ -63,7 +63,7 @@ h6    {color: brown;}
         }
   
         /* <!-- ::before creates a pseudo-element         that is the first child of the  selected element --> */
-        li::before{
+        li.a::before{
   
             /* <!-- Unicode for >> character --> */
             content: "\2B9A";
@@ -104,7 +104,7 @@ h6    {color: brown;}
 				<h2 class="text-bold">IQAC – Vision</h2>
 				
 				<ul id="list">
-						<li>    To ensure quality culture as the prime concern for the Higher Education Institutions through institutionalizing and internalizing all the initiatives taken with internal and external support.</li>
+						<li class="a">    To ensure quality culture as the prime concern for the Higher Education Institutions through institutionalizing and internalizing all the initiatives taken with internal and external support.</li>
 				</ul>
 
                 
@@ -113,8 +113,8 @@ h6    {color: brown;}
 				<ul id="list">
                 <h3 class="text-bold">The primary aim of IQAC is</h3>
                 
-                        <li>    To develop a system for conscious, consistent and catalytic action to improve the academic and administrative performance of the institution.</li>
-                        <li>    To promote measures for institutional functioning towards quality enhancement through internalization of quality culture and institutionalization of best practices.</li>
+                        <li class="a">    To develop a system for conscious, consistent and catalytic action to improve the academic and administrative performance of the institution.</li>
+                        <li class="a">    To promote measures for institutional functioning towards quality enhancement through internalization of quality culture and institutionalization of best practices.</li>
                     </ul>
                 
                 
@@ -123,13 +123,13 @@ h6    {color: brown;}
                 <ul id="list">
                         <h3 class="text-bold">IQAC shall evolve mechanisms and procedures for</h3>
                         
-                        <li>	Ensuring timely, efficient and progressive performance of academic, administrative and financial tasks;</li>
-                        <li>    Relevant and quality academic/ research programmes;</li>
-                        <li>    Equitable access to and affordability of academic programmes for various sections of society;</li>
-                        <li>    Optimization and integration of modern methods of teaching and learning;</li>
-                        <li>    The credibility of assessment and evaluation process;</li>
-                        <li>    Ensuring the adequacy, maintenance and proper allocation of support structure and services;</li>
-                        <li>    Sharing of research findings and networking with other institutions in India and abroad.</li>
+                        <li class="a">	Ensuring timely, efficient and progressive performance of academic, administrative and financial tasks;</li>
+                        <li class="a">    Relevant and quality academic/ research programmes;</li>
+                        <li class="a">    Equitable access to and affordability of academic programmes for various sections of society;</li>
+                        <li class="a">    Optimization and integration of modern methods of teaching and learning;</li>
+                        <li class="a">    The credibility of assessment and evaluation process;</li>
+                        <li class="a">    Ensuring the adequacy, maintenance and proper allocation of support structure and services;</li>
+                        <li class="a">    Sharing of research findings and networking with other institutions in India and abroad.</li>
                 
                     </ul>
                 
@@ -139,17 +139,17 @@ h6    {color: brown;}
                     <ul id="list">
                         <h3 class="text-bold">Some of the functions expected of the IQAC are:</h3>
                         
-                        <li>    Development and application of quality benchmarks</li>
-                        <li>    Parameters for various academic and administrative activities of the institution;</li>
-                        <li>    Facilitating the creation of a learner-centric environment conducive to quality education and faculty maturation to adopt the required knowledge and technology for participatory teaching and learning process;</li>
-                        <li>    Collection and analysis of feedback from all stakeholders on quality-related institutional processes;</li>
-                        <li>    Dissemination of information on various quality parameters to all stakeholders;</li>
-                        <li>    Organization of inter and intra institutional workshops, seminars on quality related themes and promotion of quality circles;</li>
-                        <li>    Documentation of the various programmes/activities leading to quality improvement;</li>
-                        <li>    Acting as a nodal agency of the Institution for coordinating quality-related activities, including adoption and dissemination of best practices;</li>
-                        <li>    Development and maintenance of institutional database through MIS for the purpose of maintaining /enhancing the institutional quality;</li>
-                        <li>    Periodical conduct of Academic and Administrative Audit and its follow-up</li>
-                        <li>    Preparation and submission of the Annual Quality Assurance Report (AQAR) as per guidelines and parameters of NAAC.</li>
+                        <li class="a">    Development and application of quality benchmarks</li>
+                        <li class="a">    Parameters for various academic and administrative activities of the institution;</li>
+                        <li class="a">    Facilitating the creation of a learner-centric environment conducive to quality education and faculty maturation to adopt the required knowledge and technology for participatory teaching and learning process;</li>
+                        <li class="a">    Collection and analysis of feedback from all stakeholders on quality-related institutional processes;</li>
+                        <li class="a">    Dissemination of information on various quality parameters to all stakeholders;</li>
+                        <li class="a">    Organization of inter and intra institutional workshops, seminars on quality related themes and promotion of quality circles;</li>
+                        <li class="a">    Documentation of the various programmes/activities leading to quality improvement;</li>
+                        <li class="a">    Acting as a nodal agency of the Institution for coordinating quality-related activities, including adoption and dissemination of best practices;</li>
+                        <li class="a">    Development and maintenance of institutional database through MIS for the purpose of maintaining /enhancing the institutional quality;</li>
+                        <li class="a">    Periodical conduct of Academic and Administrative Audit and its follow-up</li>
+                        <li class="a">    Preparation and submission of the Annual Quality Assurance Report (AQAR) as per guidelines and parameters of NAAC.</li>
                                                
                     </ul>
 
@@ -159,12 +159,12 @@ h6    {color: brown;}
                     <ul id="list">
                         <h3 class="text-bold">IQAC will facilitate / contribute to</h3>
                         
-                        <li>    Ensure clarity and focus in institutional functioning towards quality enhancement;</li>
-                        <li>    Ensure internalization of the quality culture;</li>
-                        <li>    Ensure enhancement and coordination among various activities of the institution and institutionalize all good practices;</li>
-                        <li>    Provide a sound basis for decision-making to improve institutional functioning;</li>
-                        <li>    Act as a dynamic system for quality changes in HEIs;</li>
-                        <li>    Build an organised methodology of documentation and internal communication.</li>
+                        <li class="a">    Ensure clarity and focus in institutional functioning towards quality enhancement;</li>
+                        <li class="a">    Ensure internalization of the quality culture;</li>
+                        <li class="a">    Ensure enhancement and coordination among various activities of the institution and institutionalize all good practices;</li>
+                        <li class="a">    Provide a sound basis for decision-making to improve institutional functioning;</li>
+                        <li class="a">    Act as a dynamic system for quality changes in HEIs;</li>
+                        <li class="a">    Build an organised methodology of documentation and internal communication.</li>
                                                 
                     </ul>
 			<!-- </div> -->
