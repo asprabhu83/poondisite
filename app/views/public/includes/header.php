@@ -429,9 +429,9 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
 
                                                 </ul>
                                             </li>
-                                            <li class="active"><a href="#"><span>Events 2021</span></a>
+                                            <!-- <li class="active"><a href="#"><span>Events 2021</span></a>
                                                 <ul class="rd-navbar-dropdown">
-                                                    <!-- <li class="active "><a href="<?php echo base_url('nirf') ?>"><span>About NIRF</span></a> -->
+                                                    
                                                     <li class="active "><a href="<?php echo base_url('#') ?>"><span>Independance Day Celebration 2021 (75 th)</span></a>
                                                     <li class="active "><a href="<?php echo base_url('#') ?>"><span>Founder's Day 2021 (122 nd)</span></a>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/Events/Founders_Commemoration_Day_17_09_2021.pdf') ?>"><span>Founder's Commemoration Day 2021 (51 st)</span></a>
@@ -439,6 +439,12 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     <li class="active "><a href="<?php echo base_url('#') ?>"><span>Academic Councial Meeting 2021</span></a>
                                                     <li class="active "><a href="<?php echo base_url('#') ?>"><span>Gandhi Jeyanthi Celebration 2021(152nd)</span></a>
 
+                                                    </li>
+                                                </ul>
+                                            </li> -->
+                                            <li class="active"><a href="#"><span>Staff Portal</span></a>
+                                                <ul class="rd-navbar-dropdown">
+                                                    <li class="active "><a href="https://controllerofexamination.com" target="_blank"><span>Attendance Entry</span></a>
                                                     </li>
                                                 </ul>
                                             </li>
