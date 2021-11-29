@@ -5,12 +5,12 @@ init_public_head();
 <div class="section-height-800 breadcrumb-computer-science context-dark text-center">
 	<div class="shell section-bottom-30">
 		<div class="veil reveal-md-block">
-			<h1 class="text-bold">PG &amp; RESEARCH DEPARTMENT OF COMPUTER SCIENCE</h1>
+			<h1 class="text-bold">PG &amp; RESEARCH DEPARTMENT OF COMPUTER APPLICATIONS</h1>
 		</div>
 		<ul class="list-inline list-inline-with-arrows p">
 			<ul class="list-inline list-inline-with-arrows p">
 				<li><a href="<?php echo base_url() ?>" class="text-white">Home </a></li>
-				<li>Computer Science</li>
+				<li>Computer Applications</li>
 			</ul>
 		</ul>
 	</div>
@@ -23,10 +23,10 @@ init_public_head();
 					<?php department_quicklinks();?>
 				</div>
 				<div class="cell-xs-8 cell-lg-8">
-					<h2 class="text-bold text-center">Computer Science</h2>
+					<h2 class="text-bold text-center">Computer Applications</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
-						<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
+				<!--		<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>
@@ -37,35 +37,35 @@ init_public_head();
 								</tr>
 								<tr>
 									<td>B.Sc. Computer Science</td>
-									<td>1984</td>
+									<td>1984 - 85</td>
 								</tr>
-								<!-- <tr>
+								<tr>
 									<td>B.C.A.</td>
 									<td>2008 - 09</td>
-								</tr> -->
+								</tr>
 								<tr>
 									<td>M.Sc. Computer Science</td>
-									<td>1987</td>
+									<td>1987 - 88</td>
 								</tr>
 								<tr>
 									<td>M.Sc. Information Technology</td>
-									<td>2001</td>
+									<td>2001 - 02</td>
 								</tr>
-								<!-- <tr>
+								<tr>
 									<td>M.C.A.</td>
 									<td>1993 - 94</td>
-								</tr> -->
+								</tr>
 								<tr>
 									<td>M.Phil.</td>
-									<td>2002</td>
+									<td>2002 - 03</td>
 								</tr>
 								<tr>
 									<td>Ph.D.</td>
-									<td>2010</td>
+									<td>2010 - 11</td>
 								</tr>
 							</tbody>
 						</table>
-					<!--	<section class="">
+						<section class="">
 							<div class="">
 								<div class="">
 									<div class="cell-sm-10 cell-md-11 cell-lg-9 cell-xl-6 offset-top-30">
@@ -255,16 +255,17 @@ init_public_head();
                                     <h4 class="text-bold center">SYLLABUS</h4>
                                     <div class="offset-top-20">
                                         <ul class="inset-left-30 list list-marked">
-											<li> <?php syllabus_link('B.Sc.Computer Science ', 'Computer Science/bsccs') ?></li>
-											<li> <?php syllabus_link('BCA', 'Computer Science/BCA') ?></li>
-											<li> <?php syllabus_link('M.Sc.Computer Science ', 'Computer Science/msccs') ?></li>
-											<li> <?php syllabus_link('M.Sc.IT', 'Computer Science/mscit') ?></li>
-											<li> <?php syllabus_link('MCA', 'Computer Science/MCA') ?></li>
+                                        -->
+											<!-- <li> <?php syllabus_link('B.Sc.Computer Science ', 'Computer Science/bsccs') ?></li> --> -->
+											<!-- <li> <?php syllabus_link('M.Sc.Computer Science ', 'Computer Science/msccs') ?></li> -->
+											<!-- <li> <?php syllabus_link('M.Sc.IT', 'Computer Science/mscit') ?></li> -->
+                                            <li> <?php syllabus_link('BCA', 'Computer Applications/BCA') ?></li>
+											<li> <?php syllabus_link('MCA', 'Computer Applications/MCA') ?></li>
                                         </ul>
                                     </div>
                                 </div>
                             </div>
-                        </div>-->
+                        </div>
 						<h4 align="" class="text-bold offset-top-30" id="q-2">RESEARCH ACTIVITIES</h4>
 						<br />
 						<div style="overflow-x: auto;">
@@ -308,7 +309,7 @@ init_public_head();
 									</tr>
 								</tbody>
 							</table>
-						</div> 
+						</div> -->
 						<h4 align="" class="text-bold offset-top-30" id="q-3">FACULTY MEMBERS</h4>
 						<br />
 						<div style="overflow-x: auto;">
@@ -323,7 +324,7 @@ init_public_head();
 										<th colspan="2">Aided Faculty</th>
 									</tr>
 									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/1.%20Dr.%20V.%20Maniraj.pdf') ?>" target="_blank" rel="noopener">Dr.V.Maniraj</a></th>
+										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/1.%20Dr.%20V.%20Maniraj.pdf') ?>" target="_blank" rel="noopener">Dr.V.ManiRaj</a></th>
 										<td style="text-align: center;">Associate Professor  &amp; Coordinator</td>
 									</tr>
 									<!-- <tr>
@@ -339,7 +340,7 @@ init_public_head();
 										<td style="text-align: center;">Associate Professor</td>
 									</tr>
 									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/5.Dr.R.Subash%20chandra%20Bose.pdf') ?>" target="_blank" rel="noopener">Dr.R. Subashchandrabose</a></th>
+										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/5.Dr.R.Subash%20chandra%20Bose.pdf') ?>" target="_blank" rel="noopener">Dr.R. Subash Chandra Bose</a></th>
 										<td style="text-align: center;">Associate Professor &amp; IQAC Coordinator</td>
 									</tr>
 									<tr>

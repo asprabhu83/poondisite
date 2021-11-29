@@ -608,6 +608,13 @@ class Website extends App_Controller
         $this->data['menu_zoology'] = "active";
         $this->load->view('public/zoology', $this->data);
     }
+    public function biotechnology()
+    {
+
+        $this->data['title'] = "Biotechnology";
+        $this->data['menu_biotechnology'] = "active";
+        $this->load->view('public/biotechnology', $this->data);
+    }
     public function business_administration()
     {
 
@@ -621,6 +628,13 @@ class Website extends App_Controller
         $this->data['title'] = "Computer Science";
         $this->data['menu_computer_science'] = "active";
         $this->load->view('public/computer_science', $this->data);
+    }
+    public function computer_applications()
+    {
+
+        $this->data['title'] = "Computer Applications";
+        $this->data['menu_computer_applications'] = "active";
+        $this->load->view('public/computer_applications', $this->data);
     }
     public function physical_education()
     {
