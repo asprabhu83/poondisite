@@ -26,7 +26,7 @@ init_public_head();
 					<h2 class="text-bold text-center">PG &amp; RESEARCH DEPARTMENT OF ECONOMICS</h2>
 					<div class="offset-top-20"></div>
 
-				<!--	<div class="offset-top-20">
+					<div class="offset-top-20">
 						<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
@@ -38,23 +38,23 @@ init_public_head();
 								</tr>
 								<tr>
 									<td style="text-align: center;">B.A Economics</td>
-									<td style="text-align: center;">1957 - 58</td>
+									<td style="text-align: center;">1957</td>
 								</tr>
 								<tr>
 									<td style="text-align: center;">M.A Economics</td>
-									<td style="text-align: center;">1967 - 68</td>
+									<td style="text-align: center;">1967</td>
 								</tr>
 								<tr>
 									<td style="text-align: center;">M.Phil Economics</td>
-									<td style="text-align: center;">1983 - 84</td>
+									<td style="text-align: center;">1983</td>
 								</tr>
 								<tr>
 									<td style="text-align: center;">Ph.D Economics</td>
-									<td style="text-align: center;">1987 - 88</td>
+									<td style="text-align: center;">1987</td>
 								</tr>
 							</tbody>
 						</table>
-						<div class="">
+						<!--<div class="">
 							<div class="">
 								<div class="cell-sm-10 cell-md-11 cell-lg-9 cell-xl-6 offset-top-30">
 									<div>
@@ -205,7 +205,7 @@ init_public_head();
                                 </div>
                             </div>
                         </div>
-
+					--> 
 
 						<h4 align="" class="text-bold offset-top-30" id="q-2">RESEARCH ACTIVITIES</h4>
 						<br />
@@ -251,7 +251,7 @@ init_public_head();
 									</tr>
 								</tbody>
 							</table>
-						</div> -->
+						</div>
 						<h4 align="" class="text-bold offset-top-30" id="q-3">FACULTY MEMBERS</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">

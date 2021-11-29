@@ -27,7 +27,7 @@ init_public_head();
 					<h2 class="text-bold text-center">Physics</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
-					<!--	<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
+					<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>
@@ -38,19 +38,19 @@ init_public_head();
 								</tr>
 								<tr>
 									<td style="text-align: center;">B.Sc. Physics</td>
-									<td style="text-align: center;">1961 - 62</td>
+									<td style="text-align: center;">1961</td>
 								</tr>
 								<tr>
 									<td style="text-align: center;">M.Sc. Physics</td>
-									<td style="text-align: center;">1972 - 73</td>
+									<td style="text-align: center;">1972</td>
 								</tr>
 								<tr>
 									<td style="text-align: center;">M.Phil Physics</td>
-									<td style="text-align: center;">1985 - 86</td>
+									<td style="text-align: center;">1985</td>
 								</tr>
 								<tr>
 									<td style="text-align: center;">Ph.D. Physics</td>
-									<td style="text-align: center;">1987 - 88</td>
+									<td style="text-align: center;">1987</td>
 								</tr>
 							</tbody>
 						</table>
@@ -181,7 +181,7 @@ init_public_head();
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div>-->
 						<h4 align="" class="text-bold offset-top-30" id="q-2">RESEARCH ACTIVITIES</h4>
 						<br />
 						<div style="overflow-x: auto;">
@@ -280,7 +280,7 @@ init_public_head();
 									</tr>
 								</tbody>
 							</table>
-						</div> 	-->
+						</div> 
 
 						<h4 align="" class="text-bold offset-top-30" id="q-3">FACULTY MEMBERS</h4>
 						<br />

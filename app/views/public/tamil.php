@@ -28,7 +28,7 @@ init_public_head();
 					<div class="offset-top-20"></div>
 					<br />
 					<div class="offset-top-20">
-				<!--		<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
+						<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>
@@ -39,31 +39,31 @@ init_public_head();
 								</tr>
 								<tr>
 									<td>B.A</td>
-									<td>1965 - 66</td>
+									<td>1965</td>
 								</tr>
 								<tr>
 									<td>B.Litt.</td>
-									<td>2008 - 09</td>
+									<td>2008</td>
 								</tr>
 								<tr>
 									<td>B.A. Indian Culture</td>
-									<td>1983 - 84</td>
+									<td>1983</td>
 								</tr>
 								<tr>
 									<td>M.A.</td>
-									<td>1975 - 76</td>
+									<td>1975</td>
 								</tr>
 								<tr>
 									<td>M.Phil</td>
-									<td>1985 - 86</td>
+									<td>1985</td>
 								</tr>
 								<tr>
 									<td>Ph.D.</td>
-									<td>1987 - 88</td>
+									<td>1987</td>
 								</tr>
 							</tbody>
 						</table>
-						<div class="handing-divider">
+					<!--	<div class="handing-divider">
 							<div class="cell-sm-10 cell-md-11 cell-lg-9 cell-xl-6 offset-top-30">
 								<div>
 									<h4 class="text-bold center">SYLLABUS</h4>
@@ -78,7 +78,7 @@ init_public_head();
 									</div>
 								</div>
 							</div>
-						</div>
+						</div>-->
 						<h4 align="" class="text-bold offset-top-30" id="q-2">RESEARCH ACTIVITIES</h4>
 						<br />
 						<div style="overflow-x: auto;">
@@ -127,7 +127,7 @@ init_public_head();
 									</tr>
 								</tbody>
 							</table>
-						</div> -->
+						</div> 
 						<h4 align="" class="text-bold offset-top-30" id="q-3">FACULTY MEMBERS</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">

@@ -30,7 +30,7 @@ init_public_head();
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
 
-					<!--	<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
+					<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>
@@ -43,36 +43,36 @@ init_public_head();
 								<tr>
 									<td style="text-align: center;">B.Com.</td>
 									<td style="text-align: center;">Commerce</td>
-									<td style="text-align: center;">1968 - 69</td>
+									<td style="text-align: center;">1968</td>
 								</tr>
 								<tr>
 									<td style="text-align: center;">M.Com.</td>
 									<td style="text-align: center;">Commerce</td>
-									<td style="text-align: center;">1976 - 77</td>
+									<td style="text-align: center;">1976</td>
 								</tr>
 								<tr>
 									<td style="text-align: center;">M.Phil.</td>
 									<td style="text-align: center;">Commerce</td>
-									<td style="text-align: center;">1983 &ndash; 84</td>
+									<td style="text-align: center;">1983</td>
 								</tr>
 								<tr>
 									<td style="text-align: center;">Ph.D.</td>
 									<td style="text-align: center;">Commerce</td>
-									<td style="text-align: center;">2002 &ndash; 03</td>
+									<td style="text-align: center;">2002</td>
 								</tr>
 								<tr>
 									<td style="text-align: center;">B.Com.</td>
 									<td style="text-align: center;">Computer Application</td>
-									<td style="text-align: center;">2017 - 18</td>
+									<td style="text-align: center;">2017</td>
 								</tr>
 								<tr>
 									<td style="text-align: center;">B.Com.</td>
 									<td style="text-align: center;">Bank Management</td>
-									<td style="text-align: center;">2017 - 18</td>
+									<td style="text-align: center;">2017</td>
 								</tr>
 							</tbody>
 						</table>
-						<section class="">
+						<!--<section class="">
 							<div class="">
 								<div class="">
 									<div class="cell-sm-10 cell-md-11 cell-lg-9 cell-xl-6 offset-top-30">
@@ -208,7 +208,7 @@ init_public_head();
                                 </div>
                             </div>
                         </div>
-					
+-->
 						<div style="overflow-x: auto;">
 							<h4 align="" class="text-bold offset-top-30" id="q-2">RESEARCH ACTIVITIES</h4>
 							<br />
@@ -249,7 +249,7 @@ init_public_head();
 									</tr>
 								</tbody>
 							</table>
-						</div> -->
+						</div>
 						<h4 align="" class="text-bold offset-top-30" id="q-3">FACULTY MEMBERS</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">

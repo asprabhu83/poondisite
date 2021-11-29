@@ -28,7 +28,7 @@ init_public_head();
 					<!-- <p class="text-center">(Include Programme outcomes and Programmes Specific outcomes as below)</p> -->
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
-					<!--	<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
+					<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>
@@ -41,22 +41,22 @@ init_public_head();
 								<tr>
 									<td style="text-align: center;">B.Sc.</td>
 									<td style="text-align: center;">Mathematics</td>
-									<td style="text-align: center;">1957 - 58</td>
+									<td style="text-align: center;">1957</td>
 								</tr>
 								<tr>
 									<td style="text-align: center;">M.Sc.</td>
 									<td style="text-align: center;">Mathematics</td>
-									<td style="text-align: center;">1967 - 68</td>
+									<td style="text-align: center;">1967</td>
 								</tr>
 								<tr>
 									<td style="text-align: center;">M.Phil</td>
 									<td style="text-align: center;">Mathematics</td>
-									<td style="text-align: center;">1982 - 83</td>
+									<td style="text-align: center;">1982</td>
 								</tr>
 								<tr>
 									<td style="text-align: center;">Ph.D.</td>
 									<td style="text-align: center;">Mathematics</td>
-									<td style="text-align: center;">1987 - 88</td>
+									<td style="text-align: center;">1987</td>
 								</tr>
 							</tbody>
 						</table>
@@ -186,7 +186,7 @@ init_public_head();
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div>-->
 						<h4 align="" class="text-bold offset-top-30" id="q-2">RESEARCH ACTIVITIES</h4>
 						<br />
 						<div style="overflow-x: auto;">
@@ -240,7 +240,7 @@ init_public_head();
 									</tr>
 								</tbody>
 							</table>
-						</div> -->
+						</div> 
 						<h4 align="" class="text-bold offset-top-30" id="q-3">FACULTY MEMBERS</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">

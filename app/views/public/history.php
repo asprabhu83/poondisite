@@ -27,7 +27,7 @@ init_public_head();
 					<h2 class="text-bold text-center">PG &amp; RESEARCH DEPARTMENT OF HISTORY</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
-						<!-- <h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMME</h4>
+						<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMME</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" width="70">
 							<tbody></tbody>
@@ -40,22 +40,22 @@ init_public_head();
 								<tr>
 									<td style="text-align: center;">B.A</td>
 									<td style="text-align: center;">History</td>
-									<td style="text-align: center;">1970 - 71</td>
+									<td style="text-align: center;">1970</td>
 								</tr>
 								<tr>
 									<td style="text-align: center;">M.A.</td>
 									<td style="text-align: center;">History</td>
-									<td style="text-align: center;">1982 - 83</td>
+									<td style="text-align: center;">1982</td>
 								</tr>
 								<tr>
 									<td style="text-align: center;">M.Phil</td>
 									<td style="text-align: center;">History</td>
-									<td style="text-align: center;">1982 - 83</td>
+									<td style="text-align: center;">1982</td>
 								</tr>
 								<tr>
 									<td style="text-align: center;">Ph.D.</td>
 									<td style="text-align: center;">History</td>
-									<td style="text-align: center;">1986 - 87</td>
+									<td style="text-align: center;">1986</td>
 								</tr>
 							</tbody>
 						</table>
@@ -205,7 +205,7 @@ init_public_head();
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 						<h4 align="" class="text-bold offset-top-30" id="q-2">RESEARCH ACTIVITIES</h4>
 						<br />
 						<div style="overflow-x: auto;">
@@ -254,7 +254,7 @@ init_public_head();
 									</tr>
 								</tbody>
 							</table>
-						</div> -->
+						</div>
 						<h4 align="" class="text-bold offset-top-30" id="q-3">FACLUTY MEMBERS</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
