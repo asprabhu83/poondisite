@@ -5,11 +5,11 @@ init_public_head();
 <div class="container-fluid marqueewrap">
 	<div class="alert alert-primary alert-dismissible" role="alert">
 		<marquee>
-		<strong><span>&#9733;</span><a href="<?php echo base_url('#') ?>" target="_blank">SSR Submitted on 20.10.2021 </strong></a><span>&#9733;</span> 	
+		<!-- <strong><span>&#9733;</span><a href="<?php echo base_url('#') ?>" target="_blank">SSR Submitted on 20.10.2021 </strong></a><span>&#9733;</span> 	
 		<strong><a href="<?php echo base_url('#') ?>" target="_blank">NAAC Initiated SSS  - Respond immediately</strong></a><span>&#9733;</span> 	
 		<strong><a href="<?php echo base_url('assets/images/16th_graduation_day.jpeg') ?>" target="_blank">16 <sup>th</sup> GRADUATION DAY (GIRLS) ON 30.10.2021 </strong></a><span>&#9733;</span> 
 			<strong><a href="<?php echo base_url('assets/images/45th_graduation_day.jpeg') ?>" target="_blank">45 <sup>th</sup> GRADUATION DAY (BOYS) ON 31.10.2021 </strong></a><span>&#9733;</span> 
-			<strong><a href="<?php echo base_url('assets/images/graduation_programme.jpeg') ?>" target="_blank">PROGRAMME </strong></a><span>&#9733;</span> 
+			<strong><a href="<?php echo base_url('assets/images/graduation_programme.jpeg') ?>" target="_blank">PROGRAMME </strong></a><span>&#9733;</span>  -->
 <!-- <strong><span>&#9733;</span> <a href="<?php echo base_url('#') ?>" target="_blank"> Semester exam commences on 6.12.21 and ends on 31.12.21</a></strong>
 <strong><span>&#9733;</span> <a href="<?php echo base_url('#') ?>" target="_blank"> End semester  begins from 22.11.21</a></strong>
 <strong><span>&#9733;</span> <a href="<?php echo base_url('#') ?>" target="_blank"> 10.11.21 is the last date for remitting examination fee without fine.</a></strong>
