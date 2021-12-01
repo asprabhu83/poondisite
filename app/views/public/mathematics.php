@@ -28,6 +28,46 @@ init_public_head();
 					<!-- <p class="text-center">(Include Programme outcomes and Programmes Specific outcomes as below)</p> -->
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
+					
+					<!--start Vision & Mission -->
+					<section class="">
+							<div class="">
+								<div class="">
+									<div class="cell-sm-10 cell-md-11 cell-lg-9 cell-xl-6 offset-top-30">
+										<div>
+											<h4 class="text-bold center">VISION & MISSION</h4>
+											<div class="offset-top-30">
+												
+													<div data-group="tabs-group-default" class="resp-tabs-container tabs-group-default">
+														<div> 
+															<h5 class="inset-left-10"><strong>The Vision of Mathematics department are:</strong></h5><br />
+															<ul class="inset-left-30 list list-marked">
+																<li> To promote a comprehensive, innovative and dynamic learning mathematical environment that meets the changing needs of student population.</li> <br />
+																<li> To be globally recognized as a centre of excellence for teaching and research in Mathematics.</li> <br />
+															</ul>
+
+														</div>
+														<div>
+															<h5 class="inset-left-10"><strong>The Mission of Mathematics department are:</strong></h5><br />
+															<ul class="inset-left-30 list list-marked">
+																<li> To encourage follow up of latest scientific research and techniques in the field.</li> <br />
+																<li> To encourage Scientific Collaboration with other related areas like Statistics, Operations Research, Physics and so on.</il> <br />
+																<li> To provide professional cadres in the field of Mathematics to support  national development programs with public and higher education institutes.</li><br />																
+															</ul>
+
+														</div>
+														
+													</div>
+												<!-- </div> -->
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</section>
+						<!-- end Vision & Mission-->
+					
+					
 					<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
