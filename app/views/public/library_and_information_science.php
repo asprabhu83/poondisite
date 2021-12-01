@@ -27,7 +27,7 @@ init_public_head();
 					<h2 class="text-bold text-center">Library and Information Science</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
-				<!--		<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
+						<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>
@@ -38,15 +38,15 @@ init_public_head();
 								</tr>
 								<tr>
 									<td style="text-align: center;">MLIS</td>
-									<td style="text-align: center;">1988 - 1989</td>
+									<td style="text-align: center;">1988</td>
 								</tr>
 								<tr>
 									<td style="text-align: center;">Ph.D</td>
-									<td style="text-align: center;">2003 -2004</td>
+									<td style="text-align: center;">2003</td>
 								</tr>
 							</tbody>
 						</table>
-						<div class="handing-divider">
+					<!--	<div class="handing-divider">
                             <div class="cell-sm-10 cell-md-11 cell-lg-9 cell-xl-6 offset-top-30">
                                 <div>
                                     <h4 class="text-bold center">SYLLABUS</h4>
@@ -73,7 +73,7 @@ init_public_head();
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/Library/1.%20Dr.%20J.%20Selvam.pdf') ?>" target="_blank" rel="noopener">Dr. J.SELVAM</a></th>
-									<td style="text-align: center;">Librarian &amp; Co ordinator</td>
+									<td style="text-align: center;">Librarian &amp; Coordinator</td>
 								</tr>
 								<tr>
 									<th colspan="3">Self Finance Faculty</th>

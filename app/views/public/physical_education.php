@@ -28,7 +28,7 @@ pt.php
 					<h2 class="text-bold text-center">Physical Education</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
-			<!--			<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
+						<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>
@@ -38,16 +38,16 @@ pt.php
 									<th>Year of Affiliation</th>
 								</tr>
 								<tr>
-									<td>B.Sc Physical Education</td>
-									<td>1988 - 89</td>
+									<td>B.Sc Phy.Edu, Health Edu. & Sports</td>
+									<td>1988</td>
 								</tr>
 								<tr>
-									<td>Ph. D. Physical Education</td>
+									<td>Ph.D. Physical Education</td>
 									<td>2003</td>
 								</tr>
 							</tbody>
 						</table>
-						<section class="">
+					<!--	<section class="">
 							<div class="">
 								<div class="">
 								
@@ -80,11 +80,11 @@ pt.php
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 						<h4 align="" class="text-bold offset-top-30" id="q-2">RESEARCH ACTIVITIES</h4>
 						<br />
 						<h6 align="">Under Process</h6>
--->
+
 						<h4 align="" class="text-bold offset-top-30" id="q-3">FACULTY MEMBERS</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">

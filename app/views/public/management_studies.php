@@ -5,12 +5,12 @@ init_public_head();
 <div class="section-height-800 breadcrumb-geography context-dark text-center">
     <div class="shell section-bottom-30">
         <div class="veil reveal-md-block">
-            <h1 class="text-bold">Business Administration</h1>
+            <h1 class="text-bold">Management Studies</h1>
         </div>
         <ul class="list-inline list-inline-with-arrows p">
             <ul class="list-inline list-inline-with-arrows p">
                 <li><a href="<?php echo base_url() ?>" class="text-white">Home </a></li>
-                <li>Business Administration</li>
+                <li>Management Studies</li>
             </ul>
         </ul>
     </div>
@@ -24,7 +24,7 @@ init_public_head();
 
                 </div>
                 <div class="cell-xs-8 cell-lg-8">
-                    <h2 class="text-bold text-center">DEPARTMENT OF BUSINESS ADMINISTRATION</h2>
+                    <h2 class="text-bold text-center">DEPARTMENT OF MANAGEMENT STUDIES</h2>
                     <div class="offset-top-20"></div>
                     <div class="offset-top-20">
                         <h4 align="" class="text-bold offset-top-30" id="q-2">PROGRAMMES</h4>
@@ -37,9 +37,9 @@ init_public_head();
                                     <th style="text-align: center;">Year of affiliation</th>
                                 </tr>
                                 <tr>
-                                    <td style="text-align: center;">B.B.A</td>
-                                    <td style="text-align: center;">Business Administration</td>
-                                    <td style="text-align: center;">2004 </td>
+                                    <td style="text-align: center;">M.B.A</td>
+                                    <td style="text-align: center;">Management Studies</td>
+                                    <td style="text-align: center;">2000 </td>
                                     <!-- <td style="text-align: center;">2004 &ndash; 2005</td> -->
                                 </tr>
                             </tbody>
@@ -148,23 +148,23 @@ init_public_head();
                                     <th colspan="3">Self Finance Faculty</th>
                                 </tr>
                                 <tr>
-                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Prof. A. Rajalakshmi </a></th>
-                                    <td style="text-align: center;">Assistant Professor </td>
+                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Dr.Jegan Pavul </a></th>
+                                    <td style="text-align: center;">Director </td>
                                 </tr>
                                 <tr>
-                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">rof. S. Muthuramachandran</a></th>
+                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Dr.P.Dhanalakshmi</a></th>
                                     <td style="text-align: center;">Assistant Professor</td>
                                 </tr>
                                 <tr>
-                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Prof. R. Nishanthi </a></th>
+                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Dr.N.Alagusundaram </a></th>
                                     <td style="text-align: center;">Assistant Professor</td>
                                 </tr>
                                 <tr>
-                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Prof. V. Nithiya</a></th>
+                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Dr.D.Suresh</a></th>
                                     <td style="text-align: center;">Assistant Professor</td>
                                 </tr>
                                 <tr>
-                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Prof. S. Umaranjani</a></th>
+                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Dr.B.Mala</a></th>
                                     <td style="text-align: center;">Assistant Professor</td>
                                 </tr>
                             </tbody>

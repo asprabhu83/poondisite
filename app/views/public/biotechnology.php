@@ -5,12 +5,12 @@ init_public_head();
 <div class="section-height-800 breadcrumb-zoology context-dark text-center">
 	<div class="shell section-bottom-30">
 		<div class="veil reveal-md-block">
-			<h1 class="text-bold">PG &amp; RESEARCH DEPARTMENT OF ZOOLOGY & BIOTECHNOLOGY</h1>
+			<h1 class="text-bold">PG &amp; RESEARCH DEPARTMENT OF BIOTECHNOLOGY</h1>
 		</div>
 		<ul class="list-inline list-inline-with-arrows p">
 			<ul class="list-inline list-inline-with-arrows p">
 				<li><a href="<?php echo base_url() ?>" class="text-white">Home </a></li>
-				<li>Zoology & Biotechnology</li>
+				<li>Biotechnology</li>
 			</ul>
 		</ul>
 	</div>
@@ -25,38 +25,38 @@ init_public_head();
 
 				</div>
 				<div class="cell-xs-8 cell-lg-8">
-					<h2 class="text-bold text-center">Zoology & Biotechnology</h2>
+					<h2 class="text-bold text-center">Biotechnology</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
-				<!--		<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
+						<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>
 							<tbody>
-								<tr>
+								 <tr>
 									<th style="text-align: center;">Programmes</th>
 									<th style="text-align: center;">Year of Affiliation</th>
 								</tr>
-								<tr>
+								<!--<tr>
 									<td>B.Sc. Zoology</td>
 									<td>1961 - 62</td>
 								</tr>
 								<tr>
 									<td>M.Sc. Zoology</td>
 									<td>1979 - 80</td>
-								</tr>
+								</tr>-->
 								<tr>
 									<td>M.Sc. Biotechnology</td>
-									<td>2005 - 06</td>
+									<td>2005</td>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<td>M.Phil.</td>
 									<td>1983</td>
 								</tr>
 								<tr>
 									<td>Ph.D.</td>
 									<td>1987 - 88</td>
-								</tr>
+								</tr> -->
 							</tbody>
 						</table>
 
@@ -276,15 +276,15 @@ init_public_head();
 								<!-- <tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.P.Natarajan.pdf') ?>" target="_blank" rel="noopener">Dr. P. Natarajan</a></th>
 									<td style="text-align: center;">Associate Professor &amp; Coordinator</td>
-								</tr> -->
+								</tr> 
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/DR.R.Rajakumar.pdf') ?>" target="_blank" rel="noopener">Dr. R. Rajkumar</a></th>
 									<td style="text-align: center;">Associate Professor &amp; Coordinator</td>
 								</tr>
-								<!-- <tr>
+								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.Asokan.pdf') ?>" target="_blank" rel="noopener">Dr.K.ASKOAN</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
-								</tr> -->
+								</tr> 
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.R.Pragashraj.pdf') ?>" target="_blank" rel="noopener">Dr. R. Prakashraj</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
@@ -301,10 +301,10 @@ init_public_head();
 									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.K.Jayaseelan.pdf') ?>" target="_blank" rel="noopener">Dr.K. Jayaseelan</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
-								<!-- <tr>
+								<tr>
 									<th><a href=<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.K.Jayaseelan.pdf') ?>" target="_blank" rel="noopener">Dr.K. Jayaseelan.</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
-								</tr> -->
+								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.B.%20Kaleeswaran.pdf') ?>" target="_blank" rel="noopener">Dr. B.Kaleeswaran</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
@@ -371,7 +371,20 @@ init_public_head();
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/S.Meenakshi.pdf') ?>" target="_blank" rel="noopener">Miss.S.MEENAKSHI</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
+								</tr>-->
+								<tr>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/Prof.S.V.Bakiyalakshmi.pdf') ?>" target="_blank" rel="noopener">Mrs.S.V.Bakiyalakshmi</a></th>
+									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
+								<tr>
+									<th><a href="#" target="_blank" rel="noopener">Dr.S.Suguna</a></th>
+									<td style="text-align: center;">Assistant Professor</td>
+								</tr>
+								<tr>
+									<th><a href="#" target="_blank" rel="noopener">Prof. G. Shakila</a></th>
+									<td style="text-align: center;">Assistant Professor</td>
+								</tr>
+								
 							</tbody>
 						</table>
 					</div>

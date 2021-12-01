@@ -27,7 +27,7 @@ init_public_head();
 					<h2 class="text-bold text-center">DEPARTMENT OF GEOGRAPHY</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20">
-				<!--		<h4 align="" class="text-bold offset-top-30" id="q-2">PROGRAMMES</h4>
+					<h4 align="" class="text-bold offset-top-30" id="q-2">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody>
@@ -39,7 +39,7 @@ init_public_head();
 								<tr>
 									<td style="text-align: center;">B.Sc.</td>
 									<td style="text-align: center;">Geography</td>
-									<td style="text-align: center;">2013 &ndash; 2014</td>
+									<td style="text-align: center;">2013</td>
 								</tr>
 							</tbody>
 						</table>

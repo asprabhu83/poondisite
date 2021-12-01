@@ -27,7 +27,7 @@ init_public_head();
 					<h2 class="text-bold text-center">PG &amp; RESEARCH DEPARTMENT OF BOTANY</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
-					<!--	<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
+					<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>
@@ -38,15 +38,15 @@ init_public_head();
 								</tr>
 								<tr>
 									<td>B.Sc. Botany</td>
-									<td>1969 - 70</td>
+									<td>1969</td>
 								</tr>
 								<tr>
 									<td>M.Sc. Botany</td>
-									<td>1980 - 81</td>
+									<td>1980</td>
 								</tr>
 								<tr>
 									<td>M.Phil. Botany</td>
-									<td>1985 - 86</td>
+									<td>1985</td>
 								</tr>
 								<tr>
 									<td>Ph.D. Botany</td>
@@ -73,7 +73,7 @@ init_public_head();
 										<div>
 											<h4 class="text-bold center">PROGRAMME SPECIFIC OUTCOMES</h4>
 											<div class="offset-top-20">
-												<!-- Classic Accordion-->
+												Classic Accordion-->
 													<!--<div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
 													<ul class="resp-tabs-list tabs-group-default" data-group="tabs-group-default">
 														<li>Undergraduate</li>
@@ -105,7 +105,7 @@ init_public_head();
 															</ul>
 															<br>
 
-															<!-- <h5 class="inset-left-10"><strong> Programme Specific Outcomes for M.Sc.Microbiology</strong></h5><br>
+															<h5 class="inset-left-10"><strong> Programme Specific Outcomes for M.Sc.Microbiology</strong></h5><br>
 															<ul class="inset-left-30 list list-marked">
 																<li> provides learning opportunities in basic principles of microbiology and infectious diseases, helpful to understand the lab animals in medical fields</li><br>
 																<li>become an entrepreneur in the field of medical lab technology, microbiologists in the govt. and private medical colleges, district headquarters. </li><br>
@@ -123,7 +123,7 @@ init_public_head();
 																<li>The present curriculum will not only advance their knowledge and understanding of the subject, but will also increase the ability of critical thinking, development of scientific attitude, handling of problems and generating solution, improve practical skills, enhance communication skill, social interaction, increase awareness in environment related issues and recognize the ethical value system.  </li><br>
 															</ul>
 															<br>
-															<!-- <h5 class="inset-left-10"><strong> Programme Specific Outcomes for M.Phil.Microbiology</strong></h5><br>
+															<h5 class="inset-left-10"><strong> Programme Specific Outcomes for M.Phil.Microbiology</strong></h5><br>
 															<ul class="inset-left-30 list list-marked">
 																<li> get employment opportunities in state and central govt. organizations like Indian Institute of Crop Processing Technology (Thanjavur), Central Food Technology Research Institute(Mysuru), National Research Centre for Banana(Trichy), Vector Control Board(Puducherry& Madurai), Tamil Nadu Pollution Control Board, lab technicians in medical colleges.</li><br>
 																<li>become Microbiologists and have an avenue to become entrepreneur in the area of agricultural, medical, food and environmental microbiology. </li><br>
@@ -152,7 +152,7 @@ init_public_head();
 
                             </div>
 
-                        </div>
+                        </div>-->
 						<h4 align="" class="text-bold offset-top-30" id="q-2">RESEARCH ACTIVITIES</h4>
 						<br />
 						<div style="overflow-x: auto;">

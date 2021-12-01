@@ -338,6 +338,7 @@ function department_quicklinks()
                         <li><a href="' . base_url("business_administration") . '" class="text-matrix"><strong>Business Administration </strong></a></li>
                         <li><a href="' . base_url("geography") . '" class="text-matrix"><strong>Geography </strong></a></li>
                         <li><a href="' . base_url("statistics") . '" class="text-matrix"><strong>Statistics </strong></a></li>
+                        <li><a href="' . base_url("hindi") . '" class="text-matrix"><strong>Hindi</strong></a></li>
                     </ul>
                 </ul>
             </ul>

@@ -5,12 +5,12 @@ init_public_head();
 <div class="section-height-800 breadcrumb-zoology context-dark text-center">
 	<div class="shell section-bottom-30">
 		<div class="veil reveal-md-block">
-			<h1 class="text-bold">PG &amp; RESEARCH DEPARTMENT OF ZOOLOGY & BIOTECHNOLOGY</h1>
+			<h1 class="text-bold">PG &amp; RESEARCH DEPARTMENT OF ZOOLOGY</h1>
 		</div>
 		<ul class="list-inline list-inline-with-arrows p">
 			<ul class="list-inline list-inline-with-arrows p">
 				<li><a href="<?php echo base_url() ?>" class="text-white">Home </a></li>
-				<li>Zoology & Biotechnology</li>
+				<li>Zoology</li>
 			</ul>
 		</ul>
 	</div>
@@ -25,10 +25,10 @@ init_public_head();
 
 				</div>
 				<div class="cell-xs-8 cell-lg-8">
-					<h2 class="text-bold text-center">Zoology & Biotechnology</h2>
+					<h2 class="text-bold text-center">Zoology</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
-				<!--		<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
+						<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>
@@ -39,23 +39,23 @@ init_public_head();
 								</tr>
 								<tr>
 									<td>B.Sc. Zoology</td>
-									<td>1961 - 62</td>
+									<td>1961</td>
 								</tr>
 								<tr>
 									<td>M.Sc. Zoology</td>
-									<td>1979 - 80</td>
+									<td>1979</td>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<td>M.Sc. Biotechnology</td>
-									<td>2005 - 06</td>
-								</tr>
+									<td>2005</td>
+								</tr> -->
 								<tr>
 									<td>M.Phil.</td>
 									<td>1983</td>
 								</tr>
 								<tr>
 									<td>Ph.D.</td>
-									<td>1987 - 88</td>
+									<td>1987</td>
 								</tr>
 							</tbody>
 						</table>
@@ -68,7 +68,7 @@ init_public_head();
 										<div>
 											<h4 class="text-bold center">PROGRAMME OUTCOMES</h4>
 											<div class="offset-top-20">
-												<!-- Classic Accordion-->
+												Classic Accordion-->
 								<!--				<div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
 													<ul class="resp-tabs-list tabs-group-default" data-group="tabs-group-default">
 														<li>Undergraduate</li>
@@ -136,7 +136,7 @@ init_public_head();
 										<div>
 											<h4 class="text-bold center">PROGRAMME SPECIFIC OUTCOMES</h4>
 											<div class="offset-top-20">
-												<!-- Classic Accordion-->
+												Classic Accordion-->
 										<!--		<div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
 													<ul class="resp-tabs-list tabs-group-default" data-group="tabs-group-default">
 														<li>Undergraduate</li>
@@ -212,7 +212,7 @@ init_public_head();
 									</div>
 								</div>
 							</div>
-						</div>
+						</div>-->
 						<div style="overflow-x: auto;">
 							<h4 align="" class="text-bold offset-top-30" id="q-2">RESEARCH ACTIVITIES</h4>
 							<br />
@@ -261,7 +261,7 @@ init_public_head();
 									</tr>
 								</tbody>
 							</table>
-						</div> -->
+						</div> 
 
 
 						<h4 align="" class="text-bold offset-top-30" id="q-3">FACULTY MEMBERS</h4>
@@ -344,18 +344,18 @@ init_public_head();
 									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/Dr.P.Prabhu.pdf') ?>" target="_blank" rel="noopener">Prof.PRABHU</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/Prof.S.V.Bakiyalakshmi.pdf') ?>" target="_blank" rel="noopener">Mrs.S.V.BAKIYA LAKSHMI</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
-								</tr>
+								</tr> -->
 								<tr>
 									<th><a href="#" target="_blank" rel="noopener">Prof. T. ANBALAGAN</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<th><a href="#" target="_blank" rel="noopener">Prof. G. SHAKILA</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
-								</tr>
+								</tr> -->
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/S.Sangeetha.pdf') ?>" target="_blank" rel="noopener">Prof.K.S.SANGEETHA</a></th>
 									<td style="text-align: center;">Assistant Professor</td>

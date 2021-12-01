@@ -26,7 +26,7 @@ init_public_head();
 					<h2 class="text-bold text-center">Computer Applications</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
-				<!--		<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
+						<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>
@@ -35,37 +35,37 @@ init_public_head();
 									<th>Programmes</th>
 									<th>Year of Affiliation</th>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<td>B.Sc. Computer Science</td>
 									<td>1984 - 85</td>
-								</tr>
+								</tr> -->
 								<tr>
 									<td>B.C.A.</td>
-									<td>2008 - 09</td>
+									<td>2008</td>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<td>M.Sc. Computer Science</td>
 									<td>1987 - 88</td>
-								</tr>
-								<tr>
+								</tr> -->
+								<!-- <tr>
 									<td>M.Sc. Information Technology</td>
 									<td>2001 - 02</td>
-								</tr>
+								</tr> -->
 								<tr>
 									<td>M.C.A.</td>
-									<td>1993 - 94</td>
+									<td>1993</td>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<td>M.Phil.</td>
 									<td>2002 - 03</td>
-								</tr>
-								<tr>
+								</tr> -->
+								 <!-- <tr>
 									<td>Ph.D.</td>
 									<td>2010 - 11</td>
-								</tr>
+								</tr> -->
 							</tbody>
 						</table>
-						<section class="">
+						<!--<section class="">
 							<div class="">
 								<div class="">
 									<div class="cell-sm-10 cell-md-11 cell-lg-9 cell-xl-6 offset-top-30">
@@ -254,14 +254,14 @@ init_public_head();
                                 <div>
                                     <h4 class="text-bold center">SYLLABUS</h4>
                                     <div class="offset-top-20">
-                                        <ul class="inset-left-30 list list-marked">
-                                        -->
-											<!-- <li> <?php syllabus_link('B.Sc.Computer Science ', 'Computer Science/bsccs') ?></li> --> -->
+                                        <ul class="inset-left-30 list list-marked">-->
+                                        
+											<!-- <li> <?php syllabus_link('B.Sc.Computer Science ', 'Computer Science/bsccs') ?></li> --> 
 											<!-- <li> <?php syllabus_link('M.Sc.Computer Science ', 'Computer Science/msccs') ?></li> -->
 											<!-- <li> <?php syllabus_link('M.Sc.IT', 'Computer Science/mscit') ?></li> -->
-                                            <li> <?php syllabus_link('BCA', 'Computer Applications/BCA') ?></li>
-											<li> <?php syllabus_link('MCA', 'Computer Applications/MCA') ?></li>
-                                        </ul>
+                                            <!-- <li> <?php syllabus_link('BCA', 'Computer Applications/BCA') ?></li>
+											<li> <?php syllabus_link('MCA', 'Computer Applications/MCA') ?></li> -->
+                                        <!-- </ul>
                                     </div>
                                 </div>
                             </div>
@@ -309,7 +309,8 @@ init_public_head();
 									</tr>
 								</tbody>
 							</table>
-						</div> -->
+						</div>  -->
+						
 						<h4 align="" class="text-bold offset-top-30" id="q-3">FACULTY MEMBERS</h4>
 						<br />
 						<div style="overflow-x: auto;">
@@ -320,17 +321,17 @@ init_public_head();
 										<th style="text-align: center;">Name of the Faculty Member</th>
 										<th style="text-align: center;">Designation</th>
 									</tr>
-									<tr>
+									<!-- <tr>
 										<th colspan="2">Aided Faculty</th>
 									</tr>
 									<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/1.%20Dr.%20V.%20Maniraj.pdf') ?>" target="_blank" rel="noopener">Dr.V.ManiRaj</a></th>
 										<td style="text-align: center;">Associate Professor  &amp; Coordinator</td>
 									</tr>
-									<!-- <tr>
+									<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/2.Dr.R.Sivakumar.pdf') ?>" target="_blank" rel="noopener">Dr.R.Sivakumar </a></th>
 										<td style="text-align: center;">Associate Professor &amp; Principal</td>
-									</tr> -->
+									</tr> 
 									<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/3.Dr.S.Kumaravel.pdf') ?>" target="_blank" rel="noopener">Dr.S. Kumaravel</a></th>
 										<td style="text-align: center;">Associate Professor &amp; Dean of Science</td>
@@ -354,7 +355,7 @@ init_public_head();
 									<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/8.Dr.K.Swaminathan.pdf') ?>" target="_blank" rel="noopener">Dr.K.Swaminathan</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
-									</tr>
+									</tr> -->
 									<tr>
 										<th colspan="3">Self &ndash; Finance Faculty</th>
 									</tr>
@@ -366,7 +367,20 @@ init_public_head();
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/2.%20D.Ragupathi.pdf') ?>" target="_blank" rel="noopener">Dr.D.Ragupathi</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
+
 									<tr>
+										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/24.G.HEMAMALINI.pdf') ?>" target="_blank" rel="noopener">Prof.G.Hemamalini</a></th>
+										<td style="text-align: center;">Assistant Professor</td>
+									</tr>
+									<tr>
+										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/8.%20V.Ramanathan.pdf') ?>" target="_blank" rel="noopener">Prof.V.Ramanathan</a></th>
+										<td style="text-align: center;">Assistant Professor</td>
+									</tr>
+									<tr>
+										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/15.C.VEERAPRAKASHKUMAR.pdf') ?>" target="_blank" rel="noopener">Prof.C.Veeraprakashkumar</a></th>
+										<td style="text-align: center;">Assistant Professor</td>
+									</tr>
+									<!-- <tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/3.%20M.Rajeswari.pdf') ?>" target="_blank" rel="noopener">Prof.M.Rajeswari</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
@@ -386,10 +400,7 @@ init_public_head();
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/7.%20S.BHUVANA.pdf') ?>" target="_blank" rel="noopener">Prof.S.Bhuvana</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
-									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/8.%20V.Ramanathan.pdf') ?>" target="_blank" rel="noopener">Prof.V.Ramanathan</a></th>
-										<td style="text-align: center;">Assistant Professor</td>
-									</tr>
+									
 									<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/9.%20V.ManikandaBalaji.pdf') ?>" target="_blank" rel="noopener">Prof.V.ManikandaBalaji</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
@@ -422,10 +433,7 @@ init_public_head();
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/17.S.RAJKUMAR.pdf') ?>" target="_blank" rel="noopener">Prof.S.Rajkumar</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
-									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/15.C.VEERAPRAKASHKUMAR.pdf') ?>" target="_blank" rel="noopener">Prof.C.Veeraprakashkumar</a></th>
-										<td style="text-align: center;">Assistant Professor</td>
-									</tr>
+								
 									<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/18.S.INDRAGANDHI.pdf') ?>" target="_blank" rel="noopener">Prof.S.IndraGandhi</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
@@ -438,22 +446,7 @@ init_public_head();
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/20.G.Indumathi.pdf') ?>" target="_blank" rel="noopener">Prof.G.Indhumathi</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
-									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/15.C.VEERAPRAKASHKUMAR.pdf') ?>" target="_blank" rel="noopener">Prof.M.Sivasankari</a></th>
-										<td style="text-align: center;">Assistant Professor</td>
-									</tr>
-									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/15.C.VEERAPRAKASHKUMAR.pdf') ?>" target="_blank" rel="noopener">Prof.P.Sivaranjani</a></th>
-										<td style="text-align: center;">Assistant Professor</td>
-									</tr>
-									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/15.C.VEERAPRAKASHKUMAR.pdf') ?>" target="_blank" rel="noopener">Prof.L.Geetha</a></th>
-										<td style="text-align: center;">Assistant Professor</td>
-									</tr>
-									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/24.G.HEMAMALINI.pdf') ?>" target="_blank" rel="noopener">Prof.G.Hemamalini</a></th>
-										<td style="text-align: center;">Assistant Professor</td>
-									</tr>
+																	
 									<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/25..ARULMOZHITHEVAN. P.pdf') ?>" target="_blank" rel="noopener">Prof.P.Arulmozhithevan</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
@@ -513,7 +506,7 @@ init_public_head();
 									<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/15.C.VEERAPRAKASHKUMAR.pdf') ?>" target="_blank" rel="noopener">Prof.P.Sharmila devi</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
-									</tr>
+									</tr> -->
 								</tbody>
 							</table>
 						</div>

@@ -234,7 +234,13 @@ class Website extends App_Controller
         $this->data['menu_syllabus_2017'] = "active";
         $this->load->view('public/syllabus_2017', $this->data);
     }
+    public function syllabus_2014_2017()
+    {
 
+        $this->data['title'] = "Syllabus 2014-2017";
+        $this->data['menu_syllabus_2014_2017'] = "active";
+        $this->load->view('public/syllabus_2014_2017', $this->data);
+    }
     public function committee_of_management()
     {
 
@@ -622,6 +628,13 @@ class Website extends App_Controller
         $this->data['menu_Business_Administration'] = "active";
         $this->load->view('public/business_administration', $this->data);
     }
+    public function management_studies()
+    {
+
+        $this->data['title'] = "Management Studies";
+        $this->data['menu_management_studies'] = "active";
+        $this->load->view('public/management_studies', $this->data);
+    }
     public function computer_science()
     {
 
@@ -657,6 +670,7 @@ class Website extends App_Controller
         $this->data['menu_hindi'] = "active";
         $this->load->view('public/hindi', $this->data);
     }
+
     public function quarterly_financial_results()
     {
 

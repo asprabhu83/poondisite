@@ -135,14 +135,14 @@ init_public_head();
 
                             </div>
 
-                        </div>
+                        </div>-->
 						<h4 align="" class="text-bold offset-top-30" id="q-2">RESEARCH ACTIVITIES</h4>
 						<br />
 						<div style="overflow-x: auto;">
 							<table border="1px" height="100" style="width: 100%;" width="70">
 								<tbody></tbody>
 								<tbody>
-									<!-- <tr>
+									<tr>
 										<th style="width: 5%;">Sl.No.</th>
 										<th style="width: 20%;">Title of the Project</th>
 										<th style="width: 10%;">Funding Agency</th>
@@ -150,7 +150,7 @@ init_public_head();
 										<th style="width: 20%;">Year</th>
 										<th style="width: 10%;">Name of the Investigator</th>
 									</tr>
-									<tr>
+									<!--<tr>
 										<td style="width: 5%;">1.</td>
 										<td style="width: 20%;">Bio diversity and biotechnological potential of micro fungi associated with mangrove of Muthupet and Maravakkadu, Tamil Nadu</td>
 										<td style="width: 10%;">UGC-Major</td>
@@ -198,8 +198,8 @@ init_public_head();
 										<td style="width: 20%;">Completed 2013-2016</td>
 										<td style="width: 10%;">Dr. M. Ayyanar</td>
 									</tr> -->
-									<!--	<tr>
-										<td style="width: 5%;">7.</td>
+										<tr>
+										<td style="width: 5%;">1.</td>
 										<td style="width: 20%;">Studies on isolation characterization and effect of different strains of Azospirillum spp. on paddy from Thanjavur dist.</td>
 										<td style="width: 10%;">UGC - Minor</td>
 										<td style="width: 10%;">2,70.000</td>
@@ -207,7 +207,7 @@ init_public_head();
 										<td style="width: 10%;">Dr. K. Kanimozhi</td>
 									</tr>
 									<tr>
-										<td style="width: 5%;">8.</td>
+										<td style="width: 5%;">2.</td>
 										<td style="width: 20%;">Evaluation of Phosphate solubilising fungi from mangrove soil as bio fertilizer</td>
 										<td style="width: 10%;">UGC - Minor</td>
 										<td style="width: 10%;">4,20.000</td>
@@ -215,7 +215,7 @@ init_public_head();
 										<td style="width: 10%;">Dr.G. Kanimozhi</td>
 									</tr>
 									<tr>
-										<td style="width: 5%;">9.</td>
+										<td style="width: 5%;">3.</td>
 										<td style="width: 20%;">Utilization of Agro waste for cultivation and biotechnological application of Volvariella sp</td>
 										<td style="width: 10%;">UGC - Minor</td>
 										<td style="width: 10%;">4,60.000</td>
@@ -230,9 +230,9 @@ init_public_head();
 										<td style="width: 20%;">Ongoing 2018-2021</td>
 										<td style="width: 10%;">Dr. M. Ayyanar</td>
 									</tr> -->
-								<!--	</tbody>
+									</tbody>
 							</table>
-						</div> -->
+						</div> 
 						<h4 align="" class="text-bold offset-top-30" id="q-3">FACULTY MEMBERS</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">

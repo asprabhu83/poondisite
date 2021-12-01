@@ -357,14 +357,14 @@ init_public_head();
 									<tr>
 										<th colspan="3">Self &ndash; Finance Faculty</th>
 									</tr>
-									<tr>
+									<!-- <tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/1.K.%20Sudhakar.pdf') ?>" target="_blank" rel="noopener">Dr.K.Sudhakar</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
 									<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/2.%20D.Ragupathi.pdf') ?>" target="_blank" rel="noopener">Dr.D.Ragupathi</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
-									</tr>
+									</tr> -->
 									<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/3.%20M.Rajeswari.pdf') ?>" target="_blank" rel="noopener">Prof.M.Rajeswari</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
@@ -385,10 +385,10 @@ init_public_head();
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/7.%20S.BHUVANA.pdf') ?>" target="_blank" rel="noopener">Prof.S.Bhuvana</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
-									<tr>
+									<!-- <tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/8.%20V.Ramanathan.pdf') ?>" target="_blank" rel="noopener">Prof.V.Ramanathan</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
-									</tr>
+									</tr> -->
 									<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/9.%20V.ManikandaBalaji.pdf') ?>" target="_blank" rel="noopener">Prof.V.ManikandaBalaji</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
@@ -421,38 +421,20 @@ init_public_head();
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/17.S.RAJKUMAR.pdf') ?>" target="_blank" rel="noopener">Prof.S.Rajkumar</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
-									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/15.C.VEERAPRAKASHKUMAR.pdf') ?>" target="_blank" rel="noopener">Prof.C.Veeraprakashkumar</a></th>
-										<td style="text-align: center;">Assistant Professor</td>
-									</tr>
+									
 									<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/18.S.INDRAGANDHI.pdf') ?>" target="_blank" rel="noopener">Prof.S.IndraGandhi</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
-									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/15.C.VEERAPRAKASHKUMAR.pdf') ?>" target="_blank" rel="noopener">Prof.R.Manimegalai</a></th>
-										<td style="text-align: center;">Assistant Professor</td>
-									</tr>
+									
 									<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/20.G.Indumathi.pdf') ?>" target="_blank" rel="noopener">Prof.G.Indhumathi</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
-									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/15.C.VEERAPRAKASHKUMAR.pdf') ?>" target="_blank" rel="noopener">Prof.M.Sivasankari</a></th>
-										<td style="text-align: center;">Assistant Professor</td>
-									</tr>
-									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/15.C.VEERAPRAKASHKUMAR.pdf') ?>" target="_blank" rel="noopener">Prof.P.Sivaranjani</a></th>
-										<td style="text-align: center;">Assistant Professor</td>
-									</tr>
-									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/15.C.VEERAPRAKASHKUMAR.pdf') ?>" target="_blank" rel="noopener">Prof.L.Geetha</a></th>
-										<td style="text-align: center;">Assistant Professor</td>
-									</tr>
-									<tr>
+									<!-- <tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/24.G.HEMAMALINI.pdf') ?>" target="_blank" rel="noopener">Prof.G.Hemamalini</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
-									</tr>
+									</tr> -->
 									<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/25..ARULMOZHITHEVAN. P.pdf') ?>" target="_blank" rel="noopener">Prof.P.Arulmozhithevan</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
@@ -465,10 +447,10 @@ init_public_head();
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/27.A.SHARMILA.pdf') ?>" target="_blank" rel="noopener">Prof.A.Sharmila</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
-									<tr>
+									<!-- <tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/15.C.VEERAPRAKASHKUMAR.pdf') ?>" target="_blank" rel="noopener">Prof.M.Menaka</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
-									</tr>
+									</tr> -->
 									<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/29.K.KAVITHA.pdf') ?>" target="_blank" rel="noopener">Prof.K.Kavitha</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
@@ -497,22 +479,12 @@ init_public_head();
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/35.VIDHYA V.pdf') ?>" target="_blank" rel="noopener">Prof.V.Vidhya</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
-									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/15.C.VEERAPRAKASHKUMAR.pdf') ?>" target="_blank" rel="noopener">prof.S.Narmatha</a></th>
-										<td style="text-align: center;">Assistant Professor</td>
-									</tr>
-									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/15.C.VEERAPRAKASHKUMAR.pdf') ?>" target="_blank" rel="noopener">Prof R.Suganya</a></th>
-										<td style="text-align: center;">Assistant Professor</td>
-									</tr>
+									
 									<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/38.R.KANIMOZHI.pdf') ?>" target="_blank" rel="noopener">prof R.Kanimozhi</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
-									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/15.C.VEERAPRAKASHKUMAR.pdf') ?>" target="_blank" rel="noopener">Prof.P.Sharmila devi</a></th>
-										<td style="text-align: center;">Assistant Professor</td>
-									</tr>
+									
 								</tbody>
 							</table>
 						</div>
