@@ -180,6 +180,12 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/E_Contents/e_contents.pdf') ?>"><span>E_Content</span></a>
                                                     </li>
+                                                    <li class="active "><a href="<?php echo base_url('public/pdf/Fees_Structure_2020_2021.pdf') ?>"><span>Fees Structure</span></a>
+                                                    </li>
+                                                    <li class="active "><a href="<?php echo base_url('public/pdf/GO_D_184_dated_05_08_2021.pdf') ?>"><span>Admission Procedure</span></a>
+                                                    </li>
+                                                    <li class="active "><a href="<?php echo base_url('public/pdf/GO_D_184_dated_05_08_2021.pdf') ?>"><span>Academic Calender</span></a>
+                                                    </li>
                                                    
                                                     <!-- <li class="active"><a href="#"><span>Programme</span></a>
                                                     <ul class="rd-navbar-dropdown">
