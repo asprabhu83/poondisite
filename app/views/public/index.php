@@ -5,6 +5,7 @@ init_public_head();
 <div class="container-fluid marqueewrap">
 	<div class="alert alert-primary alert-dismissible" role="alert">
 		<marquee>
+		<strong><span>&#9733;</span> <a href="<?php echo base_url('#') ?>" target="_blank"> Last date for the Remitatance of Odd Semester Examination fee without fine 09.12.2021  and with Fine Rs.100 /- 14.12.2021.</a><span>&#9733;</span></strong>
 		<!-- <strong><span>&#9733;</span><a href="<?php echo base_url('#') ?>" target="_blank">SSR Submitted on 20.10.2021 </strong></a><span>&#9733;</span> 	
 		<strong><a href="<?php echo base_url('#') ?>" target="_blank">NAAC Initiated SSS  - Respond immediately</strong></a><span>&#9733;</span> 	
 		<strong><a href="<?php echo base_url('assets/images/16th_graduation_day.jpeg') ?>" target="_blank">16 <sup>th</sup> GRADUATION DAY (GIRLS) ON 30.10.2021 </strong></a><span>&#9733;</span> 
@@ -12,7 +13,7 @@ init_public_head();
 			<strong><a href="<?php echo base_url('assets/images/graduation_programme.jpeg') ?>" target="_blank">PROGRAMME </strong></a><span>&#9733;</span>  -->
 <!-- <strong><span>&#9733;</span> <a href="<?php echo base_url('#') ?>" target="_blank"> Semester exam commences on 6.12.21 and ends on 31.12.21</a></strong>
 <strong><span>&#9733;</span> <a href="<?php echo base_url('#') ?>" target="_blank"> End semester  begins from 22.11.21</a></strong>
-<strong><span>&#9733;</span> <a href="<?php echo base_url('#') ?>" target="_blank"> 10.11.21 is the last date for remitting examination fee without fine.</a></strong>
+<strong><span>&#9733;</span> <a href="<?php echo base_url('#') ?>" target="_blank"> 09.12.21 is the last date for remitting examination fee without fine.</a></strong>
 <strong><span>&#9733;</span> <a href="<?php echo base_url('#') ?>" target="_blank"> 16.11.21 is the last date for remitting examination fee with fine.</a><span>&#9733;</span></strong> -->
 
 <!-- <strong>35th Academic Council Meeting on 18.09.2021 at 10.30 a.m.</strong><span>&#9733;</span> -->
