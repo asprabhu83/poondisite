@@ -72,6 +72,8 @@ init_public_head();
                     <tr>
                         <td>Commerce</td>
                         <td><?php syllabus_link('syllabus_2014_updated/UG_SYLLABUS/bcom_syllabus') ?></td>
+						<td><?php syllabus_link('syllabus_2014_updated/PG_SYLLABUS/mcom_syllabus') ?></td>
+                        <td><?php syllabus_link('syllabus_2017_updated/UG_SYLLABUS/bcom_syllabus') ?></td>
 						<td><?php syllabus_link('syllabus_2017_updated/PG_SYLLABUS/mcom_syllabus') ?></td>
                     </tr>
                     <tr>
