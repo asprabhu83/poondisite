@@ -78,15 +78,17 @@ init_public_head();
                     </tr>
                     <tr>
                         <td>B. Com. C.A.</td>
-                        <td><?php syllabus_link('syllabus_2014_updated/UG_SYLLABUS/bcom_computerapplication_syllabus') ?></td>
+                        <!-- <td><?php syllabus_link('syllabus_2014_updated/UG_SYLLABUS/bcom_computerapplication_syllabus') ?></td> -->
 						<td class="pdf_items">-</td>
+                        <td class="pdf_items">-</td>
                         <td><?php syllabus_link('syllabus_2017_updated/UG_SYLLABUS/bcom_computerapplication_syllabus') ?></td>
 						<td class="pdf_items">-</td>
                     </tr>
                     <tr>
                         <td>B. Com. B. M.</td>
-                        <td><?php syllabus_link('syllabus_2014_updated/UG_SYLLABUS/bcom_bankmanagement_syllabus') ?></td>
+                        <!-- <td><?php syllabus_link('syllabus_2014_updated/UG_SYLLABUS/bcom_bankmanagement_syllabus') ?></td> -->
 						<td class="pdf_items">-</td>
+                        <td class="pdf_items">-</td>
                         <td><?php syllabus_link('syllabus_2017_updated/UG_SYLLABUS/bcom_bankmanagement_syllabus') ?></td>
 						<td class="pdf_items">-</td>
                     </tr>
