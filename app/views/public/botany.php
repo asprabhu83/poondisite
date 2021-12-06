@@ -27,6 +27,60 @@ init_public_head();
 					<h2 class="text-bold text-center">PG &amp; RESEARCH DEPARTMENT OF BOTANY</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
+					
+					
+						
+				<!--start Vision & Mission -->
+				<section class="">
+							<div class="">
+								<div class="">
+									<div class="cell-sm-10 cell-md-11 cell-lg-9 cell-xl-6 offset-top-30">
+										<div>
+											<h4 class="text-bold center">VISION & MISSION</h4>
+											<div class="offset-top-30">
+												
+													<div data-group="tabs-group-default" class="resp-tabs-container tabs-group-default">
+														<div> 
+															<!-- <h5 class="inset-left-10"><strong>Vision</strong></h5><br /> -->
+															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
+															<ul class="inset-left-30 list list-marked">
+															<li>The goal is to satisfy the need of the local community especially rural students and farmers</li> 
+
+															</ul>
+															<br>
+
+														</div>
+														<div>
+															<!-- <h5 class="inset-left-10"><strong>Mission</strong></h5><br /> -->
+															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
+															<ul class="inset-left-30 list list-marked">
+															<li>To Achieve this the department is offering various programmes from UG level to research level</li><br>
+															<li>The department is striving hard to achieve the status of center for excellence in the future</li><br>
+															<li>To prepare them to become responsible contribution citizens of society, who can take up leadership positions around the globe</li>
+
+
+
+															</ul>
+
+														</div>
+														
+													</div>
+												<!-- </div> -->
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</section>
+						<!-- end Vision & Mission-->
+					<br>
+					<br>
+					
+					
+					
+					
+					
+					
 					<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">

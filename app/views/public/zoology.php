@@ -28,7 +28,54 @@ init_public_head();
 					<h2 class="text-bold text-center">Zoology</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
-						<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
+						
+					
+						
+				<!--start Vision & Mission -->
+				<section class="">
+							<div class="">
+								<div class="">
+									<div class="cell-sm-10 cell-md-11 cell-lg-9 cell-xl-6 offset-top-30">
+										<div>
+											<h4 class="text-bold center">VISION & MISSION</h4>
+											<div class="offset-top-30">
+												
+													<div data-group="tabs-group-default" class="resp-tabs-container tabs-group-default">
+														<div> 
+															<!-- <h5 class="inset-left-10"><strong>The Vision of Mathematics department are:</strong></h5><br /> -->
+															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
+															<ul class="inset-left-30 list list-marked">
+															<li>Imparting value based education that makes good citizens with academic excellence and mighty commitment to the society</li>
+															</ul>
+															<br>
+
+														</div>
+														<div>
+															<!-- <h5 class="inset-left-10"><strong>The Mission of Mathematics department are:</strong></h5><br /> -->
+															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
+															<ul class="inset-left-30 list list-marked">
+															<li>To strive continuously to sustain a culture of quality of academic excellence and empowerment of students</li><br>
+															<li>To provide a rich intellectual environment for collaborative research and support socially relevant and need based research coupled with human values</li>
+
+															</ul>
+
+														</div>
+														
+													</div>
+												<!-- </div> -->
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</section>
+						<!-- end Vision & Mission-->
+					<br>
+					<br>
+					
+					
+					
+					<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>

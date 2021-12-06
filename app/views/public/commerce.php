@@ -30,6 +30,53 @@ init_public_head();
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
 
+						
+					<!--start Vision & Mission -->
+					<section class="">
+							<div class="">
+								<div class="">
+									<div class="cell-sm-10 cell-md-11 cell-lg-9 cell-xl-6 offset-top-30">
+										<div>
+											<h4 class="text-bold center">VISION & MISSION</h4>
+											<div class="offset-top-30">
+												
+													<div data-group="tabs-group-default" class="resp-tabs-container tabs-group-default">
+														<div> 
+															<!-- <h5 class="inset-left-10"><strong>The Vision of Mathematics department are:</strong></h5><br /> -->
+															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
+															<ul class="inset-left-30 list list-marked">
+															<li>To pursue excellence in education for a holistic growth and sustainable development of rural youth for employability</li>
+
+															</ul>
+															<br>
+
+														</div>
+														<div>
+															<!-- <h5 class="inset-left-10"><strong>The Mission of Mathematics department are:</strong></h5><br /> -->
+															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
+															<ul class="inset-left-30 list list-marked">
+															<li>Accelerating innovative teaching and learning practices through collaboration and research in all spheres of commerce and management to make young rural youth to face the worldwide challenges comprehensively</li>
+
+															</ul>
+
+														</div>
+														
+													</div>
+												<!-- </div> -->
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</section>
+						<!-- end Vision & Mission-->
+					<br>
+					<br>
+					
+					
+					
+					
+					
 					<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">

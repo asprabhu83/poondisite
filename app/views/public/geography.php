@@ -27,6 +27,55 @@ init_public_head();
 					<h2 class="text-bold text-center">DEPARTMENT OF GEOGRAPHY</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20">
+					
+					
+						
+				<!--start Vision & Mission -->
+				<section class="">
+							<div class="">
+								<div class="">
+									<div class="cell-sm-10 cell-md-11 cell-lg-9 cell-xl-6 offset-top-30">
+										<div>
+											<h4 class="text-bold center">VISION & MISSION</h4>
+											<div class="offset-top-30">
+												
+													<div data-group="tabs-group-default" class="resp-tabs-container tabs-group-default">
+														<div> 
+															<!-- <h5 class="inset-left-10"><strong>Vision</strong></h5><br /> -->
+															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
+															<ul class="inset-left-30 list list-marked"> Vision
+															<li>To educate the students excelling in earth science to save lives</li>
+															</ul>
+															<br>
+
+														</div>
+														<div>
+															<!-- <h5 class="inset-left-10"><strong>Mission</strong></h5><br /> -->
+															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
+															<ul class="inset-left-30 list list-marked">
+															<li>Drawing the students up to know about tectonic activity, atmospheric conditions, earthquake, and volcanoes</li><br>
+															<li>Imparting knowledge towards disaster management</li>
+
+															</ul>
+
+														</div>
+														
+													</div>
+												<!-- </div> -->
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</section>
+						<!-- end Vision & Mission-->
+					<br>
+					<br>
+					
+					
+					
+					
+					
 					<h4 align="" class="text-bold offset-top-30" id="q-2">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">

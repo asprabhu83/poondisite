@@ -40,7 +40,8 @@ init_public_head();
 												
 													<div data-group="tabs-group-default" class="resp-tabs-container tabs-group-default">
 														<div> 
-															<h5 class="inset-left-10"><strong>The Vision of Mathematics department are:</strong></h5><br />
+															<!-- <h5 class="inset-left-10"><strong>The Vision of Mathematics department are:</strong></h5><br /> -->
+															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
 																<li> To promote a comprehensive, innovative and dynamic learning mathematical environment that meets the changing needs of student population.</li> <br />
 																<li> To be globally recognized as a centre of excellence for teaching and research in Mathematics.</li> <br />
@@ -48,7 +49,8 @@ init_public_head();
 
 														</div>
 														<div>
-															<h5 class="inset-left-10"><strong>The Mission of Mathematics department are:</strong></h5><br />
+															<!-- <h5 class="inset-left-10"><strong>The Mission of Mathematics department are:</strong></h5><br /> -->
+															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
 																<li> To encourage follow up of latest scientific research and techniques in the field.</li> <br />
 																<li> To encourage Scientific Collaboration with other related areas like Statistics, Operations Research, Physics and so on.</il> <br />

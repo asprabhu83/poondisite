@@ -28,7 +28,54 @@ init_public_head();
 					<div class="offset-top-20"></div>
 					<br />
 					<div class="offset-top-20">
-						<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
+						
+					
+						
+					<!--start Vision & Mission -->
+					<section class="">
+							<div class="">
+								<div class="">
+									<div class="cell-sm-10 cell-md-11 cell-lg-9 cell-xl-6 offset-top-30">
+										<div>
+											<h4 class="text-bold center">VISION & MISSION</h4>
+											<div class="offset-top-30">
+												
+													<div data-group="tabs-group-default" class="resp-tabs-container tabs-group-default">
+														<div> 
+															<!-- <h5 class="inset-left-10"><strong>The Vision of Mathematics department are:</strong></h5><br /> -->
+															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
+															<ul class="inset-left-30 list list-marked">
+															<li>To promote studies in classical Tamil Language and literature and thus to serve as cultural  causeway between  the  people of Tamil Nadu  and  mankind  across  the  globe</li>
+
+															</ul>
+															<br>
+
+														</div>
+														<div>
+															<!-- <h5 class="inset-left-10"><strong>The Mission of Mathematics department are:</strong></h5><br /> -->
+															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
+															<ul class="inset-left-30 list list-marked">
+															<li>To develop an ever- evolving competent curriculum  with Tamil Language, literature, arts, culture and ethics; well suited for  employability, research  and overall development of younger  minds</li>
+
+															</ul>
+
+														</div>
+														
+													</div>
+												<!-- </div> -->
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</section>
+						<!-- end Vision & Mission-->
+					<br>
+					<br>
+					
+					
+					
+					<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>

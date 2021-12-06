@@ -28,7 +28,60 @@ init_public_head();
 					<h2 class="text-bold text-center">Biotechnology</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
-						<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
+						
+					
+						
+					<!--start Vision & Mission -->
+				<section class="">
+							<div class="">
+								<div class="">
+									<div class="cell-sm-10 cell-md-11 cell-lg-9 cell-xl-6 offset-top-30">
+										<div>
+											<h4 class="text-bold center">VISION & MISSION</h4>
+											<div class="offset-top-30">
+												
+													<div data-group="tabs-group-default" class="resp-tabs-container tabs-group-default">
+														<div> 
+															<!-- <h5 class="inset-left-10"><strong>Vision</strong></h5><br /> -->
+															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
+															<ul class="inset-left-30 list list-marked"> Vision
+															<li>To attain new heights in biotechnology research and shaping biotechnology into a premier precision tool of the future for creation of wealth </li>
+
+
+															</ul>
+															<br>
+
+														</div>
+														<div>
+															<!-- <h5 class="inset-left-10"><strong>Mission</strong></h5><br /> -->
+															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
+															<ul class="inset-left-30 list list-marked">
+															<li>To maintain high standards of teaching by innovating pedagogy, instilling in students the ability to be lifelong learners, and continually upgrading the program curriculum in line with international standards. </li><br>
+															<li>To provide a flexible curriculum that allows the students to study courses of his/her choice (through Elective courses) that will fulfill their aptitude and professional aspirations</li>
+
+
+
+
+															</ul>
+
+														</div>
+														
+													</div>
+												<!-- </div> -->
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</section>
+						<!-- end Vision & Mission-->
+					<br>
+					<br>
+					
+					
+					
+					
+					<h4 align="" class="text-bold" id="q-1" data-type="anchor">PROGRAMMES</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 							<tbody></tbody>
