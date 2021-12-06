@@ -24,7 +24,7 @@ init_public_head();
 
 				</div>
 				<div class="cell-xs-8 cell-lg-8 offset-top-70">
-					<h2 class="text-bold text-center">PG &amp; Research department of TAMIL</h2>
+					<h2 class="text-bold text-center">PG &amp; Research department of Tamil</h2>
 					<div class="offset-top-20"></div>
 					<br />
 					<div class="offset-top-20">

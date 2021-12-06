@@ -44,7 +44,7 @@ init_public_head();
 														<div> 
 															<!-- <h5 class="inset-left-10"><strong>Vision</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
-															<ul class="inset-left-30 list list-marked"> Vision
+															<ul class="inset-left-30 list list-marked">
 															<li>To attain new heights in biotechnology research and shaping biotechnology into a premier precision tool of the future for creation of wealth </li>
 
 

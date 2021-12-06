@@ -5,7 +5,7 @@ init_public_head();
 <div class="section-height-800 breadcrumb-hindi context-dark text-center">
 	<div class="shell section-bottom-30">
 		<div class="veil reveal-md-block">
-			<h1 class="text-bold">Hindi</h1>
+			<h1 class="text-bold">HINDI</h1>
 		</div>
 		<ul class="list-inline list-inline-with-arrows p">
 			<ul class="list-inline list-inline-with-arrows p">
@@ -24,7 +24,7 @@ init_public_head();
 
 				</div>
 				<div class="cell-xs-8 cell-lg-8">
-					<h2 class="text-bold text-center"> DEPARTMENT OF HINDI</h2>
+					<h2 class="text-bold text-center">PG &amp; Research Department of Hindi</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20">
 				

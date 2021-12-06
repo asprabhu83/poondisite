@@ -43,7 +43,7 @@ init_public_head();
 														<div> 
 															<!-- <h5 class="inset-left-10"><strong>Vision</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
-															<ul class="inset-left-30 list list-marked"> Vision
+															<ul class="inset-left-30 list list-marked">
 															<li>To attain the center of excellence and to make the students to compete in National and International Professional environment</li>
 															</ul>
 															<br>

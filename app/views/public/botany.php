@@ -118,9 +118,9 @@ init_public_head();
 									<td>Ph.D. Microbiology</td>
 									<td>2000</td>
 								</tr> -->
-						<!--	</tbody>
+							</tbody>
 						</table>
-						<section class="">
+						<!--<section class="">
 							<div class="">
 								<div class="">
 									<div class="cell-sm-10 cell-md-11 cell-lg-9 cell-xl-6 offset-top-30">
@@ -300,10 +300,10 @@ init_public_head();
 										<td style="width: 10%;">Rs. 25,19,000</td>
 										<td style="width: 20%;">Ongoing 2018-2021</td>
 										<td style="width: 10%;">Dr. M. Ayyanar</td>
-									</tr>
+									</tr>-->
 								</tbody>
 							</table>
-						</div> -->
+						</div>
 						<h4 align="" class="text-bold offset-top-30" id="q-3">FACULTY MEMBERS</h4>
 						<br />
 						<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
