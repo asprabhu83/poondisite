@@ -25,7 +25,7 @@ pt.php
 
 				</div>
 				<div class="cell-xs-8 cell-lg-8">
-					<h2 class="text-bold text-center">Physical Education</h2>
+					<h2 class="text-bold text-center">PG &amp; Research department of Physical Education</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
 						
@@ -44,7 +44,7 @@ pt.php
 														<div> 
 															<!-- <h5 class="inset-left-10"><strong>Vision</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
-															<ul class="inset-left-30 list list-marked"> Vision
+															<ul class="inset-left-30 list list-marked">
 															<li>To empower students as specialized personnel in the field of physical education, health education and sports by making them utilize their potential, and developing competency and skills </li>  
 															</ul>
 															<br>

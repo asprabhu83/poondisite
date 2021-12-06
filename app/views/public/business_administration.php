@@ -5,7 +5,7 @@ init_public_head();
 <div class="section-height-800 breadcrumb-geography context-dark text-center">
     <div class="shell section-bottom-30">
         <div class="veil reveal-md-block">
-            <h1 class="text-bold">Business Administration</h1>
+            <h1 class="text-bold">BUSINESS ADMINISTRATION</h1>
         </div>
         <ul class="list-inline list-inline-with-arrows p">
             <ul class="list-inline list-inline-with-arrows p">
@@ -24,15 +24,59 @@ init_public_head();
 
                 </div>
                 <div class="cell-xs-8 cell-lg-8">
-                    <h2 class="text-bold text-center">DEPARTMENT OF BUSINESS ADMINISTRATION</h2>
+                    <h2 class="text-bold text-center">PG &amp; Research department of Business Administration</h2>
                     <div class="offset-top-20"></div>
                     <div class="offset-top-20">
                         
                     
-                    
+                    <!--start Vision & Mission -->
+				<section class="">
+							<div class="">
+								<div class="">
+									<div class="cell-sm-10 cell-md-11 cell-lg-9 cell-xl-6 offset-top-30">
+										<div>
+											<h4 class="text-bold center">VISION & MISSION</h4>
+											<div class="offset-top-30">
+												
+													<div data-group="tabs-group-default" class="resp-tabs-container tabs-group-default">
+														<div> 
+															<!-- <h5 class="inset-left-10"><strong>Vision</strong></h5><br /> -->
+															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
+															<ul class="inset-left-30 list list-marked">
+															<li>The goal is to satisfy the need of the local community especially rural students and farmers</li> 
+
+															</ul>
+															<br>
+
+														</div>
+														<div>
+															<!-- <h5 class="inset-left-10"><strong>Mission</strong></h5><br /> -->
+															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
+															<ul class="inset-left-30 list list-marked">
+															<li>To Achieve this the department is offering various programmes from UG level to research level</li><br>
+															<li>The department is striving hard to achieve the status of center for excellence in the future</li><br>
+															<li>To prepare them to become responsible contribution citizens of society, who can take up leadership positions around the globe</li>
+
+
+
+															</ul>
+
+														</div>
+														
+													</div>
+												<!-- </div> -->
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</section>
+						<!-- end Vision & Mission-->
+					<br>
+					<br>
                     	
 					<!--start Vision & Mission -->
-						<section class="">
+						<!-- <section class="">
 							<div class="">
 								<div class="">
 									<div class="cell-sm-10 cell-md-11 cell-lg-9 cell-xl-6 offset-top-30">
@@ -40,7 +84,7 @@ init_public_head();
 											<h4 class="text-bold center">VISION & MISSION</h4>
 											<div class="offset-top-30">
 												<!-- Classic Accordion-->
-											<div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
+											<!-- <div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
 													<ul class="resp-tabs-list tabs-group-default" data-group="tabs-group-default">
 														<li>Vision</li>
 														<li>Mission</li>														
@@ -78,7 +122,7 @@ init_public_head();
 									</div>
 								</div>
 							</div>
-						</section>
+						</section> --> 
 						<!-- end Vision & Mission-->
                     
                     
