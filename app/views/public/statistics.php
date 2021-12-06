@@ -24,7 +24,7 @@ init_public_head();
 
 				</div>
 				<div class="cell-xs-8 cell-lg-8">
-					<h2 class="text-bold text-center">PG &amp; Research Department of Statistics</h2>
+					<h2 class="text-bold text-center">Department of Statistics</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
 						
@@ -42,7 +42,7 @@ init_public_head();
 														<div> 
 															<!-- <h5 class="inset-left-10"><strong>Vision</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
-															<ul class="inset-left-30 list list-marked"> Vision
+															<ul class="inset-left-30 list list-marked">
 															<li>To be the leading statistical education institute in the kingdom by offering distinguished effective and ongoing opportunity for university and higher studies in this field </li><br>
 															<li>To equip the statistical system for timely dissemination of adequate, reliable and credible statistics on economic, social and environmental aspects at all the required levels of disaggregation within its decentralized structure</li>
 

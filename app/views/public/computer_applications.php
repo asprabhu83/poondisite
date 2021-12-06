@@ -23,7 +23,7 @@ init_public_head();
 					<?php department_quicklinks();?>
 				</div>
 				<div class="cell-xs-8 cell-lg-8">
-					<h2 class="text-bold text-center">PG &amp; Research department of Computer Applications</h2>
+					<h2 class="text-bold text-center">PG &amp; Research Department of Computer Applications</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
 						

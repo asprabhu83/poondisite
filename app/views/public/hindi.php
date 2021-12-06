@@ -24,7 +24,7 @@ init_public_head();
 
 				</div>
 				<div class="cell-xs-8 cell-lg-8">
-					<h2 class="text-bold text-center">PG &amp; Research Department of Hindi</h2>
+					<h2 class="text-bold text-center">Department of Hindi</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20">
 				
@@ -43,7 +43,7 @@ init_public_head();
 														<div> 
 															<!-- <h5 class="inset-left-10"><strong>Vision</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
-															<ul class="inset-left-30 list list-marked"> Vision
+															<ul class="inset-left-30 list list-marked"> 
 															<li>To prepare the students to equip and master the National language to face situations in future</li><br> 
 															<li> The Department concentrates more on communication skills in the language through literature</li>
 

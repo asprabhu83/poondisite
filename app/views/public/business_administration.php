@@ -57,8 +57,6 @@ init_public_head();
 															<li>The department is striving hard to achieve the status of center for excellence in the future</li><br>
 															<li>To prepare them to become responsible contribution citizens of society, who can take up leadership positions around the globe</li>
 
-
-
 															</ul>
 
 														</div>
@@ -72,8 +70,7 @@ init_public_head();
 							</div>
 						</section>
 						<!-- end Vision & Mission-->
-					<br>
-					<br>
+					
                     	
 					<!--start Vision & Mission -->
 						<!-- <section class="">

@@ -6,7 +6,7 @@ pt.php
 <div class="section-height-800 breadcrumb-physical-education context-dark text-center">
 	<div class="shell section-bottom-30">
 		<div class="veil reveal-md-block">
-			<h1 class="text-bold">DEPARTMENT OF PHYSICAL EDUCATION </h1>
+			<h1 class="text-bold">PHYSICAL EDUCATION </h1>
 		</div>
 		<ul class="list-inline list-inline-with-arrows p">
 			<ul class="list-inline list-inline-with-arrows p">
@@ -25,7 +25,7 @@ pt.php
 
 				</div>
 				<div class="cell-xs-8 cell-lg-8">
-					<h2 class="text-bold text-center">PG &amp; Research department of Physical Education</h2>
+					<h2 class="text-bold text-center">Department of Physical Education</h2>
 					<div class="offset-top-20"></div>
 					<div class="offset-top-20"><br />
 						
