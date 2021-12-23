@@ -332,6 +332,14 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                         </ul>
                                                     </li>
 
+                                                    <li class="active"><a href="<?php echo base_url('#') ?>"><span>Action Taken Report</span></a>
+                                                        <ul class="rd-navbar-dropdown">
+                                                            <li class="active "><a href="<?php echo base_url('public/pdf/IQAC/Action%20Taken%20Report%20of%20IQAC%202019.pdf') ?>"><span>2019-2020</span></a>
+                                                            <li class="active "><a href="<?php echo base_url('public/pdf/IQAC/Action%20Taken%20Report%20of%20IQAC%202019.pdf') ?>"><span>2020-2021</span></a>
+                                                            
+                                                        </ul>
+                                                    </li>
+
 
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/IQAC/Action%20Taken%20Report%20of%20IQAC%202019.pdf') ?>"><span>Action Taken Report </span></a>
                                                     </li>
