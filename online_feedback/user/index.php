@@ -97,7 +97,7 @@ $users=mysqli_fetch_assoc($sql);
 			<li><a href="index.php?page=update_password"><span class="glyphicon glyphicon-user"></span> Update Password</a></li>
             <!-- <li><a href="index.php?page=update_profile"><span class="glyphicon glyphicon-asterisk"></span> Update Profile</a></li> -->
 			 <li><a href="index.php?page=curriculum_feedback"><span class="glyphicon glyphicon-thumbs-down"></span> Curriculum_Feedback</a></li>
-       <!-- <li><a href="index.php?page=feedback"><span class="glyphicon glyphicon-thumbs-down"></span> Feedback</a></li> -->
+       <li><a href="index.php?page=feedback"><span class="glyphicon glyphicon-thumbs-down"></span> Feedback</a></li>
 
             
           </ul>

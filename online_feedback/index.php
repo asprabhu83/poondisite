@@ -1,6 +1,6 @@
 <?php
 session_start();
- require('dbconfig.php'); ?>
+ require('../dbconfig.php'); ?>
 <!DOCTYPE html>
 <html lang="en">
 
