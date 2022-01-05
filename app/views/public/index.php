@@ -5,8 +5,8 @@ init_public_head();
 <div class="container-fluid marqueewrap">
 	<div class="alert alert-primary alert-dismissible" role="alert">
 		<marquee>
-		<span>&#9733;</span><strong><a href="<?php echo base_url('pdf/Exam/UG_Time_Table_Nov_2021.pdf') ?>" target="_blank">Semester Examination Time Table for Nov 2021(UG).pdf</strong></a><span>&#9733;</span>
-		<strong><a href="<?php echo base_url('pdf/Exam/PG_Time_Table_Nov_2021.pdf') ?>" target="_blank">Semester Examination Time Table for Nov 2021(PG).pdf</strong></a><span>&#9733;</span>
+		<span>&#9733;</span><strong><a href="<?php echo base_url('pdf/Exam/UG_Time_Table_Nov_2021.pdf') ?>" target="_blank">Semester Examination Time Table for Nov 2021(UG)</strong></a><span>&#9733;</span>
+		<strong><a href="<?php echo base_url('pdf/Exam/PG_Time_Table_Nov_2021.pdf') ?>" target="_blank">Semester Examination Time Table for Nov 2021(PG)</strong></a><span>&#9733;</span>
 		
 		<!-- <strong><span>&#9733;</span> <a href="<?php echo base_url('#') ?>" target="_blank"> Last date for the Remitatance of Odd Semester Examination fee without fine 09.12.2021  and with Fine Rs.100 /- 14.12.2021.</a><span>&#9733;</span></strong> -->
 		<!-- <strong><span>&#9733;</span><a href="<?php echo base_url('#') ?>" target="_blank">SSR Submitted on 20.10.2021 </strong></a><span>&#9733;</span> 	
