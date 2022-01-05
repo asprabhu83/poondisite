@@ -382,6 +382,15 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                             <li class="active "><a href="<?php echo base_url('coe') ?>"><span>COE </span></a>
                                                 <ul class="rd-navbar-dropdown">
                                                     <li class="active "><a href="<?php echo base_url('coe') ?>"><span>About Examinations</span></a>
+
+                                                    <li class="active"><a href="<?php echo base_url('#') ?>"><span>Examination Time Table</span></a>
+                                                        <ul class="rd-navbar-dropdown">
+                                                            <li><a href="pdf/Exam/UG_Time_Table_Nov_2021.pdf"><span class="text-middle">November 2021 UG</span></a></li>
+                                                            <li><a href="pdf/Exam/PG_Time_Table_Nov_2021.pdf"><span class="text-middle">November 2021 PG </span></a></li>                                                          
+                                                                                                                        
+                                                        </ul>
+                                                    </li>
+
                                                     <li class="active "><a href="https://www.iobnet.co.in/iobpay/entry.do?dirlinkmerid=AVVTAN&dirlinkcatcd=EDU" target="_blank"><span>Exam Fees</span></a>
                                                     <!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2021.pdf') ?>"><span>NIRF 2021</span></a>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2018.pdf') ?>"><span>NIRF 2018</span></a> -->
