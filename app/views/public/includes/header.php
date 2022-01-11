@@ -476,7 +476,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                             </li>
                                             <li class="active"><a href="#"><span>Student Portal</span></a>
                                                 <ul class="rd-navbar-dropdown">
-                                                    <li class="active "><a href="https://controllerofexamination.com/student-login.php" target="_blank"><span>Feedback on Curriculum</span></a>
+                                                    <li class="active "><a href="https://avvmspc.controllerofexamination.com/student-login.php" target="_blank"><span>Feedback on Curriculum</span></a>
                                                     </li>
                                                 </ul>
                                             </li>
