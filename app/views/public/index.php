@@ -6,7 +6,7 @@ init_public_head();
 	<div class="alert alert-primary alert-dismissible" role="alert">
 		<marquee>
 		
-		<span>&#9733;</span><strong><a href="<?php echo base_url('pdf/SSR_Report/SSR_REVISED_REPORT.pdf') ?>" target="_blank">SSR Revised Report </strong></a><span>&#9733;</span>
+		<span>&#9733;</span><strong><a href="<?php echo base_url('pdf/SSR_Report/SSR_REVISED_REPORT.pdf') ?>" target="_blank">NAAC - Self Study Report(SSR) </strong></a><span>&#9733;</span>
 		
 		<!-- <span>&#9733;</span><strong><a href="<?php echo base_url('pdf/Exam/UG_Time_Table_Nov_2021.pdf') ?>" target="_blank">Semester Examination Time Table for Nov 2021(UG)</strong></a><span>&#9733;</span>
 		<strong><a href="<?php echo base_url('pdf/Exam/PG_Time_Table_Nov_2021.pdf') ?>" target="_blank">Semester Examination Time Table for Nov 2021(PG)</strong></a><span>&#9733;</span> -->

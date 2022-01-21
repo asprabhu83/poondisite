@@ -292,7 +292,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                 </ul>
                                             </li>
                                              
-                                           <li class="active "><a href="<?php echo base_url('pdf/SSR_Report/SSR_REVISED_REPORT.pdf') ?>"><span>SSR Revised Report</span></a> 
+                                           <li class="active "><a href="<?php echo base_url('pdf/SSR_Report/SSR_REVISED_REPORT.pdf') ?>"><span>SSR</span></a> 
                                            </li>
 
                                             <li class="active"><a href="#"><span>IQAC</span></a>
