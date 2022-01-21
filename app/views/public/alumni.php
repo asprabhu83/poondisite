@@ -28,6 +28,12 @@ init_public_head();
                 Alumni Feedback
             </a></button>
         </div>
+        <br>
+        <div class=" cell-xs-10 cell-sm-12 cell-lg-8" >
+        <button class="btn btn-primary-outline btn-icon btn-icon-right"><a href="https://www.youtube.com/channel/UCpRFA7H6adzO4E3sMDUKhOw" style="color:black;">
+                YouTube Link 
+            </a></button>
+        </div>
     </div>
 </section>
 <?php
