@@ -292,17 +292,17 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                 </ul>
                                             </li>
                                              
-                                           <li class="active "><a href="<?php echo base_url('pdf/SSR_Report/SSR_REVISED_REPORT.pdf') ?>"><span>SSR</span></a> 
-                                           </li>
 
-                                            <li class="active"><a href="#"><span>IQAC</span></a>
+                                            <li class="active"><a href="#"><span>NAAC</span></a>
                                                 <ul class="rd-navbar-dropdown">
-                                                    <li class="active "><a href="<?php echo base_url('about_iqac') ?>"><span>About IQAC</span></a>
-                                                    </li>
-                                                    <li class="active "><a href="<?php echo base_url('iqac_members') ?>"><span>IQAC Members </span></a>
-                                                    </li>
-                                                    <!-- <li class="active "><a href="https://naac.sripushpamcollege.co.in/" target="_blank"><span>AQAR </span></a> -->
-                                                    <li class="active"><a href="<?php echo base_url('#') ?>"><span>AQAR</span></a>
+                                                    <!-- <li class="active "><a href="<?php echo base_url('nirf') ?>"><span>About NIRF</span></a> -->
+                                                    <!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2021.pdf') ?>"><span>NIRF 2021</span></a>
+                                                    <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2018.pdf') ?>"><span>NIRF 2018</span></a> -->
+                                                  
+                                                    <li class="active "><a href="<?php echo base_url('pdf/SSR_Report/SSR_REVISED_REPORT.pdf') ?>"><span>SSR</span></a> 
+                                                   </li>
+
+                                                   <li class="active"><a href="<?php echo base_url('#') ?>"><span>AQAR</span></a>
                                                         <ul class="rd-navbar-dropdown">
                                                             <li><a href="public/pdf/Naac/AQAR/AQAR2013-2014.pdf"><span class="text-middle">2013-2014</span></a></li>
                                                             <li><a href="public/pdf/Naac/AQAR/AQAR2014-2015.pdf"><span class="text-middle">2014-2015</span></a></li>
@@ -314,14 +314,46 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                         </ul>
                                                     </li>
 
+                                                      <li class="active"><a href="<?php echo base_url('certificate') ?>"><span>NAAC Certificate</span></a>
+                                                        </li>
+
+                                                    </li>
+                                                </ul>
+                                            </li>
+
+
+
+
+                                           <!-- <li class="active "><a href="<?php echo base_url('pdf/SSR_Report/SSR_REVISED_REPORT.pdf') ?>"><span>SSR</span></a> 
+                                           </li> -->
+
+                                            <li class="active"><a href="#"><span>IQAC</span></a>
+                                                <ul class="rd-navbar-dropdown">
+                                                    <li class="active "><a href="<?php echo base_url('about_iqac') ?>"><span>About IQAC</span></a>
+                                                    </li>
+                                                    <li class="active "><a href="<?php echo base_url('iqac_members') ?>"><span>IQAC Members </span></a>
+                                                    </li>
+                                                    <!-- <li class="active "><a href="https://naac.sripushpamcollege.co.in/" target="_blank"><span>AQAR </span></a> -->
+                                                    <!-- <li class="active"><a href="<?php echo base_url('#') ?>"><span>AQAR</span></a>
+                                                        <ul class="rd-navbar-dropdown">
+                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2013-2014.pdf"><span class="text-middle">2013-2014</span></a></li>
+                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2014-2015.pdf"><span class="text-middle">2014-2015</span></a></li>
+                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2015-2016.pdf"><span class="text-middle">2015-2016</span></a></li>
+                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2016-2017.pdf"><span class="text-middle">2016-2017</span></a></li>
+                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2017-2018.pdf"><span class="text-middle">2017-2018</span></a></li>
+                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2018-2019.pdf"><span class="text-middle">2018-2019</span></a></li>
+                                                                                                                        
+                                                        </ul>
+                                                    </li> -->
+
                                                     <li class="active "><a href="https://assessmentonline.naac.gov.in/public/index.php/hei" target="_blank"><span>NAAC-HEI Portal</span></a>
                                                         </li>   
                                                         <li class="active "><a href="https://naac.sripushpamcollege.co.in/" target="_blank"><span>NAAC-AVVMSPC Portal</span></a>
                                                         </li>   
                                                         
                                                        
-                                                    <li class="active"><a href="<?php echo base_url('certificate') ?>"><span>NAAC Certificate</span></a>
-                                                        </li>
+                                                    <!-- <li class="active"><a href="<?php echo base_url('certificate') ?>"><span>NAAC Certificate</span></a>
+                                                        </li> -->
                                                    
                                                                                     
 
