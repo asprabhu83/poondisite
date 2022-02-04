@@ -29,22 +29,22 @@ init_public_head();
                 </tr>
                 <tr>
                     <th><a href="<?php echo base_url('spcte_core_faculty') ?>" target="_blank" rel="noopener">Dr.P.Dhanalakshmi</a></th>
-                    <td style="text-align: center;">Associate Professor</td>
+                    <td style="text-align: center;">Assistant Professor</td>
                 </tr>
                 <tr>
                     <th><a href="<?php echo base_url('spcte_core_faculty') ?>" target="_blank" rel="noopener">Dr.N.Alagusundaram</a></th>
                     <td style="text-align: center;">Assistant Professor</td>
                 </tr>
-                <tr>
+                <!-- <tr>
                     <th><a href="<?php echo base_url('spcte_core_faculty') ?>" target="_blank" rel="noopener">Dr.C.Suresh</a></th>
                     <td style="text-align: center;">Assistant Professor</td>
-                </tr>
+                </tr> -->
                 <tr>
                     <th><a href="<?php echo base_url('spcte_core_faculty') ?>" target="_blank" rel="noopener">Dr.D.Suresh</a></th>
                     <td style="text-align: center;">Assistant Professor</td>
                 </tr>
                 <tr>
-                    <th><a href="<?php echo base_url('spcte_core_faculty') ?>" target="_blank" rel="noopener">Dr.B.Mala</a></th>
+                    <th><a href="<?php echo base_url('spcte_core_faculty') ?>" target="_blank" rel="noopener">Mrs.B.Mala</a></th>
                     <td style="text-align: center;">Assistant Professor</td>
                 </tr>
             </tbody>

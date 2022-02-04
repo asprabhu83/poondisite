@@ -75,7 +75,7 @@ init_public_head();
 											<tr>
 												<td>B.Com</td>
 												<td>Commerce</td>
-												<td>1995-96</td>
+												<td>1968-69</td>
 											</tr>
 											<tr>
 												<td></td>
