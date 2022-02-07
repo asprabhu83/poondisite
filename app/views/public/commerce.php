@@ -262,6 +262,8 @@ init_public_head();
 							<table border="1px" cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 								<tbody></tbody>
 								<tbody>
+
+
 									<tr>
 										<th>S.No</th>
 										<th>Name of the Faculty</th>
@@ -270,17 +272,18 @@ init_public_head();
 										<th>Period</th>
 										<th>Amount sanctioned Rs</th>
 									</tr>
+
 									<tr>
 										<td>1.</td>
-										<td>Dr.R.Prakashbabu</td>
+										<td>Dr.P.Jegan</td>
 										<td>Minor Research Project</td>
 										<td>UGC</td>
-										<td>2015 - 2017</td>
+										<td>2014 - 2016</td>
 										<td>2,03,500</td>
 									</tr>
 									<tr>
 										<td>2.</td>
-										<td>Dr.S.Raju</td>
+										<td>Dr.R.Prakashbabu</td>
 										<td>Minor Research Project</td>
 										<td>UGC</td>
 										<td>2015 - 2017</td>
@@ -288,12 +291,20 @@ init_public_head();
 									</tr>
 									<tr>
 										<td>3.</td>
+										<td>Dr.S.Raju</td>
+										<td>Minor Research Project</td>
+										<td>UGC</td>
+										<td>2015 - 2017</td>
+										<td>60,000</td>
+									</tr>
+									<!-- <tr>
+										<td>3.</td>
 										<td>Dr.P.Jegan</td>
 										<td>Minor Research Project</td>
 										<td>UGC</td>
 										<td>2014 - 2016</td>
 										<td>60,000</td>
-									</tr>
+									</tr> -->
 								</tbody>
 							</table>
 						</div>
