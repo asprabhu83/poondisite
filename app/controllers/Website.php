@@ -893,6 +893,12 @@ class Website extends App_Controller
         $this->data['menu_iqac_members'] = "active";
         $this->load->view('public/iqac_members', $this->data);
     }
+    public function edc()
+    {
+        $this->data['title'] = "EDC";
+        $this->data['menu_edc'] = "active";
+        $this->load->view('public/edc', $this->data);
+    }
     public function nss()
     {
         $this->data['title'] = "NSS";
