@@ -56,7 +56,7 @@ defined('BASEPATH') or exit('No direct script access allowed'); ?>
                                         <li><a href="<?php echo base_url('scholarships') ?>" style="color: #fff;">Scholarships</a></li>
                                         <li><a href="<?php echo base_url('library') ?>" style="color: #fff;">Library</a></li>
                                         <li><a href="<?php echo base_url('spcte') ?>" style="color: #fff;">SPCTE</a></li>
-                                        <li><a href="http://sripushpamcollege.co.in/pdf/EDC-Objective.pdf" style="color: #fff;">EDC</a></li>
+                                        <li><a href="https://www.sripushpamcollege.co.in/edc" style="color: #fff;">EDC</a></li>
                                         <!-- <li><a href="http://sripushpamcollege.co.in/pdf/EDC-Objective.pdf" style="color: #fff;">Development Cell</a></li> -->
                                         <!-- <li><a href="<?php echo base_url('associations') ?>" style="color: #fff;">Associations</a></li> -->
                                     </ul>
