@@ -917,8 +917,8 @@ class Website extends App_Controller
         $this->data['menu_ecoclub'] = "active";
         $this->load->view('public/ecoclub', $this->data);
     }
-    public function edc()
-    {
-        redirect(base_url('public/pdf/edc/EDC-Objective.pdf'));
-    }
+    // public function edc()
+    // {
+    //     redirect(base_url('public/pdf/edc/EDC-Objective.pdf'));
+    // }
     }
