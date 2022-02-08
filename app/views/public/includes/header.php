@@ -463,7 +463,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                             <!-- <li><a href="<?php echo base_url('spcte_visiting_faculty') ?>"><span class="text-middle">Visiting Faculty- Corporate</span></a></li> -->
                                                         </ul>
                                                     </li>
-                                                    <li class="active"><a href="<?php echo base_url('#') ?>"><span>Mandatory Disclosure</span></a></li>
+                                                    <li class="active"><a href="<?php echo base_url('#') ?>"><span>Mandatory Disclosure</span></a>
                                                     <ul class="rd-navbar-dropdown">
                                                     <!-- <li class="active "><a href="<?php echo base_url('nirf') ?>"><span>About NIRF</span></a> -->
                                                     <!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2021.pdf') ?>"><span>NIRF 2021</span></a>
@@ -476,6 +476,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/EOA_SPCTE/EOA_Report_2017-18.PDF') ?>"><span>EOA 2017-2018</span></a> 
                                                     </li>
                                                 </ul>
+                                                </li>
 
 
                                                     <li class="active"><a href="<?php echo base_url('#') ?>"><span>PMKVY-TI</span></a></li>

@@ -25,7 +25,9 @@ init_public_head();
                     <ul class="list list-marked text-matrix">
 						<li><a href="<?php echo base_url('ncc')?>"   style="color: #31708f;">NCC</a></li>
 						<li><a href="<?php echo base_url('nss')?>"  style="color: #31708f;">NSS</a></li>
-                    	<li><a href="http://sripushpamcollege.co.in/pdf/EDC-Objective.pdf" target="_blank" style="color: #31708f;">Entrepreneurship Development Cell</a></li>
+						<li><a href="<?php echo base_url('edc')?>"  style="color: #31708f;">Entrepreneurship Development Cell</a></li>
+                    	<!-- <li><a href="http://sripushpamcollege.co.in/pdf/EDC-Objective.pdf" target="_blank" style="color: #31708f;">Entrepreneurship Development Cell</a></li> -->
+
 						<li><a href="<?php echo base_url('yrc')?>"style="color: #31708f;"> Youth Red Cross</a></li>
 						<li><a href="<?php echo base_url('associations')?>" style="color: #31708f;">Associations</a></li>
 						<li><a href="<?php echo base_url('ecoclub')?>"  style="color: #31708f;">Eco Club</a></li>
