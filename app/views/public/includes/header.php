@@ -149,6 +149,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                         </ul>
                                                     </li> 
                                                     <li><a href="<?php echo base_url('public/pdf/Organogram.pdf') ?>"><span class="text-middle">Organogram </span></a>
+                                                    <li><a href="<?php echo base_url('public/pdf/Compliance_of_UGC_Guidelines_Regulations_2018.pdf') ?>"><span class="text-middle">Compliance of UGC Guidelines 2018 </span></a>
                                                 </ul>
                                             </li>
                                             
@@ -528,6 +529,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                             <li class="active"><a href="#"><span>Student Portal</span></a>
                                                 <ul class="rd-navbar-dropdown">
                                                     <li class="active "><a href="https://avvmspc.controllerofexamination.com/student-login.php" target="_blank"><span>Feedback on Curriculum</span></a>
+                                                    <li class="active "><a href="https://docs.google.com/forms/d/e/1FAIpQLSdwzO6DD_By8Ow3nm3qxT57f7IcngSCWCFOIn2TMboJQi0TXQ/viewform" target="_blank"><span>Semester Course Registration(SCR)</span></a>
                                                     </li>
                                                 </ul>
                                             </li>
