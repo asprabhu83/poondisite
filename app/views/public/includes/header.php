@@ -528,8 +528,10 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                             </li>
                                             <li class="active"><a href="#"><span>Student Portal</span></a>
                                                 <ul class="rd-navbar-dropdown">
-                                                    
-                                                    <li class="active "><a href="https://docs.google.com/forms/d/e/1FAIpQLSdwzO6DD_By8Ow3nm3qxT57f7IcngSCWCFOIn2TMboJQi0TXQ/viewform" target="_blank"><span>Semester Course Registration(SCR)</span></a>
+                                                
+
+                                                <li class="active "><a href="https://cubonline.biz/StudentLogin?Instname=AVVMSPCP" target="_blank"><span>Semester (Tuition) Fees Payment </span></a>    
+                                                <li class="active "><a href="https://docs.google.com/forms/d/e/1FAIpQLSdwzO6DD_By8Ow3nm3qxT57f7IcngSCWCFOIn2TMboJQi0TXQ/viewform" target="_blank"><span>Semester Course Registration(SCR)</span></a>
                                                     <!-- <li class="active "><a href="https://avvmspc.controllerofexamination.com/student-login.php" target="_blank"><span>Feedback on Faculty</span></a> -->
                                                     <li class="active "><a href="https://avvmspc.controllerofexamination.com/student-login.php" target="_blank"><span>Feedback on Curriculum</span></a>
                                                     </li>
