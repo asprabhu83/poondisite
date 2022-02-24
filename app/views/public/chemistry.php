@@ -44,7 +44,7 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>The Vision of Mathematics department are:</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>To promote a centre to augment the chemistry related needs of the society with full equipped research laboratories and professionals to brace up   the challenges to contribute significantly to the Globe</li>
+															<li>To promote as a centre of excellence in teaching, learning and research to fulfill the chemistry related needs of the society</li>
 
 															</ul>
 															<br>
@@ -54,9 +54,10 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>The Mission of Mathematics department are:</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>Creation and promotion of new scientific knowledge via research, symposia, conferences, workshop etc., </li><br>
-															<li>Advanced programmes to the students to get good academic knowledge and analytical skill</li><br>
-															<li>Interaction with reputed institutions and industries through MOU</li>
+															<li>Creating and promoting new scientific knowledge via research, symposia, conferences and workshops</li><br>
+															<li>Providing quality programmes to the students to get good academic knowledge and analytical skills</li><br>
+															<li>Making collaboration with reputed institutions and industries through MOU</li>
+
 
 
 

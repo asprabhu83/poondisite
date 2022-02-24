@@ -45,7 +45,7 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>The Vision of Mathematics department are:</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>To pursue excellence in education for a holistic growth and sustainable development of rural youth for employability</li>
+															<li>To attain excellence in commerce, research and entrepreneurship through quality education to build a healthy and energetic nation</li>
 
 															</ul>
 															<br>
@@ -55,7 +55,7 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>The Mission of Mathematics department are:</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>Accelerating innovative teaching and learning practices through collaboration and research in all spheres of commerce and management to make young rural youth to face the worldwide challenges comprehensively</li>
+															<li>Empowering and nurturing the students’ capability, skills and personality to face the global challenges comprehensively and independently</li>
 
 															</ul>
 

@@ -32,29 +32,33 @@ init_public_head();
 									<li class="tab"><strong>Academic Council</strong></li>
 									<li class="tab"><strong>College Council</strong></li>
 									<li class="tab"><strong>College committee</strong></li>
+									<li class="tab"><strong>Finance committee</strong></li>
+
 								</ul><br><br>
 								<div data-group="tabs-group-default" class="resp-tabs-container text-sm-left tabs-group-default">
 									<div>
 										<div class="inset-lg-left-30">
 											<h5>GOVERNING BODY</h5>
 											<br />
-											<p align="justify" class="text-gray-darker"><strong>CHAIRMAN</strong></p>
+											<p align="justify" class="text-gray-darker"><strong>PRESIDENT</strong></p>
 											<p>Thiru. T. Krishnasamy Vandayar, B.Tech.</p>
+											<p align="justify" class="text-gray-darker"><strong>SECRETARY AND CORRESPONDENT</strong></p>
 											<p>Thiru A. Balasubramania Vandayar, M.A.</p>
 											<p><strong>MEMBERS</strong></p>
 											<p>Thiru A. Veeriya Vandayar</p>
+											<p>Thiru A. Dhanasekaran Vandayar, B.Com.</p>
 											<p align="justify" class="text-gray-darker"></p>
 											<p><strong>NOMINEES OF THE MANAGEMENT </strong></p>
 											<p>Dr. D.L. Abraham, M.D., Thanjavur.</p>
 											<p>Prof. T. Gandhi,<br />Former Porfessor of English,<br />III Cross Street, Arulananda Nagar, Thanjavur</p>
 											<p><strong>NOMINEE OF THE UNIVERSITY </strong></p>
-											<p>Dr.K.Emmanuvel Rajan, Ph.D.</p>
-											<p>Professor of Animal Science,<br />Bharathidasan University,<br />Trichirapalli- 24.</p>
+											<p>Dr.T.Senthil Kumar, Ph.D.</p>
+											<p>Professor of Botany,<br />Bharathidasan University,<br />Trichirapalli- 24.</p>
 											<p><strong>NOMINEE OF THE STATE GOVERNMENT</strong></p>
 											<p>The Joint Director of Collegiate Education,<br />Thanjavur.</p>
-											<p><strong>NOMINEES FROM THE TEACHING FACULTY</strong></p>
-											<!-- <p>Dr.V.Maniraj - Computer Science</p> -->
-											<!-- <p>Dr.K.Balakrishnan - Chemistry</p> -->
+											<p><strong>NOMINEES OF THE TEACHING FACULTY</strong></p>
+											<p>Dr.V.Maniraj - Computer Science</p>
+											<p>Dr.K.Balakrishnan - Chemistry</p>
 											<p><strong>EX-OFFICIO MEMBER - SECRETARY </strong></p>
 											<p>Dr. R. Sivakumar , Principal</p>
 										</div>
@@ -195,19 +199,10 @@ init_public_head();
 													<tr>
 														<td colspan="2"><strong>MEMBERS</strong></td>
 													</tr>
-
-													<tr>
-														<td><strong>Thiru. C.Chandran.</td>
-														<td>CONTROLLER OF Examinations</td></strong>
-													</tr>
-
+													
 													<tr>
 														<td>Dr. V.Maniraj</td>
 														<td>Computer Science</td>
-													</tr>
-													<tr>
-														<td>Dr. M.S.Muthuramalingam</td>
-														<td>Physical Education</td>
 													</tr>
 													<tr>
 														<td>Dr. T. Kumar</td>
@@ -243,6 +238,11 @@ init_public_head();
 														<td>Dr. K.Ravichandran</td>
 														<td>Physics</td>
 													</tr>
+
+													<tr>
+														<td>Dr. M.Madanmohan</td>
+														<td>Physical Education, Health Education & Sports</td>
+													</tr>
 													<tr>
 														<td>Dr. R.Rajakumar</td>
 														<td>Zoology and Biotechnology</td>
@@ -267,7 +267,16 @@ init_public_head();
 														<td>Dr. J.Selvam</td>
 														<td>Library and Info. Science</td>
 													</tr>
-													
+													<tr>
+														<td colspan="2"><strong>CONTROLLER OF EXAMINATIONS</strong></td>
+													</tr>
+
+													<tr>
+														<td><strong>Thiru. C.Chandran.</td>
+														<td></td></strong>
+													</tr>
+
+
 													<tr>
 														<td colspan="2"><strong>FOUR TEACHERS FROM THE COLLEGE AT DIFFERENT LEVELS FOR 2 YEARS<br />Thiruvalargal</strong></td>
 													</tr>
@@ -307,8 +316,8 @@ init_public_head();
 											<p align="justify" class="text-gray-darker"><strong>Member - Co-odinator</strong></p>
 											<p><strong> Dr. S.Arumugam</strong><br />Professor, Department of Physics, <br />Bharathidasan University,<br />Thiruchirapalli - 24.</p>
 											
-											<p align="justify" class="text-gray-darker"><strong>Special Invitee</strong></p>
-											<p><strong> Dr. A.S.Nageshwaran</strong><br />Director, Council for College & Curriculum Development, <br />Bharathidasan University,<br />Thiruchirapalli - 24.</p>
+											<!-- <p align="justify" class="text-gray-darker"><strong>Special Invitee</strong></p>
+											<p><strong> Dr. A.S.Nageshwaran</strong><br />Director, Council for College & Curriculum Development, <br />Bharathidasan University,<br />Thiruchirapalli - 24.</p> -->
 
 											<p align="justify" class="text-gray-darker"><strong>ONE REPRESENTATIVE OF THE STATE GOVERNMENT</strong></p>
 											<p><strong>Dr.T.Arivudai Nambi,</strong> <br/>Joint Director of Collegiate Education, Thanjavur Region, Thanjavur.</p>
@@ -356,10 +365,7 @@ init_public_head();
 														<td>Dr. V.Maniraj</td>
 														<td>Computer Science</td>
 													</tr>
-													<tr>
-														<td>Dr. M.S.Muthuramalingam</td>
-														<td>Physical Education</td>
-													</tr>
+													
 													<tr>
 														<td>Dr. T. Kumar</td>
 														<td>Botany and Microbiology</td>
@@ -368,10 +374,10 @@ init_public_head();
 														<td>Dr. C. Radhakrishnan</td>
 														<td>English </td>
 													</tr>
-													<!-- <tr>
+													<tr>
 														<td>Dr. R. Subashchandrabose</td>
-														<td>Computer Science </td>
-													</tr> -->
+														<td>IQAC Coordinator</td>
+													</tr> 
 													<tr>
 														<td>Dr. K.Thirumavalavan</td>
 														<td>Commerce</td>
@@ -393,6 +399,10 @@ init_public_head();
 													<tr>
 														<td>Dr. K.Ravichandran</td>
 														<td>Physics</td>
+													</tr>
+													<tr>
+														<td>Dr. M.Madanmohan</td>
+														<td>Physical Education, Health Education & Sports</td>
 													</tr>
 													<tr>
 														<td>Dr. R.Rajakumar</td>
@@ -418,10 +428,14 @@ init_public_head();
 														<td>Dr. J.Selvam</td>
 														<td>Library and Info. Science</td>
 													</tr>
+													<tr>
+														<td>Dr. C.Malathy</td>
+														<td>Physical Director</td>
+													</tr>
 																										
 													<tr>
 														<td>Mr. Anandanarayanan</td>
-														<td>Office Superintendent</td>
+														<td>Assistant, Office</td>
 													</tr>
 												</tbody>
 											</table>
@@ -441,6 +455,7 @@ init_public_head();
 											<p><strong>MEMBERS</strong></p>
 											
 											<p>Thiru A. Veeriya Vandayar</p>
+											<p>Thiru A. Dhanasekaran Vandayar, B.Com.</p>
 											
 											<p><strong>EX-OFFICIO MEMBER </strong></p>
 											<p>Dr. R. Sivakumar , Principal</p>
@@ -457,9 +472,29 @@ init_public_head();
 											<p>Dr.V.Maniraj - Computer Science</p>
 											<p>Dr.K.Balakrishnan - Chemistry</p>
 											<p><strong>REPRESENTATIVE FROM COLLEGE OFFICE </strong></p>
-											<p>Mr. Anandanarayanan, Supreintendent</p>
+											<p>Mr. Anandanarayanan, Assistant, Office</p>
 										</div>
 									</div>
+
+									<div>
+										<div class="inset-lg-left-30">
+											<h5>FINANCE COMMITTEE</h5>
+											<br />
+											<p><strong>Dr. R. Sivakumar </strong></p>
+											<p>Principal</p>
+											
+											<!-- <p align="justify" class="text-gray-darker"><strong>ONE REPRESENTATIVE OF THE STATE GOVERNMENT</strong></p> -->
+											<p><strong>Dr.T.Arivudai Nambi,</strong> <br/>The Regional Joint Director of Collegiate Education, <br/>Thanjavur Region, Thanjavur.</p>
+
+											<p align="justify" class="text-gray-darker"></p>
+											<p><strong>The Finance Officer,</strong> <br/>Bharathidasan University, Thiruchirappalli </p>
+											
+											<p><strong>Dr.C.Chandran</strong></p>
+											<p>Controller of Examinations</p>
+											
+										</div>
+									</div>
+
 								</div>
 							</div>
 						</div>

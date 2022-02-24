@@ -45,7 +45,7 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>Vision</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>To attain new heights in biotechnology research and shaping biotechnology into a premier precision tool of the future for creation of wealth </li>
+															<li>To attain new heights in teaching and research for making students to meet global competitions</li>
 
 
 															</ul>
@@ -56,8 +56,7 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>Mission</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>To maintain high standards of teaching by innovating pedagogy, instilling in students the ability to be lifelong learners, and continually upgrading the program curriculum in line with international standards. </li><br>
-															<li>To provide a flexible curriculum that allows the students to study courses of his/her choice (through Elective courses) that will fulfill their aptitude and professional aspirations</li>
+															<li>Maintaining the standards of teaching by adopting innovative pedagogy and continually upgrading the curriculum</li>
 
 
 

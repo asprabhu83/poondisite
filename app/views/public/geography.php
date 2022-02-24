@@ -43,8 +43,8 @@ init_public_head();
 														<div> 
 															<!-- <h5 class="inset-left-10"><strong>Vision</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
-															<ul class="inset-left-30 list list-marked"> Vision
-															<li>To educate the students excelling in earth science to save lives</li>
+															<ul class="inset-left-30 list list-marked"> 
+															<li>To lead the development of teaching and research direction of human and natural systems, land cover and land use change and geospatial information science</li>
 															</ul>
 															<br>
 
@@ -53,8 +53,8 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>Mission</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>Drawing the students up to know about tectonic activity, atmospheric conditions, earthquake, and volcanoes</li><br>
-															<li>Imparting knowledge towards disaster management</li>
+															<li>Equipping undergraduate students to meet the challenges associated with the continuing evolution</li><br>
+															<li>Applying geographic science to societal and environmental issues in our state, the nation and the global community</li>
 
 															</ul>
 

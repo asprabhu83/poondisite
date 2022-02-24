@@ -92,11 +92,11 @@ init_public_head();
 																	<td></td>
 																	<td>Chemistry</td>
 																</tr>
-																<tr>
+																<!-- <tr>
 																	<td>Dr. A. Ananth</td>
 																	<td></td>
 																	<td>Commerce</td>
-																</tr>
+																</tr> -->
 																<tr>
 																	<td>Dr. T. Ramprasath</td>
 																	<td></td>
@@ -148,15 +148,15 @@ init_public_head();
 																	<td>Botany</td>
 																</tr>
 																<tr>
-																	<td>Dr. S. Geethalakshmi</td>
+																	<td>Dr. P. Reka</td>
 																	<td></td>
 																	<td>Mathematics</td>
 																</tr>
-																<tr>
+																<!-- <tr>
 																	<td>Dr.S.Rajeswari</td>
 																	<td></td>
 																	<td>Economics</td>
-																</tr>
+																</tr> -->
 															</tbody>
 														</table>
 													</div>
@@ -574,8 +574,6 @@ init_public_head();
 																	<td>Mathematics</td>
 																</tr>
 
-
-
 															</tbody>
 														</table>
 													</div>
@@ -728,7 +726,7 @@ init_public_head();
 													<li class="tab">Student's Academic Discipline Committee</li>
 													<li class="tab">Students' Welfare Committee</li>
 													<li class="tab">Extension Activities Cell</li>
-													<li class="tab">Finance Committee</li>
+													<li class="tab">Finance Committee(Internal)</li>
 													<li class="tab">Purchase Committee</li>
 													<li class="tab">Student's Grievances Redressal Cell</li>
 												</ul>
@@ -961,25 +959,25 @@ init_public_head();
 														<table cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 															<tbody>
 																<tr>
-																	<td>Dr. R.Sivakumar - Principal</td>
+																	<td>Dr. Kumaravel </td>
 																	<td></td>
-																	<td>Chairman</td>
+																	<td>- Dean of Sciences</td>
 																</tr>
 																<tr>
-																	<td>The Regional Joint Director - Thanjavur </td>
+																	<td>Dr.V.Ravichandran </td>
 																	<td></td>
-																	<td>Member</td>
+																	<td>- Dean of Arts & Commerce</td>
 																</tr>
 																<tr>
-																	<td>The Finance Officer - Bharathidasan University </td>
+																	<td>Mr. S. Francis  </td>
 																	<td></td>
-																	<td>Member</td>
+																	<td>Auditor</td>
 																</tr>
-																<tr>
+																<!-- <tr>
 																	<td>Dr.C.Chandran - Controller of Examinations </td>
 																	<td></td>
 																	<td>Member</td>
-																</tr>
+																</tr> -->
 															</tbody>
 														</table>
 													</div>
@@ -1086,7 +1084,7 @@ init_public_head();
 											<!-- Classic Accordion-->
 											<div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
 												<ul class="resp-tabs-list tabs-group-default" data-group="tabs-group-default">
-													<li>Women's Welfare Committee</li>
+													<li>Internal Compliance Committee</li>
 													<li>Institution-Industry Interaction Cell</li>
 													<li>Academic Audit Committee</li>
 													<li>Staff Welfare Committee</li>
@@ -1141,7 +1139,7 @@ init_public_head();
 																	<td></td>
 																</tr>
 																<tr>
-																	<td>Ms. R.Bhuvaneshwari</td>
+																	<td>Ms. R.Bhuvaneshwari(College Legal Advisor)</td>
 																	<td></td>
 																	<td>NGO Member Secretary <br/>Samathuva PeravaiSamuga Seva Sangam <br/>Thanjavur.</td> 
 																</tr>
@@ -1326,6 +1324,8 @@ init_public_head();
 													<li>OBC Cell</li>
 													<li>Cyber Crime prevention Committee</li>
 													<li>Magazine Committee</li>
+													<li>Curriculum Development Cell</li>
+													<li>Institution Social Responsible Cell(ISR)</li>
 													
 												</ul>
 												<div data-group="tabs-group-default" class="resp-tabs-container tabs-group-default">
@@ -1425,34 +1425,83 @@ init_public_head();
 														</table>
 													</div>
 													
-													<!-- <div>
+													<div>
 														<table cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 															<tbody>
 
 																					
 																<tr>
-																	<td>Dr. V. Nandakumar</td>
+																	<td>Dr. M.Pramesh</td>
 																	<td></td>
 																	<td>Chemistry</td>
 																</tr>
 																<tr>
-																	<td>Dr. J. Umasamundeswari</td>
+																	<td>Dr. P.Pandian</td>
+																	<td></td>
+																	<td>Botany</td>
+																</tr>
+																<tr>
+																	<td>Dr. V.Sharmila</td>
 																	<td></td>
 																	<td>English</td>
 																</tr>
 																<tr>
-																	<td>Dr. S. Ganesan</td>
+																	<td>Dr. B.Deepa</td>
+																	<td></td>
+																	<td>Physics</td>
+																</tr>
+																<tr>
+																	<td>Dr. P.Jegan</td>
+																	<td></td>
+																	<td>Director - SPCTE</td>
+																</tr>
+																<tr>
+																	<td>Dr. R.Saravanavel</td>
+																	<td></td>
+																	<td>Commerce</td>
+																</tr>
+															</tbody>
+														</table>
+													</div> 
+
+													<div>
+														<table cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
+															<tbody>
+
+																					
+																<tr>
+																	<td>Dr. K.Sivakumar</td>
+																	<td></td>
+																	<td>English</td>
+																</tr>
+																<tr>
+																	<td>Dr. V.Radhakrishnan</td>
+																	<td></td>
+																	<td>English</td>
+																</tr>
+																<tr>
+																	<td>Dr. A.Jeyaroja</td>
+																	<td></td>
+																	<td>Tamil</td>
+																</tr>
+																<tr>
+																	<td>Dr. B.Kaleeshwaran</td>
 																	<td></td>
 																	<td>Zoology</td>
 																</tr>
 																<tr>
-																	<td>Dr. N. Kannadasan</td>
+																	<td>Prof. M.Suresh</td>
 																	<td></td>
-																	<td>Tamil</td>
+																	<td>Physics</td>
+																</tr>
+																<tr>
+																	<td>Dr. T.Saravanan</td>
+																	<td></td>
+																	<td>Economics</td>
 																</tr>
 															</tbody>
 														</table>
-													</div> -->
+														</div>		
 												</div>
 											</div>
 										</div>

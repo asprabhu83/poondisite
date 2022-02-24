@@ -45,7 +45,7 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>Vision</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>Aiming to be recognized as one among the best for Microbiology education and scientific research</li>
+															<li>To make the students highly qualified and competent in all areas of Microbiology</li>
 
 
 															</ul>
@@ -56,9 +56,9 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>Mission</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>To integrate team of educators providing leading education and innovative research expertise in all fields of Microbiology</li><br>
-															<li>Cultivating talents and promoting all round personality development</li><br>
-															<li>To maintain microbial repository, germplasm maintenance and incubation centre</li>
+															<li>Providing good quality of education and inspiring by giving training to our students</li><br>
+															<li>Cultivating talents and promoting all round personality development through multidimensional education</li>
+
 
 
 

@@ -43,9 +43,7 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>The Vision of Mathematics department are:</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>To Learn and impact to society through education to the socially weaker session</li><br>
-															<li>To inculcate knowledge procurement, sharing and generation</li>
-
+															<li>To impact the society through education to the socially weaker section</li>
 															</ul>
 															<br>
 
@@ -54,8 +52,8 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>The Mission of Mathematics department are:</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>To address the needs of the rural students</li><br>
-															<li>To prepare service, meticulous planning, preparing the students for State and Central competitive services</li>
+															<li>Addressing the educational needs of the rural students</li><br>
+															<li>Preparing the students for a wide range of career  by teaching a core set of transferable skills</li>
 
 															</ul>
 

@@ -43,8 +43,7 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>Vision</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>To be the leading statistical education institute in the kingdom by offering distinguished effective and ongoing opportunity for university and higher studies in this field </li><br>
-															<li>To equip the statistical system for timely dissemination of adequate, reliable and credible statistics on economic, social and environmental aspects at all the required levels of disaggregation within its decentralized structure</li>
+															<li>To be one of the leading statistical educational institutes in the country by offering effective higher studies </li>
 
 															</ul>
 															<br>
@@ -54,8 +53,7 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>Mission</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>To provide high quality educational programs through adoption different teaching method and comprehensive programs in line with the community and labor market requirements </li><br>
-															<li>To provide excellent training in scientific data collection, data management, methods and procedure of data analysis </li>
+															<li>Providing a high quality program through adopting different teaching method and comprehensive programs</li>
 
 
 															</ul>

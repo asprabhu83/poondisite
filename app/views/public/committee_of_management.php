@@ -48,6 +48,8 @@ init_public_head();
 				<article class="post post-event"><img alt="" class="img-responsive" height="330" src="<?php echo base_url('assets/images/committee/Veeriya3.jpg') ?>" width="570" /> 
 					<h4 align="center" class="text-bold">Thiru A. Veeriya Vandayar</h4>
 					<p><h5 align="center" class="text-bold">Member</h5><strong></strong></p>
+					<h4 align="center" class="text-bold">Thiru A. Dhanasekaran Vandayar, B.Come</h4>
+					<p><h5 align="center" class="text-bold">Member</h5><strong></strong></p>
 				</article>
 			</div>
 				
@@ -91,7 +93,7 @@ init_public_head();
 		<h4 align="left" class="text-bold">EX-OFFICIO MEMBER - SECRETARY</h4>
 		<p align="left" class="offset-md-top-20">Dr. R. Sivakumar , Principal</p>
 		<h4 align="left" class="text-bold">UNIVERSITY REPRESENTATIVE</h4>
-		<p align="left" class="offset-md-top-20">Dr. U.Alibava, Prof. &amp; Head, Dept. of Tamil Studies, Bharathidasan University, Trichirappalli - 24.</p>
+		<p align="left" class="offset-md-top-20">Dr. A.Ajmal Khan, Associate Professor of English, Jamal Mohamed College, Trichirappalli.</p>
 	</div>
 </section>
 

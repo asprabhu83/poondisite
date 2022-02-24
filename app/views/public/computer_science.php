@@ -44,7 +44,7 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>Vision</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
 															<ul class="inset-left-30 list list-marked"> 
-															<li>To produce globally competent graduates in the areas like research and software industry</li>
+															<li>To make students globally competent in the areas of research and software</li>
 
 															</ul>
 															<br>
@@ -54,9 +54,9 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>Mission</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>Providing a state-of-the-art software and embedded laboratories </li><br>
-															<li>Supporting society by participating in and encouraging technology transfer</li><br> 
-															<li>Providing excellent undergraduate, postgraduate and research programmes</li>
+															<li>Providing  state-of-the-art software and embedded laboratories</li><br>
+															<li>Making students potentially sound to solve real-world problems</li>
+
 
 
 															</ul>

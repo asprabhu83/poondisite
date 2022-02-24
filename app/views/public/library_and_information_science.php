@@ -43,8 +43,8 @@ init_public_head();
 														<div> 
 															<!-- <h5 class="inset-left-10"><strong>Vision</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
-															<ul class="inset-left-30 list list-marked"> Vision
-															<li>To Explore and implement innovative technologies and services to meet the global challenges in information technology</li>
+															<ul class="inset-left-30 list list-marked"> 
+															<li>To explore and implement innovative technologies and services to meet the global challenges</li>
 
 															</ul>
 															<br>
@@ -54,8 +54,9 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>Mission</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>Providing value-based courses, experiential learning and real world opportunities in information science </li><br>
+															<li>Providing value-based courses and  experiential learning</li><br>
 															<li>Developing capabilities to meet social and individual information needs</li>
+
 
 
 

@@ -43,8 +43,7 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>The Vision of Mathematics department are:</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-																<li> To promote a comprehensive, innovative and dynamic learning mathematical environment that meets the changing needs of student population.</li> <br />
-																<li> To be globally recognized as a centre of excellence for teaching and research in Mathematics.</li> <br />
+															<li>To impart quality oriented mathematical education and inculcate the spirit of research through innovative teaching and learning methodologies</li>
 															</ul>
 
 														</div>
@@ -52,9 +51,7 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>The Mission of Mathematics department are:</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-																<li> To encourage follow up of latest scientific research and techniques in the field.</li> <br />
-																<li> To encourage Scientific Collaboration with other related areas like Statistics, Operations Research, Physics and so on.</il> <br />
-																<li> To provide professional cadres in the field of Mathematics to support  national development programs with public and higher education institutes.</li><br />																
+															<li>Providing the state-of-the-art teaching and research environment to the young minds to pursue a career in mathematics and its applications</li>
 															</ul>
 
 														</div>

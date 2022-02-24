@@ -45,7 +45,7 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>The Vision of Mathematics department are:</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>Imparting value based education that makes good citizens with academic excellence and mighty commitment to the society</li>
+															<li>To impart value based education that makes good citizens with academic excellence and mighty commitment to the society</li>
 															</ul>
 															<br>
 
@@ -54,8 +54,11 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>The Mission of Mathematics department are:</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>To strive continuously to sustain a culture of quality of academic excellence and empowerment of students</li><br>
-															<li>To provide a rich intellectual environment for collaborative research and support socially relevant and need based research coupled with human values</li>
+															<li>Striving continuously to sustain academic excellence and empowerment of students</li><br>
+															<li>Providing a rich intellectual environment for collaborative research and supporting socially relevant and need based research</li>
+
+
+
 
 															</ul>
 

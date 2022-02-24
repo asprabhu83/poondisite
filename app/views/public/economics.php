@@ -43,7 +43,7 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>The Vision of Mathematics department are:</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>Imparting Quality and Competing Knowledge and Education to the students of Economics</li>
+															<li>To promote the classless society through teaching, learning and research for a macro community</li>
 
 															</ul>
 															<br>
@@ -53,7 +53,7 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>The Mission of Mathematics department are:</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>To Adopt Interactive and Student Centric Teaching-learning Practices</li>
+															<li>Enhancing students’ employability by inculcating self-reliant and self-governed abilities and imparting applied economics knowledge</li>
 
 															</ul>
 

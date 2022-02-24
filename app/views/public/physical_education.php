@@ -45,7 +45,7 @@ pt.php
 															<!-- <h5 class="inset-left-10"><strong>Vision</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>To empower students as specialized personnel in the field of physical education, health education and sports by making them utilize their potential, and developing competency and skills </li>  
+															<li>To transform the students an empowered man and women by offering them specialized education and help them tap their potentials and develop their competency and skills</li>
 															</ul>
 															<br>
 
@@ -54,7 +54,10 @@ pt.php
 															<!-- <h5 class="inset-left-10"><strong>Mission</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>To educate young minds, develop healthy bodies, and promote positive attitude towards getting fitness and sports skills by providing a quality physical education program</li>
+															<li>Training the young minds to develop healthy practices </li><br>
+															<li>Helping the students promote positive attitude</li><br>
+															<li>Enhancing  their sports and games talents to stay physically and mentally fit</li>
+
 
 															</ul>
 

@@ -43,7 +43,7 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>The Vision of Mathematics department are:</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>To generate the epitome of culture, establish gender equality and formulate communication empowered students to walk off with honors in the competitive global job arena</li>  
+															<li>To generate the epitome of culture, establish gender equality and formulate communication empowered students to walk off with honours in the competitive global arena</li>
 
 															</ul>
 															<br>
@@ -53,7 +53,7 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>The Mission of Mathematics department are:</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>To offer quality education endured with intelligence as well as integrity in pursuit of attaining wider outlook to comprehend, creative, critical, research oriented writings, and to ignite their creativity and improve analytical skill</li>
+															<li>Offering quality education endured with intelligence as well as integrity in pursuit of attaining wider outlook to comprehend, creative, critical, research oriented writings to ignite their creativity and improve the analytical skill. </li>
 
 															</ul>
 

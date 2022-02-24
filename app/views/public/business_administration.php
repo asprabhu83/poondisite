@@ -43,7 +43,7 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>Vision</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>The goal is to satisfy the need of the local community especially rural students and farmers</li> 
+															<li>To attain competitive distinction by providing knowledge based management education </li> 
 
 															</ul>
 															<br>
@@ -53,9 +53,9 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>Mission</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>To Achieve this the department is offering various programmes from UG level to research level</li><br>
-															<li>The department is striving hard to achieve the status of center for excellence in the future</li><br>
-															<li>To prepare them to become responsible contribution citizens of society, who can take up leadership positions around the globe</li>
+															<li>Imparting knowledge by synchronizing technology, entrepreneurship and management to cultivate future business professionals and entrepreneurs</li><br>
+															<li>Providing a collaborative environment where research, creativity, innovation and entrepreneurship can flourish</li><br>
+															
 
 															</ul>
 

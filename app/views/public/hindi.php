@@ -44,8 +44,8 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>Vision</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
 															<ul class="inset-left-30 list list-marked"> 
-															<li>To prepare the students to equip and master the National language to face situations in future</li><br> 
-															<li> The Department concentrates more on communication skills in the language through literature</li>
+															<li>To prepare the students mastering in the national official language so as to get opportunities in national level</li><br> 
+															
 
 
 															</ul>
@@ -56,8 +56,8 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>Mission</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>To provide the basic and general information about Hindi Language</li> <br>
-															<li>To inculcate interest among students in the study of Hindi Literature, along with academic excellence</li>
+															<li>Providing practices for developing communicative skills</li> <br>
+															
 
 
 

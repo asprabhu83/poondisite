@@ -44,7 +44,7 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>Vision</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>To attain the center of excellence and to make the students to compete in National and International Professional environment</li>
+															<li>To attain the status of centre for excellence for the development of competent and socially responsible IT professionals and researchers</li>
 															</ul>
 															<br>
 
@@ -53,9 +53,10 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>Mission</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>Providing a state-of-the-art infrastructure, a learner friendly atmosphere in synergy with innovative pedagogy and global networking to produce world class technocrats</li><br> 
-															<li>To impart the significance of interdisciplinary domains for sustainable development</li><br> 
-															<li>To groom the character with moral and ethical values to make them socially responsible</li>
+															<li>Providing a learner friendly atmosphere in synergy with innovative pedagogy to make students as world class technocrats</li><br>
+															<li>Synchronizing concepts, logic and skills for effective decision making</li>
+
+
 
 															</ul>
 

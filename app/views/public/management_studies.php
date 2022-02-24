@@ -44,7 +44,7 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>The Vision of Mathematics department are:</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-                                                            <li>To develop competent and ethical managers and entrepreneurs, sensitive to the environment and culture, responsible to their communities and global in their outlook and approach</li>
+                                                            <li>To develop competent ethical managers and entrepreneurs, sensitive to the environment and culture, responsible to their communities and global in their outlook and approach</li>
 															</ul>
 
 														</div>
@@ -52,9 +52,10 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>The Mission of Mathematics department are:</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-                                                            <li>To provide students with necessary knowledge and skills to enable them to be effective in the field of their specialization</li><br>
-                                                            <li> To foster curiosity, broaden their horizons, and inculcate leadership skills to achieve academic rigor, highly grounded real world job market</li><br>
-                                                            <li>To develop in them strong commitments to embrace cross cultural diversity and an entrepreneurial mindset </li>
+                                                            <li>Providing knowledge and skills to enable the students to be effective in the field of their specialization</li><br>
+                                                            <li>Fostering curiosity, broadening their horizons, and inculcating leadership skills to achieve academic rigor and highly grounded real-world job market</li><br>
+                                                            <li>Developing in students strong commitments to embrace cross cultural diversity and an entrepreneurial mindset</li>
+
 	</ul>
 
 														</div>

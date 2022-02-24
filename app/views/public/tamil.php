@@ -45,7 +45,7 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>The Vision of Mathematics department are:</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>To promote studies in classical Tamil Language and literature and thus to serve as cultural  causeway between  the  people of Tamil Nadu  and  mankind  across  the  globe</li>
+															<li>To promote studies in classical Tamil language and literature and thus to serve as cultural causeway between the people of Tamil Nadu and mankind across the globe</li>
 
 															</ul>
 															<br>
@@ -55,7 +55,7 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>The Mission of Mathematics department are:</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>To develop an ever- evolving competent curriculum  with Tamil Language, literature, arts, culture and ethics; well suited for  employability, research  and overall development of younger  minds</li>
+															<li>Developing an ever-evolving competent and relevant curriculum well suited for employability, research and overall development of younger minds</li>
 
 															</ul>
 

@@ -44,7 +44,7 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>The Vision of Mathematics department are:</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Vision</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>To develop a conducive environment with global standards for learning physics, developing intellectual abilities and scientific skills so that the learners apply them for the betterment of themselves as well as the society</li>
+															<li>To develop a conducive environment with global standards for learning physics, enhancing intellectual abilities and developing scientific skills </li>
 
 															</ul>
 															<br>
@@ -54,9 +54,10 @@ init_public_head();
 															<!-- <h5 class="inset-left-10"><strong>The Mission of Mathematics department are:</strong></h5><br /> -->
 															<h5 class="inset-left-10"><strong>Mission</strong></h5><br />
 															<ul class="inset-left-30 list list-marked">
-															<li>Imparting in-depth knowledge and skills to solve the problems through scientific approach 
-																Providing value education, hands-on training and self-employment courses</li><br>
-																<li>Promoting research interest among students and motivating them to pursue need based research</li>
+															<li>Imparting in-depth knowledge and skills to solve the problems through scientific approach</li><br>
+															<li>Providing value education, hands-on training and self-employment courses</li><br>
+															<li>Promoting research interest among students and motivating them to pursue need based research</li>
+
 
 
 															</ul>
