@@ -7,6 +7,7 @@ init_public_head();
 		<marquee>
 		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank">The DBT recommended financial support for 6 departments (i.e. Botany, Chemistry, Zoology, Physics, Computer Science and Mathematics) under the strengthening Component of the "Star College Scheme" </strong></a><span>&#9733;</span>
 		<span></span><strong><a href="<?php echo base_url('pdf/SSR_Report/SSR_REVISED_REPORT.pdf') ?>" target="_blank">NAAC - Self Study Report(SSR) </strong></a><span>&#9733;</span>
+		<span></span><strong><a href="<?php echo base_url('pdf/Alumni/Alumini_Association_Invitation.jpeg') ?>" target="_blank">NAAC - Self Study Report(SSR) </strong></a><span>&#9733;</span>
 		
 		<!-- <span>&#9733;</span><strong><a href="<?php echo base_url('pdf/Exam/UG_Time_Table_Nov_2021.pdf') ?>" target="_blank">Semester Examination Time Table for Nov 2021(UG)</strong></a><span>&#9733;</span>
 		<strong><a href="<?php echo base_url('pdf/Exam/PG_Time_Table_Nov_2021.pdf') ?>" target="_blank">Semester Examination Time Table for Nov 2021(PG)</strong></a><span>&#9733;</span> -->
