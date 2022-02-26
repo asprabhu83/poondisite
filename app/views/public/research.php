@@ -10,7 +10,7 @@ init_public_head();
 		<ul class="list-inline list-inline-with-arrows p">
 			<ul class="list-inline list-inline-with-arrows p">
 				<li><a href="<?php echo base_url()?>" class="text-white">Home </a></li>
-				<li>Research Projects</li>
+				<!-- <li>Research Projects</li> -->
 			</ul>
 		</ul>
 	</div>

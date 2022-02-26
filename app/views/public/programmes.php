@@ -10,7 +10,7 @@ init_public_head();
 		<ul class="list-inline list-inline-with-arrows p">
 			<ul class="list-inline list-inline-with-arrows p">
 				<li><a href="<?php echo base_url() ?>" class="text-white">Home </a></li>
-				<li>Programmes</li>
+				<!-- <li>Programmes</li> -->
 			</ul>
 		</ul>
 	</div>
@@ -27,7 +27,7 @@ init_public_head();
 						<!-- Classic Accordion-->
 						<div data-type="accordion" class="responsive-tabs responsive-tabs-custom">
 							<ul class="resp-tabs-list tabs-group-default" data-group="tabs-group-default">
-								<li>Undrgraduate Programmes</li>
+								<li>Undergraduate Programmes</li>
 								<li>Postgraduate Programmes</li>
 								<li>M.PHIL. Programmes (Full time and Part time)</li>
 								<li>Ph.D. Programmes</li>
