@@ -75,6 +75,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                     <ul class="list-inline list-inline-sm">
                                         <li><a href="https://www.facebook.com/spc.poondi/" target="_blank" class="icon fa fa-facebook icon-silver"></a></li>
                                         <li><a href="https://www.youtube.com/channel/UCXrJLcudKedf1LN3uQeZGUQ" target="_blank" class="icon fa fa-youtube-play icon-silver"></a></li>
+                                        <li><a href="https://www.youtube.com/watch?v=ecX7dcb_YKU" target="_blank">Alumni</a></li>
                                         <li><a href="https://www.linkedin.com/school/a.v.v.m.-sri-pushpam-college-poondi---613-503./" target="_blank" class="icon fa fa-linkedin-square icon-silver"></a></li>
                                         <li><a href="https://webmail.sripushpamcollege.co.in/" target="_blank" >Webmail</a></li>
                                     </ul>

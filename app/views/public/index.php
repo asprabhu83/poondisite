@@ -6,7 +6,7 @@ init_public_head();
 	<div class="alert alert-primary alert-dismissible" role="alert">
 		<marquee>
 		<span>&#9733;</span><strong><a href="<?php echo base_url('pdf/Alumni/Alumini_Association_Invitation.jpeg') ?>" target="_blank">Alumni Association Invitation </strong></a><span>&#9733;</span>
-		<span>&#9733;</span><strong><a href="<?php echo base_url('https://www.youtube.com/watch?v=ecX7dcb_YKU')?>" target="_blank">Alumni Association Meeting - YouTube live</strong></a><span>&#9733;</span>
+		<span></span><strong><a href="https://www.youtube.com/watch?v=ecX7dcb_YKU" target="_blank">Alumni Association Meeting - YouTube live</strong></a><span>&#9733;</span>
 		<span></span><strong><a href="<?php echo base_url('#') ?>" target="_blank">The DBT recommended financial support for 6 departments (i.e. Botany, Chemistry, Zoology, Physics, Computer Science and Mathematics) under the strengthening Component of the "Star College Scheme" </strong></a><span>&#9733;</span>
 		<span></span><strong><a href="<?php echo base_url('pdf/SSR_Report/SSR_REVISED_REPORT.pdf') ?>" target="_blank">NAAC - Self Study Report(SSR) </strong></a><span>&#9733;</span>
 		
