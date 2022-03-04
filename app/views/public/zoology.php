@@ -317,7 +317,7 @@ init_public_head();
 
 
 						<div style="overflow-x: auto;">
-							<h4 align="" class="text-bold offset-top-30" id="q-2">RESEARCH ACTIVITIES</h4>
+							<h4 align="" class="text-bold offset-top-30" id="q-2">FUNDED CONFERENCES </h4>
 							<br />
 							<table border="1px" cellpadding="4" cellspacing="5" height="100" style="width: 100%;" width="70">
 								<tbody></tbody>
@@ -463,6 +463,10 @@ init_public_head();
 									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/Dr.B.Gohila.pdf') ?>" target="_blank" rel="noopener">Dr.B.GOHILA</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
+								<tr>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/V.Kanagavalli.pdf') ?>" target="_blank" rel="noopener">Prof.V.KANAGAVALLI</a></th>
+									<td style="text-align: center;">Assistant Professor</td>
+								</tr>
 								
 								<!-- <tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/Prof.S.V.Bakiyalakshmi.pdf') ?>" target="_blank" rel="noopener">Mrs.S.V.BAKIYA LAKSHMI</a></th>
@@ -501,10 +505,7 @@ init_public_head();
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 
-								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/V.Kanagavalli.pdf') ?>" target="_blank" rel="noopener">Prof.V.KANAGAVALLI</a></th>
-									<td style="text-align: center;">Assistant Professor</td>
-								</tr>
+								
 								
 								
 							</tbody>
