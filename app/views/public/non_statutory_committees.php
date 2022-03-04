@@ -1323,7 +1323,7 @@ init_public_head();
 													<li>Minority Cell</li>
 													<li>OBC Cell</li>
 													<li>Cyber Crime prevention Committee</li>
-													<li>Magazine Committee</li>
+													<!-- <li>Magazine Committee</li> -->
 													<li>Curriculum Development Cell</li>
 													<li>Institution Social Responsible Cell(ISR)</li>
 													
