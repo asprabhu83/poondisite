@@ -280,35 +280,108 @@ init_public_head();
 									<tr>
 										<td>1.</td>
 										<td>Dr. B.Kaleeswaran</td>
-										<td>MAJOR SCIENTIFIC RESEARCH PROJECTS COMPLETED</td>
-										<td> Investigation of anti-urolithiatic activity by traditionally used medicinal plant Pedalium murex L. on kidney stone struvite crystal (DST-SERB)</td>
-										<td>2013-2014</td>
-										<td> Rs.22,50,000</td>
+										<td>MAJOR SCIENTIFIC RESEARCH PROJECT COMPLETED</td>
+										<!-- <td> Investigation of anti-urolithiatic activity by traditionally used medicinal plant Pedalium murex L. on kidney stone struvite crystal (DST-SERB)</td> -->
+										<td> DST-SERB</td>
+										<td>2014-2017</td>
+										<td> Rs.22,00,000</td>
 									</tr>
 									<tr>
 										<td>2.</td>
 										<td>Dr.R.Rajakumar</td>
-										<td>MINOR RESEARCH PROJECTS COMPLETED</td>
+										<td>MINOR RESEARCH PROJECT COMPLETED</td>
 										<td>UGC</td>
 										<td>2014-2016</td>
-										<td>Rs.4,00,000</td>
+										<td>Rs.3,67,000</td>
 									</tr>
 									<tr>
 										<td>3.</td>
 										<td>Dr.P.Nambirajan</td>
-										<td>MINOR RESEARCH PROJECTS COMPLETED</td>
+										<td>MINOR RESEARCH PROJECT COMPLETED</td>
 										<td>UGC</td>
-										<td>2014-2016</td>
-										<td>Rs.5,00,000</td>
+										<td>2015-2017</td>
+										<td>Rs.2,95,000</td>
 									</tr>
 									<tr>
 										<td>4.</td>
 										<td>Prof.C.Murthy</td>
-										<td>MINOR RESEARCH PROJECTS COMPLETED</td>
+										<td>MINOR RESEARCH PROJECT COMPLETED</td>
 										<td>UGC</td>
-										<td>2014 -2016</td>
-										<td>Rs.5,00,000</td>
+										<td>2017 -2019</td>
+										<td>Rs.1,65,000</td>
 									</tr>
+								</tbody>
+							</table>
+						</div> 
+
+
+
+						<div style="overflow-x: auto;">
+							<h4 align="" class="text-bold offset-top-30" id="q-2">RESEARCH ACTIVITIES</h4>
+							<br />
+							<table border="1px" cellpadding="4" cellspacing="5" height="100" style="width: 100%;" width="70">
+								<tbody></tbody>
+								<tbody>
+									<tr>
+										<th>S.No</th>
+										<th>Name of the Orgamizing Secretary</th>
+										<th>Title of the COnference</th>
+										<th>Name of funding agency</th>
+										<!-- <th>Amount sanctioned Rs</th> -->
+										<th>Date of the Event</th>
+									</tr>
+									<tr>
+										<td>1.</td>
+										<td>Dr. B.Kaleeswaran</td>
+										<td>IPR in Biodiversity and Biotechnology</td>
+										<!-- <td> Investigation of anti-urolithiatic activity by traditionally used medicinal plant Pedalium murex L. on kidney stone struvite crystal (DST-SERB)</td> -->
+										<td> NBA and NABARD </td>
+										<!-- <td> Rs.22,00,000</td> -->
+										<td>15 & 16 Sep 2015</td>
+									</tr>
+									<tr>
+										<td>2.</td>
+										<td>Dr.S.Ganesan</td>
+										<td>Trends in Healthcare and Biotechnology : Opportunities & Challenges </td>
+										<td>DST - SERB</td>
+										<!-- <td>Rs.3,67,000</td> -->
+										<td>22 & 23 Jan 2016</td>
+									</tr>
+									<tr>
+										<td>3.</td>
+										<td>Dr.S.Ganesan</td>
+										<td>Modern Trends in Healthcare and Biotechnology : Opportunities & Challenges </td>
+										<td>UGC</td>
+										<!-- <td>Rs.3,67,000</td> -->
+										<td>17 & 18 Aug 2017</td>
+									</tr>
+
+									<tr>
+										<td>4.</td>
+										<td>Dr. B.Kaleeswaran</td>
+										<td>Wetland Biodiversity and in conservation Startergy </td>
+										<!-- <td> Investigation of anti-urolithiatic activity by traditionally used medicinal plant Pedalium murex L. on kidney stone struvite crystal (DST-SERB)</td> -->
+										<td> NBA </td>
+										<!-- <td> Rs.22,00,000</td> -->
+										<td>30 & 31 Jan 2020</td>
+									</tr>
+
+									<!-- <tr>
+										<td>3.</td>
+										<td>Dr.P.Nambirajan</td>
+										<td>MINOR RESEARCH PROJECT COMPLETED</td>
+										<td>UGC</td>
+										<td>2015-2017</td>
+										<td>Rs.2,95,000</td>
+									</tr>
+									<tr>
+										<td>4.</td>
+										<td>Prof.C.Murthy</td>
+										<td>MINOR RESEARCH PROJECT COMPLETED</td>
+										<td>UGC</td>
+										<td>2017 -2019</td>
+										<td>Rs.1,65,000</td>
+									</tr> -->
 								</tbody>
 							</table>
 						</div> 
@@ -328,7 +401,7 @@ init_public_head();
 									<td style="text-align: center;">Associate Professor &amp; Coordinator</td>
 								</tr> -->
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/DR.R.Rajakumar.pdf') ?>" target="_blank" rel="noopener">Dr. R. Rajkumar</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/DR.R.Rajakumar.pdf') ?>" target="_blank" rel="noopener">Dr. R. Rajakumar</a></th>
 									<td style="text-align: center;">Associate Professor &amp; Coordinator</td>
 								</tr>
 								<!-- <tr>
@@ -336,7 +409,7 @@ init_public_head();
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr> -->
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.R.Pragashraj.pdf') ?>" target="_blank" rel="noopener">Dr. R. Prakashraj</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.R.Pragashraj.pdf') ?>" target="_blank" rel="noopener">Dr. R. Pragashraj</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
@@ -390,38 +463,50 @@ init_public_head();
 									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/Dr.B.Gohila.pdf') ?>" target="_blank" rel="noopener">Dr.B.GOHILA</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
-								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/Dr.P.Prabhu.pdf') ?>" target="_blank" rel="noopener">Prof.PRABHU</a></th>
-									<td style="text-align: center;">Assistant Professor</td>
-								</tr>
+								
 								<!-- <tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/Prof.S.V.Bakiyalakshmi.pdf') ?>" target="_blank" rel="noopener">Mrs.S.V.BAKIYA LAKSHMI</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr> -->
-								<tr>
-									<th><a href="#" target="_blank" rel="noopener">Prof. T. ANBALAGAN</a></th>
+								<!-- <tr>
+									<th><a href="#" target="_blank" rel="noopener">Dr.T. ANBALAGAN</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
-								</tr>
+								</tr> -->
 								<!-- <tr>
 									<th><a href="#" target="_blank" rel="noopener">Prof. G. SHAKILA</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr> -->
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/S.Sangeetha.pdf') ?>" target="_blank" rel="noopener">Prof.K.S.SANGEETHA</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/S.Sangeetha.pdf') ?>" target="_blank" rel="noopener">Dr.S.SANGEETHA</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/K.Malathy.pdf') ?>" target="_blank" rel="noopener">Prof.K.MALATHY</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/K.Malathy.pdf') ?>" target="_blank" rel="noopener">Dr.K.MALATHY</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
+								<tr>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/R.Priyadharshin.pdf') ?>" target="_blank" rel="noopener">Dr. R.Priyadharshini</a></th>
+									<td style="text-align: center;">Assistant Professor</td>
+								</tr>
+								<tr>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/Dr.P.Prabhu.pdf') ?>" target="_blank" rel="noopener">Dr.P.PRABHU</a></th>
+									<td style="text-align: center;">Assistant Professor</td>
+								</tr>
+								<tr>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/K.Arun.pdf') ?>" target="_blank" rel="noopener">Dr. K.Arun</a></th>
+									<td style="text-align: center;">Assistant Professor</td>
+								</tr>
+								<tr>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/T.Anbalagan.pdf') ?>" target="_blank" rel="noopener">Dr. T.Anbalagan</a></th>
+									<td style="text-align: center;">Assistant Professor</td>
+								</tr>
+
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/V.Kanagavalli.pdf') ?>" target="_blank" rel="noopener">Prof.V.KANAGAVALLI</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
-								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/S.Meenakshi.pdf') ?>" target="_blank" rel="noopener">Miss.S.MEENAKSHI</a></th>
-									<td style="text-align: center;">Assistant Professor</td>
-								</tr>
+								
+								
 							</tbody>
 						</table>
 					</div>

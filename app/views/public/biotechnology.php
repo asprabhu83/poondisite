@@ -424,16 +424,16 @@ init_public_head();
 									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/S.Meenakshi.pdf') ?>" target="_blank" rel="noopener">Miss.S.MEENAKSHI</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>-->
-								<tr>
+								<!-- <tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/Prof.S.V.Bakiyalakshmi.pdf') ?>" target="_blank" rel="noopener">Mrs.S.V.Bakiyalakshmi</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
-								</tr>
+								</tr> -->
 								<tr>
 									<th><a href="#" target="_blank" rel="noopener">Dr.S.Suguna</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="#" target="_blank" rel="noopener">Prof. G. Shakila</a></th>
+									<th><a href="#" target="_blank" rel="noopener">Prof. G. Sakila</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								
