@@ -11,7 +11,20 @@ init_public_head();
 
         <h5><strong>MOOC Intro video - Dr.V.Ravichandran :</strong></h5> <br />
         <div align="center">
-            <iframe width="800" height="400" src="https://www.youtube.com/watch?v=Xh5eVvWTxYI">Dr.VR </iframe>
+            <!-- <iframe width="800" height="400" src="https://www.youtube.com/watch?v=Xh5eVvWTxYI">Dr.VR </iframe> -->
+                 <iframe width="800" height="400" src="https://youtu.be/Xh5eVvWTxYI">Dr.VR </iframe>
+               
+        </div>
+
+        <div class="shell">
+        <h2><strong>SWAYAM</strong></h2>
+        <br />
+
+        <h5><strong>MOOC Intro video - Dr.S.Ganesan :</strong></h5> <br />
+        <div align="center">
+            <!-- <iframe width="800" height="400" src="https://www.youtube.com/watch?v=O1V32cL0Ono">Dr.VR </iframe> -->
+                 <iframe width="800" height="400" src="https://youtu.be/O1V32cL0Ono">Dr.SG </iframe>
+               
         </div>
         <ul>
 
