@@ -182,6 +182,16 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/E_Contents/e_contents.pdf') ?>"><span>E_Content</span></a>
                                                     </li>
+
+                                                    <li><a href="#"><span class="text-middle">Swayam</span></a>
+                                                        <ul class="rd-navbar-dropdown">
+                                                            <li><a href="<?php echo base_url('public/Swayam/V_Ravichandran_MOOC_Intro_Video.mp4') ?>"><span class="text-middle">MOOC Intro video - Dr.V.Ravichandran </span></a></li>
+                                                            <li><a href="<?php echo base_url('public/Swayam/S_Ganesan_MOOC_Intro_Video.mp4') ?>"><span class="text-middle">MOOC Intro video - Dr.S.Ganesan </span></a></li>
+                                                        </ul>
+                                                    </li> 
+
+                                                    <!-- <li class="active "><a href="<?php echo base_url('public/pdf/E_Contents/e_contents.pdf') ?>"><span>SWAYAM</span></a>
+                                                    </li> -->
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/Fees_Structure_2020_2021.pdf') ?>"><span>Fees Structure</span></a>
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/GO_D_184_dated_05_08_2021.pdf') ?>"><span>Admission Procedure</span></a>
