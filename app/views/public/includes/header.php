@@ -183,21 +183,21 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/E_Contents/e_contents.pdf') ?>"><span>E_Content</span></a>
                                                     </li>
 
-                                                    <li class="active"><a href="#"><span>PEDC</span></a>
+                                                    <li class="active"><a href="#"><span>Swayam</span></a>
                                                          <ul class="rd-navbar-dropdown">
-                                                            <li class="active "><a href="<?php echo base_url('pedc') ?>"><span>About PEDC</span></a>
+                                                            <li class="active "><a href="<?php echo base_url('swayam') ?>"><span>MOOC Intro video</span></a>
                                                             </li>
                                                         </ul>
                                                     </li>
                                                     
 
 
-                                                    <li><a href="#"><span class="text-middle">Swayam</span></a>
+                                                    <!-- <li><a href="#"><span class="text-middle">Swayam</span></a>
                                                         <ul class="rd-navbar-dropdown">
                                                             <li><a href="<?php echo base_url('public/Swayam/V_Ravichandran_MOOC_Intro_Video.mp4') ?>"><span class="text-middle">MOOC Intro video - Dr.V.Ravichandran </span></a></li>
                                                             <li><a href="<?php echo base_url('public/Swayam/S_Ganesan_MOOC_Intro_Video.mp4') ?>"><span class="text-middle">MOOC Intro video - Dr.S.Ganesan </span></a></li>
                                                         </ul>
-                                                    </li> 
+                                                    </li>  -->
 
                                                     <!-- <li class="active "><a href="<?php echo base_url('public/pdf/E_Contents/e_contents.pdf') ?>"><span>SWAYAM</span></a>
                                                     </li> -->

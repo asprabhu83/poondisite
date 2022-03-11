@@ -866,6 +866,12 @@ class Website extends App_Controller
         $this->data['menu_pedc'] = "active";
         $this->load->view('public/pedc',$this->data);
     }
+    public function swayam()
+    {
+        $this->data['title'] = "SWAYAM";
+        $this->data['menu_swayam'] = "active";
+        $this->load->view('public/swayam',$this->data);
+    }
     public function sc_st_cell()
     {
         $this->data['title'] = "SC & ST CELL";
