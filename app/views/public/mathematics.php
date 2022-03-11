@@ -290,11 +290,11 @@ init_public_head();
 									<th style="text-align: center;">Designation</th>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/AIDED/Dr.G.Marimuthu.pdf') ?>" target="_blank" rel="noopener">Dr.G. Marimuthu</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/AIDED/Dr.G.Marimuthu.pdf') ?>" target="_blank" rel="noopener">Dr. G. Marimuthu</a></th>
 									<td style="text-align: center;">Associate Professor & Co-ordinator</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/AIDED/Prof.S.Sankaranaryanan.pdf') ?>" target="_blank" rel="noopener"> Prof.S.Sankaranarayanan</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/AIDED/Prof.S.Sankaranaryanan.pdf') ?>" target="_blank" rel="noopener"> Dr .S. Sankaranarayanan</a></th>
 									<td style="text-align: center;">Associate Professor</td>
 								</tr>
 								<tr>
@@ -302,19 +302,19 @@ init_public_head();
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/AIDED/Dr. A.Venkatesh - Maths - Profile.pdf') ?>" target="_blank" rel="noopener">Dr.A.Venkatesh</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/AIDED/Dr. A.Venkatesh - Maths - Profile.pdf') ?>" target="_blank" rel="noopener">Dr. A. Venkatesh</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/AIDED/Dr.R.SANGEETHA.pdf') ?>" target="_blank" rel="noopener">Dr.R.Sangeetha</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/AIDED/Dr.R.SANGEETHA.pdf') ?>" target="_blank" rel="noopener">Dr. R. Sangeetha</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/AIDED/Prof.%20S.%20Prakasam.pdf') ?>" target="_blank" rel="noopener">Prof.S.Prakasam</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/AIDED/Prof.%20S.%20Prakasam.pdf') ?>" target="_blank" rel="noopener">Dr. S. Prakasam</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/AIDED/Prof.P.Syamala.pdf') ?>" target="_blank" rel="noopener">Prof.P.Syamala</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/AIDED/Prof.P.Syamala.pdf') ?>" target="_blank" rel="noopener">Dr. P. Syamala</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
@@ -338,28 +338,29 @@ init_public_head();
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
+									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/AIDED/Prof. E. Jayathi.pdf') ?>" target="_blank" rel="noopener">Prof. E. Jayanthi</a></th>
+									<td style="text-align: center;">Assistant Professor</td>
+								</tr>
+								<tr>
 									<th colspan="3">Self - Finance Staff</th>
-								</tr>
-								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/SELF-FINANCE/V.%20PANDIAN.pdf') ?>" target="_blank" rel="noopener">Prof. V .Pandiyan</a></th>
-									<td style="text-align: center;">Assistant Professor</td>
-								</tr>
-								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/SELF-FINANCE/M.USHA%20RANI.pdf') ?>" target="_blank" rel="noopener">Prof. M. Usha Rani</a></th>
-									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/SELF-FINANCE/J.Meena.pdf') ?>" target="_blank" rel="noopener">Prof. J. Meena</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/SELF-FINANCE/V.PUNITHA.pdf') ?>" target="_blank" rel="noopener">Prof. V. Punitha</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/SELF-FINANCE/V.%20PANDIAN.pdf') ?>" target="_blank" rel="noopener">Prof. V .Pandiyan</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
+									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/SELF-FINANCE/V.PUNITHA.pdf') ?>" target="_blank" rel="noopener">Prof. V. Punitha</a></th>
+									<td style="text-align: center;">Assistant Professor</td>
+								</tr>				
+								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/SELF-FINANCE/HEMA.R.pdf') ?>" target="_blank" rel="noopener">Prof. R. Hema</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
-								</tr>
+								</tr>		
+											
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/SELF-FINANCE/T.Kavitha.pdf') ?>" target="_blank" rel="noopener">Prof. T. Kavitha</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
@@ -369,15 +370,11 @@ init_public_head();
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/SELF-FINANCE/S.MANGAIYARKARASI.pdf') ?>" target="_blank" rel="noopener">Prof. S.Mankayarkarasi</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/SELF-FINANCE/S.MANGAIYARKARASI.pdf') ?>" target="_blank" rel="noopener">Prof. S. Mangaiyarkarasi</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/SELF-FINANCE/B%20SWAMINATHAN.pdf') ?>" target="_blank" rel="noopener">Prof. B. Swaminathan</a></th>
-									<td style="text-align: center;">Assistant Professor</td>
-								</tr>
-								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/SELF-FINANCE/S.RENUKA.pdf') ?>" target="_blank" rel="noopener">Prof. S. Renuga</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
@@ -389,23 +386,19 @@ init_public_head();
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/SELF-FINANCE/K.Tamilselvi.pdf') ?>" target="_blank" rel="noopener">Prof. G. K. Tamilselvi</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/SELF-FINANCE/S.Ramya.pdf') ?>" target="_blank" rel="noopener">Prof. S. Ramya</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/SELF-FINANCE/S.Ramya.pdf') ?>" target="_blank" rel="noopener">Prof. G. S. Ramya</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/SELF-FINANCE/B.Senthilkumar.pdf') ?>" target="_blank" rel="noopener">Prof. B. Senthilkumar</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/SELF-FINANCE/K.Vasuki.pdf') ?>" target="_blank" rel="noopener">Prof. K. Vasuki</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/SELF-FINANCE/P.Gomathy.pdf') ?>" target="_blank" rel="noopener">Dr. P. Gomathy</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/SELF-FINANCE/G.KANIMOZHI.pdf') ?>" target="_blank" rel="noopener">Prof. G. Kanimozhi</a></th>
-									<td style="text-align: center;">Assistant Professor</td>
-								</tr>
-								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/SELF-FINANCE/P.RAJAGOWRI.pdf') ?>" target="_blank" rel="noopener">Prof. P. Rajagowri</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/SELF-FINANCE/S. Aarthi.pdf') ?>" target="_blank" rel="noopener">Prof. S. Aarthi</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 							</tbody>

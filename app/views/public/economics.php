@@ -344,6 +344,15 @@ init_public_head();
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
+									<th><a href="<?php echo base_url('public/pdf/Departments/Economics/8.%20N.%20Loganathan.pdf') ?>" target="_blank" rel="noopener">Dr.U.Selvakumari</a></th>
+									<td style="text-align: center;">Assistant Professor</td>
+								</tr>
+								<tr>
+									<th><a href="<?php echo base_url('public/pdf/Departments/Economics/8.%20N.%20Loganathan.pdf') ?>" target="_blank" rel="noopener">Dr.P.Riaz Ahmed</a></th>
+									<td style="text-align: center;">Assistant Professor</td>
+								</tr>
+
+								<tr>
 									<th colspan="3">Self - Finance Faculty</th>
 								</tr>
 								<tr>

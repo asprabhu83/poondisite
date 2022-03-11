@@ -248,11 +248,19 @@ init_public_head();
                                     <td style="text-align: center;">Assistant Professor </td>
                                 </tr>
                                 <tr>
-                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">rof. S. Muthuramachandran</a></th>
-                                    <td style="text-align: center;">Assistant Professor</td>
+                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Prof. R. Elavarasi </a></th>
+                                    <td style="text-align: center;">Assistant Professor </td>
                                 </tr>
                                 <tr>
                                     <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Prof. R. Nishanthi </a></th>
+                                    <td style="text-align: center;">Assistant Professor</td>
+                                </tr>
+                                <tr>
+                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Prof. C.Rajesh </a></th>
+                                    <td style="text-align: center;">Assistant Professor</td>
+                                </tr>
+                                <tr>
+                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Prof. S. Umaranjani</a></th>
                                     <td style="text-align: center;">Assistant Professor</td>
                                 </tr>
                                 <tr>
@@ -260,9 +268,19 @@ init_public_head();
                                     <td style="text-align: center;">Assistant Professor</td>
                                 </tr>
                                 <tr>
-                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Prof. S. Umaranjani</a></th>
+                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Prof. A. Karthikeyan</a></th>
                                     <td style="text-align: center;">Assistant Professor</td>
                                 </tr>
+                                <tr>
+                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Dr. S. Muthuramachandran</a></th>
+                                    <td style="text-align: center;">Assistant Professor</td>
+                                </tr>
+                                <tr>
+                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Dr. J. Anbu Srinivasan</a></th>
+                                    <td style="text-align: center;">Assistant Professor</td>
+                                </tr>
+                                
+                                
                             </tbody>
                         </table>
                     </div>

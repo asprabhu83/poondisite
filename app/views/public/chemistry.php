@@ -238,19 +238,19 @@ init_public_head();
 									<td style="text-align: center;">Associate Professor &amp; Coordinator</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/AIDED/4.%20M.%20Pramesh.pdf')?>" target="_blank" rel="noopener">Prof.M. Pramesh</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/AIDED/4.%20M.%20Pramesh.pdf')?>" target="_blank" rel="noopener">Dr. M. Pramesh</a></th>
 									<td style="text-align: center;">Associate Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/AIDED/5.%20G.%20Muruganantham.pdf')?>" target="_blank" rel="noopener">Prof.G.Muruganandam</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/AIDED/5.%20G.%20Muruganantham.pdf')?>" target="_blank" rel="noopener">Dr. G. Muruganandam</a></th>
 									<td style="text-align: center;">Associate Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/AIDED/6.M.Pugazhenthi.pdf')?>" target="_blank" rel="noopener">Prof.M. Pugazhendhi</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/AIDED/6.M.Pugazhenthi.pdf')?>" target="_blank" rel="noopener">Dr. M. Pugazhendhi</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/AIDED/7.%20Dr.%20C.%20Thillaiyadi%20Valliammai.pdf')?>" target="_blank" rel="noopener">Dr.C.Thillaiyadi Valliyammai</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/AIDED/7.%20Dr.%20C.%20Thillaiyadi%20Valliammai.pdf')?>" target="_blank" rel="noopener">Dr.C . Thillaiyadi Valliyammai</a></th>
 									<td style="text-align: center;">Associate Professor</td>
 								</tr>
 								<tr>
@@ -262,7 +262,7 @@ init_public_head();
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/AIDED/10.%20Dr.%20V.Thirumurugan.pdf')?>" target="_blank" rel="noopener">Dr.V.Thirumurugan</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/AIDED/10.%20Dr.%20V.Thirumurugan.pdf')?>" target="_blank" rel="noopener">Dr. V. Thirumurugan</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
@@ -270,50 +270,50 @@ init_public_head();
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/AIDED/12.%20T.%20Periathambi.pdf')?>" target="_blank" rel="noopener">Prof.T. Periathambi</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/AIDED/12.%20T.%20Periathambi.pdf')?>" target="_blank" rel="noopener">Prof. T. Periathambi</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/AIDED/13.%20Dr.%20S.%20Sivajiganesan.pdf')?>" target="_blank" rel="noopener">Dr.S. Sivajiganesan</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/AIDED/13.%20Dr.%20S.%20Sivajiganesan.pdf')?>" target="_blank" rel="noopener">Dr. S. Sivajiganesan</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/AIDED/14.%20Dr.%20S.%20K.%20Thiayagarajan.pdf')?>" target="_blank" rel="noopener">Dr.S. K. Thiyagarajan</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/AIDED/14.%20Dr.%20S.%20K.%20Thiayagarajan.pdf')?>" target="_blank" rel="noopener">Dr. S. K. Thiyagarajan</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/AIDED/15.%20Dr.%20G.%20Vishnu%20varathan.pdf')?>" target="_blank" rel="noopener">Dr.G.Vishnu vardhanaraj</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/AIDED/15.%20Dr.%20G.%20Vishnu%20varathan.pdf')?>" target="_blank" rel="noopener">Dr. G. Vishnu vardhanaraj</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/AIDED/16.Dr.%20S.Jothi%20Ramalingam.pdf')?>" target="_blank" rel="noopener">Dr.S.Jothiramalingam</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/AIDED/16.Dr.%20S.Jothi%20Ramalingam.pdf')?>" target="_blank" rel="noopener">Dr. S. Jothiramalingam</a></th>
+									<td style="text-align: center;">Assistant Professor</td>
+								</tr>
+								<tr>
+									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/AIDED/Dr.Ashokkumar.pdf')?>" target="_blank" rel="noopener">Dr. Ashokkumar</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
 									<th colspan="3">Self Finance Faculty</th>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/SELF%20FINANCE/1.%20Dr.%20T.%20Thirugnanam.pdf')?>" target="_blank" rel="noopener">Dr.T.Thirugnanam</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/SELF%20FINANCE/1.%20Dr.%20T.%20Thirugnanam.pdf')?>" target="_blank" rel="noopener">Dr. T. Thirugnanam</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/SELF%20FINANCE/2..Dr.K.Murugaiah.pdf')?>" target="_blank" rel="noopener">Dr.K.Murugaiah</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/SELF%20FINANCE/2..Dr.M.Chandramohan.pdf')?>" target="_blank" rel="noopener">Dr. M. Chandramohan</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/SELF%20FINANCE/3.%20Dr.V.%20Roopa.pdf')?>" target="_blank" rel="noopener">Dr.V.Roopa</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/SELF%20FINANCE/2..Dr.K.Murugaiah.pdf')?>" target="_blank" rel="noopener">Dr. K. Murugaiah</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/SELF%20FINANCE/4.%20Dr.%20B.Amutha.pdf')?>" target="_blank" rel="noopener">Dr.B. Amutha</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/SELF%20FINANCE/3.%20Dr.V.%20Roopa.pdf')?>" target="_blank" rel="noopener">Dr. V. Roopa</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/SELF%20FINANCE/5.%20G.%20Abinaya.pdf')?>" target="_blank" rel="noopener">Prof.G.Abinaya</a></th>
-									<td style="text-align: center;">Assistant Professor</td>
-								</tr>
-								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/SELF%20FINANCE/6.%20Dr.%20R.Yamunadevi.pdf')?>" target="_blank" rel="noopener">Dr.R. Yamuna Devi</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/SELF%20FINANCE/4.%20Dr.%20B.Amutha.pdf')?>" target="_blank" rel="noopener">Dr. B. Amutha</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
@@ -321,17 +321,18 @@ init_public_head();
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/SELF%20FINANCE/8.%20P.%20Muhil.pdf')?>" target="_blank" rel="noopener">Prof.P.Muhil</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/SELF%20FINANCE/10.%20K.%20Aruna%20Devi.pdf')?>" target="_blank" rel="noopener">Dr. K. Aruna Devi</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/SELF%20FINANCE/9.%20S.Surya.pdf')?>" target="_blank" rel="noopener">Prof.S. Suriya</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/SELF%20FINANCE/5.%20G.%20Abinaya.pdf')?>" target="_blank" rel="noopener">Prof. G. Abinaya</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/SELF%20FINANCE/10.%20K.%20Aruna%20Devi.pdf')?>" target="_blank" rel="noopener">Dr.K. Aruna Devi</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/chemistry/SELF%20FINANCE/9.%20S.Surya.pdf')?>" target="_blank" rel="noopener">Prof. S. Suriya</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
+								
 							</tbody>
 						</table>
 					</div>

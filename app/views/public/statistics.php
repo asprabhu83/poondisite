@@ -180,13 +180,16 @@ init_public_head();
 									<th style="text-align: center;">Designation</th>
 								</tr>
 								<tr>
+									<th colspan="3">Self - Finance Staff</th>
+								</tr>
+								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/statistics/Statistics-1.N.PRIYA-converted.pdf') ?>" target="_blank" rel="noopener"> Prof. N. Priya</a></th>
 									<td style="text-align: center;">Assistant professor</td>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<th><a href="#" target="_blank" rel="noopener"> Prof. A. Poongudi</a></th>
 									<td style="text-align: center;">Assistant professor</td>
-								</tr>
+								</tr> -->
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/statistics/StATISTICS-3 .S.BHUVANESWARI.pdf') ?>" target="_blank" rel="noopener"> Prof. S. Bhuvaneshwari</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
@@ -197,6 +200,10 @@ init_public_head();
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/statistics/Statistics-5. P. Gayathri.pdf') ?>" target="_blank" rel="noopener"> Prof. P. Gayathri</a></th>
+									<td style="text-align: center;">Assistant Professor</td>
+								</tr>
+								<tr>
+									<th><a href="<?php echo base_url('public/pdf/Departments/statistics/Statistics-5. K.Vetrivel.pdf') ?>" target="_blank" rel="noopener"> Dr. K. Vetrivel</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 							</tbody>

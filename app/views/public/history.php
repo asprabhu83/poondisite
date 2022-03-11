@@ -424,10 +424,10 @@ init_public_head();
 									<th><a href="<?php echo base_url('public/pdf/Departments/History/2.Prabakaran.pdf') ?>" target="_blank" rel="noopener">Dr.S.Prabhakaran</a></th>
 									<td style="text-align: center;">Assistant Professor </td>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/History/3.Ganesan.pdf') ?>" target="_blank" rel="noopener">Dr.P.Ganesan</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
-								</tr>
+								</tr> -->
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/History/4.pandiyan_doc.pdf') ?>" target="_blank" rel="noopener">Dr.N.Pandiyan</a></th>
 									<td style="text-align: center;">Assistant Professor</td>

@@ -361,19 +361,19 @@ init_public_head();
 									<td style="text-align: center;">Associate Professor &amp; Coordinator</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/3.Dr.%20B.%20Sakthivel.pdf') ?>" target="_blank" rel="noopener">Dr.B. Sakthivel</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/3.Dr.%20B.%20Sakthivel.pdf') ?>" target="_blank" rel="noopener">Dr. B. Sakthivel</a></th>
 									<td style="text-align: center;">Associate Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/4.%20Dr.%20G.%20Pasupathi.pdf') ?>" target="_blank" rel="noopener">Dr.G. Pasupathi</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/4.%20Dr.%20G.%20Pasupathi.pdf') ?>" target="_blank" rel="noopener">Dr. G. Pasupathi</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/6.%20Dr.%20A.%20R.%20Balu.pdf') ?>" target="_blank" rel="noopener">Dr.A.R. Balu</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/6.%20Dr.%20A.%20R.%20Balu.pdf') ?>" target="_blank" rel="noopener">Dr. A. R. Balu</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/7.%20Dr.%20N.%20Manjula.pdf') ?>" target="_blank" rel="noopener">Dr.N. Manjula</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/7.%20Dr.%20N.%20Manjula.pdf') ?>" target="_blank" rel="noopener">Dr. N. Manjula</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
@@ -381,54 +381,55 @@ init_public_head();
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/9.%20Dr.%20S.%20Ravishankar.pdf') ?>" target="_blank" rel="noopener">S. RaviShankar</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/9.%20Dr.%20S.%20Ravishankar.pdf') ?>" target="_blank" rel="noopener">Dr. S. RaviShankar</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/10.%20Dr.%20M.%20Vasanthi.pdf') ?>" target="_blank" rel="noopener">Dr.M. Vasanthi</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/10.%20Dr.%20M.%20Vasanthi.pdf') ?>" target="_blank" rel="noopener">Dr. M. Vasanthi</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/11.%20Dr.%20C.%20Rajeswari.pdf') ?>" target="_blank" rel="noopener">Dr.C. Rajashree</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/11.%20Dr.%20C.%20Rajeswari.pdf') ?>" target="_blank" rel="noopener">Dr. C. Rajashree</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/12.%20Dr.%20M.%20Suganya.pdf') ?>" target="_blank" rel="noopener">M. Suganya</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/12.%20Dr.%20M.%20Suganya.pdf') ?>" target="_blank" rel="noopener">Dr. M. Suganya</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/13.%20Dr.%20%20B.%20Deepa.pdf') ?>" target="_blank" rel="noopener">B. Deepa</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/13.%20Dr.%20%20B.%20Deepa.pdf') ?>" target="_blank" rel="noopener">Dr. B. Deepa</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/14.%20Dr.%20K.%20Muruganantham.pdf') ?>" target="_blank" rel="noopener">Dr.K. Murugananthan</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/14.%20Dr.%20K.%20Muruganantham.pdf') ?>" target="_blank" rel="noopener">Dr. K. Murugananthan</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/15.%20M.%20Suresh.pdf') ?>" target="_blank" rel="noopener">M. Suresh</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/15.%20M.%20Suresh.pdf') ?>" target="_blank" rel="noopener">Dr. M. Suresh</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/16.%20Dr.%20K.%20Thirumurugan.pdf') ?>" target="_blank" rel="noopener">K. Thirumurugan, Ph.D.</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/16.%20Dr.%20K.%20Thirumurugan.pdf') ?>" target="_blank" rel="noopener">Dr. K. Thirumurugan</a></th>
+									<td style="text-align: center;">Assistant Professor</td>
+								</tr>
+								<tr>
+									<th><a href="<?php echo base_url('public/pdf/Departments/physics/AIDED/N.Balaguru.pdf') ?>" target="_blank" rel="noopener">Dr. N. Balaguru</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
 									<th colspan="3">Self - Finance Staff</th>
 								</tr>
+								
 								<tr>
-									<th><a href="#" target="_blank" rel="noopener">Dr. N. Balaguru</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/physics/SELF%20FINANCE/2.%20Dr.%20K.%20UMA.pdf') ?>" target="_blank" rel="noopener">Dr. K. Uma</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/physics/SELF%20FINANCE/2.%20Dr.%20K.%20UMA.pdf') ?>" target="_blank" rel="noopener">Dr. k.Uma</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/physics/SELF%20FINANCE/R.Sridevi.pdf') ?>" target="_blank" rel="noopener">Prof. R. Sridevi</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/physics/SELF%20FINANCE/3.%20G.%20Thennarasu.pdf') ?>" target="_blank" rel="noopener">Prof. G.Thennarasu</a></th>
-									<td style="text-align: center;">Assistant Professor</td>
-								</tr>
-								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/physics/SELF%20FINANCE/4.%20S.%20Hemalatha.pdf') ?>" target="_blank" rel="noopener">Prof. S.Hemalatha</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/physics/SELF%20FINANCE/C.Kanimozhi.pdf') ?>" target="_blank" rel="noopener">Prof. C. Kanimozhi</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>

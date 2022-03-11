@@ -202,25 +202,26 @@ init_public_head();
 									<th colspan="3">Self Finance Faculty</th>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/Geography/1.%20Bhavani%20Profile.pdf') ?>" target="_blank" rel="noopener">T.BHAVANI </a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/Geography/1.%20Bhavani%20Profile.pdf') ?>" target="_blank" rel="noopener">Prof. T. BHAVANI </a></th>
 									<td style="text-align: center;">Assistant Professor and Coordinator</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/Geography/2.%20Sakthi%20Profile.pdf') ?>" target="_blank" rel="noopener">A.SAKTHI PREETHA </a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/Geography/2.%20Sakthi%20Profile.pdf') ?>" target="_blank" rel="noopener">Prof. A. SAKTHI PREETHA </a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/Geography/3.%20Subhashini%20Profile.pdf') ?>" target="_blank" rel="noopener">M. SUBASHINI </a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/Geography/3.%20Subhashini%20Profile.pdf') ?>" target="_blank" rel="noopener">Prof. M. SUBASHINI </a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/Geography/Geography-Poongothai-profile.pdf') ?>" target="_blank" rel="noopener">M.POONGOTHAI</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/Geography/Surega-Profile.pdf') ?>" target="_blank" rel="noopener">Prof. R. SUREGA</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/Geography/Surega-Profile.pdf') ?>" target="_blank" rel="noopener">R. SUREGA</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/Geography/Geography-Poongothai-profile.pdf') ?>" target="_blank" rel="noopener">Prof. M. POONGOTHAI</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
+							
 							</tbody>
 						</table>
 					</div>

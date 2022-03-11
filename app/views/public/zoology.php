@@ -413,15 +413,15 @@ init_public_head();
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/PROF.P.Kavitha.pdf') ?>" target="_blank" rel="noopener">Dr.P. Kavitha</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/PROF.P.Kavitha.pdf') ?>" target="_blank" rel="noopener">Dr. P. Kavitha</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.S.Vijayakumar.pdf') ?>" target="_blank" rel="noopener">Dr.S. Vijayakumar</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.S.Vijayakumar.pdf') ?>" target="_blank" rel="noopener">Dr. S. Vijayakumar</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.K.Jayaseelan.pdf') ?>" target="_blank" rel="noopener">Dr.K. Jayaseelan</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.K.Jayaseelan.pdf') ?>" target="_blank" rel="noopener">Dr. K. Jayaseelan</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<!-- <tr>
@@ -429,42 +429,40 @@ init_public_head();
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr> -->
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.B.%20Kaleeswaran.pdf') ?>" target="_blank" rel="noopener">Dr. B.Kaleeswaran</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.B.%20Kaleeswaran.pdf') ?>" target="_blank" rel="noopener">Dr. B. Kaleeswaran</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.S.%20Ganesan.pdf') ?>" target="_blank" rel="noopener">Dr. S.Ganesan</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.S.%20Ganesan.pdf') ?>" target="_blank" rel="noopener">Dr. S. Ganesan</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.M.Ramasamy.pdf') ?>" target="_blank" rel="noopener">Dr.M.RAMASAMY</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.M.Ramasamy.pdf') ?>" target="_blank" rel="noopener">Dr. M. RAMASAMY</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.P.Nambirajan.pdf') ?>" target="_blank" rel="noopener">Dr.P.NAMBIRAJAN</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.P.Nambirajan.pdf') ?>" target="_blank" rel="noopener">Dr. P. NAMBIRAJAN</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.G.Devendran.pdf') ?>" target="_blank" rel="noopener">Dr.G.DEVENDRAN</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.G.Devendran.pdf') ?>" target="_blank" rel="noopener">Dr. G. DEVENDRAN</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.R.Sripriya.pdf') ?>" target="_blank" rel="noopener">Dr.R.SRIPRIYA</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.R.Sripriya.pdf') ?>" target="_blank" rel="noopener">Dr. R. SRIPRIYA</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.K.Kumar.pdf') ?>" target="_blank" rel="noopener">Dr.K.KUMAR</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.K.Kumar.pdf') ?>" target="_blank" rel="noopener">Dr. K. KUMAR</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th colspan="3">Self - Finance Staff</th>
-								</tr>
-								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/Dr.B.Gohila.pdf') ?>" target="_blank" rel="noopener">Dr.B.GOHILA</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/Dr.B.Gohila.pdf') ?>" target="_blank" rel="noopener">Dr. B. GOHILA</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
+													
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/V.Kanagavalli.pdf') ?>" target="_blank" rel="noopener">Prof.V.KANAGAVALLI</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/V.Kanagavalli.pdf') ?>" target="_blank" rel="noopener">Prof. V. KANAGAVALLI</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								
@@ -481,31 +479,40 @@ init_public_head();
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr> -->
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/S.Sangeetha.pdf') ?>" target="_blank" rel="noopener">Dr.S.SANGEETHA</a></th>
+									<th colspan="3">Self - Finance Staff</th>
+								</tr>
+								<tr>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/S.Sangeetha.pdf') ?>" target="_blank" rel="noopener">Dr. S. SANGEETHA</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/K.Malathy.pdf') ?>" target="_blank" rel="noopener">Dr.K.MALATHY</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/K.Malathy.pdf') ?>" target="_blank" rel="noopener">Dr. K. MALATHY</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/R.Priyadharshin.pdf') ?>" target="_blank" rel="noopener">Dr. R.Priyadharshini</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/R.Priyadharshin.pdf') ?>" target="_blank" rel="noopener">Dr. R. Priyadharshini</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/Dr.P.Prabhu.pdf') ?>" target="_blank" rel="noopener">Dr.P.PRABHU</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/Dr.P.Prabhu.pdf') ?>" target="_blank" rel="noopener">Dr. P. PRABHU</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/K.Arun.pdf') ?>" target="_blank" rel="noopener">Dr. K.Arun</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/K.Arun.pdf') ?>" target="_blank" rel="noopener">Dr. K. Arun</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/T.Anbalagan.pdf') ?>" target="_blank" rel="noopener">Dr. T.Anbalagan</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/T.Anbalagan.pdf') ?>" target="_blank" rel="noopener">Dr. T. Anbalagan</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
-
-								
+								<!-- <tr>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/Dr.Suguna.pdf') ?>" target="_blank" rel="noopener">Dr. Suguna</a></th>
+									<td style="text-align: center;">Assistant Professor</td>
+								</tr>
+								<tr>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/G.Sakila.pdf') ?>" target="_blank" rel="noopener">Prof. G. Sakila</a></th>
+									<td style="text-align: center;">Assistant Professor</td>
+								</tr> -->
 								
 								
 							</tbody>

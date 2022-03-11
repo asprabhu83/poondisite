@@ -193,23 +193,23 @@ init_public_head();
                                     <th colspan="3">Self Finance Faculty</th>
                                 </tr>
                                 <tr>
-                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Dr.Jegan Pavul </a></th>
+                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Dr.P. Jegan </a></th>
                                     <td style="text-align: center;">Director </td>
                                 </tr>
                                 <tr>
-                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Dr.P.Dhanalakshmi</a></th>
+                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Dr. P. Dhanalakshmi</a></th>
                                     <td style="text-align: center;">Assistant Professor</td>
                                 </tr>
                                 <tr>
-                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Dr.N.Alagusundaram </a></th>
+                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Dr. N. Alagusundaram </a></th>
                                     <td style="text-align: center;">Assistant Professor</td>
                                 </tr>
                                 <tr>
-                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Dr.D.Suresh</a></th>
+                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Dr. D. Suresh</a></th>
                                     <td style="text-align: center;">Assistant Professor</td>
                                 </tr>
                                 <tr>
-                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Dr.B.Mala</a></th>
+                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Dr. B. Mala</a></th>
                                     <td style="text-align: center;">Assistant Professor</td>
                                 </tr>
                             </tbody>

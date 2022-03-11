@@ -372,10 +372,6 @@ init_public_head();
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/botany/18.%20Dr.%20D.%20K.%20Usha.pdf') ?>" target="_blank" rel="noopener">Dr.D.K.Usha</a></th>
-									<td style="text-align: center;">Assistant Professor</td>
-								</tr>
-								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/botany/19.%20R.ELAKIYA.pdf') ?>" target="_blank" rel="noopener">Mrs. R. Elakkiya </a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>

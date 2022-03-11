@@ -193,7 +193,7 @@ init_public_head();
 									<td>Associate Professor</td>
 								</tr>
 								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/aided/3.Prof. A . J.R.pdf') ?>" target="_blank" rel="noopener">Prof. A. Jeya roja</a></td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/aided/3.Prof. A . J.R.pdf') ?>" target="_blank" rel="noopener">Dr.A.Jeya roja</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
@@ -248,10 +248,7 @@ init_public_head();
 									<td>Dr. M. Ramakrishnan</td>
 									<td>Assistant Professor</td>
 								</tr>
-								<tr>
-									<td>Dr. M. Gnanasankari</td>
-									<td>Assistant Professor</td>
-								</tr>
+								
 								<tr>
 									<td>Dr. R. Shanthalakshmi</td>
 									<td>Assistant Professor</td>
@@ -261,46 +258,31 @@ init_public_head();
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
+									<td>Dr. M. Gnanasankari</td>
+									<td>Assistant Professor</td>
+								</tr>
+								<tr>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Dr. P. Sabitha</a></td>
+									<td>Assistant Professor</td>
+								</tr>
+								<tr>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/') ?>" target="_blank" rel="noopener">Prof. B.Iniyan Ilango</a></td>
+									<td>Assistant Professor</td>
+								</tr>
+								<tr>
 									<th colspan="3">Self - Finance Staff</th>
 								</tr>
 								<tr>
 									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/1.Dr.S.V.pdf') ?>" target="_blank" rel="noopener">Dr. S. Vijayakumar</a></td>
 									<td>Assistant Professor</td>
 								</tr>
-								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Prof. S. Sankar</a></td>
-									<td>Assistant Professor</td>
-								</tr>
-								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Prof. V. Jothieeswaran</a></td>
-									<td>Assistant Professor</td>
-								</tr>
-								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Prof. V. Sinekitha valli</a></td>
-									<td>Assistant Professor</td>
-								</tr>
-								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Prof. S. Lakshmi</a></td>
-									<td>Assistant Professor</td>
-								</tr>
+
 								<tr>
 									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Prof. D. Mahalakshmi</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
 									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Prof. R. Vijaya lakshmi</a></td>
-									<td>Assistant Professor</td>
-								</tr>
-								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Dr. B. Sudha</a></td>
-									<td>Assistant Professor</td>
-								</tr>
-								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Dr. P. Mohana</a></td>
-									<td>Assistant Professor</td>
-								</tr>
-								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Dr. P. Sabitha</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
@@ -313,6 +295,11 @@ init_public_head();
 								</tr>
 								<tr>
 									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Dr. K. Siyamala</a></td>
+									<td>Assistant Professor</td>
+								</tr>
+
+								<tr>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Prof. S. Sankar</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
@@ -328,6 +315,52 @@ init_public_head();
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/') ?>" target="_blank" rel="noopener">Prof. G. Muruganandam</a></td>
+									<td>Assistant Professor</td>
+								</tr>
+								<tr>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/') ?>" target="_blank" rel="noopener">Prof. G. Muruganandam</a></td>
+									<td>Assistant Professor</td>
+								</tr>
+								<tr>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/') ?>" target="_blank" rel="noopener">Dr. B.Rajalakshmi</a></td>
+									<td>Assistant Professor</td>
+								</tr>
+								<tr>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/') ?>" target="_blank" rel="noopener">Dr. U.Jothimalar</a></td>
+									<td>Assistant Professor</td>
+								</tr>
+								<tr>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/') ?>" target="_blank" rel="noopener">Prof. N.Chithra</a></td>
+									<td>Assistant Professor</td>
+								</tr>
+								<tr>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/') ?>" target="_blank" rel="noopener">Dr. C.Poomathi</a></td>
+									<td>Assistant Professor</td>
+								</tr>
+								<tr>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Prof. V. Sinekitha valli</a></td>
+									<td>Assistant Professor</td>
+								</tr>
+								<tr>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/') ?>" target="_blank" rel="noopener">Prof. P.Yazhmozhi</a></td>
+									<td>Assistant Professor</td>
+								</tr>
+								
+								<!-- <tr>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Prof. S. Lakshmi</a></td>
+									<td>Assistant Professor</td>
+								</tr>
+								
+								<tr>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Dr. B. Sudha</a></td>
+									<td>Assistant Professor</td>
+								</tr> -->
+								<!-- <tr>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Dr. P. Mohana</a></td>
+									<td>Assistant Professor</td>
+								</tr>
+								<tr>
 									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Prof. B. Rajalakshmi</a></td>
 									<td>Assistant Professor</td>
 								</tr>
@@ -338,7 +371,7 @@ init_public_head();
 								<tr>
 									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Prof. N. Chitra</a></td>
 									<td>Assistant Professor</td>
-								</tr>
+								</tr> -->
 							</tbody>
 						</table>
 					</div>

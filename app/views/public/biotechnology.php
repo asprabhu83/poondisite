@@ -429,6 +429,9 @@ init_public_head();
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr> -->
 								<tr>
+									<th colspan="3">Self &ndash; Finance Faculty</th>
+								</tr>
+								<tr>
 									<th><a href="#" target="_blank" rel="noopener">Dr.S.Suguna</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
