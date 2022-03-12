@@ -45,7 +45,7 @@ init_public_head();
 											<tr>
 												<td><strong>Degree</strong></td>
 												<td><strong>Subject</strong></td>
-												<td><strong>Year of affilication</strong></td>
+												<td><strong>Year of affiliation</strong></td>
 											</tr>
 											<tr>
 												<td>B.A.</td>
