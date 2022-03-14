@@ -183,6 +183,14 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/E_Contents/e_contents.pdf') ?>"><span>E_Content</span></a>
                                                     </li>
 
+                                                    <li class="active"><a href="#"><span>Education Ontology</span></a>
+                                                         <ul class="rd-navbar-dropdown">
+                                                            <li class="active "><a href="<?php echo base_url('edu_ontology') ?>"><span>Computer Science</span></a>
+
+                                                            </li>
+                                                        </ul>
+                                                    </li>
+
                                                     <li class="active"><a href="#"><span>Swayam</span></a>
                                                          <ul class="rd-navbar-dropdown">
                                                             <li class="active "><a href="<?php echo base_url('swayam') ?>"><span>MOOC Intro video</span></a>
@@ -205,7 +213,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/GO_D_184_dated_05_08_2021.pdf') ?>"><span>Admission Procedure</span></a>
                                                     </li>
-                                                    <li class="active "><a href="<?php echo base_url('public/pdf/calender_2020_2021.pdf') ?>"><span>Academic Calender 2020-21</span></a>
+                                                    <li class="active "><a href="<?php echo base_url('public/pdf/calender_2021_2022.pdf') ?>"><span>Academic Calender 2020-21</span></a>
                                                     </li>
                                                    
                                                     <!-- <li class="active"><a href="#"><span>Programme</span></a>

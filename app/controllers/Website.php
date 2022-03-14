@@ -872,6 +872,14 @@ class Website extends App_Controller
         $this->data['menu_swayam'] = "active";
         $this->load->view('public/swayam',$this->data);
     }
+
+    public function edu_ontology()
+    {
+        $this->data['title'] = "edu_ontology";
+        $this->data['menu_edu_ontology'] = "active";
+        $this->load->view('public/edu_ontology',$this->data);
+    }
+
     public function sc_st_cell()
     {
         $this->data['title'] = "SC & ST CELL";
