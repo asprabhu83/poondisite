@@ -213,7 +213,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/GO_D_184_dated_05_08_2021.pdf') ?>"><span>Admission Procedure</span></a>
                                                     </li>
-                                                    <li class="active "><a href="<?php echo base_url('public/pdf/calender_2021_2022.pdf') ?>"><span>Academic Calender 2020-21</span></a>
+                                                    <li class="active "><a href="<?php echo base_url('public/pdf/calender_2021_2022.pdf') ?>"><span>Academic Calender 2021-22</span></a>
                                                     </li>
                                                    
                                                     <!-- <li class="active"><a href="#"><span>Programme</span></a>
