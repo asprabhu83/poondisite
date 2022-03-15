@@ -130,7 +130,7 @@ init_public_head();
 
                     <div class="cell-xs-12 cell-sm-5 cell-md-4 cell-lg-2 offset-lg-top-0">
                         <div class="inset-lg-left-30 inset-lg-right-30">
-                            <div class="inset-md-right-36"><a class="brand">Hostel </a>
+                            <div class="inset-md-right-36"><a class="brand">Placement Office </a>
                                 
                                 <ul>
                                     <ul>
