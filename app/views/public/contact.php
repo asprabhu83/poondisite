@@ -135,7 +135,7 @@ init_public_head();
                                 <ul>
                                     <ul>
                                        
-                                       <p><strong>Hostel Warden </strong> <br />Srimathi Sethukannamal Hostel <br /> A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 04374-239522<br /><strong>E-mail :</strong> hostel.boys@sripushpamcollege.co.in<br />hostel.girls@sripushpamcollege.co.in<br /></p>
+                                       <p><strong>Placement Officer </strong> <br /> A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9443963108<br /><strong>E-mail :</strong> placement@sripushpamcollege.co.in<br /><br /></p>
 		                               
                                     </ul>
                                 </ul>
@@ -143,7 +143,20 @@ init_public_head();
                         </div>
                     </div>
 
-
+                    <!-- <div class="cell-xs-12 cell-sm-5 cell-md-4 cell-lg-2 offset-lg-top-0">
+                        <div class="inset-lg-left-30 inset-lg-right-30">
+                            <div class="inset-md-right-36"><a class="brand">Hostel </a>
+                                
+                                <ul>
+                                    <ul>
+                                       
+                                       <p><strong>Hostel Warden </strong> <br />Srimathi Sethukannamal Hostel <br /> A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 04374-239522<br /><strong>E-mail :</strong> hostel.boys@sripushpamcollege.co.in<br />hostel.girls@sripushpamcollege.co.in<br /></p>
+		                               
+                                    </ul>
+                                </ul>
+                            </div>
+                        </div>
+                    </div> -->
 
                     <div class="cell-xs-12 cell-sm-12 cell-md-12 cell-lg-6  ">
                         <div class="inset-lg-left-30 inset-lg-right-30 color: #fff;">
