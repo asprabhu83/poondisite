@@ -421,7 +421,7 @@ init_public_head();
 									<td style="text-align: center;">Associate Professor &amp; Dean of Atrs &amp; commerce</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/History/2.Prabakaran.pdf') ?>" target="_blank" rel="noopener">Dr.S.Prabakaran</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/History/2.Prabakaran1.pdf') ?>" target="_blank" rel="noopener">Dr.S.Prabakaran</a></th>
 									<td style="text-align: center;">Assistant Professor </td>
 								</tr>
 								<!-- <tr>
