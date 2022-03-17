@@ -39,6 +39,12 @@ init_public_head();
                                                        <a href="<?php echo base_url('public/pdf/Edu_ontology/Data_Structure.pdf') ?>"><span>Data structure </span></a>
                                                     </h2>
                                                         <br><br>
+                                                        <br><br>
+													<h2 class="text-bold">
+                                                       <a href="<?php echo base_url('public/pdf/Edu_ontology/java_programming.pdf') ?>"><span>Java Proramming </span></a>
+                                                    </h2>
+                                                        <br><br>
+
                                                     <!-- <h2 class="text-bold">
                                                        <a href="<?php echo base_url('public/pdf/Research/Code_of_Ethics.pdf') ?>"><span>Code of Ethics</span></a>
                                                        <br><br>
