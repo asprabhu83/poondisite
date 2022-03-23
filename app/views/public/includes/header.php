@@ -185,8 +185,9 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
 
                                                     <li class="active"><a href="#"><span>Education Ontology</span></a>
                                                          <ul class="rd-navbar-dropdown">
+                                                         <li class="active "><a href="<?php echo base_url('public/pdf/Edu_ontology/user_guide.pdf') ?>"><span>User Guide</span></a>
                                                     
-                                                            <li class="active "><a href="<?php echo base_url('Edu_ontology') ?>"><span>Computer Science</span></a>
+                                                            <li class="active "><a href="<?php echo base_url('edu_ontology') ?>"><span>Computer Science</span></a>
 
                                                             </li>
                                                         </ul>
