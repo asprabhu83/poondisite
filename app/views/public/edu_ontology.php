@@ -39,40 +39,37 @@ init_public_head();
                                                        <a href="<?php echo base_url('public/pdf/Edu_ontology/Data_Structure.pdf') ?>"><span>Data Structure </span></a>
                                                     </h2>
                                                         <br><br>
-                                                        <br><br>
+                                                       
 													<h2 class="text-bold">
                                                        <a href="<?php echo base_url('public/pdf/Edu_ontology/java_programming.pdf') ?>"><span>Java Proramming </span></a>
                                                     </h2>
                                                         <br><br>
-                                                        <br><br>
+                                                       
 													<h2 class="text-bold">
                                                        <a href="<?php echo base_url('public/pdf/Edu_ontology/Computer_Networks.pdf') ?>"><span>Computer Networks</span></a>
                                                     </h2>
                                                         <br><br>
 
-                                                        <br><br>
+                                                       
 													<h2 class="text-bold">
-                                                       <a href="<?php echo base_url('public/pdf/Edu_ontology/DBMS.pdf') ?>"><span>Computer Networks</span></a>
+                                                       <a href="<?php echo base_url('public/pdf/Edu_ontology/DBMS.pdf') ?>"><span>DBMS</span></a>
                                                     </h2>
                                                         <br><br>
-                                                        <br><br>
+                                                       
 													<h2 class="text-bold">
                                                        <a href="<?php echo base_url('public/pdf/Edu_ontology/Big_Data_Analytics.pdf') ?>"><span>Big Data Analytics</span></a>
                                                     </h2>
                                                         <br><br>
-
-                                                        <br><br>
+                                                       
 													<h2 class="text-bold">
                                                        <a href="<?php echo base_url('public/pdf/Edu_ontology/Compiler_Design.pdf') ?>"><span>Compiler Design</span></a>
                                                     </h2>
-                                                        <br><br>
                                                         <br><br>
 													<h2 class="text-bold">
                                                        <a href="<?php echo base_url('public/pdf/Edu_ontology/Cloud_Computing.pdf') ?>"><span>Cloud Computing </span></a>
                                                     </h2>
                                                         <br><br>
 
-                                                        <br><br>
 													<h2 class="text-bold">
                                                        <a href="<?php echo base_url('public/pdf/Edu_ontology/BlockChain_Technology.pdf') ?>"><span>BlockChain Technology </span></a>
                                                     </h2>
