@@ -375,40 +375,40 @@ init_public_head();
 										<th colspan="2">Aided Faculty</th>
 									</tr>
 									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/2.Dr.R.Sivakumar.pdf') ?>" target="_blank" rel="noopener">Dr. R. Sivakumar </a></th>
+										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/1.Dr.RS.pdf') ?>" target="_blank" rel="noopener">Dr. R. Sivakumar </a></th>
 										<td style="text-align: center;">Associate Professor &amp; Principal</td>
 									</tr> 
 									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/1.%20Dr.%20V.%20Maniraj.pdf') ?>" target="_blank" rel="noopener">Dr. V. Maniraj</a></th>
+										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/2.Dr.VM.pdf') ?>" target="_blank" rel="noopener">Dr. V. Maniraj</a></th>
 										<td style="text-align: center;">Associate Professor  &amp; Coordinator</td>
 									</tr>
 									
 									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/3.Dr.S.Kumaravel.pdf') ?>" target="_blank" rel="noopener">Dr. S. Kumaravel</a></th>
+										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/3.Dr.SK.pdf') ?>" target="_blank" rel="noopener">Dr. S. Kumaravel</a></th>
 										<td style="text-align: center;">Associate Professor &amp; Dean of Science</td>
 									</tr>
 									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/4.Dr.T.ChakaravarthI.pdf') ?>" target="_blank" rel="noopener">Dr. T. Chakkaravarthi</a></th>
+										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/4.Dr.TC.pdf') ?>" target="_blank" rel="noopener">Dr. T. Chakkaravarthi</a></th>
 										<td style="text-align: center;">Associate Professor</td>
 									</tr>
 									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/5.Dr.R.Subash%20chandra%20Bose.pdf') ?>" target="_blank" rel="noopener">Dr. R. Subashchandrabose</a></th>
+										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/5.Dr.RSB.pdf') ?>" target="_blank" rel="noopener">Dr. R. Subashchandrabose</a></th>
 										<td style="text-align: center;">Associate Professor &amp; IQAC Coordinator</td>
 									</tr>
 									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/6.Prof.R.Sivakumar.pdf') ?>" target="_blank" rel="noopener">Prof. R. Sivakumar</a></th>
+										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/6.Dr.PRS.pdf') ?>" target="_blank" rel="noopener">Dr. R. Sivakumar</a></th>
 										<td style="text-align: center;">Associate Professor</td>
 									</tr>
 									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/7.Dr.T.S.Baskaran.pdf') ?>" target="_blank" rel="noopener">Dr. T. S. Baskaran</a></th>
+										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/7.Dr.TSB.pdf') ?>" target="_blank" rel="noopener">Dr. T. S. Baskaran</a></th>
 										<td style="text-align: center;">Associate Professor</td>
 									</tr>
 									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/8.Dr.K.Swaminathan.pdf') ?>" target="_blank" rel="noopener">Dr. K. Swaminathan</a></th>
+										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/8.Dr.RKS.pdf') ?>" target="_blank" rel="noopener">Dr. K. Swaminathan</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
 									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/10.S.SIVA%20SHANKARI.pdf') ?>" target="_blank" rel="noopener">Prof. S. Siva sankari</a></th>
+										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/9.Prof.SS.pdf') ?>" target="_blank" rel="noopener">Prof. S. Siva sankari</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
 									
