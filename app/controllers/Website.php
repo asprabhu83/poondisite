@@ -241,6 +241,14 @@ class Website extends App_Controller
         $this->data['menu_syllabus_2014_2017'] = "active";
         $this->load->view('public/syllabus_2014_2017', $this->data);
     }
+
+    public function syllabus_2014_2020()
+    {
+
+        $this->data['title'] = "Syllabus 2014-2020";
+        $this->data['menu_syllabus_2014_2020'] = "active";
+        $this->load->view('public/syllabus_2014_2020', $this->data);
+    }
     public function committee_of_management()
     {
 
@@ -880,6 +888,7 @@ class Website extends App_Controller
         $this->load->view('public/edu_ontology',$this->data);
     }
 
+    
     public function sc_st_cell()
     {
         $this->data['title'] = "SC & ST CELL";
