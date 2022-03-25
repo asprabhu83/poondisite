@@ -112,22 +112,22 @@ init_public_head();
 
 								<tr>
 									<td>IQAC MEET 2018-2019</td>
-									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/IQAC_Meet_2018_19.pdf.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/IQAC_Meet_2018_19.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
 								</tr>
 
 								<tr>
 									<td>IQAC MEET 2017-2018</td>
-									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/IQAC_Meet_2017_18.pdf.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/IQAC_Meet_2017_18.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
 								</tr>
 
 								<tr>
 									<td>IQAC MEET 2016-2017</td>
-									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/IQAC_Meet_2016_17.pdf.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/IQAC_Meet_2016_17.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
 								</tr>
 
 								<tr>
 									<td>IQAC MEET 2015-2016</td>
-									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/IQAC_Meet_2015_16.pdf.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/IQAC_Meet_2015_16.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
 								</tr>
 
 
