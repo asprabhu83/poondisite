@@ -408,7 +408,7 @@ init_public_head();
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
 									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/9.Prof.SS.pdf') ?>" target="_blank" rel="noopener">Prof. S. Siva sankari</a></th>
+										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/AIDED/9.Prof.SS.pdf') ?>" target="_blank" rel="noopener">Prof. S. Siva sankari</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
 									

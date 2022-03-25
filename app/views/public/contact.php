@@ -135,7 +135,7 @@ init_public_head();
                                 <ul>
                                     <ul>
                                        
-                                       <p><strong>Placement Officer </strong> <br /> A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9443963108<br /><strong>E-mail :</strong> placement@sripushpamcollege.co.in<br /><br /></p>
+                                       <p><strong>Placement Officer </strong> <br /> A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9443963108, 7904451231<br />  <strong>E-mail :</strong> avvmspcplacement2021@gmail.com, placement@sripushpamcollege.co.in<br /><br /></p>
 		                               
                                     </ul>
                                 </ul>
