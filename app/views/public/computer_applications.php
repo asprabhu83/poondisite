@@ -377,24 +377,24 @@ init_public_head();
 									</tr>
 									
 									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/2.Dr.DR.pdf') ?>" target="_blank" rel="noopener">Dr. D. Ragupathi</a></th>
+										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/MCA/2.Dr.DR.pdf') ?>" target="_blank" rel="noopener">Dr. D. Ragupathi</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
 									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/1.Dr.KS.pdf') ?>" target="_blank" rel="noopener">Dr. K. Sudhakar</a></th>
+										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/MCA/1.Dr.KS.pdf') ?>" target="_blank" rel="noopener">Dr. K. Sudhakar</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
 									
 									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/3.Dr.VRN.pdf') ?>" target="_blank" rel="noopener">Dr. V. Ramanathan</a></th>
+										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/MCA/3.Dr.VRN.pdf') ?>" target="_blank" rel="noopener">Dr. V. Ramanathan</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr> 
 									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/4.Prof.GH.pdf') ?>" target="_blank" rel="noopener">Prof. G. Hemamalini</a></th>
+										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/MCA/4.Prof.GH.pdf') ?>" target="_blank" rel="noopener">Prof. G. Hemamalini</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
 									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/5.Prof.CVP.pdf') ?>" target="_blank" rel="noopener">Prof. C. Veeraprakashkumar</a></th>
+										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/MCA/5.Prof.CVP.pdf') ?>" target="_blank" rel="noopener">Prof. C. Veeraprakashkumar</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
 									<!-- <tr>
