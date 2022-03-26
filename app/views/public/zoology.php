@@ -462,7 +462,7 @@ init_public_head();
 								</tr>
 													
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/V.Kanagavalli.pdf') ?>" target="_blank" rel="noopener">Prof. V. KANAGAVALLI</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/Ms.V.Kanagavalli.pdf') ?>" target="_blank" rel="noopener">Ms.V.KANAGAVALLI</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								
