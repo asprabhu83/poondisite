@@ -234,12 +234,12 @@ class Website extends App_Controller
         $this->data['menu_syllabus_2017'] = "active";
         $this->load->view('public/syllabus_2017', $this->data);
     }
-    public function syllabus_2014_2020()
+    public function syllabus_2014_2017()
     {
 
-        $this->data['title'] = "Syllabus 2014-2020";
-        $this->data['menu_syllabus_2014_2020'] = "active";
-        $this->load->view('public/syllabus_2014_2020', $this->data);
+        $this->data['title'] = "Syllabus 2014-2017";
+        $this->data['menu_syllabus_2014_2017'] = "active";
+        $this->load->view('public/syllabus_2014_2017', $this->data);
     }
 
     public function syllabus_2014_2020()
