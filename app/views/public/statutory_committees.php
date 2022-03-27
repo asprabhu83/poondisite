@@ -272,7 +272,7 @@ init_public_head();
 													</tr>
 
 													<tr>
-														<td><strong>Thiru. C.Chandran.</td>
+														<td><strong>Dr.C.Chandran</td>
 														<td></td></strong>
 													</tr>
 
@@ -357,7 +357,7 @@ init_public_head();
 													</tr>
 
 													<tr>
-														<td><strong>Thiru. C.Chandran.</td>
+														<td><strong>Dr.C.Chandran</td>
 														<td>CONTROLLER OF Examinations</td></strong>
 													</tr>
 

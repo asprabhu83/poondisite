@@ -266,7 +266,7 @@ init_public_head();
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/') ?>" target="_blank" rel="noopener">Prof. B.Iniyan Ilango</a></td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/aided/21.Prof.%20B.Iniyan%20Ilango.pdf') ?>" target="_blank" rel="noopener">Prof. B.Iniyan Ilango</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
