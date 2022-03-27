@@ -146,27 +146,27 @@ pt.php
 									<th colspan="3">Aided Staff list</th>
 								</tr>
 								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Physicaleducation/M.S.M.pdf') ?>" target="_blank" rel="noopener">Dr. M. S. Muthuramalingam</a></td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Physicaleducation/Dr.%20M.%20S.%20Muthuramalingam.pdf') ?>" target="_blank" rel="noopener">Dr. M. S. Muthuramalingam</a></td>
 									<td>Associate Professor &amp; Coordinator  </td>
 								</tr>
 								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Physicaleducation/M.M.M.pdf') ?>" target="_blank" rel="noopener">Dr. M. Madan Mohan</a></td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Physicaleducation/Dr.%20M.%20Madan%20Mohan.pdf') ?>" target="_blank" rel="noopener">Dr. M. Madan Mohan</a></td>
 									<td>Associate Professor</td>
 								</tr>
 								<tr>
-									<td><a href="#" target="_blank" rel="noopener">Dr. S. Dharakeswari</a></td>
+									<td><a href="public/pdf/Departments/Physicaleducation/Dr.%20S.%20Dharakeswari.pdf" target="_blank" rel="noopener">Dr. S. Dharakeswari</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
-									<td><a href="#" target="_blank" rel="noopener">Dr. D. Suresh</a></td>
+									<td><a href="public/pdf/Departments/Physicaleducation/Dr.%20D.%20Suresh.pdf" target="_blank" rel="noopener">Dr. D. Suresh</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
-									<td><a href="#" target="_blank" rel="noopener">Dr.E.Ravichandiran</a></td>
+									<td><a href="public/pdf/Departments/Physicaleducation/Dr.E.Ravichandran.pdf" target="_blank" rel="noopener">Dr.E.Ravichandiran</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
-									<td><a href="#" target="_blank" rel="noopener">Dr.C.Malathy</a></td>
+									<td><a href="public/pdf/Departments/Physicaleducation/Dr.%20C.%20Malathy.pdf" target="_blank" rel="noopener">Dr.C.Malathy</a></td>
 									<td>Director of Physical Education</td>
 								</tr>
 								
