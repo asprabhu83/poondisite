@@ -6,7 +6,7 @@ init_public_head();
 <div class="container-fluid marqueewrap">
 	<div class="alert alert-primary alert-dismissible" role="alert">
 		<marquee>
-      <span>&#9733;</span><a href="<?php echo base_url('research_honored') ?>"> <span>Dr.K.Ravichandran, Associate Professor, PG & Research Department of Physics, has figured in the list of World top 2% Scientists released by "Stanford Universtiry, USA" </span></a>
+      <span>&#9733;</span><a href="<?php echo base_url('research_honored') ?>"> <span>Dr.K.Ravichandran, Associate Professor, PG & Research Department of Physics, Dr.S.Vijayakumar, Assistant Professor, PG & Research Department of Botany & Dr.M.Ayyanar, Assistant Professor, PG & Research Department of Botany have figured in the list of World top 2% Scientists released by "Stanford Universtiry, USA" </span></a>
       <span>&#9733;</span><a href="<?php echo base_url('research_honored') ?>"> <span>Dr.K.Ravichandran, Associate Professor, PG & Research Department of Physics, Has Published 100(Hundred) research articles in SCI journals within a decade. </span></a>
       <span>&#9733;</span><a href="<?php echo base_url('research_honored') ?>"> <span>Dr.A.Panneerselvam, Associate Professor, PG and Research Department of Botany, has submitted D.Sc., thesis “Diversity and Bioprospecting  of microflora in marine and terrestrial environment” </span></a><span>&#9733;</span>
 

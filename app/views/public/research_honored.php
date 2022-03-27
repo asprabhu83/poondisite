@@ -28,7 +28,7 @@ init_public_head();
 					<h3 style="color:Blue;" align="center" class="text-bold">Dr.A.Panneerselvam, </h3>
 					<p><h5 style="color:green;" align="center" class="text-bold">Associate Professor, <br>Department of Botany</h5><strong></strong></p>
 				</article>
-				<h4 style="color:red;" align="center"  class="text-bold"> Submitted D.Sc., thesis <br></h4> <h4 style="color:brown;" align="center"  class="text-bold">“Diversity and Bioprospecting  of microflora in marine and terrestrial environment” </h4>
+				<h4 style="color:red;" align="center"  class="text-bold"> Awaded D.Sc.,  <br></h4> <h4 style="color:brown;" align="center"  class="text-bold">“Diversity and Bioprospecting  of microflora in marine and terrestrial environment” </h4>
 				<h4 style="color:red;" align="center"  class="text-bold"> </h4><br> <br><br>
 			</div>
 			
