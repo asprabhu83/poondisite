@@ -490,8 +490,12 @@ init_public_head();
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/15.Prof.SSK.pdf') ?>" target="_blank" rel="noopener">Prof. S. Senthilkumar</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
+									<!-- <tr>
+										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/16.Prof.ST.pdf') ?>" target="_blank" rel="noopener">Prof. S. Tamilpriya</a></th>
+										<td style="text-align: center;">Assistant Professor</td>
+									</tr> -->
 									<tr>
-										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/16.Prof.ST') ?>" target="_blank" rel="noopener">Prof. S. Tamilpriya</a></th>
+										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/16.Prof.ST.pdf') ?>" target="_blank" rel="noopener">Prof. S. TamilPriya</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
 									<tr>
