@@ -418,6 +418,10 @@ init_public_head();
 							</tbody>
 						</table>
 					</div>
+					<h4 align="" class="text-bold offset-top-30" id="q-2">Herbal Garden</h4>
+					<br />
+					<h6 align=""><a href="public/pdf/Departments/botany/Herbal_Garden.pdf" target="_blank" class="text-matrix" rel="noopener">click here</a></h6>
+
 					<h4 align="" class="text-bold offset-top-30" id="q-2">BLOG</h4>
 					<br />
 					<h6 align=""><a href="http://avvmspcbot.blogspot.com" target="_blank" class="text-matrix" rel="noopener">click here</a></h6>
