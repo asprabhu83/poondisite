@@ -221,7 +221,7 @@ init_public_head();
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/aided/12.Dr.PK.pdf') ?>" target="_blank" rel="noopener">Dr. T. Jayalalitha</a></td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/aided/10.Dr.%20T.%20JAYALALITHA.pdf') ?>" target="_blank" rel="noopener">Dr. T. Jayalalitha</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
@@ -241,28 +241,28 @@ init_public_head();
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
-									<td>Dr. K. Tamil selvi</td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/aided/15.Dr.%20K.%20TAMILSELVI.pdf') ?>" target="_blank" rel="noopener">Dr. K. Tamil selvi</td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
-									<td>Dr. M. Ramakrishnan</td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/aided/16.Dr.M.RAMAKRISHNAN.pdf') ?>" target="_blank" rel="noopener">Dr. M. Ramakrishnan</td>
 									<td>Assistant Professor</td>
 								</tr>
 								
 								<tr>
-									<td>Dr. R. Shanthalakshmi</td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/aided/18.Dr.R.SHANTHALAKSHMI.pdf') ?>" target="_blank" rel="noopener">Dr. R. Shanthalakshmi</td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
-									<td>Dr. N. Kannadasan</td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/aided/19.Dr.N.KANNATHASAN.pdf') ?>" target="_blank" rel="noopener">Dr. N. Kannadasan</td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
-									<td>Dr. M. Gnanasankari</td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/aided/17.DR.G.GNANASANKARI.pdf') ?>" target="_blank" rel="noopener">Dr. M. Gnanasankari</td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Dr. P. Sabitha</a></td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/aided/20.Dr.%20P.%20Sabitha.pdf') ?>" target="_blank" rel="noopener">Dr. P. Sabitha</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
@@ -273,77 +273,74 @@ init_public_head();
 									<th colspan="3">Self - Finance Staff</th>
 								</tr>
 								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/1.Dr.S.V.pdf') ?>" target="_blank" rel="noopener">Dr. S. Vijayakumar</a></td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/SF.1.Dr.%20S.%20Vijayakumar.pdf') ?>" target="_blank" rel="noopener">Dr. S. Vijayakumar</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 
 								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Prof. D. Mahalakshmi</a></td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/SF.2.Prof.%20D.%20Mahalakshmi.pdf') ?>" target="_blank" rel="noopener">Prof. D. Mahalakshmi</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Prof. R. Vijaya lakshmi</a></td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/SF.3.Prof.%20R.%20Vijaya%20lakshmi.pdf') ?>" target="_blank" rel="noopener">Prof. R. Vijaya lakshmi</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Dr. M. Uma maheswari</a></td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/SF.4.Dr.%20M.%20Uma%20maheswari.pdf') ?>" target="_blank" rel="noopener">Dr. M. Uma maheswari</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Dr. R. Vimala</a></td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/SF.5.Dr.%20R.%20Vimala.pdf') ?>" target="_blank" rel="noopener">Dr. R. Vimala</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Dr. K. Siyamala</a></td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/SF.6.Dr.%20K.%20Siyamala.pdf') ?>" target="_blank" rel="noopener">Dr. K. Siyamala</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 
 								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Prof. S. Sankar</a></td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/SF.7.Prof.%20S.%20Sankar.pdf') ?>" target="_blank" rel="noopener">Prof. S. Sankar</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Dr. V. Jayalakshmi</a></td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/SF.8.Dr.%20V.%20Jayalakshmi.pdf') ?>" target="_blank" rel="noopener">Dr. V. Jayalakshmi</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Prof. K. Indira</a></td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/SF.9.Prof.%20K.%20Indira.pdf') ?>" target="_blank" rel="noopener">Prof. K. Indira</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Prof. S. Vennila</a></td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/SF.10.Prof.%20S.%20Vennila.pdf') ?>" target="_blank" rel="noopener">Prof. S. Vennila</a></td>
+									<td>Assistant Professor</td>
+								</tr>
+								
+								<tr>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/SF.11.Prof.%20G.%20Muruganandam.pdf') ?>" target="_blank" rel="noopener">Prof. G. Muruganandam</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/') ?>" target="_blank" rel="noopener">Prof. G. Muruganandam</a></td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/SF.12.Dr.%20B.Rajalakshmi.pdf') ?>" target="_blank" rel="noopener">Dr. B.Rajalakshmi</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/') ?>" target="_blank" rel="noopener">Prof. G. Muruganandam</a></td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/SF.13.Dr.%20U.Jothimalar.pdf') ?>" target="_blank" rel="noopener">Dr. U.Jothimalar</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/') ?>" target="_blank" rel="noopener">Dr. B.Rajalakshmi</a></td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/SF.14.Prof.%20N.Chithra.pdf') ?>" target="_blank" rel="noopener">Prof. N.Chithra</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/') ?>" target="_blank" rel="noopener">Dr. U.Jothimalar</a></td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/SF.15.Dr.%20C.Poomathi.pdf') ?>" target="_blank" rel="noopener">Dr. C.Poomathi</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/') ?>" target="_blank" rel="noopener">Prof. N.Chithra</a></td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/SF.16.Prof.%20V.%20Sinekitha%20valli.pdf') ?>" target="_blank" rel="noopener">Prof. V. Sinekitha valli</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/') ?>" target="_blank" rel="noopener">Dr. C.Poomathi</a></td>
-									<td>Assistant Professor</td>
-								</tr>
-								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Prof. V. Sinekitha valli</a></td>
-									<td>Assistant Professor</td>
-								</tr>
-								<tr>
-									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/') ?>" target="_blank" rel="noopener">Prof. P.Yazhmozhi</a></td>
+									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/SF.17.Prof.%20P.Yazhmozhi.pdf') ?>" target="_blank" rel="noopener">Prof. P.Yazhmozhi</a></td>
 									<td>Assistant Professor</td>
 								</tr>
 								
