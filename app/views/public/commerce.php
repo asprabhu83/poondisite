@@ -334,9 +334,13 @@ init_public_head();
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="#" target="_blank" rel="noopener">Dr.P.Jegan</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/Commerce/AIDED/Dr.P.Jegan.pdf') ?>" target="_blank" rel="noopener">Dr.P.Jegan</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
+								<!-- <tr>
+									<th><a href="#" target="_blank" rel="noopener">Dr.P.Jegan</a></th>
+									<td style="text-align: center;">Assistant Professor</td>
+								</tr> -->
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/Commerce/AIDED/R.Subashini.pdf') ?>" target="_blank" rel="noopener">Dr. R. Subhashini</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
