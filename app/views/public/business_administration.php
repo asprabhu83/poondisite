@@ -244,39 +244,39 @@ init_public_head();
                                     <th colspan="3">Self Finance Faculty</th>
                                 </tr>
                                 <tr>
-                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Prof. A. Rajalakshmi </a></th>
+                                    <th><a href="<?php echo base_url('public/pdf/Departments/Business_Adminstration/RAJALAKSHMI%20A.pdf') ?>" target="_blank" rel="noopener">Prof. A. Rajalakshmi </a></th>
                                     <td style="text-align: center;">Assistant Professor </td>
                                 </tr>
                                 <tr>
-                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Prof. R. Elavarasi </a></th>
+                                    <th><a href="<?php echo base_url('public/pdf/Departments/Business_Adminstration/ELAVARASI%20R.pdf') ?>" target="_blank" rel="noopener">Prof. R. Elavarasi </a></th>
                                     <td style="text-align: center;">Assistant Professor </td>
                                 </tr>
                                 <tr>
-                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Prof. R. Nishanthi </a></th>
+                                    <th><a href="<?php echo base_url('public/pdf/Departments/Business_Adminstration/NISHANTHI%20R.pdf') ?>" target="_blank" rel="noopener">Prof. R. Nishanthi </a></th>
                                     <td style="text-align: center;">Assistant Professor</td>
                                 </tr>
                                 <tr>
-                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Prof. C.Rajesh </a></th>
+                                    <th><a href="<?php echo base_url('public/pdf/Departments/Business_Adminstration/RAJESH%20C.pdf') ?>" target="_blank" rel="noopener">Prof. C.Rajesh </a></th>
                                     <td style="text-align: center;">Assistant Professor</td>
                                 </tr>
                                 <tr>
-                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Prof. S. Umaranjani</a></th>
+                                    <th><a href="<?php echo base_url('public/pdf/Departments/Business_Adminstration/UMA%20S.pdf') ?>" target="_blank" rel="noopener">Prof. S. Umaranjani</a></th>
                                     <td style="text-align: center;">Assistant Professor</td>
                                 </tr>
                                 <tr>
-                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Prof. V. Nithiya</a></th>
+                                    <th><a href="<?php echo base_url('public/pdf/Departments/Business_Adminstration/NITHYA.pdf') ?>" target="_blank" rel="noopener">Prof. V. Nithiya</a></th>
                                     <td style="text-align: center;">Assistant Professor</td>
                                 </tr>
                                 <tr>
-                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Prof. A. Karthikeyan</a></th>
+                                    <th><a href="<?php echo base_url('public/pdf/Departments/Business_Adminstration/KARTHIKEYAN%20A%20.pdf') ?>" target="_blank" rel="noopener">Prof. A. Karthikeyan</a></th>
                                     <td style="text-align: center;">Assistant Professor</td>
                                 </tr>
                                 <tr>
-                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Dr. S. Muthuramachandran</a></th>
+                                    <th><a href="<?php echo base_url('public/pdf/Departments/Business_Adminstration/MUTHU%20S.pdf') ?>" target="_blank" rel="noopener">Dr. S. Muthuramachandran</a></th>
                                     <td style="text-align: center;">Assistant Professor</td>
                                 </tr>
                                 <tr>
-                                    <th><a href="<?php echo base_url('#') ?>" target="_blank" rel="noopener">Dr. J. Anbu Srinivasan</a></th>
+                                    <th><a href="<?php echo base_url('public/pdf/Departments/Business_Adminstration/ANBUSRINIVASAN%20J.pdf') ?>" target="_blank" rel="noopener">Dr. J. Anbu Srinivasan</a></th>
                                     <td style="text-align: center;">Assistant Professor</td>
                                 </tr>
                                 
