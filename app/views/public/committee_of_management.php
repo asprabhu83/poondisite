@@ -49,8 +49,7 @@ init_public_head();
 				<h4 align="center" class="text-bold">Thiru A. Veeriya Vandayar</h4>
 					<p><h5 align="center" class="text-bold">Member</h5><strong></strong></p>
 				<article class="post post-event"><img alt="" class="img-responsive" height="230" src="<?php echo base_url('assets/images/committee/A.D.V Ayya.jpg') ?>" width="370" /> 
-				<br /><br /><br /><br />
-
+				<br /><br />				
 				<!-- <h4 align="center" class="text-bold">Thiru A. Veeriya Vandayar</h4>
 					<p><h5 align="center" class="text-bold">Member</h5><strong></strong></p> -->
 				<h4 align="center" class="text-bold">Thiru A. Dhanasekaran Vandayar, B.Com</h4>
