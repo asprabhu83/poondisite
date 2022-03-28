@@ -421,7 +421,8 @@ init_public_head();
 					<h4 align="" class="text-bold offset-top-30" id="q-2">Herbal Garden</h4>
 					<br />
 					<h6 align=""><a href="public/pdf/Departments/botany/Herbal_Garden.pdf" target="_blank" class="text-matrix" rel="noopener">click here</a></h6>
-
+					<br />					<br />
+					<li class="active "><a href="<?php echo base_url('herbal_garden') ?>"><span>Herbal Garden - Rare Plants</span></a>
 					<h4 align="" class="text-bold offset-top-30" id="q-2">BLOG</h4>
 					<br />
 					<h6 align=""><a href="http://avvmspcbot.blogspot.com" target="_blank" class="text-matrix" rel="noopener">click here</a></h6>

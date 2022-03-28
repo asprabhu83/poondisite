@@ -888,7 +888,12 @@ class Website extends App_Controller
         $this->load->view('public/edu_ontology',$this->data);
     }
 
-    
+    public function herbal_garden()
+    {
+        $this->data['title'] = "herbal_garden";
+        $this->data['menu_herbal_garden'] = "active";
+        $this->load->view('public/herbal_garden',$this->data);
+    }
     public function sc_st_cell()
     {
         $this->data['title'] = "SC & ST CELL";
