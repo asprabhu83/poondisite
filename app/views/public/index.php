@@ -7,7 +7,10 @@ init_public_head();
 		<marquee>
 		
 		<!-- <span>&#9733;</span><strong><a href="<?php echo base_url('pdf/Alumni/Alumini_Association_Invitation.jpeg') ?>" target="_blank">Alumni Association Invitation </strong></a><span>&#9733;</span> -->
-		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank">NAAC Peer Team Visit is Scheduled from 29.03.2022 to 30.03.2022 </strong></a><span>&#9733;</span>
+		<span>&#9733;</span><strong><a href="<?php echo base_url('public\pdf\Naac\Peer_team_report_News_Paper.jpeg') ?>" target="_blank">NAAC Peer Team Visit Over on 30.03.2022 </strong></a><span>&#9733;</span>
+		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank">NAAC Peer Team members handover the exit meeting report to Dr.R.Sivakumar, Principal on 30.03.2022 </strong></a><span>&#9733;</span>
+		<!-- <span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank">NAAC Peer Team Visit is Scheduled from 29.03.2022 to 30.03.2022 </strong></a><span>&#9733;</span> -->
+
 		<!-- <span></span><strong><a href="https://www.youtube.com/watch?v=ecX7dcb_YKU" target="_blank">Alumni Association Meeting - YouTube live</strong></a><span>&#9733;</span> -->
 		<!-- <span></span><strong><a href="<?php echo base_url('#') ?>" target="_blank">The DBT recommended financial support for 6 departments (i.e. Botany, Chemistry, Zoology, Physics, Computer Science and Mathematics) under the strengthening Component of the "Star College Scheme" </strong></a><span>&#9733;</span> -->
 		<!-- <span></span><strong><a href="<?php echo base_url('pdf/SSR_Report/SSR_REVISED_REPORT.pdf') ?>" target="_blank">NAAC - Self Study Report(SSR) </strong></a><span>&#9733;</span> -->
