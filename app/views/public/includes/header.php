@@ -326,10 +326,11 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
 
                                             <li class="active"><a href="#"><span>NAAC</span></a>
                                                 <ul class="rd-navbar-dropdown">
-                                                    <!-- <li class="active "><a href="<?php echo base_url('nirf') ?>"><span>About NIRF</span></a> -->
-                                                    <!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2021.pdf') ?>"><span>NIRF 2021</span></a>
-                                                    <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2018.pdf') ?>"><span>NIRF 2018</span></a> -->
-                                                  
+                                                     <li class="active "><a href="<?php echo base_url('#') ?>"><span>NAAC Peer Team Visit</span></a>
+                                                     <ul class="rd-navbar-dropdown">
+                                                        <li class="active "><a href="<?php echo base_url('public/pdf/Naac/NAAC_Peer_Team_Visit_Schedule.pdf') ?>"><span>Schedule</span></a>
+                                                        <li class="active "><a href="<?php echo base_url('#') ?>"><span>Video</span></a> 
+                                                    </ul>
                                                     <li class="active "><a href="<?php echo base_url('pdf/SSR_Report/SSR_REVISED_REPORT.pdf') ?>"><span>SSR</span></a> 
                                                    </li>
 
