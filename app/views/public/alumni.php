@@ -35,6 +35,12 @@ init_public_head();
                 YouTube Link 
             </a></button>
         </div>
+        <br>
+        <div class=" cell-xs-10 cell-sm-12 cell-lg-8" >
+        <button class="btn btn-primary-outline btn-icon btn-icon-right"><a href="public/pdf/Alumni/Distinguish_Alumini.pdf" style="color:black;">
+                Prominent Alumni 
+            </a></button>
+        </div>
     </div>
 </section>
 <?php
