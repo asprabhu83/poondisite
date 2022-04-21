@@ -6,7 +6,7 @@ init_public_head();
 	<div class="alert alert-primary alert-dismissible" role="alert">
 		<marquee>
 		
-		<!-- <span>&#9733;</span><strong><a href="<?php echo base_url('pdf/Alumni/Alumini_Association_Invitation.jpeg') ?>" target="_blank">Alumni Association Invitation </strong></a><span>&#9733;</span> -->
+		<span>&#9733;</span><strong><a href="<?php echo base_url('public\pdf\Events\Physical_Edn_Alumni_Meet.jpeg') ?>" target="_blank">Grand Alumni Meet 2022 - Invitation (Physical Education) </strong></a>
 		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank">Reaccredited with 'A' Grade by NAAC 4<sup>th</sup>  Cycle & DBT-STAR Sponsored College </strong></a><span>&#9733;</span>
 		<!-- <span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank">NAAC Peer Team Visit Over on 30.03.2022 </strong></a></span> -->
 		<!-- <span>&#9733;</span><strong><a href="<?php echo base_url('public/pdf/Naac/Peer_team_report_News_Paper.jpeg') ?>" target="_blank">NAAC Peer Team members handover the exit meeting report to Dr.R.Sivakumar, Principal on 30.03.2022 </strong></a><span>&#9733;</span> -->
