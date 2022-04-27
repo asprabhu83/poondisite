@@ -38030,12 +38030,17 @@ body {
     width: 100%;
 }
 
-.breadcrumb-history {
+/* .breadcrumb-history {
     background: url(../images/banner/MBA-Block.jpg) no-repeat center;
     background-size: cover;
     width: 100%;
-}
+} */
 
+.breadcrumb-history {
+    background: url(../images/resized2022/hisandeco.png) no-repeat center;
+    background-size: cover;
+    width: 100%;
+}
 .breadcrumb-geography {
     background: url(../images/banner/Boys-Hostel.jpg) no-repeat center;
     background-size: cover;
@@ -38043,7 +38048,7 @@ body {
 }
 
 .breadcrumb-economics {
-    background: url(../images/banner/Building---2.jpg) no-repeat center;
+    background: url(../images/resized2022/hisandeco.png) no-repeat center;
     background-size: cover;
     width: 100%;
 }
@@ -38067,7 +38072,7 @@ body {
 }
 
 .breadcrumb-english {
-    background: url(../images/banner/Guest-House-at-the-College--Campus.jpg) no-repeat center;
+    background: url(../images/banner/Maths-Block.jpg) no-repeat center;
     background-size: cover;
     width: 100%;
 }
@@ -38079,19 +38084,19 @@ body {
 }
 
 .breadcrumb-mathematics {
-    background: url(../images/banner/Library---2.jpg) no-repeat center;
+    background: url(../images/resized2022/maths.png) no-repeat center;
     background-size: cover;
     width: 100%;
 }
 
 .breadcrumb-physics {
-    background: url(../images/banner/Guest-House-at-the-College--Campus.jpg) no-repeat center;
+    background: url(../images/resized2022/phy.png) no-repeat center;
     background-size: cover;
     width: 100%;
 }
 
 .breadcrumb-chemistry {
-    background: url(../images/banner/MBA-Block-2.jpg) no-repeat center;
+    background: url(../images/resized2022/chem.png) no-repeat center;
     background-size: cover;
     width: 100%;
 }
@@ -38103,31 +38108,31 @@ body {
 }
 
 .breadcrumb-zoology {
-    background: url(../images/banner/Boys-Hostel-inside-the-College--Campus.jpg) no-repeat center;
+    background: url(../images/resized2022/zoo.png) no-repeat center;
     background-size: cover;
     width: 100%;
 }
 
 .breadcrumb-computer-science {
-    background: url(../images/banner/Boys-Hostel.jpg) no-repeat center;
+    background: url(../images/resized2022/cs.png) no-repeat center;
     background-size: cover;
     width: 100%;
 }
 
 .breadcrumb-physical-education {
-    background: url(../images/banner/Building---2.jpg) no-repeat center;
+    background: url(../images/resized2022/indoor.png) no-repeat center;
     background-size: cover;
     width: 100%;
 }
 
 .breadcrumb-library-and-information-science {
-    background: url(../images/banner/Library---2.jpg) no-repeat center;
+    background: url(../images/resized2022/lib1.png) no-repeat center;
     background-size: cover;
     width: 100%;
 }
 
 .breadcrumb-hindi {
-    background: url(../images/banner/MBA-Block.jpg) no-repeat center;
+    background: url(../images/resized2022/phyedn.png) no-repeat center;
     background-size: cover;
     width: 100%;
 }
@@ -38151,7 +38156,7 @@ body {
 }
 
 .breadcrumb-spcte {
-    background: url(../images/resized/Buses.jpg) no-repeat center;
+    background: url(../images/resized/MBA-Block.jpg) no-repeat center;
     background-size: cover;
     width: 100%;
 }
