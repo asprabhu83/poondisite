@@ -312,7 +312,7 @@ init_public_head();
 									<td style="text-align: center;">Associate Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/english/AIDED/Eng.%206.%20S.%20Kanagaraj.pdf') ?>" target="_blank" rel="noopener">Prof.S.Kanagaraj</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/english/AIDED/Eng.%206.%20S.%20Kanagaraj.pdf') ?>" target="_blank" rel="noopener">Dr.S.Kanagaraj</a></th>
 									<td style="text-align: center;">Associate Professor</td>
 								</tr>
 								<tr>
