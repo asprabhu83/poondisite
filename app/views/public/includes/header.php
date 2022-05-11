@@ -382,7 +382,8 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                         </li>   
                                                         <li class="active "><a href="https://naac.sripushpamcollege.co.in/" target="_blank"><span>NAAC-AVVMSPC Portal</span></a>
                                                         </li>   
-                                                        
+                                                        <li class="active "><a href="https://aqar2021.sripushpamcollege.co.in/" target="_blank"><span>AQAR-2021</span></a>
+                                                        </li>   
                                                        
                                                     <!-- <li class="active"><a href="<?php echo base_url('certificate') ?>"><span>NAAC Certificate</span></a>
                                                         </li> -->
