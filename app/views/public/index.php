@@ -6,7 +6,8 @@ init_public_head();
 	<div class="alert alert-primary alert-dismissible" role="alert">
 		<marquee>
 		
-		<span>&#9733;</span><strong><a href="<?php echo base_url('public\pdf\Events\Muthamizh_Vizha.pdf') ?>" target="_blank">Muthamizh Vizha 2022 (12.05.2022) - Invitation </strong></a>
+		<span>&#9733;</span><strong><a href="<?php echo base_url('public\pdf\Events\Collegeday_invitation_66.pdf') ?>" target="_blank">66<sup>th</sup> College Day Invitation (14.05.2022) </strong></a>
+		<!-- <span>&#9733;</span><strong><a href="<?php echo base_url('public\pdf\Events\Muthamizh_Vizha.pdf') ?>" target="_blank">Muthamizh Vizha 2022 (12.05.2022) - Invitation </strong></a> -->
 		<!-- <span>&#9733;</span><strong><a href="<?php echo base_url('public\pdf\Events\Annual_sports_meet_2022_invitation.jpeg') ?>" target="_blank">66<sup>th</sup> Annual Sports Meet 2022 (10.05.2022) - Invitation </strong></a> -->
 		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank">Reaccredited with 'A' Grade by NAAC 4<sup>th</sup>  Cycle & DBT-STAR Sponsored College </strong></a><span>&#9733;</span>
 		<!-- <span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank">NAAC Peer Team Visit Over on 30.03.2022 </strong></a></span> -->
