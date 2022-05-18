@@ -303,10 +303,11 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                             <li class="active"><a href="<?php echo base_url('sc_st_cell') ?>"><span>SC & ST CELL</span></a></li>
                                                             <!-- <li class="active"><a href="<?php echo base_url('public/pdf/COMMITTEE_FOR_THE_DISPOSAL_OF_CASES_OF_REPORTED_MALPRACTICES.pdf') ?>"><span>Disposal Of Cases Of Reported Malpractice</span></a></li> -->
                                                             <li class="active"><a href="<?php echo base_url('anti_harassment_cell') ?>"><span>Internal compliance Committee</span></a>
-                                                            <li class="active"><a href="<?php echo base_url('https://forms.gle/SEjpWnRRt4mphrUC7') ?>"><span>Online Grievances Redressal Mechanism</span></a>
                                                                 <ul class="rd-navbar-dropdown">
                                                                 <li><a href="<?php echo base_url('public/pdf/internal_complaints_committee_minutes.pdf') ?>"><span class="text-middle">Minutes </span></a></li>
                                                                 </ul>
+                                                            <li class="active"><a href="<?php echo base_url('https://docs.google.com/forms/d/e/1FAIpQLSeHBIzHn2BmQr4TG_mVaBVkoZnZyyfqJEtnuREvdrzuVxNcUw/viewform?usp=pp_url') ?>"><span>Online Grievances Redressal Mechanism</span></a>
+                                                               
                                                             </li>
                                                         </ul>
                                                     </li>
