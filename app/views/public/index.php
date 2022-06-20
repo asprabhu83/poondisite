@@ -5,9 +5,9 @@ init_public_head();
 <div class="container-fluid marqueewrap">
 	<div class="alert alert-primary alert-dismissible" role="alert">
 		<marquee>
-		
-		<span>&#9733;</span><strong><a href="<?php echo base_url('public/pdf/Events/AdventoCampusLetter.pdf') ?>" target="_blank">Campus drive (company name: Advento technologies private Ltd, Bangalore) Interview date :13.06.2022 Time :9.30 am,  Venue : AVVM SPC Auditorium,  Eligibility : PG students of maths, physics, chemistry, computer science and MCA . Freshers and 2017, 2018, 2019, 2020, 2021 Pass out </strong></a>
-		<span>&#9733;</span><strong><a href="<?php echo base_url('public/pdf/Events/SRIRAM_PROFILE.pdf') ?>" target="_blank">Campus drive( company name:Foxconn Hon Hai technology india mega development private Ltd, Chennai) Interview date :17.06.2022  Time :9.30 am,  Venue : AVVM SPC Auditorium,  Eligibility : All UG girls freshers </strong></a>
+		<span>&#9733;</span><strong><a href="<?php echo base_url('public\pdf\Events\Collegeday_invitation_66.pdf') ?>" target="_blank">66<sup>th</sup> College Day Invitation (14.05.2022) </strong></a> -->
+		<!-- <span>&#9733;</span><strong><a href="<?php echo base_url('public/pdf/Events/AdventoCampusLetter.pdf') ?>" target="_blank">Campus drive (company name: Advento technologies private Ltd, Bangalore) Interview date :13.06.2022 Time :9.30 am,  Venue : AVVM SPC Auditorium,  Eligibility : PG students of maths, physics, chemistry, computer science and MCA . Freshers and 2017, 2018, 2019, 2020, 2021 Pass out </strong></a>
+		<span>&#9733;</span><strong><a href="<?php echo base_url('public/pdf/Events/SRIRAM_PROFILE.pdf') ?>" target="_blank">Campus drive( company name:Foxconn Hon Hai technology india mega development private Ltd, Chennai) Interview date :17.06.2022  Time :9.30 am,  Venue : AVVM SPC Auditorium,  Eligibility : All UG girls freshers </strong></a> -->
 		<!-- <span>&#9733;</span><strong><a href="<?php echo base_url('public\pdf\Events\Collegeday_invitation_66.pdf') ?>" target="_blank">66<sup>th</sup> College Day Invitation (14.05.2022) </strong></a> -->
 		<!-- <span>&#9733;</span><strong><a href="<?php echo base_url('public\pdf\Events\Muthamizh_Vizha.pdf') ?>" target="_blank">Muthamizh Vizha 2022 (12.05.2022) - Invitation </strong></a> -->
 		<!-- <span>&#9733;</span><strong><a href="<?php echo base_url('public\pdf\Events\Annual_sports_meet_2022_invitation.jpeg') ?>" target="_blank">66<sup>th</sup> Annual Sports Meet 2022 (10.05.2022) - Invitation </strong></a> -->

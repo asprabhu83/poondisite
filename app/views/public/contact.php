@@ -69,7 +69,7 @@ init_public_head();
                                 <ul>
                                     <ul>
                                        
-                                       <p><strong>Dr. R.Sivakumar,</strong> <br />M.Sc, M.Phil, Ph.D.,<br />Principal<br />A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9443662536<br /><strong>E-mail :</strong> rskumar.avvmspc@gmail.com<br />principal@sripushpamcollege.co.in<br /> </p>
+                                       <p><strong>Dr. R.Sivakumar,</strong> <br />M.Sc, M.Phil, Ph.D.,<br />Principal<br />A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9443662536<br /><strong>E-mail :</strong> rskumar.avvmspc@gmail.com<br />principal@avvmspc.ac.in<br /> </p>
 		                               
                                     </ul>
                                 </ul>
@@ -120,7 +120,7 @@ init_public_head();
                                 <ul>
                                     <ul>
                                        
-                                       <p><strong>Admission Committee Chairman / Members </strong> <br />A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9443972870<br /><strong>E-mail :</strong> admission@sripushpamcollege.co.in<br /></p>
+                                       <p><strong>Admission Committee Chairman / Members </strong> <br />A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9443806085,7904497576<br /><strong>E-mail :</strong> admission@avvmspc.ac.in<br /></p>
 		                               
                                     </ul>
                                 </ul>
@@ -135,7 +135,7 @@ init_public_head();
                                 <ul>
                                     <ul>
                                        
-                                       <p><strong>Placement Officer </strong> <br /> A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9443963108, 7904451231<br />  <strong>E-mail :</strong> avvmspcplacement2021@gmail.com, placement@sripushpamcollege.co.in<br /><br /></p>
+                                       <p><strong>Placement Officer </strong> <br /> A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9443963108, 7904451231<br />  <strong>E-mail :</strong> avvmspcplacement2021@gmail.com, placement@avvmspc.ac.in<br /><br /></p>
 		                               
                                     </ul>
                                 </ul>
@@ -150,7 +150,7 @@ init_public_head();
                                 <ul>
                                     <ul>
                                        
-                                       <p><strong>Hostel Warden </strong> <br />Srimathi Sethukannamal Hostel <br /> A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 04374-239522<br /><strong>E-mail :</strong> hostel.boys@sripushpamcollege.co.in<br />hostel.girls@sripushpamcollege.co.in<br /></p>
+                                       <p><strong>Hostel Warden </strong> <br />Srimathi Sethukannamal Hostel <br /> A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 04374-239522<br /><strong>E-mail :</strong> hostel.boys@avvmspc.ac.in<br />hostel.girls@avvmspc.ac.in<br /></p>
 		                               
                                     </ul>
                                 </ul>
