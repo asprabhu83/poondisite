@@ -115,7 +115,7 @@ init_public_head();
 
                 </tr>
                 <tr>
-                    <th><a href="<?php echo base_url('spcte_visiting_faculty') ?>" target="_blank" rel="noopener">Dr.B.Mala</a></th>
+                    <th><a href="<?php echo base_url('spcte_visiting_faculty') ?>" target="_blank" rel="noopener">Mr.Subbaraman</a></th>
                     <td style="text-align: center;">Manager (Rtd)</td>
                     <td style="text-align: center;">Indian Bank</td>
 
