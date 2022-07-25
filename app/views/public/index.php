@@ -57,10 +57,10 @@ init_public_head();
 		<li><img src="<?php echo base_url('assets\images\resized2022\HOMEPAGE 7.jpg') ?>" /></li>  
 		<li><img src="<?php echo base_url('assets\images\resized2022\HOMEPAGE 8.jpg') ?>" /></li> 
 		<li><img src="<?php echo base_url('assets\images\resized2022\HOMEPAGE 9.jpg') ?>" /></li>
-		<li><img src="<?php echo base_url('assets\images\resized2022\HOMEPAGE 10 .jpg') ?>" /></li>
-		<li><img src="<?php echo base_url('assets\images\resized2022\HOMEPAGE 11 .jpg') ?>" /></li>
-		<!-- <li><img src="<?php echo base_url('assets\images\resized2022\HOMEPAGE 12 .jpg') ?>" /></li> -->
-		<!-- <li><img src="<?php echo base_url('assets\images\resized2022\HOMEPAGE 13 .jpg') ?>" /></li> -->
+		<li><img src="<?php echo base_url('assets\images\resized2022\HOMEPAGE 10.jpg') ?>" /></li>
+		<li><img src="<?php echo base_url('assets\images\resized2022\HOMEPAGE 11.jpg') ?>" /></li>
+		<!-- <li><img src="<?php echo base_url('assets\images\resized2022\HOMEPAGE 12.jpg') ?>" /></li> -->
+		<!-- <li><img src="<?php echo base_url('assets\images\resized2022\HOMEPAGE 13.jpg') ?>" /></li> -->
 			
 		</ul>
 	</div>
