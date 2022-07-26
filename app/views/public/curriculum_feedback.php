@@ -15,18 +15,40 @@ init_public_head();
 		</ul>
 	</div>
 </div>
+
 <section class="section-90 section-md-20">
 	<div class="shell">
 		<div class="range range-xs-center">
 			<div class="cell-sm-10 cell-md-12">
-				<h2>Curriculum Feedback</h2>
+				<h2>Curriculum Feedback 2020 - 2021 </h2>
 				<div style="overflow-x: auto;">
 					<div class="offset-top-30">
 						<table border="1px">
 							<tbody>
-								
+							<h4>The feedback on curriculum from Students, Teachers, Alumni and Employers is collected for every academic year, since the stakeholders’ feedback is the most important factor for revision, restructuring and quality enhancement of the curriculum</h4>
+																						
+							</tbody>
+						</table>
+					</div>
+                    
+                </div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="section-90 section-md-20">
+	<div class="shell">
+		<div class="range range-xs-center">
+			<div class="cell-sm-10 cell-md-12">
+				<h2>Curriculum Filled Feedback Form 2020 - 2021 </h2>
+				<div style="overflow-x: auto;">
+					<div class="offset-top-30">
+						<table border="1px">
+							<tbody>
+							
 								<tr>
-									<th colspan="4">Curriculum Feedback Form</th>
+									<th colspan="4">Curriculum Filled Feedback Form</th>
 								</tr>
 								<tr>
 									<td>Alumni</td>
@@ -57,7 +79,7 @@ init_public_head();
 	<div class="shell">
 		<div class="range range-xs-center">
 			<div class="cell-sm-10 cell-md-12">
-				<h2>Curriculum Feedback Analysis</h2>
+				<h2>Curriculum Feedback Analysis 2020-2021 </h2>
 				<div style="overflow-x: auto;">
 
 
@@ -70,10 +92,10 @@ init_public_head();
 									<th colspan="4">Feedback Analysis for Employee</th>
 								</tr>
 								<tr>
-									<td>2015 - 2016</td>
+									<td>2020 - 2021</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Employer_Feedback_Analysis/employer_feedback_analysis_2015_2016.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<td>2016 - 2017</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Employer_Feedback_Analysis/employer_feedback_analysis_2016_2017.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
 								</tr>
@@ -88,7 +110,7 @@ init_public_head();
 								<tr>
 									<td>2019 - 2020</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Employer_Feedback_Analysis/employer_feedback_analysis_2019_2020.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
-								</tr>
+								</tr> -->
 								
 							</tbody>
 						</table>
@@ -103,10 +125,10 @@ init_public_head();
 									<th colspan="4">Feedback Analysis for Alumni</th>
 								</tr>
 								<tr>
-									<td>2015 - 2016</td>
+									<td>2020 - 2021</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Alumni_Feedback_Analysis/alumni_feedback_analysis_2015_2016.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<td>2016 - 2017</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Alumni_Feedback_Analysis/alumni_feedback_analysis_2016_2017.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
 								</tr>
@@ -121,7 +143,7 @@ init_public_head();
 								<tr>
 									<td>2019 - 2020</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Alumni_Feedback_Analysis/alumni_feedback_analysis_2019_2020.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
-								</tr>
+								</tr> -->
 								
 							</tbody>
 						</table>
@@ -135,10 +157,10 @@ init_public_head();
 									<th colspan="4">Feedback Analysis for Teacher</th>
 								</tr>
 								<tr>
-									<td>2015 - 2016</td>
+									<td>2020 - 2021</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Teachers_Feedback_Analysis/Teachers_feedback_analysis_2015_2016.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<td>2016 - 2017</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Teachers_Feedback_Analysis/Teachers_feedback_analysis_2016_2017.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
 								</tr>
@@ -153,7 +175,7 @@ init_public_head();
 								<tr>
 									<td>2019 - 2020</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Teachers_Feedback_Analysis/Teachers_feedback_analysis_2019_2020.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
-								</tr>
+								</tr> -->
 								
 							</tbody>
 						</table>
@@ -168,10 +190,10 @@ init_public_head();
 									<th colspan="4">Feedback Analysis for Student</th>
 								</tr>
 								<tr>
-									<td>2015 - 2016</td>
+									<td>2020 - 2021</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Students_Feedback_Analysis/Students_feedback_analysis_2015_2016.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<td>2016 - 2017</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Students_Feedback_Analysis/Students_feedback_analysis_2016_2017.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
 								</tr>
@@ -186,7 +208,7 @@ init_public_head();
 								<tr>
 									<td>2019 - 2020</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Students_Feedback_Analysis/Students_feedback_analysis_2019_2020.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
-								</tr>
+								</tr> -->
 								
 							</tbody>
 						</table>
@@ -202,7 +224,7 @@ init_public_head();
 	<div class="shell">
 		<div class="range range-xs-center">
 			<div class="cell-sm-10 cell-md-12">
-				<h2>Curriculum Action taken Report</h2>
+				<h2>Curriculum Action taken Report 2020 - 2021</h2>
 				<div style="overflow-x: auto;">
 
 
