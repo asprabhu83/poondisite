@@ -52,17 +52,21 @@ init_public_head();
 								</tr>
 								<tr>
 									<td>Alumni</td>
-									<td colspan="4"><a href="https://forms.gle/hpUmpKEcK2fpXuD8A"><span class="text-middle">FINAL.PDF </span></a></td>
+									<td colspan="4"><a href="#https://forms.gle/hpUmpKEcK2fpXuD8A"><span class="text-middle">FINAL.PDF </span></a></td>
 								</tr>
 								<tr>
 									<td>Teacher</td>
-									<td colspan="4"><a href="https://forms.gle/uEL9XVQjEcLKRD9WA"><span class="text-middle">FINAL.PDF </span></a></td>
+									<td colspan="4"><a href="#https://forms.gle/uEL9XVQjEcLKRD9WA"><span class="text-middle">FINAL.PDF </span></a></td>
 								</tr>
 								<tr>
 									<td>Student</td>
-									<td colspan="4"><a href="https://forms.gle/trMhu4hBFnisgeQk9"><span class="text-middle">FINAL.PDF </span></a></td>
+									<td colspan="4"><a href="#https://forms.gle/trMhu4hBFnisgeQk9"><span class="text-middle">FINAL.PDF </span></a></td>
 								</tr>
-								
+								<tr>
+									<td>Employer</td>
+									<td colspan="4"><a href="#https://forms.gle/trMhu4hBFnisgeQk9"><span class="text-middle">FINAL.PDF </span></a></td>
+								</tr>
+
 							</tbody>
 						</table>
 					</div>
@@ -88,11 +92,11 @@ init_public_head();
 						<table border="1px">
 							<tbody>
 								
+								<!-- <tr>
+									<th colspan="4">Feedback Analysis</th>
+								</tr> -->
 								<tr>
-									<th colspan="4">Feedback Analysis for Employee</th>
-								</tr>
-								<tr>
-									<td>2020 - 2021</td>
+									<td>Feedback Analysis</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Employer_Feedback_Analysis/employer_feedback_analysis_2015_2016.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
 								</tr>
 								<!-- <tr>
@@ -117,7 +121,7 @@ init_public_head();
 					</div>
 
 
-                    <div class="offset-top-30">
+                    <!-- <div class="offset-top-30">
 						<table border="1px">
 							<tbody>
 								
@@ -128,7 +132,7 @@ init_public_head();
 									<td>2020 - 2021</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Alumni_Feedback_Analysis/alumni_feedback_analysis_2015_2016.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
 								</tr>
-								<!-- <tr>
+							 <tr>
 									<td>2016 - 2017</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Alumni_Feedback_Analysis/alumni_feedback_analysis_2016_2017.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
 								</tr>
@@ -143,7 +147,7 @@ init_public_head();
 								<tr>
 									<td>2019 - 2020</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Alumni_Feedback_Analysis/alumni_feedback_analysis_2019_2020.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
-								</tr> -->
+								</tr> 
 								
 							</tbody>
 						</table>
@@ -160,7 +164,7 @@ init_public_head();
 									<td>2020 - 2021</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Teachers_Feedback_Analysis/Teachers_feedback_analysis_2015_2016.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
 								</tr>
-								<!-- <tr>
+								<tr>
 									<td>2016 - 2017</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Teachers_Feedback_Analysis/Teachers_feedback_analysis_2016_2017.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
 								</tr>
@@ -175,7 +179,7 @@ init_public_head();
 								<tr>
 									<td>2019 - 2020</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Teachers_Feedback_Analysis/Teachers_feedback_analysis_2019_2020.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
-								</tr> -->
+								</tr> 
 								
 							</tbody>
 						</table>
@@ -193,7 +197,7 @@ init_public_head();
 									<td>2020 - 2021</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Students_Feedback_Analysis/Students_feedback_analysis_2015_2016.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
 								</tr>
-								<!-- <tr>
+								 <tr>
 									<td>2016 - 2017</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Students_Feedback_Analysis/Students_feedback_analysis_2016_2017.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
 								</tr>
@@ -208,11 +212,11 @@ init_public_head();
 								<tr>
 									<td>2019 - 2020</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Students_Feedback_Analysis/Students_feedback_analysis_2019_2020.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
-								</tr> -->
+								</tr> 
 								
 							</tbody>
 						</table>
-					</div>
+					</div> -->
 
                 </div>
 			</div>
