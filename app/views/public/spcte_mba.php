@@ -16,6 +16,12 @@ init_public_head();
                 <!-- <li>2.Srimathi V. Sethukkannammal Trust Scholarship.</li> -->
             </ul>
         </ul><br>
+
+        <ul class="list list-marked">
+            <h5><strong>M.B.A.</strong></h5>
+            <h5><strong>M.B.A.(Logistic & Supply chain management)</strong></h5>
+        </ul><br>
+
         <ul class="list list-marked">
             <h5><strong>The Major specializations offered at SPCTE:</strong></h5>
         </ul><br>
@@ -29,7 +35,7 @@ init_public_head();
 
 
             <li>2 year, 4 Semester Full-time Program affiliated with Bharathidasan University</li>
-            <li>Intake: 60</li>
+            <li>Intake: 60 + 60</li>
             <li>Admission: As per AICTE norms</li>
             <!-- <li>Scholarship for differently-abled students.</li>
             <li>Scholarship for the children of freedom fighters.</li>
