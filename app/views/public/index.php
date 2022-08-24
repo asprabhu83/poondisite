@@ -5,6 +5,7 @@ init_public_head();
 <div class="container-fluid marqueewrap">
 	<div class="alert alert-primary alert-dismissible" role="alert">
 		<marquee>
+		<span>&#9733;</span><strong><a href="<?php echo base_url('public/pdf/Events/Foundars_day_Invitation.jpeg') ?>" target="_blank">123<sup>rd</sup> Founders Day Invitation (26.08.2022) </strong></a>	
 		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank"> UG Admission 2022-2023</strong></a> 
 		<span>&#9733;</span><strong><a href="<?php echo base_url('https://pages.razorpay.com/AVVMSPCforUG') ?>" target="_blank"> Online application payment </strong></a> 
 		<span>&#9733;</span><strong><a href="<?php echo base_url('https://docs.google.com/forms/d/e/1FAIpQLSfW0Q3WnoaSCLoYvumrqgYw-0GD242fuzg9OAI1f-8xCyYWyg/viewform') ?>" target="_blank"> Online application submission </strong></a> <span>&#9733; </span>
