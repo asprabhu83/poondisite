@@ -90,6 +90,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                             <div id="content-mobile">
                                 <img src="<?php echo base_url('assets/images/company-logo.jpg') ?>">
                                 <h4 style="color:#fff; font-size:14px"><br />A. Veeriya Vandayar Memorial Sri Pushpam College (Autonomous), Poondi, Thanjavur(Dt.) </h4>
+                                
                                 <p style="font-size:11px;"><span class="icon icon-sm-size-1 text-white mdi mdi-phone"></span> <a href="callto:04374239523" class="text-alto">04374-239523 </a><br /><br /><span class="icon icon-sm-size-1 text-white mdi mdi-email-outline"></span><a href="mailto:avvmspc@hotmail.com" class="text-alto"><span class="__cf_email__" data-cfemail="e38a8d858ca387868e8c8f8a8d88cd8c9184"> avvmspc@hotmail.com </span></a><br /><br /><span class="icon icon-sm-size-1 text-white mdi mdi-map-marker"></span> Poondi - 613 503, Thanjavur Dt, Tamil Nadu </p>
                                 <ul class="list-inline list-inline-sm">
                                     <li><a href="https://www.facebook.com/spc.poondi/" target="_blank" class="icon fa fa-facebook icon-silver"></a></li>
@@ -517,14 +518,16 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
 
 
                                                     <li class="active"><a href="<?php echo base_url('#') ?>"><span>PMKVY-TI</span></a></li>
-                                                    <li class="active"><a href="<?php echo base_url('#') ?>"><span>Clubs & Associations</span></a>
-                                                        <ul class="rd-navbar-dropdown">
+                                                    <li class="active"><a href="<?php echo base_url('public/pdf/SPCTE/MBA_Clubs_Associations_Centres.pdf') ?>"><span>Clubs & Associations</span></a>
+                                                    <!-- <li class="active"><a href="<?php echo base_url('#') ?>"><span>Clubs & Associations</span></a>
+                                                        
+                                                    <ul class="rd-navbar-dropdown">
                                                             <li><a href="<?php echo base_url('#') ?>"><span class="text-middle">Institution’s Innovation Cell (MHRD)</span></a></li>
                                                             <li><a href="<?php echo base_url('#') ?>"><span class="text-middle">Skill Development Cell</span></a></li>
                                                             <li><a href="<?php echo base_url('#') ?>"><span class="text-middle">Gender Equality Ce </span></a></li>
                                                             <li><a href="<?php echo base_url('#') ?>"><span class="text-middle">Human Resource Club</span></a></li>
                                                             <li><a href="<?php echo base_url('#') ?>"><span class="text-middle">Financial Literacy Club </span></a></li>
-                                                        </ul>
+                                                        </ul> -->
                                                     </li>
                                                     <li class="active"><a href="<?php echo base_url('#') ?>"><span>News & Events</span></a></li>
                                                     <li class="active"><a href="<?php echo base_url('#') ?>"><span>Alumnae </span></a></li>
