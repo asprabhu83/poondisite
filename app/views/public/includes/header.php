@@ -533,13 +533,13 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     <li class="active"><a href="<?php echo base_url('#') ?>"><span>Alumnae </span></a></li>
                                                     <li class="active"><a href="<?php echo base_url('#') ?>"><span>Placement</span></a></li>
                                                     <li class="active"><a href="<?php echo base_url('#') ?>"><span>MoU</span></a>
-                                                        <ul class="rd-navbar-dropdown">
+                                                        <!-- <ul class="rd-navbar-dropdown">
                                                             <li><a href="<?php echo base_url('#') ?>"><span class="text-middle">Institution’s Innovation Cell (MHRD).</span></a></li>
                                                             <li><a href="<?php echo base_url('#') ?>"><span class="text-middle">Skilling India, Banglore.</span></a></li>
                                                             <li><a href="<?php echo base_url('#') ?>"><span class="text-middle">Skill Slate Academy, Pune.</span></a></li>
                                                             <li><a href="<?php echo base_url('#') ?>"><span class="text-middle">Centre for Entrepreneurship Development, Madurai.</span></a></li>
                                                             <li><a href="<?php echo base_url('#') ?>"><span class="text-middle">Financial Literacy Club </span></a></li>
-                                                        </ul>
+                                                        </ul> -->
                                                     </li>
                                                     
                                                    
