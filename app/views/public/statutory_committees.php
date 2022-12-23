@@ -51,6 +51,11 @@ init_public_head();
 											<p><strong>NOMINEES OF THE MANAGEMENT </strong></p>
 											<p>Dr. D.L. Abraham, M.D., Thanjavur.</p>
 											<p>Prof. T. Gandhi,<br />Former Porfessor of English,<br />III Cross Street, Arulananda Nagar, Thanjavur</p>
+											
+											<p><strong>NOMINEE OF THE UGC </strong></p>
+											<p>Prof. A.Muralikrishna, Ph.D.</p>
+											<p>Professor of Civil & Environmental Engineering,<br />Indian instirute of Technology,<br />Tirupathi, Andhrapradesh</p>
+
 											<p><strong>NOMINEE OF THE UNIVERSITY </strong></p>
 											<p>Dr.T.Senthil Kumar, Ph.D.</p>
 											<p>Professor of Botany,<br />Bharathidasan University,<br />Trichirapalli- 24.</p>
@@ -192,8 +197,8 @@ init_public_head();
 														<td colspan="2"><strong>VICE &ndash; CHAIRMEN</strong></td>
 													</tr>
 													<tr>
-														<td>Dr. S.Kumaravel, Ph.D.<br /> Dr. V.Ravichandaran, Ph.D.</td>														
-														<td>Dean, Faculty of Science <br /> Dean, Faculty of Arts &amp; Commerce</td>
+														<td>Dr. V.Ravichandaran, Ph.D.<br />Dr. T.S.Baskaran, Ph.D. </td>														
+														<td>Dean, Faculty of Arts &amp; Commerce <br />Dean, Academic </td>
 														
 													</tr>
 													<tr>
@@ -327,7 +332,7 @@ init_public_head();
 											<p>R.Vishvashyam, II M.Sc., Botany</p>
 											
 											<p align="justify" class="text-gray-darker"><strong>REPRESENTATIVE FROM THE COLLEGE OFFICE</strong></p>
-											<p>Mr. M. Anandanarayanan, Superintendent.</p>
+											<p>Mr. S.Durairajan, Superintendent.</p>
 											
 											<p align="justify" class="text-gray-darker"><strong>NON MEMBER SECRETARY</strong></p>
 											<p>Dr. K. Balakrishnan, Chemistry</p>
@@ -348,8 +353,8 @@ init_public_head();
 														<td colspan="2"><strong>VICE &ndash; CHAIRMEN</strong></td>
 													</tr>
 													<tr>
-														<td>Dr. S.Kumaravel, Ph.D.<br /> Dr. V.Ravichandaran, Ph.D.</td>														
-														<td>Dean, Faculty of Science <br /> Dean, Faculty of Arts &amp; Commerce</td>
+														<td>Dr. V.Ravichandaran, Ph.D.<br />Dr. T.S.Baskaran, Ph.D. </td>														
+														<td>Dean, Faculty of Arts &amp; Commerce <br />Dean, Academic </td>
 														
 													</tr>
 													<tr>
@@ -434,8 +439,8 @@ init_public_head();
 													</tr>
 																										
 													<tr>
-														<td>Mr. Anandanarayanan</td>
-														<td>Assistant, Office</td>
+														<td>Mr. S.Durairajan</td>
+														<td>Superintendent</td>
 													</tr>
 												</tbody>
 											</table>
