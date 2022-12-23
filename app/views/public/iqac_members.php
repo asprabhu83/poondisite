@@ -76,8 +76,8 @@ init_public_head();
 													</tr>
 													
 													<tr>
-														<td>Dr. V.Ravichandaran, Ph.D.<br /> Dr. S.Kumaravel, Ph.D.</td>
-														<td>Dean - Arts &amp; Commerce <br /> Dean - Sciences</td>
+														<td>Dr. V.Ravichandaran, Ph.D.<br /> Dr. T.S.Baskaran, Ph.D.</td>
+														<td>Dean - Arts &amp; Commerce <br /> Dean - Academic</td>
 													</tr>
 													<tr>
 														<td>Dr. C.Chandran, Ph.D.</td>
