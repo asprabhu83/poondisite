@@ -49,7 +49,7 @@ init_public_head();
 											<p>Thiru A. Dhanasekaran Vandayar, B.Com.</p>
 											<p align="justify" class="text-gray-darker"></p>
 											<p><strong>NOMINEES OF THE MANAGEMENT </strong></p>
-											<p>Dr. D.L. Abraham, M.D., Thanjavur.</p>
+											<p>Dr. D.L. Abraham, M.D., <br />Former Porfessor of Medicine,<br />Thanjavur.</p>
 											<p>Prof. T. Gandhi,<br />Former Porfessor of English,<br />III Cross Street, Arulananda Nagar, Thanjavur</p>
 											
 											<p><strong>NOMINEE OF THE UGC </strong></p>
