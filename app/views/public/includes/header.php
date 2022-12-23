@@ -35,14 +35,15 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
 
                         <div class="rd-navbar-top-panel" style="padding: 70px;">
                             <div id="content-desktop">
-                                <h5 align="center" style="color: #fff; padding-left: 40px; font-variant: small-caps; font-size: 26px; margin-top: -35px;"><strong>A. Veeriya Vandayar Memorial Sri Pushpam College (Autonomous)</strong></h5>
+                                <h5 align="center" style="color: #fff; padding-left: 40px; font-variant: small-caps; font-size: 26px; margin-top: -70px;"><strong>A. Veeriya Vandayar Memorial Sri Pushpam College (Autonomous)</strong></h5>
+                                <div> <h3 align="center" style="color: #fff; padding-right: 60px; font-variant: small-caps; font-size: 16px; margin-top: 15px;">Nationally Reaccredited with "A" Grade by NAAC</h3></div>
                                 <div class="left-side">
 
                                     <address class="contact-info text-left" style="padding-left: 50px;">
 
                                         <div style="margin-bottom:55px;"><img src="<?php echo base_url('assets/images/company-logo.jpg') ?>"></div>
 
-                                        <!-- <div class="reveal-inline-block">
+                                         <div class="reveal-inline-block">
                                             <div class="unit unit-middle unit-horizontal unit-spacing-xs unit-xs-top">
                                                 <div class="unit-left"><span class="icon icon-sm-size-1 text-white mdi mdi-phone"></span></div>
                                                 <div class="unit-body">
@@ -63,14 +64,16 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                             <div class="unit unit-middle unit-horizontal unit-spacing-xs unit-xs-top">
                                                 <div class="unit-left"><span class="icon icon-sm-size-1 text-white mdi mdi-map-marker"></span></div>
                                                 <div class="unit-body">
+                                                    
                                                     <div class="p" style="color: #fff;"><strong></strong>Poondi - 613 503, Thanjavur Dt, Tamil Nadu </strong></div>
+                                                    
                                                 </div>
                                             </div>
-                                        </div> -->
+                                        </div> 
 
                                     </address>
                                 </div>
-
+                                
                                 <div class="right-side">
                                     <ul class="list-inline list-inline-sm">
                                         <li><a href="https://www.facebook.com/spc.poondi/" target="_blank" class="icon fa fa-facebook icon-silver"></a></li>
@@ -83,9 +86,10 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
 
                             </div>
                             
-                            <div id="content-desktop">
+                           <!--  <div id="content-desktop">
+                                        <h3 align="center" style="color: #fff; padding-right: 60px; font-variant: small-caps; font-size: 16px; margin-top: 15px;">Nationally Reaccredited with "A" Grade by NAAC</h3>
                                         <h3 align="center" style="color: #fff; padding-right: 60px; font-variant: small-caps; font-size: 22px; margin-top: 15px;">Poondi - 613 503, Thanjavur Dt, Tamil Nadu</h3>
-                            </div>
+                            </div> -->
 
                             <div id="content-mobile">
                                 <img src="<?php echo base_url('assets/images/company-logo.jpg') ?>">
