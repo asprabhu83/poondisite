@@ -124,8 +124,8 @@ init_public_head();
 														<td colspan="2"><strong>Representation from the Office</strong></td>
 													</tr>
 													<tr>
-														<td>Anandanarayanan</td>
-														<td>Assistant</td>
+														<td>Mr. S.Durairajan</td>
+														<td>Superintendent</td>
 													</tr>
 												</tbody>
 											</table>
