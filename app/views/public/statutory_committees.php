@@ -397,7 +397,7 @@ init_public_head();
 														<td>Tamil</td>
 													</tr>
 													<tr>
-														<td>Dr. M.Prameshr</td>
+														<td>Dr. M.Pramesh</td>
 														<td>Chemistry</td>
 													</tr>
 													<tr>
