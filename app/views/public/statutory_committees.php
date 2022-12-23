@@ -481,7 +481,7 @@ init_public_head();
 											<p>Dr.V.Maniraj - Computer Science</p>
 											<p>Dr.K.Balakrishnan - Chemistry</p>
 											<p><strong>REPRESENTATIVE FROM COLLEGE OFFICE </strong></p>
-											<p>Mr. Anandanarayanan, Assistant, Office</p>
+											<p>Mr. S.Durairajan, Superintendent</p>
 										</div>
 									</div>
 
