@@ -36,7 +36,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                         <div class="rd-navbar-top-panel" style="padding: 70px;">
                             <div id="content-desktop">
                                 <h5 align="center" style="color: #fff; padding-left: 40px; font-variant: small-caps; font-size: 26px; margin-top: -70px;"><strong>A. Veeriya Vandayar Memorial Sri Pushpam College (Autonomous)</strong></h5>
-                                <div> <h3 align="center" style="color: #eaf805; padding-right: 60px; font-variant: small; font-size: 16px; margin-top: 15px;">Nationally Reaccredited with "A" Grade by NAAC</h3></div>
+                                <div> <h3 align="center" style="color: #eaf805; padding-right: 60px; font-variant: small; font-size: 16px; margin-top: 15px;">Nationally Reaccredited with "A" Grade by NAAC (4<sup>th</sup> Cycle)</h3></div>
                                 <div class="left-side">
 
                                     <address class="contact-info text-left" style="padding-left: 50px;">
