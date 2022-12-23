@@ -313,19 +313,23 @@ init_public_head();
 											<p><strong>Dr. R. Elavarasu, </strong><br />Head &amp; Associate Professor of English, <br />National College, <br />Trichirapalli.</p>
 											<br />
 											
-											
 											<p align="justify" class="text-gray-darker"><strong>NOMINEES OF THE UNIVERSITY</strong></p>
+											<p><strong>Dr. T.Senthil kumar,</strong><br />Professor, Department of Botany, <br />Bharathidasan University, <br />Thiruchirapalli - 24.</p>
+											<p><strong>Dr. K.Jeganathan,</strong><br />Professor,<br />Department of Physics<br />Bharathidasan University,<br />Thiruchirapalli - 24.</p>
+											<p><strong>Dr. A.Palanisamy,</strong><br />Professor,<br />Department of Physical Education & Yoga<br />Bharathidasan University,<br />Thiruchirapalli - 24.</p>
+											
+											<!-- <p align="justify" class="text-gray-darker"><strong>NOMINEES OF THE UNIVERSITY</strong></p>
 											<p><strong>Dr. S.Narkunaraja,</strong><br />Professor and Head, Department of Bio Medical Science, <br />Bharathidasan University, <br />Thiruchirapalli - 24.</p>
 											<p><strong>Dr. A.Tamilselvan,</strong><br />Professor and Head,<br />Department of Environmental Management<br />Bharathidasan University,<br />Thiruchirapalli - 24.</p>
-											
-											<p align="justify" class="text-gray-darker"><strong>Member - Co-odinator</strong></p>
+											 -->
+											<!-- <p align="justify" class="text-gray-darker"><strong>Member - Co-odinator</strong></p>
 											<p><strong> Dr. S.Arumugam</strong><br />Professor, Department of Physics, <br />Bharathidasan University,<br />Thiruchirapalli - 24.</p>
-											
+											 -->
 											<!-- <p align="justify" class="text-gray-darker"><strong>Special Invitee</strong></p>
 											<p><strong> Dr. A.S.Nageshwaran</strong><br />Director, Council for College & Curriculum Development, <br />Bharathidasan University,<br />Thiruchirapalli - 24.</p> -->
 
 											<p align="justify" class="text-gray-darker"><strong>ONE REPRESENTATIVE OF THE STATE GOVERNMENT</strong></p>
-											<p><strong>Dr.T.Arivudai Nambi,</strong> <br/>Joint Director of Collegiate Education, Thanjavur Region, Thanjavur.</p>
+											<p><strong> <br/>Joint Director of Collegiate Education,</strong> Thanjavur Region, Thanjavur.</p>
 											
 											<p align="justify" class="text-gray-darker"><strong>STUDENT REPRESENTATIVES</strong></p>
 											<p>N.Narmatha, II M.A., Economics</p>
@@ -470,8 +474,8 @@ init_public_head();
 											<p>Dr. D.L. Abraham, M.D., Thanjavur.</p>
 											<p>Prof. T. Gandhi,<br />Former Porfessor of English,<br />III Cross Street, Arulananda Nagar, Thanjavur</p>
 											<p><strong>UNIVERSITY REPRESENTATIVE </strong></p>
-											<p>Dr. A. Ajmal Khan</p>
-											<p>Associate Professor of English,<br />Jamal Mohamed College (Autonomous),<br />Tiruchirappalli – 620 020.</p>
+											<p>Dr. C. Gunasekaran</p>
+											<p>Assistant Professor of Physics,<br />Government Arts College,<br />Karur.</p>
 
 											<p><strong>NOMINEES FROM THE TEACHING FACULTY</strong></p>
 											<p>Dr.V.Maniraj - Computer Science</p>
@@ -489,7 +493,7 @@ init_public_head();
 											<p>Principal</p>
 											
 											<!-- <p align="justify" class="text-gray-darker"><strong>ONE REPRESENTATIVE OF THE STATE GOVERNMENT</strong></p> -->
-											<p><strong>Dr.T.Arivudai Nambi,</strong> <br/>The Regional Joint Director of Collegiate Education, <br/>Thanjavur Region, Thanjavur.</p>
+											<p><strong> <br/>The Regional Joint Director of Collegiate Education,</strong> <br/>Thanjavur Region, Thanjavur.</p>
 
 											<p align="justify" class="text-gray-darker"></p>
 											<p><strong>The Finance Officer,</strong> <br/>Bharathidasan University, Thiruchirappalli </p>
