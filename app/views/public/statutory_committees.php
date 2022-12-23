@@ -329,7 +329,7 @@ init_public_head();
 											<p><strong> Dr. A.S.Nageshwaran</strong><br />Director, Council for College & Curriculum Development, <br />Bharathidasan University,<br />Thiruchirapalli - 24.</p> -->
 
 											<p align="justify" class="text-gray-darker"><strong>ONE REPRESENTATIVE OF THE STATE GOVERNMENT</strong></p>
-											<p><strong> <br/>Joint Director of Collegiate Education,</strong> Thanjavur Region, Thanjavur.</p>
+											<p><strong> <br/>The Joint Director of Collegiate Education,</strong> Thanjavur Region, Thanjavur.</p>
 											
 											<p align="justify" class="text-gray-darker"><strong>STUDENT REPRESENTATIVES</strong></p>
 											<p>N.Narmatha, II M.A., Economics</p>
@@ -471,7 +471,7 @@ init_public_head();
 
 											<p align="justify" class="text-gray-darker"></p>
 											<p><strong>NOMINEES OF THE MANAGEMENT </strong></p>
-											<p>Dr. D.L. Abraham, M.D., Thanjavur.</p>
+											<p>Dr. D.L. Abraham, M.D., <br />Former Porfessor of Medicine,<br />Thanjavur.</p>
 											<p>Prof. T. Gandhi,<br />Former Porfessor of English,<br />III Cross Street, Arulananda Nagar, Thanjavur</p>
 											<p><strong>UNIVERSITY REPRESENTATIVE </strong></p>
 											<p>Dr. C. Gunasekaran</p>
