@@ -55,7 +55,7 @@ init_public_head();
 														<td colspan="2"><strong>MANAGEMENT NOMINEE</strong><br /></td>
 													</tr>
 													<tr>
-														<td>Sri. K.Ramanatha Thulasiah Vandayar.
+														<td>Sri. K.Ramanatha Thulasiah Vandayar, B.Tech.</td>
 													</tr>
 													<tr>
 														<td colspan="2"><strong>CHAIRPERSON</strong><br /></td>
@@ -69,7 +69,7 @@ init_public_head();
 													</tr>
 													<tr>
 														<td>Dr.R.Subashchandrabose</td>
-														<td>Associate Professor of Computer Science</td>
+														<td>Computer Science</td>
 													</tr>
 													<tr>
 														<td colspan="2"><strong>SENIOR ADMINISTRATIVE OFFICERS</strong></td>
@@ -144,7 +144,7 @@ init_public_head();
 											Chartered GBS Pvt. Ltd. Chennai.</p>
 											
 											<p align="justify" class="text-gray-darker"><strong>Student Representation </strong></p>
-											<p><strong>R.Kamal,</strong> II M.Sc., (C.S)</p>
+											<p><strong>K.Dharani,</strong> II MBA.,</p>
 											
 									</div><br>
 									</div>

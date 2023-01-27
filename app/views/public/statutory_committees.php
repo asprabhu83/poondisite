@@ -53,8 +53,8 @@ init_public_head();
 											<p>Prof. T. Gandhi,<br />Former Porfessor of English,<br />III Cross Street, Arulananda Nagar, Thanjavur</p>
 											
 											<p><strong>NOMINEE OF THE UGC </strong></p>
-											<p>Prof. A.Muralikrishna, Ph.D.</p>
-											<p>Professor of Civil & Environmental Engineering,<br />Indian instirute of Technology,<br />Tirupathi, Andhrapradesh</p>
+											<p>Prof. A.Murali Krishna, Ph.D.</p>
+											<p>Professor of Civil & Environmental Engineering,<br />Indian institute of Technology,<br />Tirupathi, Andhrapradesh</p>
 
 											<p><strong>NOMINEE OF THE UNIVERSITY </strong></p>
 											<p>Dr.T.Senthil Kumar, Ph.D.</p>
@@ -219,10 +219,10 @@ init_public_head();
 													</tr>
 													<tr>
 														<td>Dr. R. Subashchandrabose</td>
-														<td>IQAC Coordinator </td>
+														<td>IQAC Co-ordinator </td>
 													</tr>
 													<tr>
-														<td>Dr. K.Thirumavalavan</td>
+														<td>Prof. K.Thirumavalavan</td>
 														<td>Commerce</td>
 													</tr>
 													
@@ -268,10 +268,10 @@ init_public_head();
 														<td>Dr. V. Malarvizhi</td>
 														<td>History</td>
 													</tr>
-													<tr>
+													<!-- <tr>
 														<td>Dr. J.Selvam</td>
 														<td>Library and Info. Science</td>
-													</tr>
+													</tr> -->
 													<tr>
 														<td colspan="2"><strong>CONTROLLER OF EXAMINATIONS</strong></td>
 													</tr>
@@ -332,8 +332,8 @@ init_public_head();
 											<p><strong> <br/>The Joint Director of Collegiate Education,</strong> Thanjavur Region, Thanjavur.</p>
 											
 											<p align="justify" class="text-gray-darker"><strong>STUDENT REPRESENTATIVES</strong></p>
-											<p>N.Narmatha, II M.A., Economics</p>
-											<p>R.Vishvashyam, II M.Sc., Botany</p>
+											<p>S.Sowndharya, I M.Com.,</p>
+											<p>P.Asuwathi, I M.Sc., Physics</p>
 											
 											<p align="justify" class="text-gray-darker"><strong>REPRESENTATIVE FROM THE COLLEGE OFFICE</strong></p>
 											<p>Mr. S.Durairajan, Superintendent.</p>
@@ -388,7 +388,7 @@ init_public_head();
 														<td>IQAC Coordinator</td>
 													</tr> 
 													<tr>
-														<td>Dr. K.Thirumavalavan</td>
+														<td>Prof.K.Thirumavalavan</td>
 														<td>Commerce</td>
 													</tr>
 													
@@ -459,7 +459,7 @@ init_public_head();
 											<br />
 											<p align="justify" class="text-gray-darker"><strong>PRESIDENT</strong></p>
 											<p>Shri. T. Krishnasamy Vandayar, B.Tech. </p>
-											<p align="justify" class="text-gray-darker"><strong>SECRETARY & Correspondent</strong></p>
+											<p align="justify" class="text-gray-darker"><strong>SECRETARY & CORRESPONDENT</strong></p>
 											<p>Thiru A. Balasubramania Vandayar, M.A.</p>
 											<p><strong>MEMBERS</strong></p>
 											

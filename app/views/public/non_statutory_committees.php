@@ -47,29 +47,29 @@ init_public_head();
 														<table cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 															<tbody>
 																<tr>
-																	<td>Dr. S. Vijayakumar</td>
+																	<td>Dr. S. Sankar</td>
 																	<td></td>
-																	<td>Zoology</td>
+																	<td>Chemistry</td>
 																</tr>
 																<tr>
-																	<td>Dr. P. Ganesan</td>
+																	<td>Dr. S. Raju</td>
 																	<td></td>
-																	<td>History</td>
+																	<td>Commerce</td>
 																</tr>
 																<tr>
-																	<td>Dr. D. Ramprasad</td>
-																	<td></td>
-																	<td>Maths</td>
-																</tr>
-																<tr>
-																	<td>Dr. T. Selvakumar</td>
-																	<td></td>
-																	<td>English</td>
-																</tr>
-																<tr>
-																	<td>Dr. V.Manimegalai</td>
+																	<td>Dr. V.Manimekalai</td>
 																	<td></td>
 																	<td>Botany</td>
+																</tr>
+																<tr>
+																	<td>Prof. N.Loganathan</td>
+																	<td></td>
+																	<td>Economics</td>
+																</tr>
+																<tr>
+																	<td>Dr. M.Gurumoorthy</td>
+																	<td></td>
+																	<td>Mathematics</td>
 																</tr>
 															</tbody>
 														</table>
@@ -98,7 +98,7 @@ init_public_head();
 																	<td>Commerce</td>
 																</tr> -->
 																<tr>
-																	<td>Dr. T. Ramprasath</td>
+																	<td>Dr. D. Ramprasath</td>
 																	<td></td>
 																	<td>Mathematics</td>
 																</tr>
@@ -164,7 +164,7 @@ init_public_head();
 														<table cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 															<tbody>
 																<tr>
-																	<td>Prof.C.Radhakrishnan</td>
+																	<td>Dr. C.Radhakrishnan</td>
 																	<td></td>
 																	<td>English</td>
 																</tr>
@@ -246,7 +246,7 @@ init_public_head();
 																	<td>English</td>
 																</tr>
 																<tr>
-																	<td>Dr. K. Muruganandam</td>
+																	<td>Dr. K. Muruganandham</td>
 																	<td></td>
 																	<td>Physics</td>
 																</tr>
@@ -310,7 +310,7 @@ init_public_head();
 																	<td>Mathematics</td>
 																</tr>
 																<tr>
-																	<td>Prof. G. Sivakumar</td>
+																	<td>Dr. G. Sivakumar</td>
 																	<td></td>
 																	<td>Mathematics</td>
 																</tr>
@@ -515,7 +515,7 @@ init_public_head();
 																	<td>Physics</td>
 																</tr>
 																<tr>
-																	<td>Prof. S.Thenmozhi</td>
+																	<td>Dr.S.Thenmozhi</td>
 																	<td></td>
 																	<td>History</td>
 																</tr>
@@ -525,7 +525,7 @@ init_public_head();
 																	<td>English</td>
 																</tr>
 																<tr>
-																	<td>Prof. T. Saravanan</td>
+																	<td>Dr. T. Saravanan</td>
 																	<td></td>
 																	<td>Economics</td>
 																</tr>
@@ -611,7 +611,7 @@ init_public_head();
 																	<td>Commerce</td>
 																</tr>
 																<tr>
-																	<td>Dr. K. S. Loganathan</td>
+																	<td>Prof. N.Loganathan</td>
 																	<td></td>
 																	<td>Economics</td>
 																</tr>
@@ -643,10 +643,10 @@ init_public_head();
 																<tr>
 																	<td>Dr. D. Suresh</td>
 																	<td></td>
-																	<td>Physical Education</td>
+																	<td>Physical Education, Health Education & Sports</td>
 																</tr>
 																<tr>
-																	<td>Prof. S.Prakasam</td>
+																	<td>Dr. S.Prakasam</td>
 																	<td></td>
 																	<td>Mathematics</td>
 																</tr>
@@ -681,25 +681,26 @@ init_public_head();
 													<div>
 														<table cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 															<tbody>
-															<tr>
-																	<td>Dr. S. Kumaravel</td>
-																	<td></td>
-																	<td>Dean of Science</td>
-																</tr>
+															
 																<tr>
 																	<td>Dr. V. Ravichandran</td>
 																	<td></td>
 																	<td>Dean of Arts and Commerce</td>
 																</tr>
 																<tr>
-																	<td>Dr. M.S.Muthuramalingam</td>
+																	<td>Dr. T.S.Baskaran</td>
 																	<td></td>
-																	<td>Physical Education</td>
+																	<td>Dean Academic</td>
 																</tr>
 																<tr>
-																	<td>Mr. M. Anandanarayanan</td>
+																	<td>Dr. M.S.Muthuramalingam</td>
 																	<td></td>
-																	<td>Office Superintendent</td>
+																	<td>Physical Education, Health Education & Sports</td>
+																</tr>
+																<tr>
+																	<td>Mr. S.Durairajan</td>
+																	<td></td>
+																	<td>Superintendent</td>
 																</tr>
 															</tbody>
 														</table>
@@ -779,7 +780,7 @@ init_public_head();
 																	<td>Chemistry</td>
 																</tr>
 																<tr>
-																	<td>Prof. S. Pari</td>
+																	<td>Dr. S. Pari</td>
 																	<td></td>
 																	<td>English</td>
 																</tr>
@@ -801,17 +802,17 @@ init_public_head();
 																	<td>History</td>
 																</tr> -->
 																<tr>
-																	<td>Dr. K. Thirumavalavan</td>
+																	<td>Prof. K. Thirumavalavan</td>
 																	<td></td>
 																	<td>Commerce</td>
 																</tr>
 																<tr>
 																	<td>Dr. Madan Mohan</td>
 																	<td></td>
-																	<td>Physical Education</td>
+																	<td>Physical Education, Health Education & Sports</td>
 																</tr>
 																<tr>
-																	<td>Prof. S. Sankaranarayanan</td>
+																	<td>Dr.S. Sankaranarayanan</td>
 																	<td></td>
 																	<td>Mathematics</td>
 																</tr>
@@ -841,7 +842,7 @@ init_public_head();
 																	<td>Mathematics</td>
 																</tr> -->
 																<tr>
-																	<td>Prof. C. Karpagasundari</td>
+																	<td>Dr. C. Karpagasundari</td>
 																	<td></td>
 																	<td>Botany</td>
 																</tr>
@@ -958,15 +959,20 @@ init_public_head();
 													<div>
 														<table cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 															<tbody>
-																<tr>
+																<!-- <tr>
 																	<td>Dr. Kumaravel </td>
 																	<td></td>
 																	<td>- Dean of Sciences</td>
-																</tr>
+																</tr> -->
 																<tr>
 																	<td>Dr.V.Ravichandran </td>
 																	<td></td>
 																	<td>- Dean of Arts & Commerce</td>
+																</tr>
+																<tr>
+																	<td>Dr. T.S.Baskaran </td>
+																	<td></td>
+																	<td>- Dean Academic</td>
 																</tr>
 																<tr>
 																	<td>Mr. S. Francis  </td>
@@ -995,14 +1001,19 @@ init_public_head();
 																	<td>Dean of Arts and Commerce</td>
 																</tr>
 																<tr>
-																	<td>Dr. M.S.Muthuramalingam</td>
+																	<td>Dr. T.S.Baskaran </td>
 																	<td></td>
-																	<td>Physical Education </td>
+																	<td>- Dean Academic</td>
 																</tr>
 																<tr>
-																	<td>Mr. M. Anandanarayanan</td>
+																	<td>Dr. M.S.Muthuramalingam</td>
 																	<td></td>
-																	<td>Office Superintendent</td>
+																	<td>Physical Education, Health Education & Sports </td>
+																</tr>
+																<tr>
+																	<td>Mr. S. Durairajan</td>
+																	<td></td>
+																	<td>Superintendent</td>
 																</tr>
 															</tbody>
 														</table>
@@ -1021,12 +1032,12 @@ init_public_head();
 																	<td>Physics</td>
 																</tr>
 																<tr>
-																	<td>R. Balakrishnan</td>
+																	<td>Dr. R. Balakrishnan</td>
 																	<td></td>
 																	<td>Commerce</td>
 																</tr>
 																<tr>
-																	<td>G.Gnanasankari</td>
+																	<td>Dr. G.Gnanasankari</td>
 																	<td></td>
 																	<td>Tamil</td>
 																</tr>
@@ -1097,7 +1108,7 @@ init_public_head();
 														<table cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 															<tbody>
 																<tr>
-																	<td>Lt. A. Jeyaroja</td>
+																	<td>Dr. Lt. A. Jeyaroja</td>
 																	<td></td>
 																	<td>Tamil</td>
 																</tr>
@@ -1199,7 +1210,7 @@ init_public_head();
 																	<td>Zoology</td>
 																</tr>
 																<tr>
-																	<td>Prof. C. Rajashree</td>
+																	<td>Dr. C. Rajashree</td>
 																	<td></td>
 																	<td>Physics</td>
 																</tr>
@@ -1256,7 +1267,7 @@ init_public_head();
 																	<td>English</td>
 																</tr>
 																<tr>
-																	<td>Ms. M. Vasanthi</td>
+																	<td>Dr. M. Vasanthi</td>
 																	<td></td>
 																	<td>Physics</td>
 																</tr>

@@ -76,7 +76,7 @@ $token=$_SESSION['name'];
 														<td colspan="2"><strong>MANAGEMENT NOMINEE</strong><br /></td>
 													</tr>
 													<tr>
-														<td>Sri. K.Ramanatha Thulasiah Vandayar.
+														<td>Sri. K.Ramanatha Thulasiah Vandayar, B.Tech.</td>
 													</tr>
 													<tr>
 														<td colspan="2"><strong>CHAIRPERSON</strong><br /></td>
