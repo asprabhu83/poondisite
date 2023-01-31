@@ -20,7 +20,7 @@ init_public_head();
 	<div class="shell">
 		<div class="range range-xs-center">
 			<div class="cell-sm-10 cell-md-12">
-				<h2>Curriculum Feedback </h2>
+				<h2>Curriculum Feedback 2020 - 2021 </h2>
 				<div style="overflow-x: auto;">
 					<div class="offset-top-30">
 						<table border="1px">
@@ -41,40 +41,10 @@ init_public_head();
 	<div class="shell">
 		<div class="range range-xs-center">
 			<div class="cell-sm-10 cell-md-12">
-				<h2>Curriculum Feedback 2020 - 2021 </h2>
+				<h2>Curriculum Filled Feedback Form 2020 - 2021 </h2>
 				<div style="overflow-x: auto;">
 					<div class="offset-top-30">
-					<table border="1px">
-							<tbody>
-							
-								<!-- <tr>
-									<td>Feedback Analysis</td>
-									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Employer_Feedback_Analysis/employer_feedback_analysis_2015_2016.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
-								</tr>  -->
-
-
-								<!-- <tr>
-									<th colspan="4">Curriculum Feedback 2020 - 2021</th>
-								</tr> -->
-								<tr>
-									<td>Curriculum Filled Feedback Form</td>
-									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Employer_Feedback_Analysis/employer_feedback_analysis_2015_2016.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
-									<!-- <td colspan="4"><a href="#https://forms.gle/hpUmpKEcK2fpXuD8A"><span class="text-middle">FINAL.PDF </span></a></td> -->
-								</tr>
-								<tr>
-									<td>Curriculum Feedback Analysis</td>
-									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Employer_Feedback_Analysis/employer_feedback_analysis_2015_2016.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
-								</tr>
-								<tr>
-									<td>Curriculum Action taken Report</td>
-									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Employer_Feedback_Analysis/employer_feedback_analysis_2015_2016.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
-								</tr>								
-
-							</tbody>
-						</table> 
-
-
-						<!-- <table border="1px">
+						<table border="1px">
 							<tbody>
 							
 								<tr>
@@ -98,43 +68,7 @@ init_public_head();
 								</tr>
 
 							</tbody>
-						</table> -->
-					</div>
-
-                    
-                </div>
-			</div>
-		</div>
-	</div>
-</section><br>
-
-<section class="section-90 section-md-20">
-	<div class="shell">
-		<div class="range range-xs-center">
-			<div class="cell-sm-10 cell-md-12">
-				<h2>Curriculum Feedback 2021 - 2022 </h2>
-				<div style="overflow-x: auto;">
-					<div class="offset-top-30">
-						<table border="1px">
-							<tbody>
-							
-								
-								<tr>
-									<td>Curriculum Filled Feedback Form</td>
-									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Employer_Feedback_Analysis/employer_feedback_analysis_2015_2016.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
-								</tr>
-								<tr>
-									<td>Curriculum Feedback Analysis</td>
-									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Employer_Feedback_Analysis/employer_feedback_analysis_2015_2016.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
-								</tr>
-								<tr>
-									<td>Curriculum Action taken Report</td>
-									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Employer_Feedback_Analysis/employer_feedback_analysis_2015_2016.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
-								</tr>								
-
-							</tbody>
-						</table> 
-						
+						</table>
 					</div>
 
                     
@@ -146,43 +80,6 @@ init_public_head();
 
 
 <section class="section-90 section-md-20">
-	<div class="shell">
-		<div class="range range-xs-center">
-			<div class="cell-sm-10 cell-md-12">
-				<h2>Curriculum Feedback 2022 - 2023 </h2>
-				<div style="overflow-x: auto;">
-					<div class="offset-top-30">
-						<table border="1px">
-							<tbody>
-							
-								
-								<tr>
-									<td>Curriculum Filled Feedback Form</td>
-									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Employer_Feedback_Analysis/employer_feedback_analysis_2015_2016.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
-								</tr>
-								<tr>
-									<td>Curriculum Feedback Analysis</td>
-									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Employer_Feedback_Analysis/employer_feedback_analysis_2015_2016.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
-								</tr>
-								<tr>
-									<td>Curriculum Action taken Report</td>
-									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Employer_Feedback_Analysis/employer_feedback_analysis_2015_2016.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
-								</tr>								
-
-							</tbody>
-						</table> 
-						
-					</div>
-
-                    
-                </div>
-			</div>
-		</div>
-	</div>
-</section><br>
-
-
- <!-- <section class="section-90 section-md-20">
 	<div class="shell">
 		<div class="range range-xs-center">
 			<div class="cell-sm-10 cell-md-12">
@@ -195,14 +92,14 @@ init_public_head();
 						<table border="1px">
 							<tbody>
 								
-								<tr>
+								<!-- <tr>
 									<th colspan="4">Feedback Analysis</th>
-								</tr>
-								 <tr>
+								</tr> -->
+								<tr>
 									<td>Feedback Analysis</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Employer_Feedback_Analysis/employer_feedback_analysis_2015_2016.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
-								</tr> 
-								<tr>
+								</tr>
+								<!-- <tr>
 									<td>2016 - 2017</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Employer_Feedback_Analysis/employer_feedback_analysis_2016_2017.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
 								</tr>
@@ -217,12 +114,12 @@ init_public_head();
 								<tr>
 									<td>2019 - 2020</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/Feedback_Analysis/Employer_Feedback_Analysis/employer_feedback_analysis_2019_2020.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
-								</tr>
+								</tr> -->
 								
 							</tbody>
 						</table>
 					</div>
- -->
+
 
                     <!-- <div class="offset-top-30">
 						<table border="1px">
@@ -325,9 +222,9 @@ init_public_head();
 			</div>
 		</div>
 	</div>
-</section><br> -->
+</section><br>
 
-<!-- <section class="section-90 section-md-20">
+<section class="section-90 section-md-20">
 	<div class="shell">
 		<div class="range range-xs-center">
 			<div class="cell-sm-10 cell-md-12">
@@ -350,14 +247,14 @@ init_public_head();
 						</table>
 					</div>
 
+
+
+
 				</div>
 			</div>
 		</div>
 	</div>
-</section><br><br><br> -->
-
-
-
+</section><br><br><br>
 <?php
 init_public_tail();
 ?>
