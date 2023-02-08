@@ -62,6 +62,21 @@ init_public_head();
 									</th>
 								</tr> -->
 								<tr>
+									<th colspan="4">2022 - 2023</th>
+								</tr>
+								<tr>
+									<td>IQAC MEET 11.06.2022</td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/11.06.2022.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+								</tr>
+								<tr>
+									<td>IQAC MEET 20.07.2022</td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/20.07.2022.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+								</tr>
+								<tr>
+									<td>IQAC MEET 13.09.2022</td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/13.09.2022.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+								</tr>
+								<tr>
 									<th colspan="4">NAAC Reaccreditation 4th Cycle</th>
 								</tr>
 								<tr>
