@@ -401,6 +401,10 @@ init_public_head();
 									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/SELF-FINANCE/S. Aarthi.pdf') ?>" target="_blank" rel="noopener">Prof. S. Aarthi</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
+								<tr>
+									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/SELF-FINANCE/M.USHARANI.pdf') ?>" target="_blank" rel="noopener">Dr.M.Usharani</a></th>
+									<td style="text-align: center;">Assistant Professor</td>
+								</tr>
 							</tbody>
 						</table>
 					</div>
