@@ -349,6 +349,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                             <li><a href="public/pdf/Naac/AQAR/AQAR2016-2017.pdf"><span class="text-middle">2016-2017</span></a></li>
                                                             <li><a href="public/pdf/Naac/AQAR/AQAR2017-2018.pdf"><span class="text-middle">2017-2018</span></a></li>
                                                             <li><a href="public/pdf/Naac/AQAR/AQAR2018-2019.pdf"><span class="text-middle">2018-2019</span></a></li>
+                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2020-2021.pdf"><span class="text-middle">2020-2021</span></a></li>
                                                                                                                         
                                                         </ul>
                                                     </li>
@@ -391,8 +392,8 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                         </li>   
                                                         <li class="active "><a href="https://aqar2021.avvmspc.ac.in/" target="_blank"><span>AQAR-2021</span></a>
                                                         </li>   
-                                                        <li class="active "><a href="public/pdf/Naac/AQAR/AQAR2020-2021.pdf"><span class="text-middle">AQAR-2021_Final</span></a></a>
-                                                        </li>  
+                                                        <!-- <li class="active "><a href="public/pdf/Naac/AQAR/AQAR2020-2021.pdf"><span class="text-middle">AQAR-2021_Final</span></a></a>
+                                                        </li>   -->
                                                        
                                                     <!-- <li class="active"><a href="<?php echo base_url('certificate') ?>"><span>NAAC Certificate</span></a>
                                                         </li> -->
