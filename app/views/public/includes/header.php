@@ -391,6 +391,8 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                         </li>   
                                                         <li class="active "><a href="https://aqar2021.avvmspc.ac.in/" target="_blank"><span>AQAR-2021</span></a>
                                                         </li>   
+                                                        <li class="active "><a href="public/pdf/Naac/AQAR/AQAR2020-2021.pdf"><span class="text-middle">AQAR-2021_Final</span></a></a>
+                                                        </li>  
                                                        
                                                     <!-- <li class="active"><a href="<?php echo base_url('certificate') ?>"><span>NAAC Certificate</span></a>
                                                         </li> -->
