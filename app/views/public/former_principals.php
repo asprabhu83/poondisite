@@ -100,6 +100,10 @@ init_public_head();
 								<td style="width: 50%;">2020 - 2023</td>
 								<td style="width: 50%;">Dr. R. Sivakumar</td>
 							</tr>
+							<tr>
+								<td style="width: 50%;">From 2023</td>
+								<td style="width: 50%;">Dr.M.S.Muthuramalingam, Principal(i/c)</td>
+							</tr>
 						</tbody>
 					</table>
 					<!-- <br /><center><img alt="" class="img-responsive" height="200" src="<?php echo base_url('assets/images/principal.jpg')?>" width="250" />
