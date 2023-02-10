@@ -96,7 +96,8 @@ init_public_head();
 		<br /><br />
 		
 		<h4 align="left" class="text-bold">EX-OFFICIO MEMBER - SECRETARY</h4>
-		<p align="left" class="offset-md-top-20">Dr. R. Sivakumar , Principal</p>
+		<!-- <p align="left" class="offset-md-top-20">Dr. R. Sivakumar , Principal</p> -->
+		<p align="left" class="offset-md-top-20">Dr.M.S.Muthuramalingam, Principal(i/c)</p>
 		<!-- <h4 align="left" class="text-bold">UNIVERSITY REPRESENTATIVE</h4>
 		<p align="left" class="offset-md-top-20">Dr. A.Ajmal Khan, Associate Professor of English, Jamal Mohamed College, Trichirappalli.</p> -->
 	</div>

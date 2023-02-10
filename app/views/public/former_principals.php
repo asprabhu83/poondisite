@@ -97,7 +97,7 @@ init_public_head();
 								<td style="width: 50%;">Dr.R.Venkatachalam</td>
 							</tr>
 							<tr>
-								<td style="width: 50%;">From 2020</td>
+								<td style="width: 50%;">2020 - 2023</td>
 								<td style="width: 50%;">Dr. R. Sivakumar</td>
 							</tr>
 						</tbody>

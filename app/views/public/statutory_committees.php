@@ -65,7 +65,7 @@ init_public_head();
 											<p>Dr.V.Maniraj - Computer Science</p>
 											<p>Dr.K.Balakrishnan - Chemistry</p>
 											<p><strong>EX-OFFICIO MEMBER - SECRETARY </strong></p>
-											<p>Dr. R. Sivakumar , Principal</p>
+											<p>Dr.M.S.Muthuramalingam, Principal(i/c)</p>
 										</div>
 									</div>
 									<br>
@@ -189,9 +189,12 @@ init_public_head();
 											<table border="1px">
 												<tbody></tbody>
 												<tbody>
+												<tr>
+														<td colspan="2"><strong>CHAIRMEN</strong></td>
+													</tr>
 													<tr>
-														<td><strong>CHAIRMAN</strong><br />Dr.R.Sivakumar</td>
-														<td>Principal</td>
+														<td>Dr.M.S.Muthuramalingam, Ph.D.</td>
+														<td>Principal(i/c)</td>
 													</tr>
 													<tr>
 														<td colspan="2"><strong>VICE &ndash; CHAIRMEN</strong></td>
@@ -349,9 +352,12 @@ init_public_head();
 											<table border="1px">
 												<tbody></tbody>
 												<tbody>
+												<tr>
+														<td colspan="2"><strong>CHAIRMEN</strong></td>
+													</tr>
 													<tr>
-														<td><strong>CHAIRMAN</strong><br />Dr.R.Sivakumar</td>
-														<td>Principal</td>
+														<td>Dr.M.S.Muthuramalingam, Ph.D.</td>
+														<td>Principal(i/c)</td>
 													</tr>
 													<tr>
 														<td colspan="2"><strong>VICE &ndash; CHAIRMEN</strong></td>
@@ -467,7 +473,7 @@ init_public_head();
 											<p>Thiru A. Dhanasekaran Vandayar, B.Com.</p>
 											
 											<p><strong>EX-OFFICIO MEMBER </strong></p>
-											<p>Dr. R. Sivakumar , Principal</p>
+											<p>Dr.M.S.Muthuramalingam, Principal(i/c)</p>
 
 											<p align="justify" class="text-gray-darker"></p>
 											<p><strong>NOMINEES OF THE MANAGEMENT </strong></p>
@@ -489,8 +495,8 @@ init_public_head();
 										<div class="inset-lg-left-30">
 											<h5>FINANCE COMMITTEE</h5>
 											<br />
-											<p><strong>Dr. R. Sivakumar </strong></p>
-											<p>Principal</p>
+											<p><strong>Dr.M.S.Muthuramalingam</strong></p>
+											<p>Principal(i/c)</p>
 											
 											<!-- <p align="justify" class="text-gray-darker"><strong>ONE REPRESENTATIVE OF THE STATE GOVERNMENT</strong></p> -->
 											<p><strong> <br/>The Regional Joint Director of Collegiate Education,</strong> <br/>Thanjavur Region, Thanjavur.</p>
