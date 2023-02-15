@@ -945,6 +945,25 @@ class Website extends App_Controller
         $this->data['menu_ecoclub'] = "active";
         $this->load->view('public/ecoclub', $this->data);
     }
+    public function login_form()
+    {
+        $this->data['title'] = "LOGIN_FORM";
+        $this->data['menu_login_form'] = "active";
+        $this->load->view('public/login_form', $this->data);
+    }
+    public function feedback()
+    {
+        $this->data['title'] = "Feedback";
+        $this->data['menu_feedback'] = "active";
+        $this->load->view('public/feedback', $this->data);
+    }
+    public function feedback_form()
+    {
+        $this->data['title'] = "Feedback_form";
+        $this->data['menu_feedback_form'] = "active";
+        $this->load->view('public/feedback_form', $this->data);
+    }
+
     // public function edc()
     // {
     //     redirect(base_url('public/pdf/edc/EDC-Objective.pdf'));
