@@ -963,6 +963,24 @@ class Website extends App_Controller
         $this->data['menu_feedback_form'] = "active";
         $this->load->view('public/feedback_form', $this->data);
     }
+    public function faculty_login_form()
+    {
+        $this->data['title'] = "FACULTY_LOGIN_FORM";
+        $this->data['menu_faculty_login_form'] = "active";
+        $this->load->view('public/faculty_login_form', $this->data);
+    }
+    public function faculty_feedback()
+    {
+        $this->data['title'] = "faculty_Feedback";
+        $this->data['menu_faculty_feedback'] = "active";
+        $this->load->view('public/faculty_feedback', $this->data);
+    }
+    public function faculty_feedback_form()
+    {
+        $this->data['title'] = "faculty_Feedback_form";
+        $this->data['menu_faculty_feedback_form'] = "active";
+        $this->load->view('public/faculty_feedback_form', $this->data);
+    }
 
     // public function edc()
     // {

@@ -570,7 +570,8 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                             </li> -->
                                             <li class="active"><a href="#"><span>Staff Portal</span></a>
                                                 <ul class="rd-navbar-dropdown">
-                                                    <li class="active "><a href="https://avvmspc.controllerofexamination.com" target="_blank"><span>Attendance Entry</span></a>
+                                                    <!-- <li class="active "><a href="https://avvmspc.controllerofexamination.com" target="_blank"><span>Attendance Entry</span></a> -->
+                                                    <li><a href="<?php echo base_url('faculty_login_form') ?>"><span class="text-middle">Faculty Feedback on Curriculum</span></a></li>
                                                     </li>
                                                 </ul>
                                             </li>
