@@ -575,7 +575,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>
                                                 </ul>
                                             </li>
-                                            <li class="active"><a href="#"><span>Student Portal</span></a>
+                                            <li class="active"><a href="#"><span>Faculty Portal</span></a>
                                                 <ul class="rd-navbar-dropdown">
                                                 
 
