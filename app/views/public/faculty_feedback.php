@@ -16,7 +16,7 @@ if (!empty($staffid)) {
 
   $sql = "SELECT staffid,dob FROM master WHERE rollno ='" . $staffid . "' AND dob = '" . $dob . "'";
 
-  $sql2 = "SELECT staffid FROM `feedbackresponse` WHERE staffid ='" . $staffid . "'";
+  $sql2 = "SELECT staffid FROM `facultyfeedbackresponse` WHERE staffid ='" . $staffid . "'";
 
   $result = $conn->query($sql);
   if (isset($result->num_rows) && $result->num_rows <= 0) {
