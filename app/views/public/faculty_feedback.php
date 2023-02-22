@@ -4,24 +4,24 @@ init_public_head();
 ?>
 
 <?php
-include('database.php');
-// include('database_connection.php');
-$staffid =  isset($_POST["staffid"]) ? $_POST["staffid"] : '';
+// include('database.php');
+include('database_connection1.php');
+$username =  isset($_POST["username"]) ? $_POST["username"] : '';
+$pwd =  isset($_POST["pwd"]) ? $_POST["pwd"] : '';
+if (!empty($username)) {
 
-if (!empty($staffid)) {
+  // $get_dob = str_replace('/', '-', $_POST['pwd']);
 
-  $get_dob = str_replace('/', '-', $_POST['dob']);
+  // $dob = date("Y-m-d", strtotime($get_dob));
 
-  $dob = date("Y-m-d", strtotime($get_dob));
+  $sql = "SELECT username,pwd FROM teachingstaff WHERE username ='" . $username . "' AND pwd = '" . $pwd . "'";
 
-  $sql = "SELECT staffid,dob FROM master WHERE rollno ='" . $staffid . "' AND dob = '" . $dob . "'";
-
-  $sql2 = "SELECT staffid FROM `facultyfeedbackresponse` WHERE staffid ='" . $staffid . "'";
+  $sql2 = "SELECT username FROM `facultyfeedbackresponse` WHERE username ='" . $username . "'";
 
   $result = $conn->query($sql);
   if (isset($result->num_rows) && $result->num_rows <= 0) {
 
-    echo "<br><br><h1><br>Roll Number Not found!<h1>";
+    echo "<br><br><h1><br>Username Not found!<h1>";
     exit;
   }
 
@@ -99,7 +99,7 @@ if (!empty($staffid)) {
             <h4>Kindly tick the appropriate box based on your opinion </h4>
           <form name="feedback_form" method="POST" action="faculty_feedback_form">
 
-          <input type="hidden" name="staffid" value="<?php echo $staffid; ?>">
+          <input type="hidden" name="username" value="<?php echo $username; ?>">
 
           <table>
                 <thead>
@@ -304,7 +304,7 @@ init_public_tail();
 
             <form name="feedback_form" method="POST" action="feedback_form">
 
-              <input type="hidden" name="staffid" value="<?php echo $roll_no; ?>"> -->
+              <input type="hidden" name="username" value="<?php echo $roll_no; ?>"> -->
 
             
                    <!-- <label>1. Curriculum is suitable to the programme</label><br> -->

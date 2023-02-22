@@ -17,13 +17,13 @@ init_public_head();
 </div>
 
 <?php
-include('database_connection.php');
+include('database_connection1.php');
 ?>
 
 <?php
 
-if (isset($_POST['roll_no'])) { // Fetching variables of the form which travels in URL
-    $staffid = $_POST['roll_no'];
+if (isset($_POST['username'])) { // Fetching variables of the form which travels in URL
+    $username = $_POST['username'];
     $q1 = $_POST['q1'];
     $q2 = $_POST['q2'];
     $q3 = $_POST['q3'];
@@ -36,9 +36,9 @@ if (isset($_POST['roll_no'])) { // Fetching variables of the form which travels 
     $q10 = $_POST['q10'];
     $aos = $_POST['commentText'];
 
-    if (!empty($staffid)) {
+    if (!empty($username)) {
         //Insert Query of SQL
-        $sql = "INSERT INTO `facultyfeedbackresponse`(`staffid`, `q1`, `q2`, `q3`, `q4`, `q5`, `q6`, `q7`, `q8`, `q9`, `q10`, `aos`) VALUES ('$staffid','$q1','$q2','$q3','$q4','$q5','$q6','$q7','$q8','$q9','$q10','$aos')";
+        $sql = "INSERT INTO `facultyfeedbackresponse`(`username`, `q1`, `q2`, `q3`, `q4`, `q5`, `q6`, `q7`, `q8`, `q9`, `q10`, `aos`) VALUES ('$username','$q1','$q2','$q3','$q4','$q5','$q6','$q7','$q8','$q9','$q10','$aos')";
 
         if ($conn->query($sql) === TRUE) { ?>
 
@@ -62,7 +62,7 @@ if (isset($_POST['roll_no'])) { // Fetching variables of the form which travels 
             </div>
 
             <div>
-             <a href="login_form">Go Home </a>
+             <a href="faculty_login_form">Go Home </a>
             </div>
 
         </section><!-- content -->

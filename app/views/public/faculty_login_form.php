@@ -34,12 +34,12 @@ init_public_head();
 			<form name="feedbackpost" action="faculty_feedback" method="POST">
 				<h1>Faculty Login Form</h1>
 				<div>
-					<input type="text" placeholder="Please enter your Faculty number" required="" name="staffid" id="staffid" />
+					<input type="text" placeholder="Please enter your Username (Faculty number)" required="" name="username" id="username" />
 				</div>
 				<div>
-				<input type="text" class=" " id="dob" placeholder="Enter Your DOB" name="dob" required="required">
+				<input type="text" class=" " id="pwd" placeholder="Enter Your PWD" name="pwd" required="required">
 				</div>
-				<label>DOB Format: 05/06/1995 </label>
+				<!-- <label>DOB Format: 05/06/1995 </label> -->
 				<div>
 					<input type="submit" value="Log in" />
 					<!-- <a href="#">Lost your password?</a>

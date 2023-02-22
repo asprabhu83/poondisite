@@ -3,7 +3,7 @@
   $servername = "localhost";
   $username = "root";
   $password = "";
-  $dbname = "result";
+  $dbname = "admin_sripushpamc";
 
    $db = mysqli_connect($servername, $username, $password, $dbname);
 
