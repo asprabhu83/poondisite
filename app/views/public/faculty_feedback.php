@@ -93,14 +93,14 @@ if (!empty($username)) {
         <div class="table_contents" style="overflow-x:auto;">
           
         <div class="feedback">
-            <p><b>Dear Faculty Members,</b><br>
+            <p><b>Dear Faculty Members, <?php echo $username; ?><br></b>
             Your feedback will be useful for revision, restructuring and quality improvement of the curriculum</p>
 
             <h4>Kindly tick the appropriate box based on your opinion </h4>
           <form name="feedback_form" method="POST" action="faculty_feedback_form">
 
           <input type="hidden" name="username" value="<?php echo $username; ?>">
-          <?php echo $username; ?>
+          <!-- <?php echo $username; ?> -->
           <table>
                 <thead>
                   <tr>
