@@ -5,7 +5,7 @@ init_public_head();
 
 <?php
 // include('database.php');
-include('database_connection1.php');
+include('database_connection.php');
 $username =  isset($_POST["username"]) ? $_POST["username"] : '';
 $pwd =  isset($_POST["pwd"]) ? $_POST["pwd"] : '';
 if (!empty($username)) {
@@ -100,7 +100,7 @@ if (!empty($username)) {
           <form name="feedback_form" method="POST" action="faculty_feedback_form">
 
           <input type="hidden" name="username" value="<?php echo $username; ?>">
-
+          <?php echo $username; ?>
           <table>
                 <thead>
                   <tr>

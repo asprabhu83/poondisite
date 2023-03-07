@@ -17,7 +17,7 @@ init_public_head();
 </div>
 
 <?php
-include('database_connection1.php');
+include('database_connection.php');
 ?>
 
 <?php

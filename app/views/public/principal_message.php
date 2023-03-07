@@ -25,7 +25,8 @@ init_public_head();
 		<div class="range range-xs-center  text-left ">
 			<div class="cell-xs-12 cell-sm-12 cell-md-12 offset-top-60 offset-md-top-0"><center>
 				<h2><strong>Principal's Message</strong></h2>
-				<br /><img alt="" class="img-responsive"height="300" width="200" src="<?php echo base_url('assets/images/MSM_Principal1.jpg') ?>" width="650" /><center>
+				<br /><img alt="" class="img-responsive"height="500" width="800" src="<?php echo base_url('assets/images/MSM2.jpg') ?>" width="650" /><center>
+				<!-- <br /><img alt="" class="img-responsive"height="300" width="200" src="<?php echo base_url('assets/images/MSM_Principal1.jpg') ?>" width="650" /><center> -->
 				<!-- <br /><img alt="" class="img-responsive" height="1200" src="<?php echo base_url('assets/images/principal1.jpg') ?>" width="750" /><center> -->
 				<!-- <p><strong>Dr. R. Sivakumar <br />Principal</strong></p> -->
 				<p><strong>Dr.M.S.Muthuramalingam, <br />Principal(i/c)</strong></p>
