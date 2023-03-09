@@ -5,9 +5,11 @@ init_public_head();
 <div class="container-fluid marqueewrap">
 	<div class="alert alert-primary alert-dismissible" role="alert">
 		<marquee>
-		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank"> 17<sup>th</sup> Graduation Day(Girls) on 11.02.2023</strong></a> 
+		<span>&#9733;</span><strong><a href="<?php echo base_url('public/pdf/Events/Pushpamala2023.pdf') ?>" target="_blank">Pushpamala 2023 - Invitation</strong></a>
+		<span>&#9733;</span><strong><a href="https://www.youtube.com/watch?v=ecX7dcb_YKU" target="_blank">Pushpamala 2023 - YouTube live</strong></a><span>&#9733;</span>
+		<!-- <span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank"> 17<sup>th</sup> Graduation Day(Girls) on 11.02.2023</strong></a> 
 		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank"> 46<sup>th</sup> Graduation Day(Boys) on 12.02.2023</strong></a> 
-		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank"> Governing Body Meeting on 24.12.2022</strong></a> <span>&#9733; </span>
+		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank"> Governing Body Meeting on 24.12.2022</strong></a> <span>&#9733; </span> -->
 		<!-- <span>&#9733;</span><strong><a href="<?php echo base_url('public/pdf/Events/Foundars_day_Invitation.jpeg') ?>" target="_blank">123<sup>rd</sup> Founders Day Invitation (26.08.2022) </strong></a>	
 		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank"> UG Admission 2022-2023</strong></a> 
 		<span>&#9733;</span><strong><a href="<?php echo base_url('https://pages.razorpay.com/AVVMSPCforUG') ?>" target="_blank"> Online application payment </strong></a> 
