@@ -5,8 +5,9 @@ init_public_head();
 <div class="container-fluid marqueewrap">
 	<div class="alert alert-primary alert-dismissible" role="alert">
 		<marquee>
-		<span>&#9733;</span><strong><a href="<?php echo base_url('public/pdf/Events/Pushpamala2023.pdf') ?>" target="_blank">Pushpamala 2023 - Invitation</strong></a>
-		<span>&#9733;</span><strong><a href="https://www.youtube.com/live/fiGCC-cHwPQ?feature=share" target="_blank">Pushpamala 2023(2<sup>nd</sup> Day-11.03.2023) - YouTube live</strong></a><span>&#9733;</span>
+		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank">Admissions for the Academic year 2023-2024 shortly open <span>&#9733;</span></strong></a>
+		<!-- <span>&#9733;</span><strong><a href="<?php echo base_url('public/pdf/Events/Pushpamala2023.pdf') ?>" target="_blank">Pushpamala 2023 - Invitation</strong></a> -->
+		<!-- <span>&#9733;</span><strong><a href="https://www.youtube.com/live/fiGCC-cHwPQ?feature=share" target="_blank">Pushpamala 2023(2<sup>nd</sup> Day-11.03.2023) - YouTube live</strong></a><span>&#9733;</span> -->
 		<!-- <span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank"> 17<sup>th</sup> Graduation Day(Girls) on 11.02.2023</strong></a> 
 		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank"> 46<sup>th</sup> Graduation Day(Boys) on 12.02.2023</strong></a> 
 		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank"> Governing Body Meeting on 24.12.2022</strong></a> <span>&#9733; </span> -->
