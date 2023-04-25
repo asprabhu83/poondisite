@@ -587,12 +587,12 @@ init_public_head();
 									
 									
 									
-									<!-- <tr>
+									<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/P.Sivaranjani.pdf') ?>" target="_blank" rel="noopener">Prof. P. Sivaranjani</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
 									
-									<tr>
+									<!--<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/33.B.Vanitha.pdf') ?>" target="_blank" rel="noopener">Prof.B.Vanitha</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
