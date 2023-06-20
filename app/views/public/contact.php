@@ -69,7 +69,7 @@ init_public_head();
                                 <ul>
                                     <ul>
                                        
-                                       <p><strong>Dr. R.Sivakumar,</strong> <br />M.Sc, M.Phil, Ph.D.,<br />Principal<br />A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9443662536<br /><strong>E-mail :</strong> rskumar.avvmspc@gmail.com<br />principal@avvmspc.ac.in<br /> </p>
+                                       <p><strong>Dr. M.S.Muthuramalingam,</strong> <br />M.Sc, M.Phil, Ph.D.,<br />Principal<br />A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9894438304<br /><strong>E-mail :</strong> <br />principal@avvmspc.ac.in<br /> </p>
 		                               
                                     </ul>
                                 </ul>
