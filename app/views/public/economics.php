@@ -348,7 +348,7 @@ init_public_head();
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/Economics/8.%20N.%20Loganathan.pdf') ?>" target="_blank" rel="noopener">Dr.P.Riaz Ahmed</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/Economics/Dr.P.R.pdf') ?>" target="_blank" rel="noopener">Dr.P.Riaz Ahmed</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 
