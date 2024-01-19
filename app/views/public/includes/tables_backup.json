@@ -1,0 +1,4998 @@
+{
+    "t_1_3_4":[
+               {
+			"name":"History",
+            "Iug":"",
+            "IIug":"/pdf/2022/1_II_BA_1_History.pdf",
+            "IIIug":"",
+            "Ipg":"/pdf/2022/2_I_MA_1_History.pdf",
+            "IIpg":"/pdf/2022/3_II_MA_1_History.pdf",
+            "IIImca":"",
+            "mphil":""
+        },
+		{
+            "name":"Economics",
+            "Iug":"",
+            "IIug":"/pdf/1_II_BA_2_Economics.pdf",
+            "IIIug":"",
+            "Ipg":"/pdf/2022/2_I_MA_2_Economics.pdf",
+            "IIpg":"/pdf/2022/3_II_MA_2_Economics.pdf",
+            "IIImca":"",
+            "mphil":""
+        },
+		{
+            "name":"Tamil",
+            "Iug":"",
+            "IIug":"",
+            "IIIug":"",
+            "Ipg":"",
+            "IIpg":"/pdf/1_II_MA_3_Tamil.pdf",
+            "IIImca":"",
+            "mphil":"/pdf/2022/2_M_Phil_3_Tamil.pdf"
+        },
+        {
+            "name":"Indian Culture",
+            "Iug":"",
+            "IIug":"",
+            "IIIug":"",
+            "Ipg":"",
+            "IIpg":"",
+            "IIImca":"",
+            "mphil":""
+        },
+        {
+            "name":"B.Lit. Tamil",
+            "Iug":"",
+            "IIug":"",
+            "IIIug":"",
+            "Ipg":"",
+            "IIpg":"",
+            "IIImca":"",
+            "mphil":""
+        },
+        {
+            "name":"English",
+            "Iug":"",
+            "IIug":"",
+            "IIIug":"",
+            "Ipg":"",
+            "IIpg":"/pdf/2022/1_II_MA_4_English.pdf",
+            "IIImca":"",
+            "mphil":"/pdf/2022/2_M_Phil_4_English.pdf"
+        },
+        {
+            "name":"Commerce",
+            "Iug":"",
+            "IIug":"",
+            "IIIug":"",
+            "Ipg":"/pdf/2022/I_M_Com_5_Commerce.pdf",
+            "IIpg":"/pdf/2022/II_M_Com_5_Commerce.pdf",
+            "IIImca":"",
+            "mphil":""
+        },
+        {
+            "name":"B. Com. C.A.",
+            "Iug":"",
+            "IIug":"",
+            "IIIug":"",
+            "Ipg":"",
+            "IIpg":"",
+            "IIImca":"",
+            "mphil":""
+        },
+        {
+            "name":"B. Com. B. M.",
+            "Iug":"",
+            "IIug":"",
+            "IIIug":"",
+            "Ipg":"",
+            "IIpg":"",
+            "IIImca":"",
+            "mphil":""
+        },
+        {
+            "name":"Mathematics",
+            "Iug":"",
+            "IIug":"/pdf/2022/3_II_B_Sc_6_Maths.pdf",
+            "IIIug":"/pdf/2022/3_III_B_Sc_6_Maths.pdf",
+            "Ipg":"",
+            "IIpg":"/pdf/2022/3_II_M_Sc_6_Maths.pdf",
+            "IIImca":"",
+            "mphil":"/pdf/2022/4_M_Phil_6_Maths.pdf"
+        },
+        {
+            "name":"Physics",
+            "Iug":"",
+            "IIug":"",
+            "IIIug":"",
+            "Ipg":"",
+            "IIpg":"/pdf/2022/II_M_Sc_7_Physics.pdf",
+            "IIImca":"",
+            "mphil":""
+        },
+        {
+            "name":"Chemistry",
+            "Iug":"",
+            "IIug":"",
+            "IIIug":"",
+            "Ipg":"",
+            "IIpg":"/pdf/2022/1_II_M_Sc_8_Chemistry.pdf",
+            "IIImca":"",
+            "mphil":"/pdf/2022/2_M_Phil_8_Chemistry.pdf"
+        },
+        {
+            "name":"Botany",
+            "Iug":"/pdf/2022/1_I_B_Sc_9_Botany.pdf",
+            "IIug":"/pdf/2022/2_II_B_Sc_9_Botany.pdf",
+            "IIIug":"/pdf/2022/2_III_B_Sc_9_Botany.pdf",
+            "Ipg":"/pdf/2022/4_I_M_Sc_9_Botany.pdf",
+            "IIpg":"/pdf/2022/4_II_M_Sc_9_Botany.pdf",
+            "IIImca":"",
+            "mphil":"/pdf/2022/6_M_Phil_9_Botany.pdf"
+        },
+        {
+            "name":"Microbiology",
+            "Iug":"",
+            "IIug":"",
+            "IIIug":"",
+            "Ipg":"",
+            "IIpg":"/pdf/2022/II_M_Sc_10_Microbiology.pdf",
+            "IIImca":"",
+            "mphil":""
+        },
+        {
+            "name":"Zoology",
+            "Iug":"/pdf/2022/1_I_B_Sc_11_Zoology.pdf",
+            "IIug":"/pdf/2022/2_II_B_Sc_11_Zoology.pdf",
+            "IIIug":"/pdf/2022/14_III_B.Sc_Zoology_Field_visit_81.pdf",
+            "Ipg":"/pdf/2022/3_I_M_Sc_11_Zoology.pdf",
+            "IIpg":"/pdf/2022/4_II_M_Sc_11_Zoology.pdf",
+            "IIImca":"",
+            "mphil":"/pdf/2022/5_M_Phil_11_Zoology.pdf"
+        },
+        {
+            "name":"Biotechnology",
+            "Iug":"",
+            "IIug":"",
+            "IIIug":"",
+            "Ipg":"",
+            "IIpg":"/pdf/2022/II_M_Sc_12_Bio_Technology.pdf",
+            "IIImca":"",
+            "mphil":""
+        },
+        {
+            "name":"Computer Science",
+            "Iug":"",
+            "IIug":"/pdf/2022/1_II_B_Sc_13_Computer_Science.pdf",
+            "IIIug":"",
+            "Ipg":"",
+            "IIpg":"/pdf/2022/2_II_M_Sc_13_Computer_Science.pdf",
+            "IIImca":"",
+            "mphil":"/pdf/2022/3_M_Phil_13_Computer_Science.pdf"
+        },
+        {
+            "name":"Computer Applications",
+            "Iug":"",
+            "IIug":"/pdf/2022/II_BCA_14_Computer_Applications.pdf",
+            "IIIug":"",
+            "Ipg":"",
+            "IIpg":"/pdf/2022/II_MCA_14_Computer_Applications.pdf",
+            "IIImca":"",
+            "mphil":""
+        },
+        {
+            "name":"Information Technology",
+            "Iug":"",
+            "IIug":"",
+            "IIIug":"",
+            "Ipg":"",
+            "IIpg":"",
+            "IIImca":"",
+            "mphil":""
+        },
+        {
+            "name":"Physical Education, Health Education and Sports",
+            "Iug":"",
+            "IIug":"",
+            "IIIug":"",
+            "Ipg":"",
+            "IIpg":"",
+            "IIImca":"",
+            "mphil":""
+        },
+        {
+            "name":"Business Administration",
+            "Iug":"",
+            "IIug":"/pdf/2022/1_II_BBA_15_Business_Administration.pdf",
+            "IIIug":"",
+            "Ipg":"/pdf/2022/2_I_MBA_15_Business_Administration.pdf",
+            "IIpg":"/pdf/2022/3_II_MBA_15_Business_Administration.pdf",
+            "IIImca":"",
+            "mphil":""
+        },
+        {
+            "name":"Statistics",
+            "Iug":"",
+            "IIug":"",
+            "IIIug":"",
+            "Ipg":"",
+            "IIpg":"",
+            "IIImca":"",
+            "mphil":""
+        },
+        {
+            "name":"Geography",
+            "Iug":"",
+            "IIug":"/",
+            "IIIug":"/",
+            "Ipg":"",
+            "IIpg":"",
+            "IIImca":"",
+            "mphil":""
+        },
+        {
+            "name":"M.L.I.S",
+            "Iug":"",
+            "IIug":"",
+            "IIIug":"",
+            "Ipg":"/",
+            "IIpg":"",
+            "IIImca":"",
+            "mphil":""
+        },
+        {
+            "name":"Management Project",
+            "Iug":"",
+            "IIug":"",
+            "IIIug":"",
+            "Ipg":"",
+            "IIpg":"",
+            "IIImca":"",
+            "mphil":""
+        }
+		
+		
+      ],
+    "t_1_2_2":[
+        {
+            "name":"History",
+            "ug":"/pdf/B.A.History.pdf",
+            "pg":"/pdf/M.A.History.pdf",
+            "mphil":"/pdf/M.Phil.History.pdf",
+            "phd":"/pdf/Ph.D.History.pdf"
+        },
+        {
+            "name":"Economics",
+            "ug":"/pdf/B.A.Economics.pdf",
+            "pg":"/pdf/M.A.Economics.pdf",
+            "mphil":"/pdf/M.Phil.Economics.pdf",
+            "phd":"/pdf/Ph.D.Economics.pdf"
+        },
+        {
+            "name":"Tamil",
+            "ug":"/pdf/B.A.Tamil.pdf",
+            "pg":"/pdf/M.A.Tamil.pdf",
+            "mphil":"/pdf/M.Phil.Tamil.pdf",
+            "phd":"/pdf/Ph.D.Tamil.pdf"
+        },
+        {
+            "name":"Indian Culture",
+            "ug":"/pdf/B.A.Indian_Culture.pdf",
+            "pg":"",
+            "mphil":"",
+            "phd":""
+        },
+        {
+            "name":"B.Lit. Tamil",
+            "ug":"/pdf/B.Lit.pdf",
+            "pg":"",
+            "mphil":"",
+            "phd":""
+        },
+        {
+            "name":"English",
+            "ug":"/pdf/B.A.English.pdf",
+            "pg":"/pdf/M.A.English.pdf",
+            "mphil":"/pdf/M.Phil.English.pdf",
+            "phd":"/pdf/Ph.D.English.pdf"
+        },
+        {
+            "name":"Commerce",
+            "ug":"/pdf/B.Com..pdf",
+            "pg":"/pdf/M.Com..pdf",
+            "mphil":"/pdf/M.Phil.Commerce.pdf",
+            "phd":"/pdf/Ph.D.Commerce.pdf"
+        },
+        {
+            "name":"B. Com. C.A.",
+            "ug":"/pdf/B.Com_Computer_Application.pdf",
+            "pg":"",
+            "mphil":"",
+            "phd":""
+        },
+        {
+            "name":"B. Com. B. M.",
+            "ug":"/pdf/B.Com_Bank_Management.pdf",
+            "pg":"",
+            "mphil":"",
+            "phd":""
+        },
+        {
+            "name":"Mathematics",
+            "ug":"/pdf/B.Sc.Mathematics.pdf",
+            "pg":"/pdf/M.Sc.Mathematics.pdf",
+            "mphil":"/pdf/M.Phil.Mathematics.pdf",
+            "phd":"/pdf/Ph.D.Mathematics.pdf"
+        },
+        {
+            "name":"Physics",
+            "ug":"/pdf/B.Sc.Physics.pdf",
+            "pg":"/pdf/M.Sc.Physics.pdf",
+            "mphil":"/pdf/M.Phil.Physics.pdf",
+            "phd":"/pdf/Ph.D.Physics.pdf"
+        },
+        {
+            "name":"Chemistry",
+            "ug":"/pdf/B.Sc.Chemistry.pdf",
+            "pg":"/pdf/M.Sc.Chemistry.pdf",
+            "mphil":"/pdf/M.Phil.Chemistry.pdf",
+            "phd":"/pdf/Ph.D.Chemistry.pdf"
+        },
+        {
+            "name":"Botany",
+            "ug":"/pdf/B.Sc.Botany.pdf",
+            "pg":"/pdf/M.Sc.Botany.pdf",
+            "mphil":"/pdf/M.Phil.Botany.pdf",
+            "phd":"/pdf/Ph.D.Botany.pdf"
+        },
+        {
+            "name":"Microbiology",
+            "ug":"",
+            "pg":"/pdf/M.Sc.Microbiology.pdf",
+            "mphil":"/pdf/M.Phil.Microbiology.pdf",
+            "phd":"/pdf/Ph.D.Microbiology.pdf"
+        },
+        {
+            "name":"Zoology",
+            "ug":"/pdf/B.Sc.Zoology.pdf",
+            "pg":"/pdf/M.Sc.Zoology.pdf",
+            "mphil":"/pdf/M.phil.zoology.pdf",
+            "phd":"/pdf/Ph.D.Zoology.pdf"
+        },
+        {
+            "name":"Biotechnology",
+            "ug":"",
+            "pg":"/pdf/M.Sc.Biotechnology.pdf",
+            "mphil":"",
+            "phd":""
+        },
+        {
+            "name":"Computer Science",
+            "ug":"/pdf/B.Sc.Computer_Science.pdf",
+            "pg":"/pdf/M.Sc.Computer_Science.pdf",
+            "mphil":"/pdf/M.Phil.Computer_Science.pdf",
+            "phd":"/pdf/Ph.D.Computer_Science.pdf"
+        },
+        {
+            "name":"Computer Applications",
+            "ug":"/pdf/B.C.A.pdf",
+            "pg":"/pdf/M.C.A.pdf",
+            "mphil":"",
+            "phd":""
+        },
+        {
+            "name":"Information Technology",
+            "ug":"",
+            "pg":"/pdf/M.Sc.Information_Technology.pdf",
+            "mphil":"",
+            "phd":""
+        },
+        {
+            "name":"Physical Education, Health Education and Sports",
+            "ug":"/pdf/B.Sc.Physical Education.pdf",
+            "pg":"",
+            "mphil":"",
+            "phd":"/pdf/Ph.D.Physical_Education.pdf"
+        },
+        {
+            "name":"Business Administration",
+            "ug":"/pdf/B.B.A.pdf",
+            "pg":"/pdf/M.B.A.pdf",
+            "mphil":"/pdf/M,Phil.Management.pdf",
+            "phd":"/pdf/Ph.D.Management.pdf"
+        },
+        {
+            "name":"Statistics",
+            "ug":"/pdf/B.Sc.Statistics.pdf",
+            "pg":"",
+            "mphil":"",
+            "phd":""
+        },
+        {
+            "name":"Geography",
+            "ug":"/pdf/B.Sc.Geography.pdf",
+            "pg":"",
+            "mphil":"",
+            "phd":""
+        },
+        {
+            "name":"M.L.I.S",
+            "ug":"",
+            "pg":"/pdf/M.L.I.S..pdf",
+            "mphil":"",
+            "phd":"/pdf/Ph.D.L.I.S.pdf"
+        }
+    ],
+    "t_1_2_3":[
+        {
+            "id":1,
+            "name":"Academic Council Meeting for the Academic year 2007 - 2008",
+            "link":"/pdf/2007_2008.pdf"
+        },
+        {
+            "id":2,
+            "name":"Academic Council Meeting for the Academic year 2008 - 2009",
+            "link":"/pdf/2008_2009.pdf"
+        },
+        {
+            "id":3,
+            "name":"Structure of the program",
+            "link":"/pdf/structure.pdf"
+        }
+    ],
+    "one_3_7_2":[
+        {
+            "id":1,
+            "name":"Noorul Islam University, Kumaracoil, Thuckalai, Kanyakumari-629180, TamilNadu, India.",
+            "date":"12.09.2015",
+            "link":"/pdf/functional_mou/21.pdf"
+        },
+        {
+            "id":2,
+            "name":"Dr. N. G. P Arts and Science College, Coimbatore",
+            "date":"18.02.2015",
+            "link":"/pdf/functional_mou/22.pdf"
+        },
+        {
+            "id":3,
+            "name":"M.S. Swaminathan Research Foundation, Third Cross,Institutional Area, Taramani,Chennai-600113,TamilNadu, India.",
+            "date":"21.10.2013",
+            "link":"/pdf/functional_mou/23.pdf"
+        }
+    ],
+    "two_3_7_2":[
+        {
+            "id":1,
+            "name":"Thanthai Hans Roever College(Autonomous), Perambalur-621220,Tamil Nadu, India.",
+            "date":"15.07.2016",
+            "link":"/pdf/functional_mou/20.pdf"
+        }
+    ],
+    "three_3_7_2":[
+        {
+            "id":1,
+            "name":"Indian Biotrack Research Institute,  Thanjavur-613001,Tamil Nadu, India.",
+            "date":"13.02.2018",
+            "link":"/pdf/functional_mou/17.pdf"
+        },
+        {
+            "id":2,
+            "name":"Bio Research Centre,Natarajapuram, MC Road,Tanajavur-613007, Tamil Nadu,India.",
+            "date":"09.02.2018",
+            "link":"/pdf/functional_mou/18.pdf"
+        },
+        {
+            "id":3,
+            "name":"MM Spawn Lab, GSP Mushroom, Karanthai - 613 002, Thanjavur ",
+            "date":"27.06.2017",
+            "link":"/pdf/functional_mou/19.pdf"
+        }
+    ],
+    "four_3_7_2":[
+        {
+            "id":1,
+            "name":"Rajah Serfoji Govt.College (Autonomous), Thanjavur-613005, Tamil Nadu, India.",
+            "date":"15.07.2018",
+            "link":"/pdf/functional_mou/11.pdf"
+        },
+        {
+            "id":2,
+            "name":"Popular Process, S.F. No. 599/1B, Near VIP Garden, Veerapandi Village, Veerapandi(Po), Tirupur-641 605",
+            "date":"13.07.2018",
+            "link":"/pdf/functional_mou/12.pdf"
+        },
+        {
+            "id":3,
+            "name":"Rajah Serfoji Government College(Autonomous),Thanjavur-613005,Tamil Nadu, India.",
+            "date":"10.07.2018",
+            "link":"/pdf/functional_mou/13.pdf"
+        },
+        {
+            "id":4,
+            "name":"Maruthu Pandiayar College, Vallam-613403, Tanjavur, Tamil Nadu, India.",
+            "date":"06.07.2018",
+            "link":"/pdf/functional_mou/14.pdf"
+        },
+        {
+            "id":5,
+            "name":"Sri Amman Biocare, Pudukkottai Main Road, Thirukkanurpatti, Thanjavur Dt",
+            "date":"29.06.2018",
+            "link":"/pdf/functional_mou/15.pdf"
+        },
+        {
+            "id":6,
+            "name":"Maruthu Pandiayar Institutions, Vallam-613403, Tanjavur, Tamil Nadu, India.",
+            "date":"24.06.2018",
+            "link":"/pdf/functional_mou/16.pdf"
+        }
+    ],
+    "five_3_7_2":[
+        {
+            "id":1,
+            "name":"ANGEL FISH FARM (pvt.Ltd), No. 709,HIG, New Housing unit, Near New Bus Stand, Thanjavur-6135005, Tamil Nadu, India.",
+            "date":"12.02.2020",
+            "link":"/pdf/functional_mou/1.pdf"
+        },
+        {
+            "id":2,
+            "name":"Tanbio R&D Solution, Periyar Technology Business Incubator, Periyar Maniammai Institute of Science and Technology, Vallam-613403, Thanjavur, Tamil Nadu, India.",
+            "date":"23.01.2020",
+            "link":"/pdf/functional_mou/2.pdf"
+        },
+        {
+            "id":3,
+            "name":"Nesamony Memorial Christian College, Marthandam - 629 165, Kanyakumari Dt",
+            "date":"04.01.2020",
+            "link":"/pdf/functional_mou/3.pdf"
+        },
+        {
+            "id":4,
+            "name":"A.V.C College (Autonomous), Mannampandal-609305, Mayiladuthurai, Tamil Nadu, India.",
+            "date":"13.12.2019",
+            "link":"/pdf/functional_mou/4.pdf"
+        },
+        {
+            "id":5,
+            "name":"K.R. Hitech Freshwater Fish Farm, Bio Floc Technology of Freshwater fish culture, Serumangalam,Mannargudi, Thiruvarur (Dt), Tamil Nadu, India.",
+            "date":"09.12.2019",
+            "link":"/pdf/functional_mou/5.pdf"
+        },
+        {
+            "id":6,
+            "name":"Bon Secours College For Women, Vilar Bypass, Tanjavur-613006, TamilNadu, India.",
+            "date":"27.09.2019",
+            "link":"/pdf/functional_mou/6.pdf"
+        },
+        {
+            "id":7,
+            "name":"Government Arts College for Men(Autonomous),Kumbakonam-612002",
+            "date":"17.07.2019",
+            "link":"/pdf/functional_mou/7.pdf"
+        },
+        {
+            "id":8,
+            "name":"Maruthu Pandiayar Institutions, Vallam-613403, Tanjavur, Tamil Nadu, India.",
+            "date":"16.07.2019",
+            "link":"/pdf/functional_mou/8.pdf"
+        },
+        {
+            "id":9,
+            "name":"SCIGEN Research and Innovation, Periyar Technology Business Incubator, Periyar Maniammai Institute of Science and Technology, Vallam-613 403, Thanjavur, Tamil Nadu, India.",
+            "date":"11.07.2019",
+            "link":"/pdf/functional_mou/9.pdf"
+        },
+        {
+            "id":10,
+            "name":"Indian Biotrack Research Institute , Karpagam  Nagar, Thanjavur Dt",
+            "date":"03.07.2019",
+            "link":"/pdf/functional_mou/10.pdf"
+        }
+    ],
+    "t_3_4_4":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/pdf/2015_2016_ Books_and_Chapters_Published.pdf"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/pdf/2016_2017_ Books_and_Chapters_Published.pdf"
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/pdf/2017_2018_ Books_and_Chapters_Published.pdf"
+        },
+        {
+            "id":4,
+            "name":"2018-2019",
+            "link":"/pdf/2018_2019_ Books_and_Chapters_Published.pdf"
+        },
+        {
+            "id":5,
+            "name":"2019-2020",
+            "link":"/pdf/2019_2020_ Books_and_Chapters_Published.pdf"
+        }
+    ],
+    "t_3_2_1":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/pdf/2015_2016_Project_Grants_received.pdf"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/pdf/2016_2017_Project_Grants_received.pdf"
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/pdf/2017_2018_Project_Grants_received.pdf"
+        },
+        {
+            "id":4,
+            "name":"2018-2019",
+            "link":"/pdf/2018_2019_Project_Grants_received.pdf"
+        },
+        {
+            "id":5,
+            "name":"2019-2020",
+            "link":"/pdf/2019_2020_Project_Grants_received.pdf"
+        },
+		{
+            "id":6,
+            "name":"2020-2021",
+            "link":"/pdf/2020_2021_Project_Grants_received.pdf"
+        }
+    ],
+    "one_3_7_1":[
+        {
+            "id":1,
+            "name":"Dr. A. Palanisamy Professor & Secretary Bharathidasan University, Tiruchirapalli",
+            "year":"2015",
+            "link":"/pdf/colabarative_activities/53.pdf"
+        },
+        {
+            "id":2,
+            "name":"Dr. V. Balachandar Bharathiyar University, Coimbatore",
+            "year":"2015",
+            "link":"/pdf/colabarative_activities/54.pdf"
+        },
+        {
+            "id":3,
+            "name":"Dr. A. Palanisamy Professor & Secretary Bharathidasan University, Tiruchirapalli",
+            "year":"2015",
+            "link":"/pdf/colabarative_activities/55.pdf"
+        },
+        {
+            "id":4,
+            "name":"Dr. A. Palanisamy Professor & Secretary Bharathidasan University, Tiruchirapalli",
+            "year":"2015",
+            "link":"/pdf/colabarative_activities/56.pdf"
+        },
+        {
+            "id":5,
+            "name":"Dr. C. Maragatham Alagesan Associate Professor, Dept. of Biotechnology, Rajah Serfoji Govt. College, Thanjavur",
+            "year":"2015",
+            "link":"/pdf/colabarative_activities/57.pdf"
+        },
+        {
+            "id":6,
+            "name":"Dr. A. Palanisamy Professor & Secretary Bharathidasan University, Tiruchirapalli",
+            "year":"2015",
+            "link":"/pdf/colabarative_activities/58.pdf"
+        },
+        {
+            "id":7,
+            "name":"Dr. A. Palanisamy Professor & Secretary Bharathidasan University, Tiruchirapalli",
+            "year":"2015",
+            "link":"/pdf/colabarative_activities/59.pdf"
+        },
+        {
+            "id":8,
+            "name":"Dr. D. Dhanasekaran Associate Professor Dept. of Microbiology, Bharathidasan University, Tiruchirapalli",
+            "year":"2015",
+            "link":"/pdf/colabarative_activities/60.pdf"
+        },
+        {
+            "id":9,
+            "name":"Dr. N. Jeyathilakan Associate Professor, Dept. of Veterinary Parasitology, Veterinary College and Research Institute, Orathanadu",
+            "year":"2015",
+            "link":"/pdf/colabarative_activities/61.pdf"
+        },
+        {
+            "id":10,
+            "name":"Dr. A. T. Ravichandran National College(Autonomous) Tiruchirapalli",
+            "year":"2015",
+            "link":"/pdf/colabarative_activities/62.pdf"
+        },
+        {
+            "id":11,
+            "name":"S. Malini Assistant Professor PG Dept. of Physics Sengamala Thayaar Educational Thrust for Womens, Sundarakottai, Mannargudi",
+            "year":"2015",
+            "link":"/pdf/colabarative_activities/63.pdf"
+        }
+    ],
+    "two_3_7_1":[
+        {
+            "id":1,
+            "name":"Dr. A. Palanisamy Professor & Secretary Bharathidasan University, Tiruchirapalli",
+            "year":"2017",
+            "link":"/pdf/colabarative_activities/32.pdf"
+        },
+        {
+            "id":2,
+            "name":"Dr. V. Balachandar Bharathiyar University, Coimbatore",
+            "year":"2017",
+            "link":"/pdf/colabarative_activities/33.pdf"
+        },
+        {
+            "id":3,
+            "name":"Dr. M. Indradevi Associate Professor Dept. of Microbiology, Marudhupandiar College, Vallam",
+            "year":"2016",
+            "link":"/pdf/colabarative_activities/34.pdf"
+        },
+        {
+            "id":4,
+            "name":"Dr. A. Palanisamy Professor & Secretary Bharathidasan University, Tiruchirapalli",
+            "year":"2016",
+            "link":"/pdf/colabarative_activities/35.pdf"
+        },
+        {
+            "id":5,
+            "name":"Dr. R. Krishnan Assistant Professor, Dept. of Microbiology, St. Josephs' College of Arts & Science, Cuddalore.",
+            "year":"2016",
+            "link":"/pdf/colabarative_activities/36.pdf"
+        },
+        {
+            "id":6,
+            "name":"Dr. A. Palanisamy Professor & Secretary Bharathidasan University, Tiruchirapalli",
+            "year":"2016",
+            "link":"/pdf/colabarative_activities/37.pdf"
+        },
+        {
+            "id":7,
+            "name":"Dr. R. Rathish Associate Professor Dept. of Microbiology Marudhupandiar College, Vallam",
+            "year":"2016",
+            "link":"/pdf/colabarative_activities/38.pdf"
+        },
+        {
+            "id":8,
+            "name":"S. Malini Assistant Professor PG Dept. of Physics Sengamala Thayaar Educational Thrust Womens College Sundarakottai, Mannargudi",
+            "year":"2016",
+            "link":"/pdf/colabarative_activities/39.pdf"
+        },
+        {
+            "id":9,
+            "name":"Dr. A. T. Ravichandran Associate Professor Department of Physics National College(Autonomous) Tiruchirapalli",
+            "year":"2016",
+            "link":"/pdf/colabarative_activities/40.pdf"
+        },
+        {
+            "id":10,
+            "name":"Dr. P. Prabakaran Assistant Professor Dept. of Botany, M.R Arts College, Mannargudi.",
+            "year":"2016",
+            "link":"/pdf/colabarative_activities/41.pdf"
+        },
+        {
+            "id":11,
+            "name":"Dr. G. Ramesh Assistant Professor of Mathematics, Government Arts College, Kumbakonam",
+            "year":"2016",
+            "link":"/pdf/colabarative_activities/42.pdf"
+        },
+        {
+            "id":12,
+            "name":"Dr. C. Ravidhas Head, Department of Physics Bishop Heber College (Autonomous), Tiruchirapalli",
+            "year":"2016",
+            "link":"/pdf/colabarative_activities/43.pdf"
+        },
+        {
+            "id":13,
+            "name":"Dr. S. Raveendran Khadir Mohideen College, Adhirampattinam",
+            "year":"2016",
+            "link":"/pdf/colabarative_activities/44.pdf"
+        },
+        {
+            "id":14,
+            "name":"Dr. R. Senthil Kumar Associate Professor Dept. of Microbiology PG Extension Centre, Bharathidasan University, Tiruchirapalli",
+            "year":"2016",
+            "link":"/pdf/colabarative_activities/45.pdf"
+        },
+        {
+            "id":15,
+            "name":"Mr. S. Elango Assistant Professor of Mathematics, AAMEC, Kovilvenni",
+            "year":"2016",
+            "link":"/pdf/colabarative_activities/46.pdf"
+        },
+        {
+            "id":16,
+            "name":"Mr. S. Mohan Kumar Assistant Professor of Mathematics, Kongunadu College of Engg. & Technology, Thottiyam, Trichy",
+            "year":"2016",
+            "link":"/pdf/colabarative_activities/47.pdf"
+        },
+        {
+            "id":17,
+            "name":"Mr. R. Manikandan Assistant Professor of Mathematics, TRP Engg. College (SRM Group), Irungalur, Trichy",
+            "year":"2016",
+            "link":"/pdf/colabarative_activities/48.pdf"
+        },
+        {
+            "id":18,
+            "name":"Mr. P. Senthilkumar Assistant Professor of Mathematics Dhanalakshmi Srinivasan College of Engg. Perambalur",
+            "year":"2016",
+            "link":"/pdf/colabarative_activities/49.pdf"
+        },
+        {
+            "id":19,
+            "name":"Dr. Nakulam Valsala Rajesh Associate Professor, Dept. of Wildlife Science, Veterinary Training & Research Centre, TANUVAS, Ramanathapuram",
+            "year":"2016",
+            "link":"/pdf/colabarative_activities/50.pdf"
+        },
+        {
+            "id":20,
+            "name":"Dr. R. Senthil Kumar Associate Professor Dept. of Microbiology PG Extension Centre, Bharathidasan University, Tiruchirapalli",
+            "year":"2016",
+            "link":"/pdf/colabarative_activities/51.pdf"
+        },
+        {
+            "id":21,
+            "name":"Dr. S. Ramu M.R Govt. Arts College, Mannargudi",
+            "year":"2016",
+            "link":"/pdf/colabarative_activities/52.pdf"
+        }
+    ],
+    "three_3_7_1":[
+        {
+            "id":1,
+            "name":"Dr. A. Palanisamy Professor & Secretary Bharathidasan University, Tiruchirapalli",
+            "year":"2018",
+            "link":"/pdf/colabarative_activities/23.pdf"
+        },
+        {
+            "id":2,
+            "name":"Dr. P. Muruganantham Associate Professor Dept. of Botany Jamal Mohammed College, Tiruchirapalli",
+            "year":"2018",
+            "link":"/pdf/colabarative_activities/24.pdf"
+        },
+        {
+            "id":3,
+            "name":"Dr. A. Palanisamy Professor & Secretary Bharathidasan University, Tiruchirapalli",
+            "year":"2017",
+            "link":"/pdf/colabarative_activities/25.pdf"
+        },
+        {
+            "id":4,
+            "name":"Mrs. N. Siva Jyothi Head, Dept. Of Physics, Auxilium College of Arts & Science for Women, Regunathapuram, Pudukottai.",
+            "year":"2017",
+            "link":"/pdf/colabarative_activities/26.pdf"
+        },
+        {
+            "id":5,
+            "name":"Dr. R. Rathi Assistant Professor, Department of Physics, Sengamala Thayaar Educational Thrust for Women, Sundarakottai, Mannargudi",
+            "year":"2017",
+            "link":"/pdf/colabarative_activities/27.pdf"
+        },
+        {
+            "id":6,
+            "name":"Dr. G. Nadamurugaraj Senior Lecturer Faculty of industrial sciences and technology, University Malaysia Pahang, Kuantan, Pahang",
+            "year":"2017",
+            "link":"/pdf/colabarative_activities/28.pdf"
+        },
+        {
+            "id":7,
+            "name":"Dr. M. Poornima Assistant Professor Dept. of Microbioogy, J.J. College of Arts & Science, Pudukottai",
+            "year":"2017",
+            "link":"/pdf/colabarative_activities/29.pdf"
+        },
+        {
+            "id":8,
+            "name":"Dr. A. T. Ravichandran Associate Professor National College(Autonomous) Tiruchirapalli",
+            "year":"2017",
+            "link":"/pdf/colabarative_activities/30.pdf"
+        },
+        {
+            "id":9,
+            "name":"Dr. S. Dheivamalar Assistant Professor Periyar E.V.R College, Tiruchirapalli",
+            "year":"2017",
+            "link":"/pdf/colabarative_activities/31.pdf"
+        }
+    ],
+    "four_3_7_1":[
+        {
+            "id":1,
+            "name":"Mrs. N. Anuradha Head, Dept. Of Physics, Bon Secours College for Women, Thanjavur",
+            "year":"2018",
+            "link":"/pdf/colabarative_activities/14.pdf"
+        },
+        {
+            "id":2,
+            "name":"Dr. A. Maajitha Begum Associate Professor, Dept. of Botany, Jamal Mohammed College, Tiruchirapalli",
+            "year":"2018",
+            "link":"/pdf/colabarative_activities/15.pdf"
+        },
+        {
+            "id":3,
+            "name":"Mrs. N. Siva Jyothi Head, Dept. Of Physics, Auxilium College of Arts & Science for Women, Regunathapuram, Pudukottai",
+            "year":"2018",
+            "link":"/pdf/colabarative_activities/16.pdf"
+        },
+        {
+            "id":4,
+            "name":"Dr. A. Palanisamy Professor & Secretary Bharathidasan University, Tiruchirapalli",
+            "year":"2018",
+            "link":"/pdf/colabarative_activities/17.pdf"
+        },
+        {
+            "id":5,
+            "name":"Dr. R. Rathi Head & Assistant Professor, PG Dept. of Physics, Sengalamala Thayaar Educational Thrust Womens College, Sundarakottai, Mannargudi",
+            "year":"2018",
+            "link":"/pdf/colabarative_activities/18.pdf"
+        },
+        {
+            "id":6,
+            "name":"Mr. A. Britto Manoj Assistant Professor Department of Mathematics, Anjalai Ammal Engg. College, Kovilvenni",
+            "year":"2018",
+            "link":"/pdf/colabarative_activities/19.pdf"
+        },
+        {
+            "id":7,
+            "name":"Dr. N. Thajuddin, Associate Professor and Head, Department of Microbiology, Bharathidasan University, Tiruchirappalli, Tamil Nadu",
+            "year":"2018",
+            "link":"/pdf/colabarative_activities/20.pdf"
+        },
+        {
+            "id":8,
+            "name":"Dr. S. Vijayalakshimi, Research Assistant Professor, Department of Microbiology, Kyung Pook National University, South Korea",
+            "year":"2018",
+            "link":"/pdf/colabarative_activities/21.pdf"
+        },
+        {
+            "id":9,
+            "name":"Dr. V.S. Narmatha, Associate Professor, Department of Biotechnology, St.Michael College of Engineering and Technology, Kalayarkoil, Sivagangai, Tamil Nadu",
+            "year":"2018",
+            "link":"/pdf/colabarative_activities/22.pdf"
+        }
+    ],
+    "five_3_7_1":[
+        {
+            "id":1,
+            "name":"Dr. K. Jeyaprakash, Assistant Professor Dept. of Zoology Rajah Serfoji Govt. College (Autonomous), Thanjavur",
+            "year":"2020",
+            "link":"/pdf/colabarative_activities/1.pdf"
+        },
+        {
+            "id":2,
+            "name":"Dr. A. Palanisamy Professor & Secretary (Sports), Department of Physical Education Bharathidasan University, Tiruchirapalli",
+            "year":"2019",
+            "link":"/pdf/colabarative_activities/2.pdf"
+        },
+        {
+            "id":3,
+            "name":"Prof. Anis Ahamed Prince Sultan Research Chair for Environment and Wildlife, Department of Botany, College of Sciences King Saud University, Saudi Arabia",
+            "year":"2019",
+            "link":"/pdf/colabarative_activities/3.pdf"
+        },
+        {
+            "id":4,
+            "name":"Mrs. N. Anuradha Head, Dept. of Physics, Bon Secours College for Women, Thanjavur",
+            "year":"2019",
+            "link":"/pdf/colabarative_activities/4.pdf"
+        },
+        {
+            "id":5,
+            "name":"Prof. Anis Ahamed Prince Sultan Research Chair for Environment and Wildlife, Department of Botany, College of Sciences King Saud University, Saudi Arabia",
+            "year":"2019",
+            "link":"/pdf/colabarative_activities/5.pdf"
+        },
+        {
+            "id":6,
+            "name":"Dr. A. Palanisamy Professor & Secretary (Sports), Department of Physical Education Bharathidasan University, Tiruchirapalli",
+            "year":"2019",
+            "link":"/pdf/colabarative_activities/6.pdf"
+        },
+        {
+            "id":7,
+            "name":"Dr. Selvanathan Latha Associate Professor Dept. of Microbiology, School of Life Sciences, Bharathidasan University, Tiruchi",
+            "year":"2019",
+            "link":"/pdf/colabarative_activities/7.pdf"
+        },
+        {
+            "id":8,
+            "name":"Dr. K. R. Balasubramanian Assistant Professor Department of Mathematics, H.H. Rajah's College, Pudukottai",
+            "year":"2019",
+            "link":"/pdf/colabarative_activities/8.pdf"
+        },
+        {
+            "id":9,
+            "name":"Dr. M. Sridharan Associate Dean Centre for Nanotechnology & Advanced Biomaterials and School of Electrical & Electronics Engineering SASTRA University, Thanjavur",
+            "year":"2019",
+            "link":"/pdf/colabarative_activities/9.pdf"
+        },
+        {
+            "id":10,
+            "name":"Dr. M. Boominathan Assistant Professor K.N Govt. Arts College for Women (Autonomous), Thanjavur",
+            "year":"2019",
+            "link":"/pdf/colabarative_activities/10.pdf"
+        },
+        {
+            "id":11,
+            "name":"Dr. R. Kalaivani Assistant Professor Noorul Islam Centre for Higher Education, Kumaracoil, Kanniyakumari",
+            "year":"2019",
+            "link":"/pdf/colabarative_activities/11.pdf"
+        },
+        {
+            "id":12,
+            "name":"Dr. P. K. Praseetha Head, Department of Nanotechnology Noorul Islam Centre for Higher Education Kumaracoil, Kanyakumari",
+            "year":"2019",
+            "link":"/pdf/colabarative_activities/12.pdf"
+        },
+        {
+            "id":13,
+            "name":"Dr. P. K. Praseetha, Head, Department of Nanotechnology, Noorul Islam Centre for Higher Education, Kumaracoil, Kanyakumari",
+            "year":"2019",
+            "link":"/pdf/colabarative_activities/13.pdf"
+        }
+    ],
+    "t_1_1_2":[
+        {
+            "name":"History",
+            "ug":"/pdf/syllabus/B.A_History_Syllabus_Revision.pdf",
+            "pg":"",
+            "mphil":"/pdf/syllabus/M.Phil_History_Syllabus_revision.pdf",
+            "phd":"/pdf/syllabus/Ph.D_History_Coursework.pdf"
+        },
+        {
+            "name":"Economics",
+            "ug":"/pdf/syllabus/B.A_Economics_Syllabus_Revision.pdf",
+            "pg":"",
+            "mphil":"/pdf/syllabus/M.Phil_Economics_Syllabus_revision.pdf",
+            "phd":"/pdf/syllabus/Ph.D_Econmics_Coursework.pdf"
+        },
+        {
+            "name":"Tamil",
+            "ug":"/pdf/syllabus/B.A_Tamil_Syllabus_Revision.pdf",
+            "pg":"/pdf/syllabus/M.A_Tamil_Syllabus_revision.pdf",
+            "mphil":"/pdf/syllabus/M.Phil_Tamil_syllabus_revision.pdf",
+            "phd":"/pdf/syllabus/Ph.D_Tamil_Coursework.pdf"
+        },
+        {
+            "name":"Indian Culture",
+            "ug":"/pdf/syllabus/B.A_Indianculture_Syllabus_Revision.pdf",
+            "pg":"",
+            "mphil":"",
+            "phd":""
+        },
+        {
+            "name":"B.Lit. Tamil",
+            "ug":"/pdf/syllabus/B.Lit_Tamil_Syllabus_Revision.pdf",
+            "pg":"",
+            "mphil":"",
+            "phd":""
+        },
+        {
+            "name":"English",
+            "ug":"/pdf/syllabus/B.A_English_Syllabus_Revision.pdf",
+            "pg":"/pdf/syllabus/M.A_English_Syllabus_revision.pdf",
+            "mphil":"/pdf/syllabus/M.Phil_English_Syllabus_revision.pdf",
+            "phd":"/pdf/syllabus/Ph.D_English_Coursework.pdf"
+        },
+        {
+            "name":"Commerce",
+            "ug":"/pdf/syllabus/B.Com_Syllabus_Revision.pdf",
+            "pg":"/pdf/syllabus/M.Com_Syllabus_revision.pdf",
+            "mphil":"/pdf/syllabus/M.Phil_Commerce_Syllabus_revision.pdf",
+            "phd":"/pdf/syllabus/Ph.D_Commerce_Coursework.pdf"
+        },
+        {
+            "name":"B. Com. C.A.",
+            "ug":"/pdf/syllabus/B.Com_Computerapplication_Syllabus_Revision.pdf",
+            "pg":"",
+            "mphil":"",
+            "phd":""
+        },
+        {
+            "name":"B. Com. B. M.",
+            "ug":"/pdf/syllabus/B.Com_Bankmanagement_Syllabus_Revision.pdf",
+            "pg":"",
+            "mphil":"",
+            "phd":""
+        },
+        {
+            "name":"Mathematics",
+            "ug":"/pdf/syllabus/B.Sc_Mathematics_Syllabus_Revision.pdf",
+            "pg":"/pdf/syllabus/M.Sc_Mathematics_Syllabus_revision.pdf",
+            "mphil":"/pdf/syllabus/M.Phil_Maths_Syllabus_revision.pdf",
+            "phd":"/pdf/syllabus/Ph.D_Mathematics_Coursework.pdf"
+        },
+        {
+            "name":"Physics",
+            "ug":"/pdf/syllabus/B.Sc_Physics_Syllabus_Revision.pdf",
+            "pg":"/pdf/syllabus/M.Sc_Physics_Syllabus_revision.pdf",
+            "mphil":"/pdf/syllabus/M.Phil_Physics_Syllabus_revision.pdf",
+            "phd":"/pdf/syllabus/Ph.D_Physics_Coursework.pdf"
+        },
+        {
+            "name":"Chemistry",
+            "ug":"/pdf/syllabus/B.Sc_Chemistry_Syllabus_Revision.pdf",
+            "pg":"/pdf/syllabus/M.Sc_Chemistry_Syllabus_revision.pdf",
+            "mphil":"/pdf/syllabus/M.Phil_Chemistry_Syllabus_revision.pdf",
+            "phd":"/pdf/syllabus/Ph.D_Chemistry_Coursework.pdf"
+        },
+        {
+            "name":"Botany",
+            "ug":"/pdf/syllabus/B.Sc_Botany_Syllabus_Revision.pdf",
+            "pg":"/pdf/syllabus/M.Sc_Botany_Syllabus_revision.pdf",
+            "mphil":"/pdf/syllabus/M.Phil_Botany_Syllabus_revision.pdf",
+            "phd":"/pdf/syllabus/Ph.D_Botany_Coursework.pdf"
+        },
+        {
+            "name":"Microbiology",
+            "ug":"",
+            "pg":"/pdf/syllabus/M.Sc_Microbiology_Syllabus_revision.pdf",
+            "mphil":"/pdf/syllabus/M.Phil_Microbiology_Syllabus_revision.pdf",
+            "phd":""
+        },
+        {
+            "name":"Zoology",
+            "ug":"/pdf/syllabus/B.Sc_Zoology_Syllabus_Revision.pdf",
+            "pg":"/pdf/syllabus/M.Sc_Zoology_Syllabus_revision.pdf",
+            "mphil":"/pdf/syllabus/M.Phil_Zoology_Syllabus_revision.pdf",
+            "phd":"/pdf/syllabus/Ph.D_Zoology_Coursework.pdf"
+        },
+        {
+            "name":"Biotechnology",
+            "ug":"",
+            "pg":"/pdf/syllabus/M.Sc_Biotechnology_Syllabus_revision.pdf",
+            "mphil":"",
+            "phd":""
+        },
+        {
+            "name":"Computer Science",
+            "ug":"/pdf/syllabus/B.Sc_Computerscience_Syllabus_Revision.pdf",
+            "pg":"/pdf/syllabus/M.Sc_Computerscience_Syllabus_revision.pdf",
+            "mphil":"/pdf/syllabus/M.Phil_Computerscience_Syllabus_revision.pdf",
+            "phd":"/pdf/syllabus/Ph.D_Computerscience_Coursework.pdf"
+        },
+        {
+            "name":"Computer Applications",
+            "ug":"/pdf/syllabus/B.C.A_Syllabus_Revision.pdf",
+            "pg":"/pdf/syllabus/M.C.A_Syllabus_revision.pdf",
+            "mphil":"",
+            "phd":""
+        },
+        {
+            "name":"Information Technology",
+            "ug":"",
+            "pg":"/pdf/syllabus/M.Sc_Informationtechnology_Syllabus_revision.pdf",
+            "mphil":"",
+            "phd":""
+        },
+        {
+            "name":"Physical Education, Health Education and Sports",
+            "ug":"/pdf/syllabus/B.Sc_Physicaleducation_Syllabus_Revision.pdf",
+            "pg":"",
+            "mphil":"",
+            "phd":"/pdf/syllabus/Ph.D_Phyicaleducation_Coursework.pdf"
+        },
+        {
+            "name":"Business Administration",
+            "ug":"/pdf/syllabus/B.B.A_Syllabus_Revision.pdf",
+            "pg":"/pdf/syllabus/M.B.A_Syllabus_revision.pdf",
+            "mphil":"",
+            "phd":""
+        },
+        {
+            "name":"Statistics",
+            "ug":"/pdf/syllabus/B.Sc_Statistics_Syllabus_Revision.pdf",
+            "pg":"",
+            "mphil":"",
+            "phd":""
+        },
+        {
+            "name":"Geography",
+            "ug":"/pdf/syllabus/B.Sc_Geography_Syllabus_Revision.pdf",
+            "pg":"",
+            "mphil":"",
+            "phd":""
+        },
+        {
+            "name":"M.L.I.S",
+            "ug":"",
+            "pg":"/pdf/syllabus/M.L.I.S_Syllabus_revision.pdf",
+            "mphil":"",
+            "phd":"/pdf/syllabus/Ph.D_Library_and_Information_Science_Coursework.pdf"
+        },
+        {
+            "name":"Management Studies",
+            "ug":"",
+            "pg":"",
+            "mphil":"/pdf/syllabus/M.Phil_Managementstudies_Syllabus_Revision.pdf",
+            "phd":"/pdf/syllabus/Ph.D_Management_Coursework.pdf"
+        }
+    ],
+    "ug_courses":[
+        {
+            "id":1,
+            "name":"B.A. History",
+            "link":"/pdf/courses/B.A_History_course_outcome.pdf"
+        },
+        {
+            "id":2,
+            "name":"B.A. Economics",
+            "link":"/pdf/courses/B.A_Economics_course_outcome.pdf"
+        },
+        {
+            "id":3,
+            "name":"B.A. Tamil",
+            "link":"/pdf/courses/B.A_Tamil_course_outcome.pdf"
+        },
+        {
+            "id":4,
+            "name":"B.A. Indian Culture",
+            "link":"/pdf/courses/B.A_Indianculture_course_outcome.pdf"
+        },
+        {
+            "id":5,
+            "name":"B.Lit. Tamil",
+            "link":"/pdf/courses/B.Lit_Tamil_course_outcome.pdf"
+        },
+        {
+            "id":6,
+            "name":"B.A. English",
+            "link":"/pdf/courses/B.A_English_course_outcome.pdf"
+        },
+        {
+            "id":7,
+            "name":"B.Com.",
+            "link":"/pdf/courses/B.Com_course_outcome.pdf"
+        },
+        {
+            "id":8,
+            "name":"B.Com. Computer Applications",
+            "link":"/pdf/courses/B.Com_Computerapplication_course_outcome.pdf"
+        },
+        {
+            "id":9,
+            "name":"B.Com. Banking Management",
+            "link":"/pdf/courses/B.Com_Bankmanagement_course_outcome.pdf"
+        },
+        {
+            "id":10,
+            "name":" B.Sc. Mathematics",
+            "link":"/pdf/courses/B.Sc_Mathematics_course_outcome.pdf"
+        },
+        {
+            "id":11,
+            "name":"B.Sc. Physics",
+            "link":"/pdf/courses/B.Sc_Physics_course_outcome.pdf"
+        },
+        {
+            "id":12,
+            "name":"B.Sc. Chemistry",
+            "link":"/pdf/courses/B.Sc_Chemistry_course_outcome.pdf"
+        },
+        {
+            "id":13,
+            "name":"B.Sc. Botany",
+            "link":"/pdf/courses/B.Sc_Botany_course_outcome.pdf"
+        },
+        {
+            "id":14,
+            "name":" B.Sc. Zoology",
+            "link":"/pdf/courses/B.Sc_Zoology_course_outcome.pdf"
+        },
+        {
+            "id":15,
+            "name":"B.Sc. Computer Science",
+            "link":"/pdf/courses/B.Sc_Computerscience_course_outcome.pdf"
+        },
+        {
+            "id":16,
+            "name":"B.C.A. Computer Applications",
+            "link":"/pdf/courses/B.C.A_course_outcome.pdf"
+        },
+        {
+            "id":17,
+            "name":"B.Sc. Physical Education, Health Education and Sports",
+            "link":"/pdf/courses/B.Sc_Physicaleducation_course_outcome.pdf"
+        },
+        {
+            "id":18,
+            "name":" B.B.A. Business Administration",
+            "link":"/pdf/courses/B.B.A_course_outcome.pdf"
+        },
+        {
+            "id":19,
+            "name":"B.Sc. Statistics",
+            "link":"/pdf/courses/B.Sc_Statistics_course_outcome.pdf"
+        },
+        {
+            "id":20,
+            "name":"B.Sc. Geography",
+            "link":"/pdf/courses/B.Sc_Geography_course_outcome.pdf"
+        }
+    ],
+    "pg_courses":[
+        {
+            "id":1,
+            "name":"M.A. History",
+            "link":"/pdf/courses/M.A_History_course_outcome.pdf"
+        },
+        {
+            "id":2,
+            "name":"M.A. Economics",
+            "link":"/pdf/courses/M.A_Economics_course_outcome.pdf"
+        },
+        {
+            "id":3,
+            "name":"M.A. Tamil",
+            "link":"/pdf/courses/M.A_Tamil_course_outcome.pdf"
+        },
+        {
+            "id":4,
+            "name":"M.A. English",
+            "link":"/pdf/courses/M.A_English_course_outcome.pdf"
+        },
+        {
+            "id":5,
+            "name":"M.Com.",
+            "link":"/pdf/courses/M.Com_course_outcome.pdf"
+        },
+        {
+            "id":6,
+            "name":"M.Sc. Mathematics",
+            "link":"/pdf/courses/M.Sc_Mathematics_course_outcome.pdf"
+        },
+        {
+            "id":7,
+            "name":"M.Sc. Physics",
+            "link":"/pdf/courses/M.Sc_Physics_course_outcome.pdf"
+        },
+        {
+            "id":8,
+            "name":"M.Sc. Chemistry",
+            "link":"/pdf/courses/M.Sc_Chemistry_course_outcome.pdf"
+        },
+        {
+            "id":9,
+            "name":"M.Sc. Botany",
+            "link":"/pdf/courses/M.Sc_Botany_course_outcome.pdf"
+        },
+        {
+            "id":10,
+            "name":"M.Sc. Microbiology",
+            "link":"/pdf/courses/M.Sc_Microbiology_course_outcome.pdf"
+        },
+        {
+            "id":11,
+            "name":"M.Sc. Zoology",
+            "link":"/pdf/courses/M.Sc_Zoology_course_outcome.pdf"
+        },
+        {
+            "id":12,
+            "name":"M.Sc. Biotechnology",
+            "link":"/pdf/courses/M.Sc_Biotechnology_course_outcome.pdf"
+        },
+        {
+            "id":13,
+            "name":"M.Sc. Computer Science",
+            "link":"/pdf/courses/M.Sc_Computerscience_course_outcome.pdf"
+        },
+        {
+            "id":14,
+            "name":"M.C.A. Computer Applications",
+            "link":"/pdf/courses/M.C.A_course_outcome.pdf"
+        },
+        {
+            "id":15,
+            "name":"M.Sc. Information Technology",
+            "link":"/pdf/courses/M.Sc_Informationtechnology_course_outcome.pdf"
+        },
+        {
+            "id":16,
+            "name":"M.L.I.S",
+            "link":"/pdf/courses/M.L.I.S_course_outcome.pdf"
+        },
+        {
+            "id":17,
+            "name":"M.B.A. Business Administration",
+            "link":"/pdf/courses/M.B.A_course_outcome.pdf"
+        }
+    ],
+    "i_5_1_3":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/pdf/SSD_2015_2016.pdf"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/pdf/SSD_2016_2017.pdf"
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/pdf/SSD_2017_2018.pdf"
+        },
+        {
+            "id":4,
+            "name":"2018-2019",
+            "link":"/pdf/SSD_2018_2019.pdf"
+        },
+        {
+            "id":5,
+            "name":"2019-2020",
+            "link":"/pdf/SSD_2019_2020.pdf"
+        }
+    ],
+    "iiug_5_1_3":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/pdf/2015_2016_UG.pdf"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/pdf/2016_2017_UG.pdf"
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/pdf/2017_2018_UG.pdf"
+        },
+        {
+            "id":4,
+            "name":"2018-2019",
+            "link":"/pdf/2018_2019_UG.pdf"
+        },
+        {
+            "id":5,
+            "name":"2019-2020",
+            "link":"/pdf/2019_2020_UG.pdf"
+        }
+    ],
+    "iipg_5_1_3":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/pdf/2015_2016_PG.pdf"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/pdf/2016_2017_PG.pdf"
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/pdf/2017_2018_PG.pdf"
+        },
+        {
+            "id":4,
+            "name":"2018-2019",
+            "link":"/pdf/2018_2019_PG.pdf"
+        },
+        {
+            "id":5,
+            "name":"2019-2020",
+            "link":"/pdf/2019_2020_PG.pdf"
+        }
+    ],
+    "iii_5_1_3":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/pdf/2015_2016_Awareness_of_trends_in_technology.pdf"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/pdf/2016_2017_Awareness_of_trends_in_technology.pdf"
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/pdf/2017_2018_Awareness_of_trends_in_technology.pdf"
+        },
+        {
+            "id":4,
+            "name":"2018-2019",
+            "link":"/pdf/2018_2019_Awareness_of_trends_in_technology.pdf"
+        },
+        {
+            "id":5,
+            "name":"2019-2020",
+            "link":"/pdf/2019_2020_Awareness_of_trends_in_technology.pdf"
+        }
+    ],
+    "one_5_1_4":[
+        {
+            "id":1,
+            "name":"Career counselling exam - Tamil",
+            "link":"/pdf/60_Career_councelling_exam.pdf"
+        },
+        {
+            "id":2,
+            "name":"Preparing competitive exam",
+            "link":"/pdf/61_Preparing_competitive_exam.pdf"
+        },
+        {
+            "id":3,
+            "name":"Coaching class competitive exam",
+            "link":"/pdf/62_Coaching_class_competitive_exam.pdf"
+        },
+        {
+            "id":4,
+            "name":"Guidelins competitive exam commerce",
+            "link":"/pdf/63_Guidelins_competitive_exam_commerce.pdf"
+        },
+        {
+            "id":5,
+            "name":"How to get full marks",
+            "link":"/pdf/64_How_to_get_full_Marks.pdf"
+        },
+        {
+            "id":6,
+            "name":"Carrer councelling exam - Physics",
+            "link":"/pdf/65_Carrer_councelling_exam.pdf"
+        },
+        {
+            "id":7,
+            "name":"Career councelling NET SET TRB - Chemistry",
+            "link":"/pdf/66_Career_councelling_NET_SET_TRB.pdf"
+        },
+        {
+            "id":8,
+            "name":"Career councelling competitive exam - Botany",
+            "link":"/pdf/67_Career_councelling_competitive_exam.pdf"
+        },
+        {
+            "id":9,
+            "name":"Career councelling NET SET TNPSC",
+            "link":"/pdf/68_Career_councelling_NET_SET_TNPSC.pdf"
+        },
+        {
+            "id":10,
+            "name":"Career councelling NET SET TRB - Zoology",
+            "link":"/pdf/69_Career_councelling_NET_SET_TRB.pdf"
+        },
+        {
+            "id":11,
+            "name":"Career councelling competitive exam - MBA",
+            "link":"/pdf/70_Career_councelling_competitive_exam.pdf"
+        },
+        {
+            "id":12,
+            "name":"Guideline competitive exam",
+            "link":"/pdf/71_Guideline_competitive_exam.pdf"
+        },
+        {
+            "id":13,
+            "name":"Training Programme on pre induction class",
+            "link":"/pdf/72_Training_Programme_on_pre_induction_class.pdf"
+        }
+    ],
+    "two_5_1_4":[
+        {
+            "id":1,
+            "name":"General Knowledge",
+            "link":"/pdf/46_General_Knowledge.pdf"
+        },
+        {
+            "id":2,
+            "name":"Carrer councelling competitive exam - Tamil",
+            "link":"/pdf/47_Carrer_councelling_competitive_exam.pdf"
+        },
+        {
+            "id":3,
+            "name":"Motivating NET SET",
+            "link":"/pdf/48_Motivating_NET_SET.pdf"
+        },
+        {
+            "id":4,
+            "name":"Competitive exam coaching class",
+            "link":"/pdf/49_Competitive_exam_coaching_class.pdf"
+        },
+        {
+            "id":5,
+            "name":"Competitive bank exam",
+            "link":"/pdf/50_Competitive_bank_exam.pdf"
+        },
+        {
+            "id":6,
+            "name":"Problem solving method",
+            "link":"/pdf/51_Problem_solving_method.pdf"
+        },
+        {
+            "id":7,
+            "name":"Carrer councelling competitive exam - Physics",
+            "link":"/pdf/52_Carrer_councelling_competitive_exam.pdf"
+        },
+        {
+            "id":8,
+            "name":"Career councelling NET SET",
+            "link":"/pdf/53_Career_councelling_NET_SET.pdf"
+        },
+        {
+            "id":9,
+            "name":"Carrer councelling competitive exam - Botany",
+            "link":"/pdf/54_Carrer_councelling_competitive_exam.pdf"
+        },
+        {
+            "id":10,
+            "name":"Career councelling NET SET TNPSC",
+            "link":"/pdf/55_Career_councelling_NET_SET_TNPSC.pdf"
+        },
+        {
+            "id":11,
+            "name":"Career councelling NET SET TNPSC TRB",
+            "link":"/pdf/56_Career_councelling_NET_SET_TNPSC_TRB.pdf"
+        },
+        {
+            "id":12,
+            "name":"Career councelling coaching class",
+            "link":"/pdf/57_Career_councelling_coaching_class.pdf"
+        },
+        {
+            "id":13,
+            "name":"Guidence competitive exam",
+            "link":"/pdf/58_Guidence_competitive_exam.pdf"
+        },
+        {
+            "id":14,
+            "name":"coaching classes for competitive examinations",
+            "link":"/pdf/59_coaching_classes_for_competitive_examinations.pdf"
+        }
+    ],
+    "three_5_1_4":[
+        {
+            "id":1,
+            "name":"General Knowledge",
+            "link":"/pdf/31_General_Knowledge.pdf"
+        },
+        {
+            "id":2,
+            "name":"career councelling competitive exam",
+            "link":"/pdf/32_career_councelling_competitive_exam.pdf"
+        },
+        {
+            "id":3,
+            "name":"Sri Pushpam IAS Academy",
+            "link":"/pdf/33_Sri_Pushpam_IAS.pdf"
+        },
+        {
+            "id":4,
+            "name":"Career councelling entrepreneurial development",
+            "link":"/pdf/34_Career_councelling_entrepreneurial_development.pdf"
+        },
+        {
+            "id":5,
+            "name":"competitive exam coaching class",
+            "link":"/pdf/35_competitive_exam_coaching_class.pdf"
+        },
+        {
+            "id":6,
+            "name":"competitive exam Railways",
+            "link":"/pdf/36_competitive_exam_Railways.pdf"
+        },
+        {
+            "id":7,
+            "name":"Winning competitive exam",
+            "link":"/pdf/37_Winning_competitive_exam.pdf"
+        },
+        {
+            "id":8,
+            "name":"career councelling competitive exam",
+            "link":"/pdf/38_career_councelling_competitive_exam.pdf"
+        },
+        {
+            "id":9,
+            "name":"career councelling NET SET - Chemistry",
+            "link":"/pdf/39_career_councelling_NET_SET.pdf"
+        },
+        {
+            "id":10,
+            "name":"career councelling",
+            "link":"/pdf/40_career_councelling.pdf"
+        },
+        {
+            "id":11,
+            "name":"career councelling NET SET - Microbiology",
+            "link":"/pdf/41_career_councelling_NET_SET.pdf"
+        },
+        {
+            "id":12,
+            "name":"career councelling NET SET TNPSC",
+            "link":"/pdf/42_career_councelling_NET_SET_TNPSC.pdf"
+        },
+        {
+            "id":13,
+            "name":"Career counclling exam",
+            "link":"/pdf/43_Career_counclling_exam.pdf"
+        },
+        {
+            "id":14,
+            "name":"Career councelling motivatioanl seminar",
+            "link":"/pdf/44_Career_councelling_motivatioanl_seminar.pdf"
+        },
+        {
+            "id":15,
+            "name":"coaching classes for competitive",
+            "link":"/pdf/45_coaching_classes_for_competitive.pdf"
+        }
+    ],
+    "four_5_1_4":[
+        {
+            "id":1,
+            "name":"General Knowledge",
+            "link":"/pdf/16_General_Knowledge.pdf"
+        },
+        {
+            "id":2,
+            "name":"Career councelling",
+            "link":"/pdf/17_Career_councelling.pdf"
+        },
+        {
+            "id":3,
+            "name":"Sri pushpam IAS Academy",
+            "link":"/pdf/18_Sri_pushpam_IAS.pdf"
+        },
+        {
+            "id":4,
+            "name":"Scope economics future",
+            "link":"/pdf/19_Scope_economics_future.pdf"
+        },
+        {
+            "id":5,
+            "name":"competitive coaching class",
+            "link":"/pdf/20_competitive_coaching_class.pdf"
+        },
+        {
+            "id":6,
+            "name":"How face exam",
+            "link":"/pdf/21_How_face_exam.pdf"
+        },
+        {
+            "id":7,
+            "name":"How clear bank exam",
+            "link":"/pdf/22_How_clear_bank_exam.pdf"
+        },
+        {
+            "id":8,
+            "name":"career councelling competitive - Physics",
+            "link":"/pdf/23_career_councelling_competitive.pdf"
+        },
+        {
+            "id":9,
+            "name":"career councelling NET SET - Chemistry",
+            "link":"/pdf/24_career_councelling_NET_SET.pdf"
+        },
+        {
+            "id":10,
+            "name":"career councelling competitive - Botany",
+            "link":"/pdf/25_career_councelling_competitive.pdf"
+        },
+        {
+            "id":11,
+            "name":"coaching class NET SET",
+            "link":"/pdf/26_coaching_class_NET_SET.pdf"
+        },
+        {
+            "id":12,
+            "name":"career councelling NET SET - Zoology",
+            "link":"/pdf/27_career_councelling_NET_SET.pdf"
+        },
+        {
+            "id":13,
+            "name":"competitive exam coaching class",
+            "link":"/pdf/28_competitive_exam_coaching_class.pdf"
+        },
+        {
+            "id":14,
+            "name":"career councelling work shop",
+            "link":"/pdf/29_career_councelling_work_shop.pdf"
+        },
+        {
+            "id":15,
+            "name":"Consensus Building about Career Practice",
+            "link":"/pdf/30_Consensus_Building_about_Career_Practice.pdf"
+        }
+    ],
+    "five_5_1_4":[
+        {
+            "id":1,
+            "name":"General Knowledge",
+            "link":"/pdf/1_General_Knowledge.pdf"
+        },
+        {
+            "id":2,
+            "name":"Career councelling - Tamil",
+            "link":"/pdf/2_Career_councelling.pdf"
+        },
+        {
+            "id":3,
+            "name":"Sri pushpam IAS Academy",
+            "link":"/pdf/3_Sri_pushpam_IAS.pdf"
+        },
+        {
+            "id":4,
+            "name":"Higher studies Economics",
+            "link":"/pdf/4_Higher_studies_Economics.pdf"
+        },
+        {
+            "id":5,
+            "name":"Coaching class",
+            "link":"/pdf/5_Coaching_class.pdf"
+        },
+        {
+            "id":6,
+            "name":"Awarness TNPSC",
+            "link":"/pdf/6_Awarness_TNPSC.pdf"
+        },
+        {
+            "id":7,
+            "name":"Competitive shortcut solve problem",
+            "link":"/pdf/7_Competitive_shortcut_solve_problem.pdf"
+        },
+        {
+            "id":8,
+            "name":"Career councelling - Physics",
+            "link":"/pdf/8_Career_councelling.pdf"
+        },
+        {
+            "id":9,
+            "name":"Career councelling NET SET - Chemistry",
+            "link":"/pdf/9_Career_councelling_NET_SET.pdf"
+        },
+        {
+            "id":10,
+            "name":"Career councelling - Botany",
+            "link":"/pdf/10_Career_councelling.pdf"
+        },
+        {
+            "id":11,
+            "name":"coaching class NET SET",
+            "link":"/pdf/11_coacing_class_NET_SET.pdf"
+        },
+        {
+            "id":12,
+            "name":"Career councelling NET SET",
+            "link":"/pdf/12_Career_councelling_NET_SET.pdf"
+        },
+        {
+            "id":13,
+            "name":"Competitive coaching class",
+            "link":"/pdf/13_Competitive_coaching_class.pdf"
+        },
+        {
+            "id":14,
+            "name":"career guidence",
+            "link":"/pdf/14_career_guidence.pdf"
+        },
+        {
+            "id":15,
+            "name":"Corporate Learning and Development",
+            "link":"/pdf/15_Corporate_Learning_and_Development.pdf"
+        }
+    ],
+    "t_5_2_1":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/pdf/2015_2016_placement_of_outgoing_students.pdf"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/pdf/2016_2017_placement_of_outgoing_students.pdf"
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/pdf/2017_2018_placement_of_outgoing_students.pdf"
+        },
+        {
+            "id":4,
+            "name":"2018-2019",
+            "link":"/pdf/2018_2019_placement_of_outgoing_students.pdf"
+        },
+        {
+            "id":5,
+            "name":"2020-2021",
+            "link":"/pdf/2019_2020_placement_of_outgoing_students.pdf"
+        }
+    ],
+    "main_1_3_3":[
+        
+        {
+            "id":1,
+            "name":"2020_2021",
+            "link":"/curricular_aspects/1.3/1.3.3/1.3.3_2015_2016"
+        }
+    ],
+    "main_3_1_2":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/research-innovations-extension/3.1/3.1.2/3.1.2_2015_2016"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/research-innovations-extension/3.1/3.1.2/3.1.2_2016_2017"
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/research-innovations-extension/3.1/3.1.2/3.1.2_2017_2018"
+        },
+        {
+            "id":4,
+            "name":"2018-2019",
+            "link":"/research-innovations-extension/3.1/3.1.2/3.1.2_2018_2019"
+        },
+        {
+            "id":5,
+            "name":"2019-2020",
+            "link":"/research-innovations-extension/3.1/3.1.2/3.1.2_2019_2020"
+        }
+    ],
+    "main_3_7_1":[
+           
+		{
+            "id":1,
+            "name":"2015-2016",
+            "link":"/research-innovations-extension/3.7/3.7.1/3.7.1_2015_2016"
+        },
+		{
+            "id":2,
+            "name":"2016-2017",
+            "link":"/research-innovations-extension/3.7/3.7.1/3.7.1_2016_2017"
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/research-innovations-extension/3.7/3.7.1/3.7.1_2017_2018"
+        },
+		{
+            "id":4,
+            "name":"2018-2019",
+            "link":"/research-innovations-extension/3.7/3.7.1/3.7.1_2018_2019"
+        },
+		{
+            "id":5,
+            "name":"2019-2020",
+            "link":"/research-innovations-extension/3.7/3.7.1/3.7.1_2019_2020"
+        }
+		
+			
+    ],
+    "main_3_7_2":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/research-innovations-extension/3.7/3.7.2/3.7.2_2015_2016"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/research-innovations-extension/3.7/3.7.2/3.7.2_2016_2017"
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/research-innovations-extension/3.7/3.7.2/3.7.2_2017_2018"
+        },
+        {
+            "id":4,
+            "name":"2018-2019",
+            "link":"/research-innovations-extension/3.7/3.7.2/3.7.2_2018_2019"
+        },
+        {
+            "id":5,
+            "name":"2019-2020",
+            "link":"/research-innovations-extension/3.7/3.7.2/3.7.2_2019_2020"
+        }
+    ],
+    "main_3_3_2":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/research-innovations-extension/3.3/3.3.2/3.3.2_2015_2016"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/research-innovations-extension/3.3/3.3.2/3.3.2_2016_2017"
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/research-innovations-extension/3.3/3.3.2/3.3.2_2017_2018"
+        },
+        {
+            "id":4,
+            "name":"2018-2019",
+            "link":"/research-innovations-extension/3.3/3.3.2/3.3.2_2018_2019"
+        },
+        {
+            "id":5,
+            "name":"2019-2020",
+            "link":"/research-innovations-extension/3.3/3.3.2/3.3.2_2019_2020"
+        }
+    ],
+    "main_5_1_1":[
+        {
+            "id":1,
+            "name":"2020-2021",
+            "link":"/student-support-progression/5.1/5.1.1/5.1.1_2015-2016"
+        }
+    ],
+    "main_1_1_3":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/curricular_aspects/1.1/1.1.3/1.1.3_2015-2016"
+        }
+    ],
+    "six_1_3_3":[
+        {
+            "id":1,
+            "name":"Tally",
+            "link":"/pdf/result/2015-2016/1_Tally_Attendance.pdf"
+        },
+        {
+            "id":2,
+            "name":"Spoken English",
+            "link":"/pdf/result/2015-2016/2_Spoken_English_Attendance.pdf"
+        },
+        {
+            "id":3,
+            "name":"Bridal Makeup",
+            "link":"/pdf/result/2015-2016/3_Bridal_Makeup_Attendance.pdf"
+        },
+        {
+            "id":4,
+            "name":"Nail Art",
+            "link":"/pdf/result/2015-2016/4_Nail_Art_Attendance.pdf"
+        },
+        {
+            "id":5,
+            "name":"Laptop Service",
+            "link":"/pdf/result/2015-2016/5_Laptop_Service_Attendance.pdf"
+        },
+        {
+            "id":6,
+            "name":"Bank Exam",
+            "link":"/pdf/result/2015-2016/6_Bank_Exam_Attendance.pdf"
+        },
+        {
+            "id":7,
+            "name":"Chudi Cutting and Stitching",
+            "link":"/pdf/result/2015-2016/7_Chudi_Cutting_and_Stitching_Attendance.pdf"
+        },
+        {
+            "id":8,
+            "name":"Blouse Cutting and Stitching, Embroidery",
+            "link":"/pdf/result/2015-2016/8_Blouse_cutting_and_Stitching_Attendance.pdf"
+        },
+        {
+            "id":9,
+            "name":"Group Exam",
+            "link":"/pdf/result/2015-2016/9_Group_Exam_Attendance.pdf"
+        },
+        {
+            "id":10,
+            "name":"Cell Phone Service",
+            "link":"/pdf/result/2015-2016/10_Cell_phone_service_Attendance.pdf"
+        },
+        {
+            "id":11,
+            "name":"Diploma in Web Design(DWD)",
+            "link":"/pdf/result/2015-2016/11_Diploma_in_Web_Design_Attendance.pdf"
+        },
+        {
+            "id":12,
+            "name":"Diploma in Office Automation(DOA)",
+            "link":"/pdf/result/2015-2016/12.Diploma_in _Office_Automation_Attendance.pdf"
+        }
+    ],
+    "two_1_3_3":[
+        {
+            "id":1,
+            "name":"Tally",
+            "link":"/pdf/result/2016-2017/1_Tally_Attendance.pdf"
+        },
+        {
+            "id":2,
+            "name":"Spoken English",
+            "link":"/pdf/result/2016-2017/2_Spoken_English_Attendance.pdf"
+        },
+        {
+            "id":3,
+            "name":"Bridal Makeup",
+            "link":"/pdf/result/2016-2017/3_bridal_Makeup_Attendance.pdf"
+        },
+        {
+            "id":4,
+            "name":"Nail Art",
+            "link":"/pdf/result/2016-2017/4_Nail_Art_Attendance.pdf"
+        },
+        {
+            "id":5,
+            "name":"Laptop Service",
+            "link":"/pdf/result/2016-2017/5_Laptop_services_Attendance.pdf"
+        },
+        {
+            "id":6,
+            "name":"Bank Exam",
+            "link":"/pdf/result/2016-2017/6_Bank_Exam_Attendance.pdf"
+        },
+        {
+            "id":7,
+            "name":"Chudi Cutting and Stitching",
+            "link":"/pdf/result/2016-2017/7_Chudi_Cutting_and_Stitching_Attendance.pdf"
+        },
+        {
+            "id":8,
+            "name":"Blouse Cutting and Stitching, Embroidery",
+            "link":"/pdf/result/2016-2017/8_Blouse_cutting_and_Stitching_Attendance.pdf"
+        },
+        {
+            "id":9,
+            "name":"Spoken Hindi",
+            "link":"/pdf/result/2016-2017/9_Spoken_Hindi_Attendance.pdf"
+        },
+        {
+            "id":10,
+            "name":"Scholarship Course",
+            "link":"/pdf/result/2016-2017/10_Scholarship_Course_Attendance.pdf"
+        },
+        {
+            "id":11,
+            "name":"Diploma in Web Design(DWD)",
+            "link":"/pdf/result/2016-2017/11_Diploma_in_Web_Designing_Attendance.pdf"
+        },
+        {
+            "id":12,
+            "name":"Diploma in Office Automation(DOA)",
+            "link":"/pdf/result/2016-2017/12_Diploma _in_office_Automation_Attendance.pdf"
+        },
+        {
+            "id":13,
+            "name":"TNPSC",
+            "link":"/pdf/result/2016-2017/13_TNPSC_Attendance.pdf"
+        }
+    ],
+    "three_1_3_3":[
+        {
+            "id":1,
+            "name":"Tally",
+            "link":"/pdf/result/2017-2018/1_Tally_Attendance.pdf"
+        },
+        {
+            "id":2,
+            "name":"Spoken English",
+            "link":"/pdf/result/2017-2018/2_Spoken_English_Attendance.pdf"
+        },
+        {
+            "id":3,
+            "name":"Nail Art",
+            "link":"/pdf/result/2017-2018/3_Nail_Art _Attendance.pdf"
+        },
+        {
+            "id":4,
+            "name":"Laptop Service",
+            "link":"/pdf/result/2017-2018/4_Bank_Exam_Attendance.pdf"
+        },
+        {
+            "id":5,
+            "name":"Chudi Cutting and Stitching",
+            "link":"/pdf/result/2017-2018/5_Sudi_Cutting_and_stitching_Attendance.pdf"
+        }
+    ],
+    "four_1_3_3":[
+        {
+            "id":1,
+            "name":"Tourism Potential in Tamilnadu",
+            "link":"/pdf/result/2018-2019/1_Tourism_Potential_in_Tamilnadu_Result.pdf"
+        },
+        {
+            "id":2,
+            "name":"Rural Industrialization",
+            "link":"/pdf/result/2018-2019/2_Rural_Industrialization_Result.pdf"
+        },
+        {
+            "id":3,
+            "name":"Introduction to Tamil Medicine",
+            "link":"/pdf/result/2018-2019/3_Introduction_to_Tamil_Medicine_Result.pdf"
+        },
+        {
+            "id":4,
+            "name":"Developing Speaking Skills",
+            "link":"/pdf/result/2018-2019/4_Developing_Speaking_Skills_Result.pdf"
+        },
+        {
+            "id":5,
+            "name":"Securities and investment management",
+            "link":"/pdf/result/2018-2019/5_Securities_and_investment_management_Result.pdf"
+        },
+        {
+            "id":6,
+            "name":"Personality Development",
+            "link":"/pdf/result/2018-2019/6_Personality_Development_Result.pdf"
+        },
+        {
+            "id":7,
+            "name":"Mathematical Techniques",
+            "link":"/pdf/result/2018-2019/7_Mathematical_Techniques_Result.pdf"
+        },
+        {
+            "id":8,
+            "name":"Solar energy Utilization",
+            "link":"/pdf/result/2018-2019/8_Solar_energy_Utilization_Result.pdf"
+        },
+        {
+            "id":9,
+            "name":"Food science & Quality Control",
+            "link":"/pdf/result/2018-2019/9_Food_science___Quality_Control_Result.pdf"
+        },
+        {
+            "id":10,
+            "name":"Herbal Medicine",
+            "link":"/pdf/result/2018-2019/10_Herbal_Medicine_Result.pdf"
+        },
+        {
+            "id":11,
+            "name":"Ornamental Fish Culture",
+            "link":"/pdf/result/2018-2019/11_Ornamental_Fish_Culture_Result.pdf"
+        },
+        {
+            "id":12,
+            "name":"Cloud Computing Basics",
+            "link":"/pdf/result/2018-2019/12_Cloud_Computing_Basics_Result.pdf"
+        },
+        {
+            "id":13,
+            "name":"Health and Fitness",
+            "link":"/pdf/result/2018-2019/13_Health_and_Fitness_Result.pdf"
+        },
+        {
+            "id":14,
+            "name":"Geography of Energy Resources",
+            "link":"/pdf/result/2018-2019/14_Geography_of_Energy_Resources_Result.pdf"
+        },
+        {
+            "id":15,
+            "name":"Tourism Potential in Tamilnadu",
+            "link":"/pdf/result/2018-2019/15_Tourism_Potential_in_Tamilnadu_Result.pdf"
+        },
+        {
+            "id":16,
+            "name":"Capital Market and Investment Policies",
+            "link":"/pdf/result/2018-2019/16_Capital_Market_and_Investment_Policies_Result.pdf"
+        },
+        {
+            "id":17,
+            "name":"Udakaviyal",
+            "link":"/pdf/result/2018-2019/17_Udakaviyal_Result.pdf"
+        },
+        {
+            "id":18,
+            "name":"Techniques in English for Competitive Examinations",
+            "link":"/pdf/result/2018-2019/18_Techniques_in_English_for_Competitive_Examinations_Result.pdf"
+        },
+        {
+            "id":19,
+            "name":"Management Information System",
+            "link":"/pdf/result/2018-2019/19_Management_Information_System_Result.pdf"
+        },
+        {
+            "id":20,
+            "name":"Optimization  Techniques",
+            "link":"/pdf/result/2018-2019/20_Optimization_Techniques_Result.pdf"
+        },
+        {
+            "id":21,
+            "name":"Non-Conventional Energy Sources",
+            "link":"/pdf/result/2018-2019/21_Non_Conventional_Energy_Sources_Result.pdf"
+        },
+        {
+            "id":22,
+            "name":"Food Additives and Preservation",
+            "link":"/pdf/result/2018-2019/22_Food_Additives_and_Preservation_Result.pdf"
+        },
+        {
+            "id":23,
+            "name":"Mushroom Technology",
+            "link":"/pdf/result/2018-2019/23_Mushroom_Technology_Result.pdf"
+        },
+        {
+            "id":24,
+            "name":"Medical Botany",
+            "link":"/pdf/result/2018-2019/24_Medical_Botany_Result.pdf"
+        },
+        {
+            "id":25,
+            "name":"Vermi Composting",
+            "link":"/pdf/result/2018-2019/25_VermiComposting_Result.pdf"
+        },
+        {
+            "id":26,
+            "name":"Fermentation Technology",
+            "link":"/pdf/result/2018-2019/26_Fermentation_Technology_Result.pdf"
+        },
+        {
+            "id":27,
+            "name":"Business Analytics",
+            "link":"/pdf/result/2018-2019/27_Business_Analytics_Result.pdf"
+        },
+        {
+            "id":28,
+            "name":"Spoken English",
+            "link":"/pdf/result/2018-2019/28_Spoken_English_Attendance.pdf"
+        },
+        {
+            "id":29,
+            "name":"Nail Art",
+            "link":"/pdf/result/2018-2019/29_Nail_Art_Attendance.pdf"
+        },
+        {
+            "id":30,
+            "name":"Bank Exam",
+            "link":"/pdf/result/2018-2019/30_Bank_Exam_Attendance.pdf"
+        },
+        {
+            "id":31,
+            "name":"Chudi Cutting and Stitching",
+            "link":"/pdf/result/2018-2019/31_Chudi_Cutting_and_Stitching_Attendance.pdf"
+        }
+    ],
+    "five_1_3_3":[
+        {
+            "id":1,
+            "name":"Tourism Potential in Tamilnadu",
+            "link":"/pdf/result/2019-2020/1_Tourism_Potential_in_Tamilnadu_Result.pdf"
+        },
+        {
+            "id":2,
+            "name":"Rural Industrialization",
+            "link":"/pdf/result/2019-2020/2_Rural_Industrialization_Result.pdf"
+        },
+        {
+            "id":3,
+            "name":"Introduction to Tamil Medicine",
+            "link":"/pdf/result/2019-2020/3_Introduction_to_Tamil_Medicine_Result.pdf"
+        },
+        {
+            "id":4,
+            "name":"Developing Speaking Skills",
+            "link":"/pdf/result/2019-2020/4_Developing_Speaking_Skills_Result.pdf"
+        },
+        {
+            "id":5,
+            "name":"Securities and investment management",
+            "link":"/pdf/result/2019-2020/5_Securities_and_investment_management_Result.pdf"
+        },
+        {
+            "id":6,
+            "name":"Personality Development",
+            "link":"/pdf/result/2019-2020/6_Personality_Development_Result.pdf"
+        },
+        {
+            "id":7,
+            "name":"Mathematical Techniques",
+            "link":"/pdf/result/2019-2020/7_Mathematical_Techniques_Result.pdf"
+        },
+        {
+            "id":8,
+            "name":"Solar energy Utilization",
+            "link":"/pdf/result/2019-2020/8_Solar_Energy_Utilization_Result.pdf"
+        },
+        {
+            "id":9,
+            "name":"Food science & Quality Control",
+            "link":"/pdf/result/2019-2020/9_Food_science___Quality_Control_Result.pdf"
+        },
+        {
+            "id":10,
+            "name":"Herbal Medicine",
+            "link":"/pdf/result/2019-2020/10_Herbal_Medicine_Result.pdf"
+        },
+        {
+            "id":11,
+            "name":"Ornamental Fish Culture",
+            "link":"/pdf/result/2019-2020/11_Ornamental_Fish_Culture_Result.pdf"
+        },
+        {
+            "id":12,
+            "name":"Cloud Computing Basics",
+            "link":"/pdf/result/2019-2020/12_Cloud_Computing_Basics_Result.pdf"
+        },
+        {
+            "id":13,
+            "name":"Health and Fitness",
+            "link":"/pdf/result/2019-2020/13_Health_and_Fittness_Result.pdf"
+        },
+        {
+            "id":14,
+            "name":"Geography of Energy Resources",
+            "link":"/pdf/result/2019-2020/14_Geography_of_Energy_Resources_Result.pdf"
+        },
+        {
+            "id":15,
+            "name":"Tourism Potential in Tamilnadu",
+            "link":"/pdf/result/2019-2020/15_Tourism_Potential_in_Tamilnadu_Result.pdf"
+        },
+        {
+            "id":16,
+            "name":"Capital Market and Investment Policies",
+            "link":"/pdf/result/2019-2020/16_Capital_Market_and_Investment_Policies_Result.pdf"
+        },
+        {
+            "id":17,
+            "name":"Udakaviyal",
+            "link":"/pdf/result/2019-2020/17_Udakaviyal_Result.pdf"
+        },
+        {
+            "id":18,
+            "name":"Techniques in English for Competitive Examinations",
+            "link":"/pdf/result/2019-2020/18_Techniques_in_English_for_Competitive_Examinations_Result.pdf"
+        },
+        {
+            "id":19,
+            "name":"Management Information System",
+            "link":"/pdf/result/2019-2020/19_Management_Information_System_Result.pdf"
+        },
+        {
+            "id":20,
+            "name":"Optimization  Techniques",
+            "link":"/pdf/result/2019-2020/20_Optimization _Techniques_Result.pdf"
+        },
+        {
+            "id":21,
+            "name":"Non-Conventional Energy Sources",
+            "link":"/pdf/result/2019-2020/21_Non-Conventional_Energy_Sources_Result.pdf"
+        },
+        {
+            "id":22,
+            "name":"Food Additives and Preservation",
+            "link":"/pdf/result/2019-2020/22_Food_Additives_and_Preservation_Result.pdf"
+        },
+        {
+            "id":23,
+            "name":"Mushroom Technology",
+            "link":"/pdf/result/2019-2020/23_Mushroom_Technology_Result.pdf"
+        },
+        {
+            "id":24,
+            "name":"Medical Botany",
+            "link":"/pdf/result/2019-2020/24_Medical_Botany_Result.pdf"
+        },
+        {
+            "id":25,
+            "name":"Vermi Composting",
+            "link":"/pdf/result/2019-2020/25_Vermi_Composting_Result.pdf"
+        },
+        {
+            "id":26,
+            "name":"Fermentation Technology",
+            "link":"/pdf/result/2019-2020/26_Fermentation_Technology_Result.pdf"
+        },
+        {
+            "id":27,
+            "name":"Business Analytics",
+            "link":"/pdf/result/2019-2020/27_Business_Analytics_Result.pdf"
+        },
+        {
+            "id":28,
+            "name":"Library Management System",
+            "link":"/pdf/result/2019-2020/28_Library_Management_System_Result.pdf"
+        },
+        {
+            "id":29,
+            "name":"Tally",
+            "link":"/pdf/result/2019-2020/29_Tally_Attendance.pdf"
+        },
+        {
+            "id":30,
+            "name":"Spoken English",
+            "link":"/pdf/result/2019-2020/30_Spoken_English_Attendance.pdf"
+        },
+        {
+            "id":31,
+            "name":"Nail Art",
+            "link":"/pdf/result/2019-2020/31_Nail_Art_Attendance.pdf"
+        },
+        {
+            "id":32,
+            "name":"Laptop Service",
+            "link":"/pdf/result/2019-2020/32_Laptop_Service _Attendance.pdf"
+        },
+        {
+            "id":33,
+            "name":"Chudi Cutting and Stitching",
+            "link":"/pdf/result/2019-2020/33_Chudi_Cutting___Sitiching_Attendance.pdf"
+        }
+    ],
+		
+"one_1_3_3":[
+        {
+            "id":1,
+            "name":"Tourism Potential in Tamilnadu",
+            "link":"/pdf/result/2020-2021/1_Tourism_Potential_in_Tamilnadu.pdf"
+        },
+        {
+            "id":2,
+            "name":"Rural Industrialization",
+            "link":"/pdf/result/2020-2021/2_Rural_Industrialization.pdf"
+        },
+        {
+            "id":3,
+            "name":"Introduction to Tamil Medicine",
+            "link":"/pdf/result/2020-2021/3_Introduction_to_Tamil_Medicine.pdf"
+        },
+        {
+            "id":4,
+            "name":"Developing Speaking Skills",
+            "link":"/pdf/result/2020-2021/4_Developing_Speaking_Skills.pdf"
+        },
+        {
+            "id":5,
+            "name":"Securities Analysis and Portfolio management",
+            "link":"/pdf/result/2020-2021/5_Securities_Analysis_and_Portfolio_management.pdf"
+        },
+        {
+            "id":6,
+            "name":"Securities Analysis and Investment management",
+            "link":"/pdf/result/2020-2021/6_Securities_Analysis_and_Investment_management.pdf"
+        },
+        {
+            "id":7,
+            "name":"Personality Development",
+            "link":"/pdf/result/2020-2021/9_Personality_Development.pdf"
+        },
+		{
+            "id":8,
+            "name":"Mathematical Techniques",
+            "link":"/pdf/result/2020-2021/10_Mathematical_Techniques.pdf"
+        },
+        {
+            "id":9,
+            "name":"Solar energy Utilization",
+            "link":"/pdf/result/2020-2021/12_Solar_energy_Utilization.pdf"
+        },
+        {
+            "id":10,
+            "name":"Food science & Quality Control",
+            "link":"/pdf/result/2020-2021/13_Food _science_&_Quality_Control.pdf"
+        },
+        {
+            "id":11,
+            "name":"Herbal Medicine",
+            "link":"/pdf/result/2020-2021/14_Herbal_Medicine.pdf"
+        },
+        {
+            "id":12,
+            "name":"Ornamental Fish Culture",
+            "link":"/pdf/result/2020-2021/15_Ornamental_Fish_Culture.pdf"
+        },
+        {
+            "id":13,
+            "name":"Understanding Information Technology Industry Process",
+            "link":"/pdf/result/2020-2021/16_Understanding_information_technology_Industry_Process.pdf"
+        },
+        {
+            "id":14,
+            "name":"Health and Fitness",
+            "link":"/pdf/result/2020-2021/18_Health_and_Fitness.pdf"
+        },
+        {
+            "id":15,
+            "name":"Disaster Management",
+            "link":"/pdf/result/2020-2021/19_Disaster_Management.pdf"
+        },
+        {
+            "id":16,
+            "name":"Capital Market and Investment Policies",
+            "link":"/pdf/result/2020-2021/21_Capital_Market_and_Investment_Policies.pdf"
+        },
+        {
+            "id":17,
+            "name":"Udakaviyal",
+            "link":"/pdf/result/2020-2021/22_Udakaviyal.pdf"
+        },
+        {
+            "id":18,
+            "name":"Techniques in English for Competitive Examinations",
+            "link":"/pdf/result/2020-2021/23_Techniques_in_English_for_Competitive_Examinations.pdf"
+        },
+        {
+            "id":19,
+            "name":"Management Information System",
+            "link":"/pdf/result/2020-2021/24_Management_Information_System.pdf"
+        },
+        {
+            "id":20,
+            "name":"Optimization  Techniques",
+            "link":"/pdf/result/2020-2021/25_Optimization_Technique.pdf"
+        },
+        {
+            "id":21,
+            "name":"Non-Conventional Energy Sources",
+            "link":"/pdf/result/2020-2021/26_Non_Conventional_Energy_Sources.pdf"
+        },
+        {
+            "id":22,
+            "name":"Food Additives and Preservation",
+            "link":"/pdf/result/2020-2021/27_Food_Additives_and_Preservation.pdf"
+        },
+        {
+            "id":23,
+            "name":"Mushroom Technology",
+            "link":"/pdf/result/2020-2021/28_Mushroom_Technology.pdf"
+        },
+        {
+            "id":24,
+            "name":"Medical Botany",
+            "link":"/pdf/result/2020-2021/29_Medical_Botany.pdf"
+        },
+        {
+            "id":25,
+            "name":"Vermi Composting",
+            "link":"/pdf/result/2020-2021/30_Vermi_Composting.pdf"
+        },
+        {
+            "id":26,
+            "name":"Fermentation Technology",
+            "link":"/pdf/result/2020-2021/31_Fermentation_Technology.pdf"
+        },
+        {
+            "id":27,
+            "name":"Business Analytics",
+            "link":"/pdf/result/2020-2021/32_Business_Analytics.pdf"
+        },
+        {
+            "id":28,
+            "name":"Library Management System",
+            "link":"/pdf/result/2020-2021/33_Library_Management_System.pdf"
+        }
+        
+    ],
+		
+    "t_1_3_3":[
+        {
+            "id":1,
+            "name":"2020-2021",
+            "link":"/pdf/value_courses/2020_2021.pdf"
+        }
+    ],
+    "one_1_4_2":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/pdf/alumni_feedback_analysis_2015_2016.pdf"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/pdf/alumni_feedback_analysis_2016_2017.pdf"
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/pdf/alumni_feedback_analysis_2017_2018.pdf"
+        },
+        {
+            "id":4,
+            "name":"2018-2019",
+            "link":"/pdf/alumni_feedback_analysis_2018_2019.pdf"
+        },
+        {
+            "id":5,
+            "name":"2019-2020",
+            "link":"/pdf/alumni_feedback_analysis_2019_2020.pdf"
+        }
+    ],
+    "two_1_4_2":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/pdf/employer_feedback_analysis_2015_2016.pdf"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/pdf/employer_feedback_analysis_2016_2017.pdf"
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/pdf/employer_feedback_analysis_2017_2018.pdf"
+        },
+        {
+            "id":4,
+            "name":"2018-2019",
+            "link":"/pdf/employer_feedback_analysis_2018_2019.pdf"
+        },
+        {
+            "id":5,
+            "name":"2019-2020",
+            "link":"/pdf/employer_feedback_analysis_2019_2020.pdf"
+        }
+    ],
+    "three_1_4_2":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/pdf/Students_feedback_analysis_2015_2016.pdf"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/pdf/Students_feedback_analysis_2016_2017.pdf"
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/pdf/Students_feedback_analysis_2017_2018.pdf"
+        },
+        {
+            "id":4,
+            "name":"2018-2019",
+            "link":"/pdf/Students_feedback_analysis_2018_2019.pdf"
+        },
+        {
+            "id":5,
+            "name":"2019-2020",
+            "link":"/pdf/Students_feedback_analysis_2019_2020.pdf"
+        }
+    ],
+    "four_1_4_2":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/pdf/Teachers_feedback_analysis_2015_2016.pdf"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/pdf/Teachers_feedback_analysis_2016_2017.pdf"
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/pdf/Teachers_feedback_analysis_2017_2018.pdf"
+        },
+        {
+            "id":4,
+            "name":"2018-2019",
+            "link":"/pdf/Teachers_feedback_analysis_2018_2019.pdf"
+        },
+        {
+            "id":5,
+            "name":"2019-2020",
+            "link":"/pdf/Teachers_feedback_analysis_2019_2020.pdf"
+        }
+    ],
+    "t_3_6_2":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/pdf/2015_2016_Awards_Recognition_for_Extension_activity.pdf"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/pdf/2016_2017_Awards_Recognition_for_Extension_activity.pdf"
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/pdf/2017_2018_Awards_Recognition_for_Extension_activity.pdf"
+        },
+        {
+            "id":4,
+            "name":"2018-2019",
+            "link":"/pdf/2018_2019_Awards_Recognition_for_Extension_activity.pdf"
+        },
+        {
+            "id":5,
+            "name":"2019-2020",
+            "link":"/pdf/2019_2020_Awards_Recognition_for_Extension_activity.pdf"
+        }
+    ],
+    "one_5_3_3":[
+        {
+            "id":1,
+            "name":"History",
+            "link":"/pdf/competitions/2015-2016/1.History_2015_2016.pdf"
+        },
+        {
+            "id":2,
+            "name":"Economics",
+            "link":"/pdf/competitions/2015-2016/2.Economics_2015_2016.pdf"
+        },
+        {
+            "id":3,
+            "name":"Pushpamala",
+            "link":"/pdf/competitions/2015-2016/2.Pushpamala_2015_2016.pdf"
+        },
+        {
+            "id":4,
+            "name":"Tamil",
+            "link":"/pdf/competitions/2015-2016/3.Tamil_2015_2016.pdf"
+        },
+        {
+            "id":5,
+            "name":"English",
+            "link":"/pdf/competitions/2015-2016/4.English_2015_2016.pdf"
+        },
+        {
+            "id":6,
+            "name":"Commerce",
+            "link":"/pdf/competitions/2015-2016/5.Commerce_2015_2016.pdf"
+        },
+        {
+            "id":7,
+            "name":"Mathematics",
+            "link":"/pdf/competitions/2015-2016/6.Mathematics_2015_2016.pdf"
+        },
+        {
+            "id":8,
+            "name":"Physics",
+            "link":"/pdf/competitions/2015-2016/7.Physics_2015_2016.pdf"
+        },
+        {
+            "id":9,
+            "name":"Chemistry",
+            "link":"/pdf/competitions/2015-2016/8.Chemistry_2015_2016.pdf"
+        },
+        {
+            "id":10,
+            "name":"Botany",
+            "link":"/pdf/competitions/2015-2016/9.Botany_2015_2016.pdf"
+        },
+        {
+            "id":11,
+            "name":"Microbiology",
+            "link":"/pdf/competitions/2015-2016/10.Microbiology_2015_2016.pdf"
+        },
+        {
+            "id":12,
+            "name":"Zoology",
+            "link":"/pdf/competitions/2015-2016/11.Zoology_2015_2016.pdf"
+        },
+        {
+            "id":13,
+            "name":"CS",
+            "link":"/pdf/competitions/2015-2016/12.CS_2015_2016.pdf"
+        },
+        {
+            "id":14,
+            "name":"Physical Education",
+            "link":"/pdf/competitions/2015-2016/13.Physical_Education_2015_2016.pdf"
+        },
+        {
+            "id":15,
+            "name":"MLIS",
+            "link":"/pdf/competitions/2015-2016/14.MLIS_2015_2016.pdf"
+        },
+        {
+            "id":16,
+            "name":"MBA",
+            "link":"/pdf/competitions/2015-2016/15.MBA_2015_2016.pdf"
+        }
+    ],
+    "two_5_3_3":[
+        {
+            "id":1,
+            "name":"History",
+            "link":"/pdf/competitions/2016-2017/1.History_2016_2017.pdf"
+        },
+        {
+            "id":2,
+            "name":"Economics",
+            "link":"/pdf/competitions/2016-2017/2.Economics_2016_2017.pdf"
+        },
+        {
+            "id":3,
+            "name":"Pushpamala",
+            "link":"/pdf/competitions/2016-2017/3.1.Pushpamala_2016_2017.pdf"
+        },
+        {
+            "id":4,
+            "name":"Tamil",
+            "link":"/pdf/competitions/2016-2017/3.Tamil_2016_2017.pdf"
+        },
+        {
+            "id":5,
+            "name":"English",
+            "link":"/pdf/competitions/2016-2017/4.English_2016_2017.pdf"
+        },
+        {
+            "id":6,
+            "name":"Commerce",
+            "link":"/pdf/competitions/2016-2017/5.Commerce_2016_2017.pdf"
+        },
+        {
+            "id":7,
+            "name":"Mathematics",
+            "link":"/pdf/competitions/2016-2017/6.Mathematics_2016_2017.pdf"
+        },
+        {
+            "id":8,
+            "name":"Physics",
+            "link":"/pdf/competitions/2016-2017/7.Physics_2016_2017.pdf"
+        },
+        {
+            "id":9,
+            "name":"Chemistry",
+            "link":"/pdf/competitions/2016-2017/8.Chemistry_2016_2017.pdf"
+        },
+        {
+            "id":10,
+            "name":"Botany",
+            "link":"/pdf/competitions/2016-2017/9.Botany_2016_2017.pdf"
+        },
+        {
+            "id":11,
+            "name":"Microbiology",
+            "link":"/pdf/competitions/2016-2017/10.Microbiology_2016_2017.pdf"
+        },
+        {
+            "id":12,
+            "name":"Zoology",
+            "link":"/pdf/competitions/2016-2017/11.Zoology_2016_2017.pdf"
+        },
+        {
+            "id":13,
+            "name":"CS",
+            "link":"/pdf/competitions/2016-2017/12.CS_2016_2017.pdf"
+        },
+        {
+            "id":14,
+            "name":"Physical Education",
+            "link":"/pdf/competitions/2016-2017/13.Physical_Education_2016_2017.pdf"
+        },
+        {
+            "id":15,
+            "name":"MLIS",
+            "link":"/pdf/competitions/2016-2017/14.MLIS_2016_2017.pdf"
+        },
+        {
+            "id":16,
+            "name":"MBA",
+            "link":"/pdf/competitions/2016-2017/15.MBA_2016_2017.pdf"
+        }
+    ],
+    "three_5_3_3":[
+        {
+            "id":1,
+            "name":"History",
+            "link":"/pdf/competitions/2017-2018/1.History_2017_2018.pdf"
+        },
+        {
+            "id":3,
+            "name":"Pushpamala",
+            "link":"/pdf/competitions/2017-2018/2.1.Pushpamala_2017_2018.pdf"
+        },
+        {
+            "id":4,
+            "name":"Tamil",
+            "link":"/pdf/competitions/2017-2018/2.Tamil_2017_2018.pdf"
+        },
+        {
+            "id":5,
+            "name":"English",
+            "link":"/pdf/competitions/2017-2018/3.English_2017_2018.pdf"
+        },
+        {
+            "id":6,
+            "name":"Commerce",
+            "link":"/pdf/competitions/2017-2018/4.Commerce_2017_2018.pdf"
+        },
+        {
+            "id":7,
+            "name":"Mathematics",
+            "link":"/pdf/competitions/2017-2018/5.Maths_2017_ 2018.pdf"
+        },
+        {
+            "id":8,
+            "name":"Physics",
+            "link":"/pdf/competitions/2017-2018/6.Physics_2017_2018.pdf"
+        },
+        {
+            "id":9,
+            "name":"Chemistry",
+            "link":"/pdf/competitions/2017-2018/7.Chemistry_2017_2018.pdf"
+        },
+        {
+            "id":10,
+            "name":"Botany",
+            "link":"/pdf/competitions/2017-2018/8.Botany_2017_2018.pdf"
+        },
+        {
+            "id":11,
+            "name":"Microbiology",
+            "link":"/pdf/competitions/2017-2018/10.Microbiology_2017_2018.pdf"
+        },
+        {
+            "id":12,
+            "name":"Zoology",
+            "link":"/pdf/competitions/2017-2018/9.Zoology_2017_ 2018.pdf"
+        },
+        {
+            "id":13,
+            "name":"CS",
+            "link":"/pdf/competitions/2017-2018/11.CS_2017_2018.pdf"
+        },
+        {
+            "id":14,
+            "name":"Physical Education",
+            "link":"/pdf/competitions/2017-2018/12.Physical_Education_2017_2018.pdf"
+        },
+        {
+            "id":15,
+            "name":"MLIS",
+            "link":"/pdf/competitions/2017-2018/13.MLIS_2017_2018.pdf"
+        },
+        {
+            "id":16,
+            "name":"MBA",
+            "link":"/pdf/competitions/2017-2018/14.MBA_2017_2018.pdf"
+        }
+    ],
+    "four_5_3_3":[
+        {
+            "id":1,
+            "name":"History",
+            "link":"/pdf/competitions/2018-2019/1.History_2018_2019.pdf"
+        },
+        {
+            "id":2,
+            "name":"Economics",
+            "link":"/pdf/competitions/2018-2019/2.Economics_2018_2019.pdf"
+        },
+        {
+            "id":3,
+            "name":"Pushpamala",
+            "link":"/pdf/competitions/2018-2019/3.1.Pushpamala_2018_2019.pdf"
+        },
+        {
+            "id":4,
+            "name":"Tamil",
+            "link":"/pdf/competitions/2018-2019/3.Tamil_2018_ 2019.pdf"
+        },
+        {
+            "id":5,
+            "name":"English",
+            "link":"/pdf/competitions/2018-2019/4.English_2018_2019.pdf"
+        },
+        {
+            "id":6,
+            "name":"Commerce",
+            "link":"/pdf/competitions/2018-2019/5.Commerce_2018_2019.pdf"
+        },
+        {
+            "id":7,
+            "name":"Mathematics",
+            "link":"/pdf/competitions/2018-2019/6.Maths_2018_2019.pdf"
+        },
+        {
+            "id":8,
+            "name":"Physics",
+            "link":"/pdf/competitions/2018-2019/7.Physics_2018_2019.pdf"
+        },
+        {
+            "id":9,
+            "name":"Chemistry",
+            "link":"/pdf/competitions/2018-2019/8.Chemistry_2018_2019.pdf"
+        },
+        {
+            "id":10,
+            "name":"Botany",
+            "link":"/pdf/competitions/2018-2019/9.Botany_2018_2019.pdf"
+        },
+        {
+            "id":11,
+            "name":"Microbiology",
+            "link":"/pdf/competitions/2018-2019/10.Microbiology_2018_2019.pdf"
+        },
+        {
+            "id":12,
+            "name":"Zoology",
+            "link":"/pdf/competitions/2018-2019/11.Zoology_2018_2019.pdf"
+        },
+        {
+            "id":13,
+            "name":"CS",
+            "link":"/pdf/competitions/2018-2019/12.CS_2018_2019.pdf"
+        },
+        {
+            "id":14,
+            "name":"Physical Education",
+            "link":"/pdf/competitions/2018-2019/13.Physical_Education_2018_2019.pdf"
+        },
+        {
+            "id":15,
+            "name":"MLIS",
+            "link":"/pdf/competitions/2018-2019/14.MLIS_2018_2019.pdf"
+        },
+        {
+            "id":16,
+            "name":"MBA",
+            "link":"/pdf/competitions/2018-2019/15.MBA_2018_2019.pdf"
+        }
+    ],
+    "five_5_3_3":[
+        {
+            "id":1,
+            "name":"History",
+            "link":"/pdf/competitions/2019-2020/1.History_2019_2020.pdf"
+        },
+        {
+            "id":3,
+            "name":"Pushpamala",
+            "link":"/pdf/competitions/2019-2020/2.1.Pushpamala_2019_2020.pdf"
+        },
+        {
+            "id":4,
+            "name":"Tamil",
+            "link":"/pdf/competitions/2019-2020/2.Tamil_2019_2020.pdf"
+        },
+        {
+            "id":5,
+            "name":"English",
+            "link":"/pdf/competitions/2019-2020/3.English_2019_2020.pdf"
+        },
+        {
+            "id":6,
+            "name":"Commerce",
+            "link":"/pdf/competitions/2019-2020/4.Commerce_2019_2020.pdf"
+        },
+        {
+            "id":7,
+            "name":"Mathematics",
+            "link":"/pdf/competitions/2019-2020/5.Maths_2019_2020.pdf"
+        },
+        {
+            "id":8,
+            "name":"Physics",
+            "link":"/pdf/competitions/2019-2020/6.Physics_2019_2020.pdf"
+        },
+        {
+            "id":9,
+            "name":"Chemistry",
+            "link":"/pdf/competitions/2019-2020/7.Chemistry_2019_2020.pdf"
+        },
+        {
+            "id":10,
+            "name":"Botany",
+            "link":"/pdf/competitions/2019-2020/8.Botany_2019_2020.pdf"
+        },
+        {
+            "id":11,
+            "name":"Microbiology",
+            "link":"/pdf/competitions/2019-2020/9.Microbiology_2019_2020.pdf"
+        },
+        {
+            "id":12,
+            "name":"Zoology",
+            "link":"/pdf/competitions/2019-2020/10.Zoology_2019_2020.pdf"
+        },
+        {
+            "id":13,
+            "name":"CS",
+            "link":"/pdf/competitions/2019-2020/11.CS_2019_2020.pdf"
+        },
+        {
+            "id":14,
+            "name":"Physical Education",
+            "link":"/pdf/competitions/2019-2020/12.Physical Education_2019_2020.pdf"
+        },
+        {
+            "id":15,
+            "name":"MLIS",
+            "link":"/pdf/competitions/2019-2020/14.MLIS_2019_2020.pdf"
+        },
+        {
+            "id":16,
+            "name":"MBA",
+            "link":"/pdf/competitions/2019-2020/15.MBA_2019_2020.pdf"
+        }
+    ],
+    "t_2_3_3":[
+        {
+            "id":1,
+            "name":"History",
+            "link":"/pdf/register/1.History_Mentor_Register.pdf"
+        },
+        {
+            "id":2,
+            "name":"Economics",
+            "link":"/pdf/register/2.Economics_Mentor_Register.pdf"
+        },
+        {
+            "id":3,
+            "name":"Tamil",
+            "link":"/pdf/register/3.Tamil_Mentor_Register.pdf"
+        },
+        {
+            "id":4,
+            "name":"English",
+            "link":"/pdf/register/4.English_Mentor_Register.pdf"
+        },
+        {
+            "id":5,
+            "name":"Commerce",
+            "link":"/pdf/register/5.Commerce_Mentor_Register.pdf"
+        },
+        {
+            "id":6,
+            "name":"Mathematics",
+            "link":"/pdf/register/6. Mathematics_Mentor_Register.pdf"
+        },
+        {
+            "id":7,
+            "name":"Physics",
+            "link":"/pdf/register/7.Physics_Mentor_Register.pdf"
+        },
+        {
+            "id":8,
+            "name":"Chemistry",
+            "link":"/pdf/register/8.Chemistry_Mentor_Register.pdf"
+        },
+        {
+            "id":9,
+            "name":"Botany",
+            "link":"/pdf/register/9. Botany_Mentor_Register.pdf"
+        },
+        {
+            "id":10,
+            "name":"Microbiology",
+            "link":"/pdf/register/10.Microbiology_Mentor_Register.pdf"
+        },
+        {
+            "id":11,
+            "name":"Zoology",
+            "link":"/pdf/register/11.Zoology_Mentor_Register.pdf"
+        },
+        {
+            "id":12,
+            "name":"Computer Science",
+            "link":"/pdf/register/12.Computer_science_Mentor_Register.pdf"
+        },
+        {
+            "id":13,
+            "name":"Physical Education, Health Education and Sports",
+            "link":"/pdf/register/13.Physical_Education_Mentor_Register.pdf"
+        },
+        {
+            "id":14,
+            "name":"Library and Information Science",
+            "link":"/pdf/register/14.Library_Inf_Science_Mentor_Register.pdf"
+        },
+        {
+            "id":15,
+            "name":"Management Studies",
+            "link":"/pdf/register/15.Management_Studies_Mentor_Register.pdf"
+        },
+        {
+            "id":16,
+            "name":"Statistics",
+            "link":"/pdf/register/16.Statistics_Mentor_Register.pdf"
+        },
+        {
+            "id":17,
+            "name":"Geography",
+            "link":"/pdf/register/17.Geography_Mentor_Register.pdf"
+        }
+    ],
+    "one_3_1_2":[
+        {
+            "id":1,
+            "name":"Mr.V.Pandian",
+            "link":"/pdf/seed_money/39.pdf"
+        },
+        {
+            "id":2,
+            "name":"Mrs.C. Karpagasundari",
+            "link":"/pdf/seed_money/40.pdf"
+        },
+        {
+            "id":3,
+            "name":"Mrs.K.Uma",
+            "link":"/pdf/seed_money/41.pdf"
+        },
+        {
+            "id":4,
+            "name":"Mr.K.Saminathan",
+            "link":"/pdf/seed_money/42.pdf"
+        },
+        {
+            "id":5,
+            "name":"Mr.M.Ramasamy",
+            "link":"/pdf/seed_money/43.pdf"
+        },
+        {
+            "id":6,
+            "name":"Mrs.B.Gohila",
+            "link":"/pdf/seed_money/44.pdf"
+        },
+        {
+            "id":7,
+            "name":"Mrs.V.Vasumathi",
+            "link":"/pdf/seed_money/45.pdf"
+        }
+    ],
+    "two_3_1_2":[
+        {
+            "id":1,
+            "name":"Mrs.P.Syamala",
+            "link":"/pdf/seed_money/30.pdf"
+        },
+        {
+            "id":2,
+            "name":"Mrs.T.Regalakshmi",
+            "link":"/pdf/seed_money/31.pdf"
+        },
+        {
+            "id":3,
+            "name":"Mrs.R.Sridevi",
+            "link":"/pdf/seed_money/32.pdf"
+        },
+        {
+            "id":4,
+            "name":"Mrs.P.Anitha",
+            "link":"/pdf/seed_money/33.pdf"
+        },
+        {
+            "id":5,
+            "name":"Mr.R.Ranirevathi",
+            "link":"/pdf/seed_money/34.pdf"
+        },
+        {
+            "id":6,
+            "name":"Mr.G.Devendran ",
+            "link":"/pdf/seed_money/35.pdf"
+        },
+        {
+            "id":7,
+            "name":"Mr.P.Ananathakumar",
+            "link":"/pdf/seed_money/36.pdf"
+        },
+        {
+            "id":8,
+            "name":"Mrs.B.Amutha",
+            "link":"/pdf/seed_money/37.pdf"
+        },
+        {
+            "id":9,
+            "name":"Mrs.V.Roopa",
+            "link":"/pdf/seed_money/38.pdf"
+        }
+    ],
+    "three_3_1_2":[
+        {
+            "id":1,
+            "name":"Mr.S.Prakasam",
+            "link":"/pdf/seed_money/23.pdf"
+        },
+        {
+            "id":2,
+            "name":"Mrs.P.Vanathi",
+            "link":"/pdf/seed_money/24.pdf"
+        },
+        {
+            "id":3,
+            "name":"Dr.S.Babu",
+            "link":"/pdf/seed_money/25.pdf"
+        },
+        {
+            "id":4,
+            "name":"Mrs.R.Sripriya",
+            "link":"/pdf/seed_money/26.pdf"
+        },
+        {
+            "id":5,
+            "name":"Mrs.G.Akilandeswari",
+            "link":"/pdf/seed_money/27.pdf"
+        },
+        {
+            "id":6,
+            "name":"Mr.V.Ramanathan",
+            "link":"/pdf/seed_money/28.pdf"
+        },
+        {
+            "id":7,
+            "name":"Mrs.S.Dharakeswari",
+            "link":"/pdf/seed_money/29.pdf"
+        }
+    ],
+    "four_3_1_2":[
+        {
+            "id":1,
+            "name":"Mr.N.Sanchaikumar",
+            "link":"/pdf/seed_money/12.pdf"
+        },
+        {
+            "id":2,
+            "name":"Mrs.S.Geethalakshmi",
+            "link":"/pdf/seed_money/13.pdf"
+        },
+        {
+            "id":3,
+            "name":"Mrs.C.Kanimozhi",
+            "link":"/pdf/seed_money/14.pdf"
+        },
+        {
+            "id":4,
+            "name":"Mrs.R.Priyadharshini",
+            "link":"/pdf/seed_money/15.pdf"
+        },
+        {
+            "id":5,
+            "name":"Ms.T.Kavitha",
+            "link":"/pdf/seed_money/16.pdf"
+        },
+        {
+            "id":6,
+            "name":"Mr.K.Sriram ",
+            "link":"/pdf/seed_money/17.pdf"
+        },
+        {
+            "id":7,
+            "name":"Mrs.P.Dhanalakshmi",
+            "link":"/pdf/seed_money/18.pdf"
+        },
+        {
+            "id":8,
+            "name":"Mr.N.Alagusundram",
+            "link":"/pdf/seed_money/19.pdf"
+        },
+        {
+            "id":9,
+            "name":"Dr.E.Ravichandran",
+            "link":"/pdf/seed_money/20.pdf"
+        },
+        {
+            "id":10,
+            "name":"Dr.N.Balaguru",
+            "link":"/pdf/seed_money/21.pdf"
+        },
+        {
+            "id":11,
+            "name":"Mrs.R.Mathavi",
+            "link":"/pdf/seed_money/22.pdf"
+        }
+    ],
+    "five_3_1_2":[
+        {
+            "id":1,
+            "name":"Ms.S.Rajalakshmi",
+            "link":"/pdf/seed_money/1.pdf"
+        },
+        {
+            "id":2,
+            "name":"Mr.C.Veeraprakashkumar",
+            "link":"/pdf/seed_money/2.pdf"
+        },
+        {
+            "id":3,
+            "name":"Mr.M.Yogeswaran",
+            "link":"/pdf/seed_money/3.pdf"
+        },
+        {
+            "id":4,
+            "name":"Dr.R.Subashini",
+            "link":"/pdf/seed_money/4.pdf"
+        },
+        {
+            "id":5,
+            "name":"Mrs.P.Vijaya",
+            "link":"/pdf/seed_money/5.pdf"
+        },
+        {
+            "id":6,
+            "name":"Dr.Merlin stephen",
+            "link":"/pdf/seed_money/6.pdf"
+        },
+        {
+            "id":7,
+            "name":"Dr.S.Sangeetha",
+            "link":"/pdf/seed_money/7.pdf"
+        },
+        {
+            "id":8,
+            "name":"Mrs.G.Shakila",
+            "link":"/pdf/seed_money/8.pdf"
+        },
+        {
+            "id":9,
+            "name":"Dr.R.Mullaivananathan",
+            "link":"/pdf/seed_money/9.pdf"
+        },
+        {
+            "id":10,
+            "name":"Dr.S.Thennarasu",
+            "link":"/pdf/seed_money/10.pdf"
+        },
+        {
+            "id":11,
+            "name":"Dr.S.Indra",
+            "link":"/pdf/seed_money/11.pdf"
+        }
+    ],
+    "t_4_2_2":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/pdf/Membership_e_Journals_2015_2016.pdf"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/pdf/Membership_e_Journals_2016_2017.pdf"
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/pdf/Membership_e_Journals_2017_2018.pdf"
+        },
+        {
+            "id":4,
+            "name":"2018-2019",
+            "link":"/pdf/Membership_e_Journals_2018_2019.pdf"
+        },
+        {
+            "id":5,
+            "name":"2019-2020",
+            "link":"/pdf/Membership_e_Journals_2019_2020.pdf"
+        }
+    ],
+    "one_3_3_2":[
+        {
+            "id":1,
+            "name":"Entrepreneurship Awareness Camp",
+            "link":"/pdf/workshops/30.pdf"
+        },
+        {
+            "id":2,
+            "name":"Financial Assistance of TIIC for New Entrepreneurs",
+            "link":"/pdf/workshops/31.pdf"
+        },
+        {
+            "id":3,
+            "name":"Self Awareness",
+            "link":"/pdf/workshops/32.pdf"
+        },
+        {
+            "id":4,
+            "name":"Financial Education by Entrepreneurship development cell",
+            "link":"/pdf/workshops/33.pdf"
+        },
+        {
+            "id":5,
+            "name":"National conference on intellectual property rights in biodiversity and biotechnology",
+            "link":"/pdf/workshops/34.pdf"
+        },
+        {
+            "id":6,
+            "name":"Equip Your Skill; Break the Barrier",
+            "link":"/pdf/workshops/35.pdf"
+        },
+        {
+            "id":7,
+            "name":"Goal Setting for entrepreneurs",
+            "link":"/pdf/workshops/36.pdf"
+        }
+    ],
+    "two_3_3_2":[
+        {
+            "id":1,
+            "name":"National semiar on multilingual computing and communication skill ",
+            "link":"/pdf/workshops/26.pdf"
+        },
+        {
+            "id":2,
+            "name":"Financial Literacy for entrepreneurs",
+            "link":"/pdf/workshops/27.pdf"
+        },
+        {
+            "id":3,
+            "name":"Entrepreneurship Awareness Camp",
+            "link":"/pdf/workshops/28.pdf"
+        },
+        {
+            "id":4,
+            "name":"Attitude and Emotional Intelligence",
+            "link":"/pdf/workshops/29.pdf"
+        }
+    ],
+    "three_3_3_2":[
+        {
+            "id":1,
+            "name":"Entrepreneurial Opportunities in Aquaculture",
+            "link":"/pdf/workshops/20.pdf"
+        },
+        {
+            "id":2,
+            "name":"College Bazaar",
+            "link":"/pdf/workshops/21.pdf"
+        },
+        {
+            "id":3,
+            "name":"Financial Market Reforms and Entrepreneurship Opportunities",
+            "link":"/pdf/workshops/22.pdf"
+        },
+        {
+            "id":4,
+            "name":"Entrepreneurship Awareness Camp",
+            "link":"/pdf/workshops/23.pdf"
+        },
+        {
+            "id":5,
+            "name":"skill development centre for conducting certificate courses - PMKVY",
+            "link":"/pdf/workshops/24.pdf"
+        },
+        {
+            "id":6,
+            "name":"Enjoy Entrepreneurship",
+            "link":"/pdf/workshops/25.pdf"
+        }
+    ],
+    "four_3_3_2":[
+        {
+            "id":1,
+            "name":"Gender Budgeting",
+            "link":"/pdf/workshops/8.pdf"
+        },
+        {
+            "id":2,
+            "name":"Cyber Crime Prevention against Women – Causes and Remedies",
+            "link":"/pdf/workshops/9.pdf"
+        },
+        {
+            "id":3,
+            "name":"Employability and Entrepreneurship",
+            "link":"/pdf/workshops/10.pdf"
+        },
+        {
+            "id":4,
+            "name":"Why Intellectual Property Rights Important",
+            "link":"/pdf/workshops/11.pdf"
+        },
+        {
+            "id":5,
+            "name":"Financial Literacy",
+            "link":"/pdf/workshops/12.pdf"
+        },
+        {
+            "id":6,
+            "name":"One Day Basic Training Programme on Human Rights",
+            "link":"/pdf/workshops/13.pdf"
+        },
+        {
+            "id":7,
+            "name":"Research Methodology, Scientific writing and Statistical data analysis ",
+            "link":"/pdf/workshops/14.pdf"
+        },
+        {
+            "id":8,
+            "name":"Earning While You Learn",
+            "link":"/pdf/workshops/15.pdf"
+        },
+        {
+            "id":9,
+            "name":"Entrepreneurship Awareness Camp",
+            "link":"/pdf/workshops/16.pdf"
+        },
+        {
+            "id":10,
+            "name":"Awareness Programme on “NPTEL”",
+            "link":"/pdf/workshops/17.pdf"
+        },
+        {
+            "id":11,
+            "name":"Winning Skills",
+            "link":"/pdf/workshops/18.pdf"
+        },
+        {
+            "id":12,
+            "name":"Leaders Workshop",
+            "link":"/pdf/workshops/19.pdf"
+        }
+    ],
+    "five_3_3_2":[
+        {
+            "id":1,
+            "name":"Gender Budgeting",
+            "link":"/pdf/workshops/1_Gender_Budgeting.pdf"
+        },
+        {
+            "id":2,
+            "name":"National conferene on wetland biodiversity and its conservation strategy  ",
+            "link":"/pdf/workshops/2_National_conferene_on_wetland_biodiversity_and_its_conservation_strategy.pdf"
+        },
+        {
+            "id":3,
+            "name":"Basic Training Programme on Human Rights",
+            "link":"/pdf/workshops/3_Basic_Training_Programme_on_Human_Rights.pdf"
+        },
+        {
+            "id":4,
+            "name":"Idea Generation",
+            "link":"/pdf/workshops/4_Idea_Generation.pdf"
+        },
+        {
+            "id":5,
+            "name":"Financial Education Programme",
+            "link":"/pdf/workshops/5_Financial_Education_Programme.pdf"
+        },
+        {
+            "id":6,
+            "name":"Mega Life",
+            "link":"/pdf/workshops/6_Mega_Life.pdf"
+        },
+        {
+            "id":7,
+            "name":"Lecture workshop on Research Methodology",
+            "link":"/pdf/workshops/7_Lecture_workshop_on_Research_Methodology.pdf"
+        }
+    ],
+    "t_4_2_3":[
+        {
+            "id":1,
+            "name":"Books(2015-2016)",
+            "link":"/pdf/expenditure/Books_2015_2016.pdf"
+        },
+        {
+            "id":2,
+            "name":"Journals(2015_2016)",
+            "link":"/pdf/expenditure/Journals_2015_2016.pdf"
+        },
+        {
+            "id":3,
+            "name":"Books(2016-2017)",
+            "link":"/pdf/expenditure/Book_2016_2017.pdf"
+        },
+        {
+            "id":4,
+            "name":"Books(2017-2018)",
+            "link":"/pdf/expenditure/Book_2017_2018.pdf"
+        },
+        {
+            "id":5,
+            "name":"Books(2018-2019)",
+            "link":"/pdf/expenditure/Book_2018-2019.pdf"
+        },
+        {
+            "id":6,
+            "name":"Journals(2018-2019)",
+            "link":"/pdf/expenditure/Journals_2018_2019.pdf"
+        },
+        {
+            "id":7,
+            "name":"Books(2019-2020)",
+            "link":"/pdf/expenditure/Book_2019_2020.pdf"
+        }
+    ],
+    "one_5_1_1":[
+        {
+            "id":1,
+            "name":"Number of students benefitted by scholarships and freeships provided by the Government during the year",
+            "link":"/pdf/scholarships/5.1.1.pdf"
+        }
+    ],
+    "two_5_1_1":[
+        {
+            "id":1,
+            "name":"State Free post matric scholarship & HESS, GOI, Minority, Ph.D., Handicapped, Tamil medium fund, etc., (BC/DNC/MBC& SC/ST)",
+            "link":"/pdf/scholarships/21.pdf"
+        },
+        {
+            "id":2,
+            "name":"DST/INSPIRE Fellowship",
+            "link":"/pdf/scholarships/22.pdf"
+        },
+        {
+            "id":3,
+            "name":"Post Graduate scholarship for university rank holders",
+            "link":"/pdf/scholarships/23.pdf"
+        },
+        {
+            "id":4,
+            "name":"Department of collegiate education Stipend to Full-Time Ph.D Scholars scheme ",
+            "link":"/pdf/scholarships/24.pdf"
+        },
+        {
+            "id":5,
+            "name":"Post Graduate Indira Gandhi Scholarship forSingle Girl Child Sanctioned by UGC, New Delhi.",
+            "link":"/pdf/scholarships/25.pdf"
+        },
+        {
+            "id":6,
+            "name":"Management Freeship",
+            "link":"/pdf/scholarships/26.pdf"
+        },
+        {
+            "id":7,
+            "name":"Students' free boarding and lodging in college hostel",
+            "link":"/pdf/scholarships/27.pdf"
+        },
+        {
+            "id":8,
+            "name":"Proficiency Price",
+            "link":"/pdf/scholarships/28.pdf"
+        }
+    ],
+    "three_5_1_1":[
+        {
+            "id":1,
+            "name":"State Free post matric scholarship & HESS, GOI, Minority, Ph.D., Handicapped, Tamil medium fund, etc., (BC/DNC/MBC& SC/ST)",
+            "link":"/pdf/scholarships/14.pdf"
+        },
+        {
+            "id":2,
+            "name":"UGC National fellowship for SC students ",
+            "link":"/pdf/scholarships/15.pdf"
+        },
+        {
+            "id":3,
+            "name":"Department of collegiate education Stipend to Full-Time Ph.D Scholars scheme ",
+            "link":"/pdf/scholarships/16.pdf"
+        },
+        {
+            "id":4,
+            "name":"Tamilnadu State Council for Science and Technology",
+            "link":"/pdf/scholarships/17.pdf"
+        },
+        {
+            "id":5,
+            "name":"Management Freeship",
+            "link":"/pdf/scholarships/18.pdf"
+        },
+        {
+            "id":6,
+            "name":"Students' free boarding and lodging in college hostel",
+            "link":"/pdf/scholarships/19.pdf"
+        },
+        {
+            "id":7,
+            "name":"Proficiency Prize",
+            "link":"/pdf/scholarships/20.pdf"
+        }
+    ],
+    "t_2_3_1":[
+        {
+            "id":1,
+            "name":"Experiential Learning",
+            "link":"/pdf/Experiential_learning.pdf"
+        },
+        {
+            "id":2,
+            "name":"Project 2015-2020",
+            "link":"/pdf/project-ma-2015-2020.pdf"
+        },
+        {
+            "id":3,
+            "name":"Mock Interview",
+            "link":"/pdf/mock_int_hy_2015_2020.pdf"
+        },
+        {
+            "id":4,
+            "name":"Students Projects",
+            "link":"/pdf/Students_Projects.pdf"
+        },
+        {
+            "id":5,
+            "name":"Tour and Industrial Visit",
+            "link":"/pdf/Tour_and_Industrial_Visit.pdf"
+        }
+    ],
+    "t_2_2_1":[
+        {
+            "id":1,
+            "name":"Guest Lecture",
+            "link":"/pdf/Guest_Lectures_for_Advanced_learners.pdf"
+        },
+        {
+            "id":2,
+            "name":"Students seminar",
+            "link":"/pdf/Student_seminars_for_Advanced_learners.pdf"
+        }
+    ],
+    "t2_2_2_1":[
+        {
+            "id":1,
+            "name":"Bridge Course",
+            "link":"/pdf/Bridge_courses.pdf"
+        },
+        {
+            "id":2,
+            "name":"Group Study",
+            "link":"/pdf/Group_study.pdf"
+        },
+        {
+            "id":3,
+            "name":"Orientation Programme",
+            "link":"/pdf/Orientation_programme.pdf"
+        },
+        {
+            "id":4,
+            "name":"Tutorial Class",
+            "link":"/pdf/Tutorial_classes.pdf"
+        }
+    ],
+    "t2_2_3_1":[
+        {
+            "id":1,
+            "name":"Group Discussions",
+            "link":"/pdf/Group_Discussions.pdf"
+        },
+        {
+            "id":2,
+            "name":"Students Participation in Academic Competitions",
+            "link":"/pdf/Students_Participation_in_Academic_Competitions.pdf"
+        }
+    ],
+    "four_5_1_1":[
+        {
+            "id":1,
+            "name":"State Free post matric scholarship & HESS, GOI, Minority, Ph.D., Handicapped, Tamil medium fund, etc., (BC/DNC/MBC& SC/ST)",
+            "link":"/pdf/scholarships/7.pdf"
+        },
+        {
+            "id":2,
+            "name":"Department of collegiate education Stipend to Full-Time Ph.D Scholars scheme ",
+            "link":"/pdf/scholarships/8.pdf"
+        },
+        {
+            "id":3,
+            "name":"Research Funding for Research Scholars (RFRS), Tamil nadu State counsil for Science and Technology ",
+            "link":"/pdf/scholarships/9.pdf"
+        },
+        {
+            "id":4,
+            "name":"Junior Research Fellowships in Funded Projects",
+            "link":"/pdf/scholarships/10.pdf"
+        },
+        {
+            "id":5,
+            "name":"Management Freeship",
+            "link":"/pdf/scholarships/11.pdf"
+        },
+        {
+            "id":6,
+            "name":"Students' free boarding and lodging in college hostel",
+            "link":"/pdf/scholarships/12.pdf"
+        },
+        {
+            "id":7,
+            "name":"Proficiency Prize",
+            "link":"/pdf/scholarships/13.pdf"
+        }
+    ],
+    "five_5_1_1":[
+        {
+            "id":1,
+            "name":"State Free post matric scholarship & HESS, GOI, Minority, Ph.D., Handicapped, Tamil medium fund, etc., (BC/DNC/MBC& SC/ST)",
+            "link":"/pdf/scholarships/1.pdf"
+        },
+        {
+            "id":2,
+            "name":"Department of collegiate education Stipend to Full-Time Ph.D Scholars scheme ",
+            "link":"/pdf/scholarships/2.pdf"
+        },
+        {
+            "id":3,
+            "name":"Tamil nadu State counsil for Science and Technology  Scholaship",
+            "link":"/pdf/scholarships/3.pdf"
+        },
+        {
+            "id":4,
+            "name":"Management Freeship",
+            "link":"/pdf/scholarships/4.pdf"
+        },
+        {
+            "id":5,
+            "name":"Students' free boarding and lodging in college hostel",
+            "link":"/pdf/scholarships/5.pdf"
+        },
+        {
+            "id":6,
+            "name":"Proficiency Prize",
+            "link":"/pdf/scholarships/6.pdf"
+        }
+    ],
+    "one_1_1_3":[
+        {
+            "id":1,
+            "name":"Common Courses",
+            "link":"/pdf/employability/2015_2016/1_Common_Courses.pdf"
+        },
+        {
+            "id":2,
+            "name":"History",
+            "link":"/pdf/employability/2015_2016/2_History.pdf"
+        },
+        {
+            "id":3,
+            "name":"Economics",
+            "link":"/pdf/employability/2015_2016/3_Economics.pdf"
+        },
+        {
+            "id":4,
+            "name":"Tamil",
+            "link":"/pdf/employability/2015_2016/4_Tamil.pdf"
+        },
+        {
+            "id":5,
+            "name":"English",
+            "link":"/pdf/employability/2015_2016/5_English.pdf"
+        },
+        {
+            "id":6,
+            "name":"Commerce",
+            "link":"/pdf/employability/2015_2016/6_Commerce.pdf"
+        },
+        {
+            "id":7,
+            "name":"Mathematics",
+            "link":"/pdf/employability/2015_2016/7_Mathematics.pdf"
+        },
+        {
+            "id":8,
+            "name":"Physics",
+            "link":"/pdf/employability/2015_2016/8_Physics.pdf"
+        },
+        {
+            "id":9,
+            "name":"Chemistry",
+            "link":"/pdf/employability/2015_2016/9_Chemistry.pdf"
+        },
+        {
+            "id":10,
+            "name":"Botany Microbiology",
+            "link":"/pdf/employability/2015_2016/10_Botany_Microbiology.pdf"
+        },
+        {
+            "id":11,
+            "name":"Zoology Biotechnology",
+            "link":"/pdf/employability/2015_2016/11_Zoology_Biotechnology.pdf"
+        },
+        {
+            "id":12,
+            "name":"Computer Science",
+            "link":"/pdf/employability/2015_2016/12_Computer_Science.pdf"
+        },
+        {
+            "id":13,
+            "name":"Physical Education",
+            "link":"/pdf/employability/2015_2016/13_Physical_Education.pdf"
+        },
+        {
+            "id":14,
+            "name":"MLIS",
+            "link":"/pdf/employability/2015_2016/14_MLIS.pdf"
+        },
+        {
+            "id":15,
+            "name":"Business Administration",
+            "link":"/pdf/employability/2015_2016/15_Business_Administration.pdf"
+        },
+        {
+            "id":16,
+            "name":"Statistics",
+            "link":"/pdf/employability/2015_2016/16_Statistics.pdf"
+        },
+        {
+            "id":17,
+            "name":"Geography",
+            "link":"/pdf/employability/2015_2016/17_Geography.pdf"
+        }
+    ],
+    "two_1_1_3":[
+        {
+            "id":1,
+            "name":"Common Programmes",
+            "link":"/pdf/employability/2016_2017/1_Common_Progammes.pdf"
+        },
+        {
+            "id":2,
+            "name":"History",
+            "link":"/pdf/employability/2016_2017/2_History.pdf"
+        },
+        {
+            "id":3,
+            "name":"Economics",
+            "link":"/pdf/employability/2016_2017/3_Economics.pdf"
+        },
+        {
+            "id":4,
+            "name":"Tamil",
+            "link":"/pdf/employability/2016_2017/4_Tamil.pdf"
+        },
+        {
+            "id":5,
+            "name":"English",
+            "link":"/pdf/employability/2016_2017/5_English.pdf"
+        },
+        {
+            "id":6,
+            "name":"Commerce",
+            "link":"/pdf/employability/2016_2017/6_Commerce.pdf"
+        },
+        {
+            "id":7,
+            "name":"Mathematics",
+            "link":"/pdf/employability/2016_2017/7_Mathematics.pdf"
+        },
+        {
+            "id":8,
+            "name":"Physics",
+            "link":"/pdf/employability/2016_2017/8_Physics.pdf"
+        },
+        {
+            "id":9,
+            "name":"Chemistry",
+            "link":"/pdf/employability/2016_2017/9_Chemistry.pdf"
+        },
+        {
+            "id":10,
+            "name":"Botany Microbiology",
+            "link":"/pdf/employability/2016_2017/10_Botany_Microbiology.pdf"
+        },
+        {
+            "id":11,
+            "name":"Zoology Biotechnology",
+            "link":"/pdf/employability/2016_2017/11_Zoology_Biotechnology.pdf"
+        },
+        {
+            "id":12,
+            "name":"Computer Science",
+            "link":"/pdf/employability/2016_2017/12_Computer_Science.pdf"
+        },
+        {
+            "id":13,
+            "name":"Physical Education",
+            "link":"/pdf/employability/2016_2017/13_Physical_Education.pdf"
+        },
+        {
+            "id":14,
+            "name":"MLIS",
+            "link":"/pdf/employability/2016_2017/14_MLIS.pdf"
+        },
+        {
+            "id":15,
+            "name":"Business Administration",
+            "link":"/pdf/employability/2016_2017/15_Business_Administration.pdf"
+        },
+        {
+            "id":16,
+            "name":"Statistics",
+            "link":"/pdf/employability/2016_2017/16_Statistics.pdf"
+        },
+        {
+            "id":17,
+            "name":"Geography",
+            "link":"/pdf/employability/2016_2017/17_Geography.pdf"
+        }
+    ],
+    "three_1_1_3":[
+        {
+            "id":1,
+            "name":"Common Programmes",
+            "link":"/pdf/employability/2017_2018/1_Common_Progammes.pdf"
+        },
+        {
+            "id":2,
+            "name":"History",
+            "link":"/pdf/employability/2017_2018/2_History.pdf"
+        },
+        {
+            "id":3,
+            "name":"Economics",
+            "link":"/pdf/employability/2017_2018/3_Economics.pdf"
+        },
+        {
+            "id":4,
+            "name":"Tamil",
+            "link":"/pdf/employability/2017_2018/4_Tamil.pdf"
+        },
+        {
+            "id":5,
+            "name":"English",
+            "link":"/pdf/employability/2017_2018/5_English.pdf"
+        },
+        {
+            "id":6,
+            "name":"Commerce",
+            "link":"/pdf/employability/2017_2018/6_Commerce.pdf"
+        },
+        {
+            "id":7,
+            "name":"Mathematics",
+            "link":"/pdf/employability/2017_2018/7_Mathematics.pdf"
+        },
+        {
+            "id":8,
+            "name":"Physics",
+            "link":"/pdf/employability/2017_2018/8_Physics.pdf"
+        },
+        {
+            "id":9,
+            "name":"Chemistry",
+            "link":"/pdf/employability/2017_2018/9_Chemistry.pdf"
+        },
+        {
+            "id":10,
+            "name":"Botany Microbiology",
+            "link":"/pdf/employability/2017_2018/10_Botany_Microbiology.pdf"
+        },
+        {
+            "id":11,
+            "name":"Zoology Biotechnology",
+            "link":"/pdf/employability/2017_2018/11_Zoology_Biotechnology.pdf"
+        },
+        {
+            "id":12,
+            "name":"Computer Science",
+            "link":"/pdf/employability/2017_2018/12_Computer_Science.pdf"
+        },
+        {
+            "id":13,
+            "name":"Physical Education",
+            "link":"/pdf/employability/2017_2018/13_Physical_Education.pdf"
+        },
+        {
+            "id":14,
+            "name":"MLIS",
+            "link":"/pdf/employability/2017_2018/14_MLIS.pdf"
+        },
+        {
+            "id":15,
+            "name":"Business Administration",
+            "link":"/pdf/employability/2017_2018/15_Business_Administration.pdf"
+        },
+        {
+            "id":16,
+            "name":"Statistics",
+            "link":"/pdf/employability/2017_2018/16_Statistics.pdf"
+        },
+        {
+            "id":17,
+            "name":"Geography",
+            "link":"/pdf/employability/2017_2018/17_Geography.pdf"
+        }
+    ],
+    "four_1_1_3":[
+        {
+            "id":1,
+            "name":"Common Programmes",
+            "link":"/pdf/employability/2018_2019/1_Common_Progammes.pdf"
+        },
+        {
+            "id":2,
+            "name":"History",
+            "link":"/pdf/employability/2018_2019/2_History.pdf"
+        },
+        {
+            "id":3,
+            "name":"Economics",
+            "link":"/pdf/employability/2018_2019/3_Economics.pdf"
+        },
+        {
+            "id":4,
+            "name":"Tamil",
+            "link":"/pdf/employability/2018_2019/4_Tamil.pdf"
+        },
+        {
+            "id":5,
+            "name":"English",
+            "link":"/pdf/employability/2018_2019/5_English.pdf"
+        },
+        {
+            "id":6,
+            "name":"Commerce",
+            "link":"/pdf/employability/2018_2019/6_Commerce.pdf"
+        },
+        {
+            "id":7,
+            "name":"Mathematics",
+            "link":"/pdf/employability/2018_2019/7_Mathematics.pdf"
+        },
+        {
+            "id":8,
+            "name":"Physics",
+            "link":"/pdf/employability/2018_2019/8_Physics.pdf"
+        },
+        {
+            "id":9,
+            "name":"Chemistry",
+            "link":"/pdf/employability/2018_2019/9_Chemistry.pdf"
+        },
+        {
+            "id":10,
+            "name":"Botany Microbiology",
+            "link":"/pdf/employability/2018_2019/10_Botany_Microbiology.pdf"
+        },
+        {
+            "id":11,
+            "name":"Zoology Biotechnology",
+            "link":"/pdf/employability/2018_2019/11_Zoology_Biotechnology.pdf"
+        },
+        {
+            "id":12,
+            "name":"Computer Science",
+            "link":"/pdf/employability/2018_2019/12_Computer_Science.pdf"
+        },
+        {
+            "id":13,
+            "name":"Physical Education",
+            "link":"/pdf/employability/2018_2019/13_Physical_Education.pdf"
+        },
+        {
+            "id":14,
+            "name":"MLIS",
+            "link":"/pdf/employability/2018_2019/14_MLIS.pdf"
+        },
+        {
+            "id":15,
+            "name":"Business Administration",
+            "link":"/pdf/employability/2018_2019/15_Business_Administration.pdf"
+        },
+        {
+            "id":16,
+            "name":"Statistics",
+            "link":"/pdf/employability/2018_2019/16_Statistics.pdf"
+        },
+        {
+            "id":17,
+            "name":"Geography",
+            "link":"/pdf/employability/2018_2019/17_Geography.pdf"
+        }
+    ],
+    "five_1_1_3":[
+        {
+            "id":1,
+            "name":"Common Programmes",
+            "link":"/pdf/employability/2019_2020/1_Common_Progammes.pdf"
+        },
+        {
+            "id":2,
+            "name":"History",
+            "link":"/pdf/employability/2019_2020/2_History.pdf"
+        },
+        {
+            "id":3,
+            "name":"Economics",
+            "link":"/pdf/employability/2019_2020/3_Economics.pdf"
+        },
+        {
+            "id":4,
+            "name":"Tamil",
+            "link":"/pdf/employability/2019_2020/4_Tamil.pdf"
+        },
+        {
+            "id":5,
+            "name":"English",
+            "link":"/pdf/employability/2019_2020/5_English.pdf"
+        },
+        {
+            "id":6,
+            "name":"Commerce",
+            "link":"/pdf/employability/2019_2020/6_Commerce.pdf"
+        },
+        {
+            "id":7,
+            "name":"Mathematics",
+            "link":"/pdf/employability/2019_2020/7_Mathematics.pdf"
+        },
+        {
+            "id":8,
+            "name":"Physics",
+            "link":"/pdf/employability/2019_2020/8_Physics.pdf"
+        },
+        {
+            "id":9,
+            "name":"Chemistry",
+            "link":"/pdf/employability/2019_2020/9_Chemistry.pdf"
+        },
+        {
+            "id":10,
+            "name":"Botany Microbiology",
+            "link":"/pdf/employability/2019_2020/10_Botany_Microbiology.pdf"
+        },
+        {
+            "id":11,
+            "name":"Zoology Biotechnology",
+            "link":"/pdf/employability/2019_2020/11_Zoology_Biotechnology.pdf"
+        },
+        {
+            "id":12,
+            "name":"Computer Science",
+            "link":"/pdf/employability/2019_2020/12_Computer_Science.pdf"
+        },
+        {
+            "id":13,
+            "name":"Physical Education",
+            "link":"/pdf/employability/2019_2020/13_Physical_Education.pdf"
+        },
+        {
+            "id":14,
+            "name":"MLIS",
+            "link":"/pdf/employability/2019_2020/14_MLIS.pdf"
+        },
+        {
+            "id":15,
+            "name":"Business Administration",
+            "link":"/pdf/employability/2019_2020/15_Business_Administration.pdf"
+        },
+        {
+            "id":16,
+            "name":"Statistics",
+            "link":"/pdf/employability/2019_2020/16_Statistics.pdf"
+        },
+        {
+            "id":17,
+            "name":"Geography",
+            "link":"/pdf/employability/2019_2020/17_Geography.pdf"
+        }
+    ],
+    "t_6_3_4":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/pdf/development_programmes/2015_2016.pdf"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/pdf/development_programmes/2016_2017.pdf"
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/pdf/development_programmes/2017_2018.pdf"
+        },
+        {
+            "id":4,
+            "name":"2018-2019",
+            "link":"/pdf/development_programmes/2018_2019.pdf"
+        },
+        {
+            "id":5,
+            "name":"2019-2020",
+            "link":"/pdf/development_programmes/2019_2020.pdf"
+        }
+    ],
+    "t_2_3_4":[
+        {
+            "id":1,
+            "name":"Botany",
+            "link":"/pdf/teaching_plan/Botany.pdf"
+        },
+        {
+            "id":2,
+            "name":"Business Administration",
+            "link":"/pdf/teaching_plan/Business_Administration.pdf"
+        },
+        {
+            "id":3,
+            "name":"Chemistry",
+            "link":"/pdf/teaching_plan/Chemistry.pdf"
+        },
+        {
+            "id":4,
+            "name":"Commerce",
+            "link":"/pdf/teaching_plan/Commerce.pdf"
+        },
+        {
+            "id":5,
+            "name":"Economics",
+            "link":"/pdf/teaching_plan/Economics.pdf"
+        },
+        {
+            "id":6,
+            "name":"Geography",
+            "link":"/pdf/teaching_plan/Geography.pdf"
+        },
+        {
+            "id":7,
+            "name":"History",
+            "link":"/pdf/teaching_plan/History.pdf"
+        },
+        {
+            "id":8,
+            "name":"Maths",
+            "link":"/pdf/teaching_plan/Maths.pdf"
+        },
+        {
+            "id":9,
+            "name":"Microbiology",
+            "link":"/pdf/teaching_plan/Microbiology.pdf"
+        },
+        {
+            "id":10,
+            "name":"Physics",
+            "link":"/pdf/teaching_plan/Physics.pdf"
+        },
+        {
+            "id":11,
+            "name":"Statistics",
+            "link":"/pdf/teaching_plan/Statistics.pdf"
+        },
+        {
+            "id":12,
+            "name":"Tamil",
+            "link":"/pdf/teaching_plan/Tamil.pdf"
+        },
+        {
+            "id":13,
+            "name":"Zoology",
+            "link":"/pdf/teaching_plan/Zoology.pdf"
+        }
+    ],
+    "t_6_3_3":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/pdf/professional_dev_programs/PDP_2015_2016.pdf"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/pdf/professional_dev_programs/PDP_2016_2017.pdf"
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/pdf/professional_dev_programs/PDP_2017_2018.pdf"
+        },
+        {
+            "id":4,
+            "name":"2018-2019",
+            "link":"/pdf/professional_dev_programs/PDP_2018_2019.pdf"
+        },
+        {
+            "id":5,
+            "name":"2019-2020",
+            "link":"/pdf/professional_dev_programs/PDP_2019_2020.pdf"
+        }
+    ],
+    "t_7_1_1":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/pdf/7.1.1/Action_Plan_2015_2016.pdf"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/pdf/7.1.1/Action_Plan_2016_2017.pdf"
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/pdf/7.1.1/Action_Plan_2017_2018.pdf"
+        },
+        {
+            "id":4,
+            "name":"2018-2019",
+            "link":"/pdf/7.1.1/Action_Plan_2018_2019.pdf"
+        },
+        {
+            "id":5,
+            "name":"2019-2020",
+            "link":"/pdf/7.1.1/Action_Plan_2019_2020.pdf"
+        }
+    ],
+    "t2_7_1_1":[
+        {
+            "id":1,
+            "name":"Common room",
+            "link":"/pdf/7.1.1/Common_room.pdf"
+        },
+        {
+            "id":2,
+            "name":"Counseling",
+            "link":"/pdf/7.1.1/Counseling.pdf"
+        },
+        {
+            "id":3,
+            "name":"Day care young children",
+            "link":"/pdf/7.1.1/Day_care_young_children.pdf"
+        },
+        {
+            "id":4,
+            "name":"Gender equality",
+            "link":"/pdf/7.1.1/Gender_equity.pdf"
+        },
+        {
+            "id":5,
+            "name":"safety and security final",
+            "link":"/pdf/7.1.1/safety_and_security_final_20-9-21.pdf"
+        }
+    ],
+    "t_2_3_2":[
+        {
+            "id":1,
+            "name":"Differential Calculus Dr.A.V Maths",
+            "link":"/pdf/2.3.2/8.Differential_Calculus_Dr.A.V_Maths.pdf"
+        },
+        {
+            "id":2,
+            "name":"Cryptography Dr.GS Maths",
+            "link":"/pdf/2.3.2/Cryptography_Dr_GS_Maths.ppt"
+        },
+        {
+            "id":3,
+            "name":"Dr.PNM PPT Economics",
+            "link":"/pdf/2.3.2/Dr.PNM_PPT_Economics.ppt"
+        },
+        {
+            "id":4,
+            "name":"Dr.SRR PPT Economics",
+            "link":"/pdf/2.3.2/Dr.SRR_PPT_Economics.ppt"
+        },
+        {
+            "id":5,
+            "name":"Dr.TS PPT Economics",
+            "link":"/pdf/2.3.2/Dr.TS_PPT_Economics.pptx"
+        },
+        {
+            "id":6,
+            "name":"Dr.US PPT Economics",
+            "link":"/pdf/2.3.2/Dr.US_PPT_Economics.ppt"
+        },
+        {
+            "id":7,
+            "name":"ICT enabled teaching",
+            "link":"/pdf/2.3.2/ICT_enabled_teaching.pdf"
+        },
+        {
+            "id":8,
+            "name":"Prof.NL PPT Economics",
+            "link":"/pdf/2.3.2/Prof.NL_PPT_Economics.ppt"
+        },
+        {
+            "id":9,
+            "name":"Prof.VV PPT Economics",
+            "link":"/pdf/2.3.2/Prof.VV_PPT_Economics.ppt"
+        }
+    ],
+    "t2_2_3_2":[
+        {
+            "id":1,
+            "name":"Atomic Chemistry",
+            "link":"/pdf/2.3.2/Atomic_Chemistry.mp4"
+        },
+        {
+            "id":2,
+            "name":"Introduction to Chemistry",
+            "link":"/pdf/2.3.2/Introduction_to_Chemistry.mp4"
+        },
+        {
+            "id":3,
+            "name":"Introductory Botany",
+            "link":"/pdf/2.3.2/Introductory_Botany.mp4"
+        }
+    ],
+    "tI_7_1_6":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/pdf/7.1.6/2015_2016_Energy_Audit.pdf"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/pdf/7.1.6/2016_2017_Energy_Audit.pdf"
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/pdf/7.1.6/2017_2018_Energy_Audit.pdf"
+        },
+        {
+            "id":4,
+            "name":"2018-2019",
+            "link":"/pdf/7.1.6/2018_2019_Energy_Audit.pdf"
+        },
+        {
+            "id":5,
+            "name":"2019-2020",
+            "link":"/pdf/7.1.6/2019_2020_Energy_Audit.pdf"
+        }
+    ],
+    "tII_7_1_6":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/pdf/7.1.6/EA_Report_15_16.pdf"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/pdf/7.1.6/EA_Report_16_17.pdf"
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/pdf/7.1.6/EA_Report_17_18.pdf"
+        },
+        {
+            "id":4,
+            "name":"2018-2019",
+            "link":"/pdf/7.1.6/EA_Report_18_19.pdf"
+        },
+        {
+            "id":5,
+            "name":"2019-2020",
+            "link":"/pdf/7.1.6/EA_Report_19_20.pdf"
+        }
+    ],
+    "tIII_7_1_6":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/pdf/7.1.6/GA_Report_15_16.pdf"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/pdf/7.1.6/GA_Report_16_17.pdf"
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/pdf/7.1.6/GA_Report_17_18.pdf"
+        },
+        {
+            "id":4,
+            "name":"2018-2019",
+            "link":"/pdf/7.1.6/GA_Report_18_19.pdf"
+        },
+        {
+            "id":5,
+            "name":"2019-2020",
+            "link":"/pdf/7.1.6/GA_Report_19_20.pdf"
+        }
+    ],
+    "extend_3_1":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/pdf/extended_profile/3.3_2015_2016.pdf"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/pdf/extended_profile/3.3_2016_2017.pdf"
+        },
+        {
+            "id":3,
+            "name":"2018-2019",
+            "link":"/pdf/extended_profile/3.3_2018_2019.pdf"
+        },
+        {
+            "id":4,
+            "name":"2019-2020",
+            "link":"/pdf/extended_profile/3.3_2019_2020.pdf"
+        }
+    ],
+    "extend_4_1":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/pdf/4.1_extended_profile/2015_2016_Applications_recieved.pdf"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/pdf/4.1_extended_profile/2016_2017_Applications_recieved.pdf"
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/pdf/4.1_extended_profile/2017_2018_Applications_recieved.pdf"
+        },
+        {
+            "id":4,
+            "name":"2018-2019",
+            "link":"/pdf/4.1_extended_profile/2018_2019_Applications_recieved.pdf"
+        },
+        {
+            "id":5,
+            "name":"2019-2020",
+            "link":"/pdf/4.1_extended_profile/2019_2020_Applications_recieved.pdf"
+        }
+    ],
+    "t_7_1_11":[
+        {
+            "id":1,
+            "name":"2015-2016",
+            "link":"/pdf/7.1.11/2015_2016_Annual_Report_of_Commemorative_events.pdf"
+        },
+        {
+            "id":2,
+            "name":"2016-2017",
+            "link":"/pdf/7.1.11/2016-2017_Annual_Report_of_Commemorative_event.pdf"			 					
+        },
+        {
+            "id":3,
+            "name":"2017-2018",
+            "link":"/pdf/7.1.11/2017-2018_Annual_Report_of_Commemorative_event.pdf"
+        },
+        {
+            "id":4,
+            "name":"2018-2019",
+            "link":"/pdf/7.1.11/2018-2019_Annual_Report_of_Commemorative_event.pdf"
+        },
+        {
+            "id":5,
+            "name":"2019-2020",
+            "link":"/pdf/7.1.11/2019-2020_Annual_Report_of_Commemorative_event.pdf"
+        }
+    ],
+    "t_4_1_3":[
+        {
+            "id":1,
+            "name":"Library",
+            "link":"/pdf/4.1.3/ICT_class_rooms/1_Library.pdf"
+        },
+        {
+            "id":2,
+            "name":"Economics",
+            "link":"/pdf/4.1.3/ICT_class_rooms/2_Economics.pdf"
+        },
+        {
+            "id":3,
+            "name":"Tamil",
+            "link":"/pdf/4.1.3/ICT_class_rooms/3_Tamil.pdf"
+        },
+        {
+            "id":4,
+            "name":"English",
+            "link":"/pdf/4.1.3/ICT_class_rooms/4_English.pdf"
+        },
+        {
+            "id":5,
+            "name":"Mathematics",
+            "link":"/pdf/4.1.3/ICT_class_rooms/5_Mathematics.pdf"
+        },
+        {
+            "id":6,
+            "name":"Physics Room 03",
+            "link":"/pdf/4.1.3/ICT_class_rooms/6_Physics_Room_03.pdf"
+        },
+        {
+            "id":7,
+            "name":"Physics Room 04",
+            "link":"/pdf/4.1.3/ICT_class_rooms/7_Physics_Room_04.pdf"
+        },
+        {
+            "id":8,
+            "name":"Chemistry",
+            "link":"/pdf/4.1.3/ICT_class_rooms/8_Chemistry.pdf"
+        },
+        {
+            "id":9,
+            "name":"Botany Room 29",
+            "link":"/pdf/4.1.3/ICT_class_rooms/9_Botany_Room_29.pdf"
+        },
+        {
+            "id":10,
+            "name":"Botany Room 30",
+            "link":"/pdf/4.1.3/ICT_class_rooms/10_Botany_Room_30.pdf"
+        },
+        {
+            "id":11,
+            "name":"Botany Room 33",
+            "link":"/pdf/4.1.3/ICT_class_rooms/11_Botany_Room_33.pdf"
+        },
+        {
+            "id":12,
+            "name":"Zoology Room 44",
+            "link":"/pdf/4.1.3/ICT_class_rooms/12_Zoology_Room_44.pdf"
+        },
+        {
+            "id":13,
+            "name":"Zoology Room 46",
+            "link":"/pdf/4.1.3/ICT_class_rooms/13_Zoology_Room_46.pdf"
+        },
+        {
+            "id":14,
+            "name":"Zoology Room 47",
+            "link":"/pdf/4.1.3/ICT_class_rooms/14_Zoology_Room_47.pdf"
+        },
+        {
+            "id":15,
+            "name":"Computer Science LAB",
+            "link":"/pdf/4.1.3/ICT_class_rooms/15_Computer_Science_LAB.pdf"
+        },
+        {
+            "id":16,
+            "name":"CS Electronic Lab",
+            "link":"/pdf/4.1.3/ICT_class_rooms/16_CS_Electronic_Lab.pdf"
+        },
+        {
+            "id":17,
+            "name":"Physical Education",
+            "link":"/pdf/4.1.3/ICT_class_rooms/17_Physical_Education.pdf"
+        },
+        {
+            "id":18,
+            "name":"History",
+            "link":"/pdf/4.1.3/ICT_class_rooms/18_History.pdf"
+        },
+        {
+            "id":19,
+            "name":"MBA Room 13",
+            "link":"/pdf/4.1.3/ICT_class_rooms/19_MBA_Room_13.pdf"
+        },
+        {
+            "id":20,
+            "name":"MBA Room 14",
+            "link":"/pdf/4.1.3/ICT_class_rooms/20_MBA_Room_14.pdf"
+        },
+        {
+            "id":21,
+            "name":"Hindi",
+            "link":"/pdf/4.1.3/ICT_class_rooms/21_Hindi.pdf"
+        },
+        {
+            "id":22,
+            "name":"Geography",
+            "link":"/pdf/4.1.3/ICT_class_rooms/22_Geography.pdf"
+        }
+    ],
+    "t2_4_1_3":[
+        {
+            "id":1,
+            "name":"Physics",
+            "link":"/pdf/4.1.3/ICT_seminar_halls/1_Physics.pdf"
+        },
+        {
+            "id":2,
+            "name":"Mathematics",
+            "link":"/pdf/4.1.3/ICT_seminar_halls/2_Mathematics.pdf"
+        },
+        {
+            "id":3,
+            "name":"Chemistry",
+            "link":"/pdf/4.1.3/ICT_seminar_halls/3_Chemistry.pdf"
+        },
+        {
+            "id":4,
+            "name":"Botany",
+            "link":"/pdf/4.1.3/ICT_seminar_halls/4_Botany.pdf"
+        },
+        {
+            "id":5,
+            "name":"Zoology",
+            "link":"/pdf/4.1.3/ICT_seminar_halls/5_Zoology.pdf"
+        },
+        {
+            "id":6,
+            "name":"Computer Science",
+            "link":"/pdf/4.1.3/ICT_seminar_halls/6_Computer_Science.pdf"
+        },
+        {
+            "id":7,
+            "name":"EDC",
+            "link":"/pdf/4.1.3/ICT_seminar_halls/7_EDC.pdf"
+        },
+        {
+            "id":8,
+            "name":"Auditorium",
+            "link":"/pdf/4.1.3/ICT_seminar_halls/8_Auditorium.pdf"
+        }
+    ]
+}

@@ -61,15 +61,15 @@ init_public_head();
 														<td colspan="2"><strong>CHAIRPERSON</strong><br /></td>
 													</tr>
 													<tr>
-														<td>Dr. R. Sivakumar</td>
-														<td>Principal</td>
+														<td>Dr. M.S.Muthuramalingam</td>
+														<td>Principal(i/c)</td>
 													</tr>
 													<tr>
 														<td colspan="2"><strong>IQAC COORDINATOR</strong><br /></td>
 													</tr>
 													<tr>
-														<td>Dr.R.Subashchandrabose</td>
-														<td>Computer Science</td>
+														<td>Dr. M.S.Muthuramalingam</td>
+														<td>Principal(i/c)</td>
 													</tr>
 													<tr>
 														<td colspan="2"><strong>SENIOR ADMINISTRATIVE OFFICERS</strong></td>
@@ -124,7 +124,7 @@ init_public_head();
 														<td colspan="2"><strong>Representation from the Office</strong></td>
 													</tr>
 													<tr>
-														<td>Mr. S.Durairajan</td>
+														<td>Mr. R.Senthilkumar</td>
 														<td>Superintendent</td>
 													</tr>
 												</tbody>
