@@ -63,7 +63,7 @@ init_public_head();
 											<p>The Joint Director of Collegiate Education,<br />Thanjavur.</p>
 											<p><strong>NOMINEES OF THE TEACHING FACULTY</strong></p>
 											<p>Dr.V.Maniraj - Computer Science</p>
-											<p>Dr.K.Balakrishnan - Chemistry</p>
+											<!-- <p>Dr.K.Balakrishnan - Chemistry</p> -->
 											<p><strong>EX-OFFICIO MEMBER - SECRETARY </strong></p>
 											<p>Dr.M.S.Muthuramalingam, Principal(i/c)</p>
 										</div>
