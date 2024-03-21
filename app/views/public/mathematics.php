@@ -299,7 +299,7 @@ init_public_head();
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/AIDED/Dr.G.Sivakumar.pdf') ?>" target="_blank" rel="noopener">Dr.G. Sivakumar</a></th>
-									<td style="text-align: center;">Assistant Professor &amp; Coordinator</td>
+									<td style="text-align: center;">Assistant Professor &amp; Coordinator (i/c)</td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/AIDED/Dr. A.Venkatesh - Maths - Profile.pdf') ?>" target="_blank" rel="noopener">Dr. A. Venkatesh</a></th>
