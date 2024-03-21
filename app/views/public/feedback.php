@@ -4,8 +4,8 @@ init_public_head();
 ?>
 
 <?php
-include('database.php');
-// include('database_connection.php');
+//include('database.php');
+include('database_connection1.php');
 $roll_no =  isset($_POST["roll_no"]) ? $_POST["roll_no"] : '';
 
 if (!empty($roll_no)) {
