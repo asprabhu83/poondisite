@@ -217,13 +217,13 @@ init_public_head();
 														<td>Botany and Microbiology</td>
 													</tr>
 													<tr>
-														<td>Dr. C. Radhakrishnan</td>
-														<td>English </td>
+														<td>Dr. K. Sivakumar</td>
+														<td>English and IQAC Co-ordinator(i/c) </td>
 													</tr>
-													<tr>
+													<!-- <tr>
 														<td>Dr. R. Subashchandrabose</td>
 														<td>IQAC Co-ordinator </td>
-													</tr>
+													</tr> -->
 													<tr>
 														<td>Prof. K.Thirumavalavan</td>
 														<td>Commerce</td>
@@ -238,8 +238,8 @@ init_public_head();
 														<td>Chemistry</td>
 													</tr>
 													<tr>
-														<td>Dr. G. Marimuthu</td>
-														<td>Mathematics </td>
+														<td>Dr. G. Sivakumar</td>
+														<td>Mathematics (i/c)</td>
 													</tr>
 													
 													<tr>
@@ -334,15 +334,15 @@ init_public_head();
 											<p align="justify" class="text-gray-darker"><strong>ONE REPRESENTATIVE OF THE STATE GOVERNMENT</strong></p>
 											<p><strong> <br/>The Joint Director of Collegiate Education,</strong> Thanjavur Region, Thanjavur.</p>
 											
-											<p align="justify" class="text-gray-darker"><strong>STUDENT REPRESENTATIVES</strong></p>
+											<!-- <p align="justify" class="text-gray-darker"><strong>STUDENT REPRESENTATIVES</strong></p>
 											<p>S.Sowndharya, I M.Com.,</p>
-											<p>P.Asuwathi, I M.Sc., Physics</p>
+											<p>P.Asuwathi, I M.Sc., Physics</p> -->
 											
 											<p align="justify" class="text-gray-darker"><strong>REPRESENTATIVE FROM THE COLLEGE OFFICE</strong></p>
-											<p>Mr. S.Durairajan, Superintendent.</p>
+											<p>Mr. Senthilkumar, Superintendent.</p>
 											
 											<p align="justify" class="text-gray-darker"><strong>NON MEMBER SECRETARY</strong></p>
-											<p>Dr. K. Balakrishnan, Chemistry</p>
+											<!-- <p>Dr. K. Balakrishnan, Chemistry</p> -->
 										</div>
 									</div><br>
 									<div>
@@ -381,18 +381,18 @@ init_public_head();
 														<td>Computer Science</td>
 													</tr>
 													
-													<tr>
+													<!-- <tr>
 														<td>Dr. T. Kumar</td>
 														<td>Botany and Microbiology</td>
-													</tr>
-													<tr>
+													</tr> -->
+													<!-- <tr>
 														<td>Dr. C. Radhakrishnan</td>
 														<td>English </td>
-													</tr>
-													<tr>
+													</tr> -->
+													<!-- <tr>
 														<td>Dr. R. Subashchandrabose</td>
 														<td>IQAC Coordinator</td>
-													</tr> 
+													</tr>  -->
 													<tr>
 														<td>Prof.K.Thirumavalavan</td>
 														<td>Commerce</td>
@@ -407,8 +407,8 @@ init_public_head();
 														<td>Chemistry</td>
 													</tr>
 													<tr>
-														<td>Dr. G. Marimuthu</td>
-														<td>Mathematics </td>
+														<td>Dr. G. Sivakumar</td>
+														<td>Mathematics(i/c) </td>
 													</tr>
 													
 													<tr>
@@ -449,7 +449,7 @@ init_public_head();
 													</tr>
 																										
 													<tr>
-														<td>Mr. S.Durairajan</td>
+														<td>Mr. Senthilkumar</td>
 														<td>Superintendent</td>
 													</tr>
 												</tbody>
@@ -485,9 +485,9 @@ init_public_head();
 
 											<p><strong>NOMINEES FROM THE TEACHING FACULTY</strong></p>
 											<p>Dr.V.Maniraj - Computer Science</p>
-											<p>Dr.K.Balakrishnan - Chemistry</p>
+											<!-- <p>Dr.K.Balakrishnan - Chemistry</p> -->
 											<p><strong>REPRESENTATIVE FROM COLLEGE OFFICE </strong></p>
-											<p>Mr. S.Durairajan, Superintendent</p>
+											<p>Mr. Senthilkumar, Superintendent</p>
 										</div>
 									</div>
 
