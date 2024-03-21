@@ -821,11 +821,11 @@ init_public_head();
 																	<td></td>
 																	<td>English</td>
 																</tr>
-																<tr>
+																<!-- <tr>
 																	<td>Dr. P. Nadimuthu</td>
 																	<td></td>
 																	<td>Economics</td>
-																</tr>
+																</tr> -->
 																<tr>
 																	<td>Dr. G. Muruganandam</td>
 																	<td></td>
