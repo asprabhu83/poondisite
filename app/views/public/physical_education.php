@@ -147,11 +147,11 @@ pt.php
 								</tr>
 								<tr>
 									<td><a href="<?php echo base_url('public/pdf/Departments/Physicaleducation/Dr.%20M.%20S.%20Muthuramalingam.pdf') ?>" target="_blank" rel="noopener">Dr. M. S. Muthuramalingam</a></td>
-									<td>Associate Professor &amp; Coordinator  </td>
+									<td>Associate Professor &amp; Principal (i/c) </td>
 								</tr>
 								<tr>
 									<td><a href="<?php echo base_url('public/pdf/Departments/Physicaleducation/Dr.%20M.%20Madan%20Mohan.pdf') ?>" target="_blank" rel="noopener">Dr. M. Madan Mohan</a></td>
-									<td>Associate Professor</td>
+									<td>Associate Professor &amp; Coordinator</td>
 								</tr>
 								<tr>
 									<td><a href="public/pdf/Departments/Physicaleducation/Dr.%20S.%20Dharakeswari.pdf" target="_blank" rel="noopener">Dr. S. Dharakeswari</a></td>

@@ -289,10 +289,10 @@ init_public_head();
 									<th style="text-align: center;">Name of the Faculty Member</th>
 									<th style="text-align: center;">Designation</th>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/AIDED/Dr.G.Marimuthu.pdf') ?>" target="_blank" rel="noopener">Dr. G. Marimuthu</a></th>
 									<td style="text-align: center;">Associate Professor & Co-ordinator</td>
-								</tr>
+								</tr> -->
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/AIDED/Prof.S.Sankaranaryanan.pdf') ?>" target="_blank" rel="noopener"> Dr .S. Sankaranarayanan</a></th>
 									<td style="text-align: center;">Associate Professor</td>

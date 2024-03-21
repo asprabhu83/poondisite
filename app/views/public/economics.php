@@ -311,10 +311,10 @@ init_public_head();
 								<tr>
 									<th colspan="3">Aided Faculty</th>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/Economics/1.%20DR%20P.%20Nadimuthu.pdf') ?>" target="_blank" rel="noopener">Dr.P. Nadimuthu</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
-								</tr>
+								</tr> -->
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/Economics/2.%20S.%20Rajarajeswari.pdf') ?>" target="_blank" rel="noopener">Prof.S.RajaRajeswari</a></th>
 									<td style="text-align: center;">Assistant Professor</td>

@@ -291,21 +291,21 @@ init_public_head();
 									<th style="text-align: center;">Name of the Faculty Member</th>
 									<th style="text-align: center;">Designation</th>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/english/AIDED/Eng.%201.Dr.K.Sundararajan.pdf') ?>" target="_blank" rel="noopener">Dr. K. Sundararajan</a></th>
 									<td style="text-align: center;">Associate Professor</td>
-								</tr>
-								<tr>
+								</tr> -->
+								<!-- <tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/english/AIDED/Eng.%202.C.%20Radhakrishnan.pdf') ?>" target="_blank" rel="noopener">Dr.C.Radha krishnan</a></th>
 									<td style="text-align: center;">Associate Professor &amp; Coordinator</td>
-								</tr>
-								<tr>
+								</tr> -->
+								<!-- <tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/english/AIDED/Eng.%203.%20Dr.%20B.R.%20Veeramani.pdf') ?>" target="_blank" rel="noopener">Dr.B.R.Veeramani</a></th>
 									<td style="text-align: center;">Associate Professor</td>
-								</tr>
+								</tr> -->
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/english/AIDED/Eng.%204.%20Dr.%20K.%20Sivakumar.pdf') ?>" target="_blank" rel="noopener">Dr. K. Sivakumar</a></th>
-									<td style="text-align: center;">Associate Professor</td>
+									<td style="text-align: center;">Associate Professor &amp; Coordinator(i/c)</td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/english/AIDED/Eng.%205.Dr.%20R.%20Mayilraj.pdf') ?>" target="_blank" rel="noopener">Dr.R. Mayilraj</a></th>

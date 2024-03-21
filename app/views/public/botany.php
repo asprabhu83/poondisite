@@ -316,17 +316,17 @@ init_public_head();
 								<tr>
 									<th colspan="3">Aided Faculty</th>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/botany/1.%20Dr.T.KUMAR.pdf') ?>" target="_blank" rel="noopener">Dr. T. Kumar</a></th>
-									<td style="text-align: center;">Associate professor &amp; Coordinator</td>
-								</tr>
+									<td style="text-align: center;">Associate professor</td>
+								</tr> -->
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/botany/2.%20Dr.C.CHANDRAN.pdf') ?>" target="_blank" rel="noopener">Dr. C. Chandran</a></th>
 									<td style="text-align: center;">Associate Professor</td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/botany/3.%20Dr.%20V.%20Ambikabathy.pdf') ?>" target="_blank" rel="noopener"> Dr. V. Ambikapathy</a></th>
-									<td style="text-align: center;">Assistant Professor</td>
+									<td style="text-align: center;">Assistant Professor &amp; Coordinator</td>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/botany/4.%20Dr.P.PANDIAN.pdf') ?>" target="_blank" rel="noopener"> Dr. P. Pandiyan</a></th>
