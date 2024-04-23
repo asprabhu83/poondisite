@@ -211,7 +211,7 @@ init_public_head();
 						<td class="pdf_items">-</td>
                         <td><?php syllabus_link('syllabus_2017_updated/UG_SYLLABUS/bsc_physicaleducation_syllabus') ?></td>
 						<td class="pdf_items">-</td>
-                        <td><?php syllabus_link('syllabus_2017_updated/UG_SYLLABUS/bsc_physicaleducation_syllabus') ?></td>
+                        <td><?php syllabus_link('syllabus_2020_updated/UG_SYLLABUS/bsc_physicaleducation_syllabus') ?></td>
 						<td class="pdf_items">-</td>
                     </tr>
                     <tr>
