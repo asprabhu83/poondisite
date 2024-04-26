@@ -221,7 +221,16 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/GO_D_184_dated_05_08_2021.pdf') ?>"><span>Admission Procedure</span></a>
                                                     </li>
-                                                    <li class="active "><a href="<?php echo base_url('public/pdf/calender_2021_2022.pdf') ?>"><span>Academic Calender 2021-22</span></a>
+                                                    <!-- <li class="active "><a href="<?php echo base_url('public/pdf/calender_2021_2022.pdf') ?>"><span>Academic Calender 2021-22</span></a>
+                                                    </li> -->
+
+
+                                                    <li class="active"><a href="#"><span>Academic Calender</span></a>
+                                                         <ul class="rd-navbar-dropdown">
+                                                         <li class="active "><a href="<?php echo base_url('public/pdf/calender_2021_2022.pdf') ?>"><span>2021-22</span></a>
+                                                         <li class="active "><a href="<?php echo base_url('public/pdf/calender_2021_2022.pdf') ?>"><span>2022-23</span></a>
+                                                    </li>
+                                                        </ul>
                                                     </li>
                                                    
                                                     <!-- <li class="active"><a href="#"><span>Programme</span></a>
@@ -352,6 +361,8 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                             <li><a href="public/pdf/Naac/AQAR/AQAR2018-2019.pdf"><span class="text-middle">2018-2019</span></a></li>
                                                             <li><a href="public/pdf/Naac/AQAR/AQAR2019-2020.pdf"><span class="text-middle">2019-2020</span></a></li>
                                                             <li><a href="public/pdf/Naac/AQAR/AQAR2020-2021.pdf"><span class="text-middle">2020-2021</span></a></li>
+                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2021-2022.pdf"><span class="text-middle">2021-2022</span></a></li>
+                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2021-2022.pdf"><span class="text-middle">2022-2023</span></a></li>
                                                                                                                         
                                                         </ul>
                                                     </li>
