@@ -237,8 +237,8 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
 
                                                     <li class="active"><a href="#"><span>Academic Calender</span></a>
                                                          <ul class="rd-navbar-dropdown">
-                                                         <li class="active "><a href="<?php echo base_url('public/pdf/calender_2021_2022.pdf') ?>"><span>2021-22</span></a>
-                                                         <li class="active "><a href="<?php echo base_url('public/pdf/calender_2021_2022.pdf') ?>"><span>2022-23</span></a>
+                                                         <li class="active "><a href="<?php echo base_url('public/pdf/calender_2022_2023.pdf') ?>"><span>2022-23</span></a>
+                                                         <li class="active "><a href="<?php echo base_url('public/pdf/calender_2023_2024.pdf') ?>"><span>2023-24</span></a>
                                                     </li>
                                                         </ul>
                                                     </li>
