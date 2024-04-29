@@ -186,7 +186,17 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                                                                      
                                                     <li class="active "><a href="<?php echo base_url('popsoco') ?>"><span>PO, PSO & CO</span></a>
                                                     </li>
-                                                    <li class="active "><a href="<?php echo base_url('public/pdf/E_Contents/e_contents.pdf') ?>"><span>E_Content</span></a>
+                                                    <!-- <li class="active "><a href="<?php echo base_url('public/pdf/E_Contents/e_contents.pdf') ?>"><span>E_Content</span></a>
+                                                    </li> -->
+
+                                                    <li class="active"><a href="#"><span>E_Content</span></a>
+                                                         <ul class="rd-navbar-dropdown">
+                                                         <li class="active "><a href="<?php echo base_url('public/pdf/E_Contents/e_contents.pdf') ?>"><span>Video Contents</span></a>
+                                                    
+                                                            <li class="active "><a href="<?php echo base_url('E_Contents') ?>"><span>E_Contents(PPT)</span></a>
+
+                                                            </li>
+                                                        </ul>
                                                     </li>
 
                                                     <li class="active"><a href="#"><span>Education Ontology</span></a>

@@ -887,6 +887,12 @@ class Website extends App_Controller
         $this->data['menu_edu_ontology'] = "active";
         $this->load->view('public/edu_ontology',$this->data);
     }
+    public function e_contents()
+    {
+        $this->data['title'] = "e_contents";
+        $this->data['menu_e_contents'] = "active";
+        $this->load->view('public/e_contents',$this->data);
+    }
 
     public function herbal_garden()
     {
