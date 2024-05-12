@@ -178,6 +178,18 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     
                                                     <!-- </li> -->
                                                     <li class="active "><a href="<?php echo base_url('departments') ?>"><span>Departments </span></a>
+                                                    </li>
+
+                                                    <li class="active"><a href="#"><span>Board of studies </span></a>
+                                                         <ul class="rd-navbar-dropdown">
+                                                         <li class="active "><a href="<?php echo base_url('public/pdf/BOS_2020.pdf') ?>"><span>2020-21</span></a>
+                                                         <li class="active "><a href="<?php echo base_url('public/pdf/BOS_2021.pdf') ?>"><span>2021-22</span></a>
+                                                         <li class="active "><a href="<?php echo base_url('public/pdf/BOS_2022.pdf') ?>"><span>2022-23</span></a>
+                                                         <li class="active "><a href="<?php echo base_url('public/pdf/BOS_2023.pdf') ?>"><span>2023-24</span></a>
+                                                    </li>
+                                                        </ul>
+                                                    </li>
+                                                    
                                                     <li class="active "><a href="<?php echo base_url('syllabus_2014_2020') ?>"><span>Syllabus</span></a>
                                                     </li>
                                                    
