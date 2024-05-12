@@ -158,7 +158,7 @@ init_public_head();
                         <td class="pdf_items">-</td>
                         <td><?php syllabus_link('syllabus_2017_updated/PG_SYLLABUS/msc_microbiology_syllabus') ?></td>
                         <td class="pdf_items">-</td>
-                        <td><?php syllabus_link('syllabus_2017_updated/PG_SYLLABUS/msc_microbiology_syllabus') ?></td>
+                        <td><?php syllabus_link('syllabus_2020_updated/PG_SYLLABUS/msc_microbiology_syllabus') ?></td>
                     </tr>
                     <tr>
                         <td>Zoology</td>
