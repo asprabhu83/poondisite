@@ -116,7 +116,7 @@ if (!empty($username)) {
                 <tbody>                   
                 <tr>
                         <td>1.</td>
-                        <td>The current curriculum is satisfactory.</td>
+                        <td>The existing curriculum is good</td>
 						            <span class="star-rating">
                             <td><input type="radio" name="q1" value="1"><i></i></td>
                             <td><input type="radio" name="q1" value="2"><i></i></td>
@@ -131,7 +131,7 @@ if (!empty($username)) {
 
                     <tr>
                         <td>2.</td>
-                        <td>The college provides academic freedom and opportunities for curriculum development.  </td>
+                        <td>The academic freedom and opportunity is available for curriculum development in the college </td>
 						            <span class="star-rating">
                             <td><input type="radio" name="q2" value="1"><i></i></td>
                             <td><input type="radio" name="q2" value="2"><i></i></td>
@@ -146,7 +146,7 @@ if (!empty($username)) {
 
                     <tr>
                         <td>3.</td>
-                        <td>The curriculum offers a diverse array of courses within a choice-based credit system.</td>
+                        <td>The curriculum contains a wide range of courses under choice based credit system</td>
 						            <span class="star-rating">
                             <td><input type="radio" name="q3" value="1"><i></i></td>
                             <td><input type="radio" name="q3" value="2"><i></i></td>
@@ -161,7 +161,7 @@ if (!empty($username)) {
 
                    <tr>
                         <td>4.</td>
-                        <td>The content of the course is pertinent and tailored to meet specific needs. </td>
+                        <td>Course content is relevant and need based </td>
 						            <span class="star-rating">
                             <td><input type="radio" name="q4" value="1"><i></i></td>
                             <td><input type="radio" name="q4" value="2"><i></i></td>
@@ -176,7 +176,7 @@ if (!empty($username)) {
 
                     <tr>
                         <td>5.</td>
-                        <td>The objectives of the course are precisely defined and apparent. Or Course outcomes are precisely defined and apparent</td>
+                        <td>Course outcomes are well defined and clear</td>
 						            <span class="star-rating">
                             <td><input type="radio" name="q5" value="1"><i></i></td>
                             <td><input type="radio" name="q5" value="2"><i></i></td>
@@ -191,7 +191,7 @@ if (!empty($username)) {
 
                     <tr>
                         <td>6.</td>
-                        <td>The course content provides ample opportunities for students to enhance their analytical, logical, technical, and creative skills. </td>
+                        <td>Course content has enough scope for the development of analytical, logical, technical and creative skills of students </td>
 						            <span class="star-rating">
                             <td><input type="radio" name="q6" value="1"><i></i></td>
                             <td><input type="radio" name="q6" value="2"><i></i></td>
@@ -206,7 +206,7 @@ if (!empty($username)) {
 
                     <tr>
                         <td>7.</td>
-                        <td>The course activities, including field visits, guest lectures, assignments, seminars, and others, are pertinent for nurturing a variety of skills essential for both employment and entrepreneurship. </td>
+                        <td>Course activities (Field Visit/Guest Lectures /Assignments/Seminars/others) are relevant for the development of various skills required for employment and entrepreneurship </td>
 						            <span class="star-rating">
                             <td><input type="radio" name="q7" value="1"><i></i></td>
                             <td><input type="radio" name="q7" value="2"><i></i></td>
@@ -221,7 +221,7 @@ if (!empty($username)) {
 
                     <tr>
                         <td>8.</td>
-                        <td>The curriculum encourages students to utilize a variety of resources, both within and outside the college, to enhance their learning effectively. </td>
+                        <td>Curriculum motivates students to use various resources that are available in the college and outside for their effective learning </td>
 						            <span class="star-rating">
                             <td><input type="radio" name="q8" value="1"><i></i></td>
                             <td><input type="radio" name="q8" value="2"><i></i></td>
@@ -236,7 +236,7 @@ if (!empty($username)) {
 
                     <tr>
                         <td>9.</td>
-                        <td>The curriculum has placed equal emphasis on both theoretical concepts and their practical application.</td>
+                        <td>The curriculum has emphasized theory and application as well</td>
 						            <span class="star-rating">
                             <td><input type="radio" name="q9" value="1"><i></i></td>
                             <td><input type="radio" name="q9" value="2"><i></i></td>
@@ -251,7 +251,7 @@ if (!empty($username)) {
 
                     <tr>
                         <td>10.</td>
-                        <td>The syllabus undergoes regular revisions. </td>
+                        <td>Syllabus revision is carried out periodically </td>
 						            <span class="star-rating">
                             <td><input type="radio" name="q10" value="1"><i></i></td>
                             <td><input type="radio" name="q10" value="2"><i></i></td>
