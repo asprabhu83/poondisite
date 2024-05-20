@@ -61,6 +61,8 @@ init_public_head();
 										<center><a href="<?php echo base_url('public/pdf/Naac/AQAR/AQAR%20rar/NAAC%20Reaccreditation%204th%20Cycle.rar') ?>">All File Download AQAR</a></center>
 									</th>
 								</tr> -->
+								
+								
 								<tr>
 									<th colspan="4">2022 - 2023</th>
 								</tr>
@@ -76,9 +78,79 @@ init_public_head();
 									<td>IQAC MEET 13.09.2022</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/13.09.2022.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
 								</tr>
+
+								<tr>
+									<td>IQAC MEET 19.10.2022</td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/19.10.2022.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+								</tr>
+								<tr>
+									<td>IQAC MEET 21.12.2022</td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/21.12.2022.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+								</tr>
+								<tr>
+									<td>IQAC MEET 13.01.2023</td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/13.01.2023.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+								</tr>
+								<tr>
+									<td>IQAC MEET 27.03.2023</td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/27.03.2023.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+								</tr>
+
+								<tr>
+									<th colspan="4">2021 - 2022</th>
+								</tr>
+								<tr>
+									<td>IQAC MEET 21.06.2021</td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/21.06.2021.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+								</tr>
+								<tr>
+									<td>IQAC MEET 27.07.2021</td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/27.07.2021.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+								</tr>
+								<tr>
+									<td>IQAC MEET 23.08.2021</td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/23.08.2021.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+								</tr>
+
+								<tr>
+									<td>IQAC MEET 25.09.2021</td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/25.09.2021.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+								</tr>
+								<tr>
+									<td>IQAC MEET 18.10.2021</td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/18.10.2021.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+								</tr>
+								<tr>
+									<td>IQAC MEET 22.11.2021</td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/22.11.2021.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+								</tr>
+								<tr>
+									<td>IQAC MEET 15.12.2021</td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/15.12.2021.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+								</tr>
+								<tr>
+									<td>IQAC MEET 24.01.2022</td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/24.01.2022.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+								</tr>
+								<tr>
+									<td>IQAC MEET 24.02.2022</td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/24.02.2022.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+								</tr>
+
+								<tr>
+									<td>IQAC MEET 14.03.2022</td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/14.03.2022.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+								</tr>
+								<tr>
+									<td>IQAC MEET 19.04.2022</td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/19.04.2022.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+								</tr>
+																
+
 								<tr>
 									<th colspan="4">NAAC Reaccreditation 4th Cycle</th>
 								</tr>
+								
 								<tr>
 									<td>IQAC MEET 14.03.2020</td>
 									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/IQAC%20MEET%2014.03.2020.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
