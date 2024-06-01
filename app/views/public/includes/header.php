@@ -239,9 +239,9 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
 
                                                     <!-- <li class="active "><a href="<?php echo base_url('public/pdf/E_Contents/e_contents.pdf') ?>"><span>SWAYAM</span></a>
                                                     </li> -->
-                                                    <li class="active "><a href="<?php echo base_url('public/pdf/Fees_Structure_2022_2023.pdf') ?>"><span>Fees Structure</span></a>
+                                                    <li class="active "><a href="<?php echo base_url('public/pdf/Fees_Structure_2024_2025.pdf') ?>"><span>Fees Structure</span></a>
                                                     </li>
-                                                    <li class="active "><a href="<?php echo base_url('public/pdf/GO_D_184_dated_05_08_2021.pdf') ?>"><span>Admission Procedure</span></a>
+                                                    <li class="active "><a href="<?php echo base_url('public/pdf/2024-25_UG_PG_Guidelines.pdf') ?>"><span>Admission Procedure</span></a>
                                                     </li>
                                                     <!-- <li class="active "><a href="<?php echo base_url('public/pdf/calender_2021_2022.pdf') ?>"><span>Academic Calender 2021-22</span></a>
                                                     </li> -->
