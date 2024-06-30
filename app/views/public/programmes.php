@@ -107,11 +107,11 @@ init_public_head();
 												<td>Botany</td>
 												<td>1969-70</td>
 											</tr>
-											<!-- <tr>
+											<tr>
 												<td></td>
-												<td>Botany with Industrial Microbiology</td>
-												<td>1995-96</td>
-											</tr> -->
+												<td>Microbiology</td>
+												<td>2014-15</td>
+											</tr>
 											<tr>
 												<td></td>
 												<td>Zoology</td>
@@ -262,6 +262,11 @@ init_public_head();
 												<td>M.B.A.</td>
 												<td>Business Administration</td>
 												<td>2000-01</td>
+											</tr>
+											<tr>
+												<td>M.B.A.</td>
+												<td>Logistics and Supply Chain Management</td>
+												<td>2022-23</td>
 											</tr>
 											<tr>
 												<td>M.L.I.S</td>
