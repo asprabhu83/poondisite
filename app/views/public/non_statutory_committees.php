@@ -682,21 +682,21 @@ init_public_head();
 														<table cellpadding="3" cellspacing="5" height="100" style="width: 100%;" width="70">
 															<tbody>
 															
-																<tr>
+																<!-- <tr>
 																	<td>Dr. V. Ravichandran</td>
 																	<td></td>
 																	<td>Dean of Arts and Commerce</td>
-																</tr>
+																</tr> -->
 																<tr>
 																	<td>Dr. T.S.Baskaran</td>
 																	<td></td>
 																	<td>Dean Academic</td>
 																</tr>
-																<tr>
+																<!-- <tr>
 																	<td>Dr. M.S.Muthuramalingam</td>
 																	<td></td>
 																	<td>Physical Education, Health Education & Sports</td>
-																</tr>
+																</tr> -->
 																<tr>
 																	<td>Mr. Senthilkumar</td>
 																	<td></td>
@@ -995,21 +995,21 @@ init_public_head();
 																	<td></td>
 																	<td>Dean of Sciences</td>
 																</tr>
-																<tr>
+																<!-- <tr>
 																	<td>Dr. V. Ravichandran</td>
 																	<td></td>
 																	<td>Dean of Arts and Commerce</td>
-																</tr>
+																</tr> -->
 																<tr>
 																	<td>Dr. T.S.Baskaran </td>
 																	<td></td>
 																	<td>- Dean Academic</td>
 																</tr>
-																<tr>
+																<!-- <tr>
 																	<td>Dr. M.S.Muthuramalingam</td>
 																	<td></td>
 																	<td>Physical Education, Health Education & Sports </td>
-																</tr>
+																</tr> -->
 																<tr>
 																	<td>Mr. Senthilkumar</td>
 																	<td></td>

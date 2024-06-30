@@ -65,7 +65,7 @@ init_public_head();
 											<p>Dr.V.Maniraj - Computer Science</p>
 											<!-- <p>Dr.K.Balakrishnan - Chemistry</p> -->
 											<p><strong>EX-OFFICIO MEMBER - SECRETARY </strong></p>
-											<p>Dr.M.S.Muthuramalingam, Principal(i/c)</p>
+											<p>Dr. T.S.Baskaran, Ph.D., Principal</p>
 										</div>
 									</div>
 									<br>
@@ -193,14 +193,14 @@ init_public_head();
 														<td colspan="2"><strong>CHAIRMEN</strong></td>
 													</tr>
 													<tr>
-														<td>Dr.M.S.Muthuramalingam, Ph.D.</td>
-														<td>Principal(i/c)</td>
+														<td>Dr. T.S.Baskaran, Ph.D.</td>
+														<td>Principal</td>
 													</tr>
 													<tr>
 														<td colspan="2"><strong>VICE &ndash; CHAIRMEN</strong></td>
 													</tr>
 													<tr>
-														<td>Dr. V.Ravichandaran, Ph.D.<br />Dr. T.S.Baskaran, Ph.D. </td>														
+														<td><br /> </td>														
 														<td>Dean, Faculty of Arts &amp; Commerce <br />Dean, Academic </td>
 														
 													</tr>
@@ -213,7 +213,7 @@ init_public_head();
 														<td>Computer Science</td>
 													</tr>
 													<tr>
-														<td>Dr. T. Kumar</td>
+														<td>Dr. V.Ambigapathy</td>
 														<td>Botany and Microbiology</td>
 													</tr>
 													<tr>
@@ -288,10 +288,10 @@ init_public_head();
 													<tr>
 														<td colspan="2"><strong>FOUR TEACHERS FROM THE COLLEGE AT DIFFERENT LEVELS FOR 2 YEARS<br />Thiruvalargal</strong></td>
 													</tr>
-													<tr>
+													<!-- <tr>
 														<td>Dr. T.Chakkaravarthy</td>
 														<td>Computer Science</td>
-													</tr>
+													</tr> -->
 													<tr>
 														<td>Dr.B.Sakthivel,</td>
 														<td>Physics</td>
@@ -356,14 +356,14 @@ init_public_head();
 														<td colspan="2"><strong>CHAIRMEN</strong></td>
 													</tr>
 													<tr>
-														<td>Dr.M.S.Muthuramalingam, Ph.D.</td>
-														<td>Principal(i/c)</td>
+														<td>Dr. T.S.Baskaran, Ph.D.</td>
+														<td>Principal</td>
 													</tr>
 													<tr>
 														<td colspan="2"><strong>VICE &ndash; CHAIRMEN</strong></td>
 													</tr>
 													<tr>
-														<td>Dr. V.Ravichandaran, Ph.D.<br />Dr. T.S.Baskaran, Ph.D. </td>														
+														<td><br /> </td>														
 														<td>Dean, Faculty of Arts &amp; Commerce <br />Dean, Academic </td>
 														
 													</tr>
@@ -473,7 +473,7 @@ init_public_head();
 											<p>Thiru A. Dhanasekaran Vandayar, B.Com.</p>
 											
 											<p><strong>EX-OFFICIO MEMBER </strong></p>
-											<p>Dr.M.S.Muthuramalingam, Principal(i/c)</p>
+											<p>Dr. T.S.Baskaran, Ph.D., Principal</p>
 
 											<p align="justify" class="text-gray-darker"></p>
 											<p><strong>NOMINEES OF THE MANAGEMENT </strong></p>
@@ -495,8 +495,8 @@ init_public_head();
 										<div class="inset-lg-left-30">
 											<h5>FINANCE COMMITTEE</h5>
 											<br />
-											<p><strong>Dr.M.S.Muthuramalingam</strong></p>
-											<p>Principal(i/c)</p>
+											<p><strong>Dr. T.S.Baskaran, Ph.D.</strong></p>
+											<p>Principal</p>
 											
 											<!-- <p align="justify" class="text-gray-darker"><strong>ONE REPRESENTATIVE OF THE STATE GOVERNMENT</strong></p> -->
 											<p><strong> <br/>The Regional Joint Director of Collegiate Education,</strong> <br/>Thanjavur Region, Thanjavur.</p>

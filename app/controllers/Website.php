@@ -249,6 +249,14 @@ class Website extends App_Controller
         $this->data['menu_syllabus_2014_2020'] = "active";
         $this->load->view('public/syllabus_2014_2020', $this->data);
     }
+
+    public function syllabus_2014_2023()
+    {
+
+        $this->data['title'] = "Syllabus 2014-2023";
+        $this->data['menu_syllabus_2014_2023'] = "active";
+        $this->load->view('public/syllabus_2014_2023', $this->data);
+    }
     public function committee_of_management()
     {
 
