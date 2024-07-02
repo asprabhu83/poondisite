@@ -6,8 +6,11 @@ init_public_head();
 	<div class="alert alert-primary alert-dismissible" role="alert">
 		<marquee>
 		<!-- <span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank">Semester Examination start on 12.04.2024. <span>&#9733;</span></strong></a> -->
+		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank">The Acadeic Session for the first year UG students will commence on July 3, 2024.</a>
 		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank">UG Admissions open 2024-2025  </a>
-		<span>&#9733;</span><strong><a href="<?php echo base_url('public/pdf/Fees_Structure_2024-25.jpeg') ?>" target="_blank">UG Fees Structure 2024-2025</strong></a> <span>&#9733;</span></strong>
+		<span>&#9733;</span><strong><a href="<?php echo base_url('public/pdf/Fees_Structure_2024-25.jpeg') ?>" target="_blank">UG Fees Structure 2024-2025</strong></a> </strong>
+		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank">PG Admissions open 2024-2025  </a>
+		<span>&#9733;</span><strong><a href="<?php echo base_url('public/pdf/PG_Fees_Structure_2024-25.jpeg') ?>" target="_blank">PG Fees Structure 2024-2025</strong></a> <span>&#9733;</span></strong>
 		<!-- <span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank">Admissions for the Academic year 2023-2024 closed <span>&#9733;</span></strong></a> -->
 		<!-- <span>&#9733;</span><strong><a href="<?php echo base_url('public/pdf/Events/Pushpamala2023.pdf') ?>" target="_blank">Pushpamala 2023 - Invitation</strong></a> -->
 		<!-- <span>&#9733;</span><strong><a href="https://www.youtube.com/live/fiGCC-cHwPQ?feature=share" target="_blank">Pushpamala 2023(2<sup>nd</sup> Day-11.03.2023) - YouTube live</strong></a><span>&#9733;</span> -->
