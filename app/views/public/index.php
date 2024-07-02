@@ -6,7 +6,7 @@ init_public_head();
 	<div class="alert alert-primary alert-dismissible" role="alert">
 		<marquee>
 		<!-- <span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank">Semester Examination start on 12.04.2024. <span>&#9733;</span></strong></a> -->
-		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank">The Acadeic Session for the first year UG students will commence on July 3, 2024.</a>
+		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank">The Academic Session for the first year UG students will commence on July 3, 2024.</a>
 		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank">UG Admissions open 2024-2025  </a>
 		<span>&#9733;</span><strong><a href="<?php echo base_url('public/pdf/Fees_Structure_2024-25.jpeg') ?>" target="_blank">UG Fees Structure 2024-2025</strong></a> </strong>
 		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank">PG Admissions open 2024-2025  </a>
