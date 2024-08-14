@@ -98,8 +98,8 @@ init_public_head();
 						<td><?php syllabus_link('syllabus_2017_updated/PG_SYLLABUS/ma_english_syllabus') ?></td>
                         <td><?php syllabus_link('syllabus_2020_updated/UG_SYLLABUS/ba_english_syllabus') ?></td>
 						<td><?php syllabus_link('syllabus_2020_updated/PG_SYLLABUS/ma_english_syllabus') ?></td>
-                        <td><?php syllabus_link('syllabus_2023_updated/UG_SYLLABUS/ba_english_syllabus') ?></td>
-						<td><?php syllabus_link('syllabus_2023_updated/PG_SYLLABUS/ma_english_syllabus') ?></td>
+                        <td><?php syllabus_link('syllabus_2023_updated/UG_SYLLABUS/B.A_English_Syllabus_2023') ?></td>
+						<td><?php syllabus_link('syllabus_2023_updated/PG_SYLLABUS/M.A_English_Syllabus_2023') ?></td>
                         
                     </tr>
                     <tr>
