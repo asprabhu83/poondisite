@@ -384,7 +384,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                             <li><a href="public/pdf/Naac/AQAR/AQAR2019-2020.pdf"><span class="text-middle">2019-2020</span></a></li>
                                                             <li><a href="public/pdf/Naac/AQAR/AQAR2020-2021.pdf"><span class="text-middle">2020-2021</span></a></li>
                                                             <li><a href="public/pdf/Naac/AQAR/AQAR2021-2022.pdf"><span class="text-middle">2021-2022</span></a></li>
-                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2021-2022.pdf"><span class="text-middle">2022-2023</span></a></li>
+                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2022-2023.pdf"><span class="text-middle">2022-2023</span></a></li>
                                                                                                                         
                                                         </ul>
                                                     </li>
