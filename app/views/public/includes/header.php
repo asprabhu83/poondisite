@@ -627,6 +627,10 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                 <li class="active "><a href="https://cubonline.biz/StudentLogin?Instname=AVVMSPCP" target="_blank"><span>Semester (Tuition) Fees Payment </span></a>    
                                                 <li class="active "><a href="https://docs.google.com/forms/d/e/1FAIpQLSdwzO6DD_By8Ow3nm3qxT57f7IcngSCWCFOIn2TMboJQi0TXQ/viewform" target="_blank"><span>Semester Course Registration(SCR)</span></a>
                                                 <li><a href="<?php echo base_url('login_form') ?>"><span class="text-middle">Student Feedback on Curriculum</span></a></li>
+                                                <li><a href="<?php echo base_url('know_your_umis') ?>"><span class="text-middle">Know your UMIS number</span></a></li>
+
+                                                <!-- <li class="active "><a href="https://avvmspc.controllerofexamination.com/student-login.php" target="_blank"><span>Know your UMIS number</span></a>
+                                                <li class="active "><a href="https://avvmspc.controllerofexamination.com/student-login.php" target="_blank"><span>Help Desk</span></a> -->
                                                     <!-- <li class="active "><a href="https://avvmspc.controllerofexamination.com/student-login.php" target="_blank"><span>Feedback on Faculty</span></a> -->
                                                     <!-- <li class="active "><a href="https://avvmspc.controllerofexamination.com/student-login.php" target="_blank"><span>Feedback on Curriculum</span></a> -->
                                                     <!-- <li class="active "><a href="https://forms.gle/f4eQiLJcXSDun1GBA" target="_blank"><span>EDC Link 2022-2023(For II PG)</span></a>
