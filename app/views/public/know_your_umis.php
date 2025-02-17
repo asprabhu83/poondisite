@@ -8,6 +8,11 @@ $username = "root";
 $password = "";
 $database = "college_db";
 
+// $servername = "localhost";
+// $username = "admin_sripushpamc";
+// $password = "7d#yfS47";
+// $dbname = "admin_sripushpamc";
+
 $conn = new mysqli($servername, $username, $password, $database);
 
 if ($conn->connect_error) {
