@@ -384,7 +384,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                             <li><a href="public/pdf/Naac/AQAR/AQAR2019-2020.pdf"><span class="text-middle">2019-2020</span></a></li>
                                                             <li><a href="public/pdf/Naac/AQAR/AQAR2020-2021.pdf"><span class="text-middle">2020-2021</span></a></li>
                                                             <li><a href="public/pdf/Naac/AQAR/AQAR2021-2022.pdf"><span class="text-middle">2021-2022</span></a></li>
-                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2021-2022.pdf"><span class="text-middle">2022-2023</span></a></li>
+                                                            <li><a href="public/pdf/Naac/AQAR/AQAR2022-2023.pdf"><span class="text-middle">2022-2023</span></a></li>
                                                                                                                         
                                                         </ul>
                                                     </li>
@@ -431,6 +431,8 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                         </li>   
                                                         </li>   
                                                         <li class="active "><a href="https://aqar2023.avvmspc.ac.in/" target="_blank"><span>AQAR-2023</span></a>
+                                                        </li>   
+                                                        <li class="active "><a href="https://aqar2024.avvmspc.ac.in/" target="_blank"><span>AQAR-2024</span></a>
                                                         </li>   
                                                         <!-- <li class="active "><a href="public/pdf/Naac/AQAR/AQAR2020-2021.pdf"><span class="text-middle">AQAR-2021_Final</span></a></a>
                                                         </li>   -->
@@ -489,6 +491,8 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                             <li class="active"><a href="#"><span>NIRF</span></a>
                                                 <ul class="rd-navbar-dropdown">
                                                     <li class="active "><a href="<?php echo base_url('nirf') ?>"><span>About NIRF</span></a>
+                                                    <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2025.pdf') ?>"><span>NIRF 2025</span></a>
+                                                    <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2024.pdf') ?>"><span>NIRF 2024</span></a>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2023.pdf') ?>"><span>NIRF 2023</span></a>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2022.pdf') ?>"><span>NIRF 2022</span></a>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2021.pdf') ?>"><span>NIRF 2021</span></a>
@@ -625,6 +629,10 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                 <li class="active "><a href="https://cubonline.biz/StudentLogin?Instname=AVVMSPCP" target="_blank"><span>Semester (Tuition) Fees Payment </span></a>    
                                                 <li class="active "><a href="https://docs.google.com/forms/d/e/1FAIpQLSdwzO6DD_By8Ow3nm3qxT57f7IcngSCWCFOIn2TMboJQi0TXQ/viewform" target="_blank"><span>Semester Course Registration(SCR)</span></a>
                                                 <li><a href="<?php echo base_url('login_form') ?>"><span class="text-middle">Student Feedback on Curriculum</span></a></li>
+                                                <li><a href="<?php echo base_url('know_your_umis') ?>"><span class="text-middle">Know your UMIS number</span></a></li>
+
+                                                <!-- <li class="active "><a href="https://avvmspc.controllerofexamination.com/student-login.php" target="_blank"><span>Know your UMIS number</span></a>
+                                                <li class="active "><a href="https://avvmspc.controllerofexamination.com/student-login.php" target="_blank"><span>Help Desk</span></a> -->
                                                     <!-- <li class="active "><a href="https://avvmspc.controllerofexamination.com/student-login.php" target="_blank"><span>Feedback on Faculty</span></a> -->
                                                     <!-- <li class="active "><a href="https://avvmspc.controllerofexamination.com/student-login.php" target="_blank"><span>Feedback on Curriculum</span></a> -->
                                                     <!-- <li class="active "><a href="https://forms.gle/f4eQiLJcXSDun1GBA" target="_blank"><span>EDC Link 2022-2023(For II PG)</span></a>

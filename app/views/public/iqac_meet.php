@@ -62,7 +62,13 @@ init_public_head();
 									</th>
 								</tr> -->
 								
-								
+								<tr>
+									<th colspan="4">2023 - 2024</th>
+								</tr>
+								<tr>
+									<td>IQAC MEET 2023 - 2024</td>
+									<td colspan="4"><a href="<?php echo base_url('public/pdf/IQAC/01.06.2022.pdf') ?>" target="_blank" rel="noopener">FINAL.PDF</a></td>
+								</tr>
 								<tr>
 									<th colspan="4">2022 - 2023</th>
 								</tr>

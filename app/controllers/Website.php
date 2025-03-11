@@ -965,6 +965,12 @@ class Website extends App_Controller
         $this->data['menu_login_form'] = "active";
         $this->load->view('public/login_form', $this->data);
     }
+    public function know_your_umis()
+    {
+        $this->data['title'] = "KNOW_YOUR_UMIS";
+        $this->data['menu_know_your_umis'] = "active";
+        $this->load->view('public/know_your_umis', $this->data);
+    }
     public function feedback()
     {
         $this->data['title'] = "Feedback";
