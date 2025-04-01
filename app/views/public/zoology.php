@@ -433,7 +433,7 @@ init_public_head();
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
-									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.S.%20Ganesan.pdf') ?>" target="_blank" rel="noopener">Dr. S. Ganesan</a></th>
+									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/AIDED/Dr.S.GANESAN_ZOOLOGY.pdf') ?>" target="_blank" rel="noopener">Dr. S. Ganesan</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 								<tr>
