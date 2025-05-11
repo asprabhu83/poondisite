@@ -131,7 +131,7 @@ if (!empty($username)) {
 
                     <tr>
                         <td>2.</td>
-                        <td>The college provides academic freedom and opportunities for curriculum development.  </td>
+                        <td>The college provides academic freedom and opportunities for curriculum development.</td>
 						            <span class="star-rating">
                             <td><input type="radio" name="q2" value="1"><i></i></td>
                             <td><input type="radio" name="q2" value="2"><i></i></td>
@@ -161,7 +161,7 @@ if (!empty($username)) {
 
                    <tr>
                         <td>4.</td>
-                        <td>The content of the course is pertinent and tailored to meet specific needs. </td>
+                        <td>The content of the course is pertinent and tailored to meet specific needs.</td>
 						            <span class="star-rating">
                             <td><input type="radio" name="q4" value="1"><i></i></td>
                             <td><input type="radio" name="q4" value="2"><i></i></td>
@@ -176,7 +176,7 @@ if (!empty($username)) {
 
                     <tr>
                         <td>5.</td>
-                        <td>The objectives of the course are precisely defined and apparent. Or Course outcomes are precisely defined and apparent</td>
+                        <td>Course outcomes are precisely defined and apparent</td>
 						            <span class="star-rating">
                             <td><input type="radio" name="q5" value="1"><i></i></td>
                             <td><input type="radio" name="q5" value="2"><i></i></td>
@@ -191,7 +191,7 @@ if (!empty($username)) {
 
                     <tr>
                         <td>6.</td>
-                        <td>The course content provides ample opportunities for students to enhance their analytical, logical, technical, and creative skills. </td>
+                        <td>The course content provides ample opportunities for students to enhance their analytical, logical, technical, and creative skills.</td>
 						            <span class="star-rating">
                             <td><input type="radio" name="q6" value="1"><i></i></td>
                             <td><input type="radio" name="q6" value="2"><i></i></td>
@@ -206,7 +206,7 @@ if (!empty($username)) {
 
                     <tr>
                         <td>7.</td>
-                        <td>The course activities, including field visits, guest lectures, assignments, seminars, and others, are pertinent for nurturing a variety of skills essential for both employment and entrepreneurship. </td>
+                        <td>The course activities, including field visits, guest lectures, assignments, seminars, and others, are pertinent for nurturing a variety of skills essential for both employment and entrepreneurship.</td>
 						            <span class="star-rating">
                             <td><input type="radio" name="q7" value="1"><i></i></td>
                             <td><input type="radio" name="q7" value="2"><i></i></td>
@@ -221,7 +221,7 @@ if (!empty($username)) {
 
                     <tr>
                         <td>8.</td>
-                        <td>The curriculum encourages students to utilize a variety of resources, both within and outside the college, to enhance their learning effectively. </td>
+                        <td>The curriculum encourages students to utilize a variety of resources, both within and outside the college, to enhance their learning effectively.</td>
 						            <span class="star-rating">
                             <td><input type="radio" name="q8" value="1"><i></i></td>
                             <td><input type="radio" name="q8" value="2"><i></i></td>
@@ -251,7 +251,7 @@ if (!empty($username)) {
 
                     <tr>
                         <td>10.</td>
-                        <td>The syllabus undergoes regular revisions. </td>
+                        <td>The syllabus undergoes regular revisions.</td>
 						            <span class="star-rating">
                             <td><input type="radio" name="q10" value="1"><i></i></td>
                             <td><input type="radio" name="q10" value="2"><i></i></td>
