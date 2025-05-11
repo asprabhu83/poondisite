@@ -304,7 +304,7 @@ init_public_tail();
 
             <form name="feedback_form" method="POST" action="feedback_form">
 
-              <input type="hidden" name="username" value="<?php echo $roll_no; ?>"> -->
+              <input type="hidden" name="username" value="<?php echo $roll_no; ?>">  -->
 
             
                    <!-- <label>1. Curriculum is suitable to the programme</label><br> -->
@@ -548,11 +548,8 @@ init_public_tail();
 
 </html>
 
-<?php
-init_public_tail();
-?> -->
 
-<!-- <style>
+<style>
   .rt-container { background-color: rgb(255, 122, 89); } 
 </style> -->
 
