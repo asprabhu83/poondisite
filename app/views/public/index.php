@@ -5,6 +5,9 @@ init_public_head();
 <div class="container-fluid marqueewrap">
 	<div class="alert alert-primary alert-dismissible" role="alert">
 		<marquee>
+		
+		<span>&#9733;</span><strong><a href="<?php echo base_url('https://examresult.sripushpamcollege.co.in') ?>" target="_blank">The exam results of our undergraduate students will be published on June 2, 2025, at 9:30 AM in our college.</strong></a>	
+		<span>&#9733;</span><strong><a href="<?php echo base_url('https://examresult.sripushpamcollege.co.in') ?>" target="_blank">Click here to view the PG results.</strong></a>
 		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank">UG and PG admissions for 2025–2026 are now open.<span>&#9733;</span></strong></a> 
 		<strong><a href="<?php echo base_url('public/pdf/UG_Fees_strucutrue_2025_2026.jpeg') ?>" target="_blank">UG Fees Structure 2025-2026</strong></a> </strong> <span>&#9733;</span>
 		<!-- <span>&#9733;</span><strong><a href="https://youtube.com/live/zEUHzCkfew4?feature=share" target="_blank">47<sup>th</sup> AVVM Sri Pushpam College - Convocation (Boys) 2024 (Date:05.10.2024) - YouTube live</strong></a> <span>&#9733;</span>
