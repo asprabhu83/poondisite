@@ -130,6 +130,8 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     </li>
                                                     <li><a href="<?php echo base_url('principal-message') ?>"><span class="text-middle"> Principal&#039;s Message </span></a>
                                                     </li>
+                                                    <li><a href="<?php echo base_url('viceprincipal') ?>"><span class="text-middle"> Vice Principal&#039;s</span></a>
+                                                    </li>
                                                     <li><a href="<?php echo base_url('former-principals') ?>"><span class="text-middle">Former Principals </span></a>
                                                     </li>
                                                     <li><a href="<?php echo base_url('milestones') ?>"><span class="text-middle">Milestones </span></a>

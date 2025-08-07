@@ -56,6 +56,13 @@ class Website extends App_Controller
         $this->data['menu_raw_materials'] = "active";
         $this->load->view('public/principal_message', $this->data);
     }
+    public function viceprincipal()
+    {
+
+        $this->data['title'] = "VicePrincipal's Message";
+        $this->data['menu_raw_materials'] = "active";
+        $this->load->view('public/viceprincipal', $this->data);
+    }
     public function vision_mission()
     {
         $this->data['title'] = "Vision & Mission";

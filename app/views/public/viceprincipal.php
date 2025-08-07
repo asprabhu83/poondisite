@@ -6,14 +6,14 @@ init_public_head();
 <div class="section-height-800 breadcrumb-message context-dark text-center">
 	<div class="shell section-bottom-30">
 		<div class="veil reveal-md-block">
-			<h1 class="text-bold" style="color: cornsilk;">Principal's Message</h1>
+			<h1 class="text-bold" style="color: cornsilk;">Vice Principal's Message</h1>
 		</div>
 		<ul class="list-inline list-inline-with-arrows p">
 			<ul class="list-inline list-inline-with-arrows p">
 				<ul class="list-inline list-inline-with-arrows p">
 					<ul class="list-inline list-inline-with-arrows p">
 						<li><a href="<?php echo base_url()?>" class="text-white">Home </a></li>
-						<li>Principal's Message</li>
+						<li>Vice Principal's Message</li>
 					</ul>
 				</ul>
 			</ul>
@@ -24,15 +24,15 @@ init_public_head();
 	<div class="shell-fluid">
 		<div class="range range-xs-center  text-left ">
 			<div class="cell-xs-12 cell-sm-12 cell-md-12 offset-top-60 offset-md-top-0"><center>
-				<h2><strong>Principal's Message</strong></h2>
+				<h2><strong>Vice Principal's Message</strong></h2>
 				<!-- <br /><img alt="" class="img-responsive"height="500" width="800" src="<?php echo base_url('assets/images/MSM2.jpg') ?>" width="650" /><center> -->
 				<!-- <br /><img alt="" class="img-responsive"height="300" width="200" src="<?php echo base_url('assets/images/TSB1.jpeg') ?>" width="650" /><center> -->
-				<br /><img alt="" class="img-responsive"height="300" width="500" src="<?php echo base_url('assets/images/vm_sir.jpeg') ?>" width="650" /><center>
+				<br /><img alt="" class="img-responsive"height="300" width="500" src="<?php echo base_url('assets/images/viceprincipal.jpeg') ?>" width="650" /><center>
 				<!-- <br /><img alt="" class="img-responsive"height="300" width="200" src="<?php echo base_url('assets/images/MSM_Principal1.jpg') ?>" width="650" /><center> -->
 				<!-- <br /><img alt="" class="img-responsive" height="1200" src="<?php echo base_url('assets/images/principal1.jpg') ?>" width="750" /><center> -->
 				<!-- <p><strong>Dr. R. Sivakumar <br />Principal</strong></p> -->
 				<!-- <p><strong>Dr.T.S.Baskaran, <br />Principal</strong></p> -->
-				<p><strong>Dr.V.Maniraj, <br />Principal</strong></p>
+				<p><strong>Dr.M.Madan Mohan, <br />Vice Principal</strong></p>
 				
 				</center></center>
 				
@@ -52,7 +52,7 @@ init_public_head();
 				</div> -->
 				<div class="rm">
 				<div class="inset-md-left-36 inset-xl-left-110 offset-top-60">
-					<ul class="list list-marked">
+					<!-- <ul class="list list-marked">
 					
 					<p <span>&#9733;</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  We are proud that Sri Pushpam college, the Temple of Learning, is striding towards excellence in Higher Education in academic, curricular and extra-curricular activities.
 					<p <span>&#9733;</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I deem it an honorable prestige to notice our academicians motivating the rural youth, bring professionally qualified and socially committed. Our curriculum and teaching &ndash; learning process focus primarily to mould the younger generation moving higher and higher to achieve their goal in Higher Education.
@@ -60,7 +60,7 @@ init_public_head();
 					<p <span>&#9733;</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  We are highly indebted to the teaching fraternity for their untiring service, to the administrative machinery for its constant support and to the student community for its insatiable interest and involvement in studiously building this temple of learning of higher education and research.
 					<p <span>&#9733;</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Let us walk straight following the noble thought of our former President of India, A. P. J. Abdul Kalam: &ldquo;My message, especially to young people is to have courage to think differently, courage to invent, to travel the unexplored path, courage to discover the impossible and to conquer the problems and succeed. These are great qualities that they must work towards. This is my message to the young people.&rdquo;
 					<p <span>&#9733;</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Let me conclude my message with Ayya&rsquo;s words: &ldquo;Have an ear for good; it will work for your ambitious bloom.&rdquo;</p>
-					</ul>
+					</ul> -->
 				</div>
 				</div>
 			</div>
