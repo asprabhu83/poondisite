@@ -32,7 +32,7 @@ init_public_head();
 				<!-- <br /><img alt="" class="img-responsive" height="1200" src="<?php echo base_url('assets/images/principal1.jpg') ?>" width="750" /><center> -->
 				<!-- <p><strong>Dr. R. Sivakumar <br />Principal</strong></p> -->
 				<!-- <p><strong>Dr.T.S.Baskaran, <br />Principal</strong></p> -->
-				<p><strong>Dr.V.Maniraj, <br />Principal</strong></p>
+				<p><strong>Dr.V.Maniraj, <br />Principal (i/c)</strong></p>
 				
 				</center></center>
 				
