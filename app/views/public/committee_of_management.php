@@ -39,7 +39,8 @@ init_public_head();
 			<div class="cell-xs-10 cell-sm-8 cell-md-4">
 				<article class="post post-event"><img alt="" class="img-responsive" height="330" src="<?php echo base_url('assets/images/committee/1.President.jpg') ?>" width="570" />
 					<h4 align="center" class="text-bold">Thiru T. Krishnasamy Vandayar, B.Tech.</h4>
-					<p><h5 align="center" class="text-bold">President</h5><strong></strong></p>
+					<p><h5 align="center" class="text-bold">Secretary and Correspondent</h5><strong></strong></p>
+					<!-- <p><h5 align="center" class="text-bold">President</h5><strong></strong></p> -->
 				</article>
 			</div>
 
@@ -74,7 +75,7 @@ init_public_head();
 			<div class="cell-xs-10 cell-sm-8 cell-md-4 offset-top-60 offset-md-top-0">
 				<article class="post post-event"><img alt="" class="img-responsive" height="330" src="<?php echo base_url('assets/images/committee/2. Secretary.jpg') ?>" width="570" />
 					<h4 align="center" class="text-bold">Thiru A.Balasubramania Vandayar, M.A.</h4>
-					<p><h5 align="center" class="text-bold">Secretary and Correspondent</h5><strong></strong></p>
+					<!-- <p><h5 align="center" class="text-bold">Secretary and Correspondent</h5><strong></strong></p> -->
 				</article>
 			</div>
 <!--
@@ -97,7 +98,7 @@ init_public_head();
 		
 		<h4 align="left" class="text-bold">EX-OFFICIO MEMBER - SECRETARY</h4>
 		<!-- <p align="left" class="offset-md-top-20">Dr. R. Sivakumar , Principal</p> -->
-		<p align="left" class="offset-md-top-20">Dr.M.S.Muthuramalingam, Principal(i/c)</p>
+		<p align="left" class="offset-md-top-20">Dr.V.Maniraj, Principal(i/c)</p>
 		<!-- <h4 align="left" class="text-bold">UNIVERSITY REPRESENTATIVE</h4>
 		<p align="left" class="offset-md-top-20">Dr. A.Ajmal Khan, Associate Professor of English, Jamal Mohamed College, Trichirappalli.</p> -->
 	</div>

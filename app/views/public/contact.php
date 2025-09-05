@@ -69,7 +69,8 @@ init_public_head();
                                 <ul>
                                     <ul>
                                        
-                                       <p><strong>Dr. T.S.Baskaran,</strong> <br />M.Sc, M.Phil, Ph.D.,<br />Principal<br />A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9367753230<br /><strong>E-mail :</strong> <br />principal@avvmspc.ac.in<br /> </p>
+                                       <!-- <p><strong>Dr. T.S.Baskaran,</strong> <br />M.Sc, M.Phil, Ph.D.,<br />Principal<br />A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9367753230<br /><strong>E-mail :</strong> <br />principal@avvmspc.ac.in<br /> </p> -->
+                                       <p><strong>Dr. V.Maniraj</strong> <br />M.Sc, M.Phil, Ph.D.,<br />Principal<br />A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9443675459<br /><strong>E-mail :</strong> <br />principal@avvmspc.ac.in<br /> </p>
 		                               
                                     </ul>
                                 </ul>
@@ -120,7 +121,7 @@ init_public_head();
                                 <ul>
                                     <ul>
                                        
-                                       <p><strong>Admission Committee Chairman / Members </strong> <br />A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9443806085,7904497576<br /><strong>E-mail :</strong> admission@avvmspc.ac.in<br /></p>
+                                       <p><strong>Dr. S. Shankar,</strong> <br />M. Sc, Ph.D.,<br /> Admission Committee Chairman <br />A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9443806085,7904497576<br /><strong>E-mail :</strong> admission@avvmspc.ac.in<br /></p>
 		                               
                                     </ul>
                                 </ul>
@@ -135,7 +136,7 @@ init_public_head();
                                 <ul>
                                     <ul>
                                        
-                                       <p><strong>Dr.M.Pramesh,</strong> <br />M.Sc, M.Phil, Ph.D.,<br />Placement Officer  <br /> A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9443963108, 7904451231<br />  <strong>E-mail :</strong> avvmspcplacement2021@gmail.com, placement@avvmspc.ac.in<br /><br /></p>
+                                       <p><strong>Dr.G.Vishnuvardhanaraj,</strong> <br />M.Sc, M.Phil, Ph.D.,<br />Placement Officer  <br /> A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9994287087<br />  <strong>E-mail :</strong> avvmspcplacement2021@gmail.com, placement@avvmspc.ac.in<br /><br /></p>
 		                               
                                     </ul>
                                 </ul>
