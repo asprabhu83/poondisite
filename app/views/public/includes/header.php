@@ -463,6 +463,13 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                         </ul>
                                                     </li>
 
+                                                    <li class="active"><a href="<?php echo base_url('#') ?>"><span>Peer Team Report</span></a>
+                                                        <ul class="rd-navbar-dropdown">
+                                                            <li class="active "><a href="<?php echo base_url('public/pdf/IQAC/External_Peer_team_Review_Committee_report_2024-2025.pdf') ?>"><span>2024-2025</span></a>
+                                                                                                                        
+                                                        </ul>
+                                                    </li>
+
 
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/IQAC/Action%20Taken%20Report%20of%20IQAC%202019.pdf') ?>"><span>Action Taken Report </span></a>
                                                     </li>
