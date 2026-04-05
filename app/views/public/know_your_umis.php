@@ -3,15 +3,15 @@ defined('BASEPATH') or exit('No direct script access allowed');
 init_public_head();
 ?>
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
-$database = "college_db";
-
 // $servername = "localhost";
-// $username = "admin_sripushpamc";
-// $password = "7d#yfS47";
-// $dbname = "admin_sripushpamc";
+// $username = "root";
+// $password = "";
+// $database = "college_db";
+
+$servername = "localhost";
+$username = "admin_sripushpamc";
+$password = "7d#yfS47";
+$dbname = "admin_sripushpamc";
 
 $conn = new mysqli($servername, $username, $password, $database);
 
