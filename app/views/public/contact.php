@@ -121,7 +121,7 @@ init_public_head();
                                 <ul>
                                     <ul>
                                        
-                                       <p><strong>Dr. S. Shankar,</strong> <br />M. Sc, Ph.D.,<br /> Admission Committee Chairman <br />A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9443806085,7904497576<br /><strong>E-mail :</strong> admission@avvmspc.ac.in<br /></p>
+                                       <p><strong>Dr. A. Venkatesh,</strong> <br />M. Sc, M.Phil., Ph.D.,<br /> Admission Committee Chairman <br />A.V.V.M. Sri Pushpam College (Autonomous)<br />Poondi-613 503., Thanjavur<br /><strong>Mobile :</strong> 9003429139<br /><strong>E-mail :</strong> admission@avvmspc.ac.in<br /></p>
 		                               
                                     </ul>
                                 </ul>
