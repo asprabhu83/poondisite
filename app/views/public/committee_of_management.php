@@ -75,7 +75,7 @@ init_public_head();
 			<div class="cell-xs-10 cell-sm-8 cell-md-4 offset-top-60 offset-md-top-0">
 				<article class="post post-event"><img alt="" class="img-responsive" height="330" src="<?php echo base_url('assets/images/committee/2. Secretary.jpg') ?>" width="570" />
 					<h4 align="center" class="text-bold">Thiru A.Balasubramania Vandayar, M.A.</h4>
-					<!-- <p><h5 align="center" class="text-bold">Secretary and Correspondent</h5><strong></strong></p> -->
+					<p><h5 align="center" class="text-bold">Member</h5><strong></strong></p> 
 				</article>
 			</div>
 <!--
