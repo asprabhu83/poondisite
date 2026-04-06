@@ -499,6 +499,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                             <li class="active"><a href="#"><span>NIRF</span></a>
                                                 <ul class="rd-navbar-dropdown">
                                                     <li class="active "><a href="<?php echo base_url('nirf') ?>"><span>About NIRF</span></a>
+                                                    <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2026.pdf') ?>"><span>NIRF 2026</span></a>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2025.pdf') ?>"><span>NIRF 2025</span></a>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2024.pdf') ?>"><span>NIRF 2024</span></a>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2023.pdf') ?>"><span>NIRF 2023</span></a>
