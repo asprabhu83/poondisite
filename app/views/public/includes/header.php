@@ -569,6 +569,7 @@ ENVIRONMENT == 'development' ?  ob_start() : '';
                                                     <!-- <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2021.pdf') ?>"><span>NIRF 2021</span></a>
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/NIRF/NIRF_2018.pdf') ?>"><span>NIRF 2018</span></a> -->
                                                     <li class="active "><a href="<?php echo base_url('/public/pdf/EOA_SPCTE/Approval_Copy.pdf') ?>"><span>Approval Copy</span></a> 
+                                                    <li class="active "><a href="<?php echo base_url('public/pdf/EOA_SPCTE/EOA_Report_2024-27.PDF') ?>"><span>EOA 2024-2027</span></a> 
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/EOA_SPCTE/EOA_Report_2024-25.PDF') ?>"><span>EOA 2024-2025</span></a> 
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/EOA_SPCTE/EOA_Report_2023-24.PDF') ?>"><span>EOA 2023-2024</span></a> 
                                                     <li class="active "><a href="<?php echo base_url('public/pdf/EOA_SPCTE/EOA_Report_2022-23.PDF') ?>"><span>EOA 2022-2023</span></a> 
