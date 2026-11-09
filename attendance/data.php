@@ -8,7 +8,7 @@ if(isset($_POST['academic_year']) && !empty($_POST)) {
 		$staffid = $_POST['staffid'];
 		$academic_year = $_POST['academic_year'];
 		$semester = $_POST['semester'];
-				$date_insert = strtr($_POST['date1'],'/','-');
+				$date_insert = strtr((string) $_POST['date1'],'/','-');
 				$time = date("h:i:s", strtotime("now"));
 		$date1 = date('Y-m-d H:i:s',strtotime($date_insert.' '.$time));
 		$hour = $_POST['hour'];

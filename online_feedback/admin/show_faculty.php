@@ -31,7 +31,7 @@ function deletes(id)
 	$i=1;
 	$que=mysqli_query($conn,"select * from faculty");
 	
-	while($row=mysqli_fetch_array($que))
+	while($row=($que ? mysqli_fetch_array($que) : null))
 	{
 		echo "<tr>";
 		echo "<td>".$i."</td>";

@@ -73,13 +73,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <h2 class="mb-3">Student Details</h2>
                 <div class="table-responsive">
                     <table class="table table-bordered">
-                        <tr><th>EMIS ID</th><td><?php echo htmlspecialchars($student['emis_id']); ?></td></tr>
-                        <tr><th>Name</th><td><?php echo htmlspecialchars($student['name']); ?></td></tr>
-                        <tr><th>Registration Number</th><td><?php echo htmlspecialchars($student['reg_number']); ?></td></tr>
-                        <tr><th>Mobile Number</th><td><?php echo htmlspecialchars($student['mobile_number']); ?></td></tr>
-                        <tr><th>Status</th><td><?php echo htmlspecialchars($student['status']); ?></td></tr>
-                        <tr><th>Course Type</th><td><?php echo htmlspecialchars($student['course_type']); ?></td></tr>
-                        <tr><th>Reference UMIS ID</th><td><?php echo htmlspecialchars($student['reference_umis_id']); ?></td></tr>
+                        <tr><th>EMIS ID</th><td><?php echo htmlspecialchars((string) $student['emis_id']); ?></td></tr>
+                        <tr><th>Name</th><td><?php echo htmlspecialchars((string) $student['name']); ?></td></tr>
+                        <tr><th>Registration Number</th><td><?php echo htmlspecialchars((string) $student['reg_number']); ?></td></tr>
+                        <tr><th>Mobile Number</th><td><?php echo htmlspecialchars((string) $student['mobile_number']); ?></td></tr>
+                        <tr><th>Status</th><td><?php echo htmlspecialchars((string) $student['status']); ?></td></tr>
+                        <tr><th>Course Type</th><td><?php echo htmlspecialchars((string) $student['course_type']); ?></td></tr>
+                        <tr><th>Reference UMIS ID</th><td><?php echo htmlspecialchars((string) $student['reference_umis_id']); ?></td></tr>
                     </table>
                 </div>
             <?php endif; ?>

@@ -11,7 +11,7 @@ $err="<font color='green'>Faculty Details updated</font>";
 
 $con=mysqli_query($conn,"select * from faculty where id='".$_GET['id']."'");
 
-$res=mysqli_fetch_assoc($con);	
+$res=($con ? mysqli_fetch_assoc($con) : null);	
 
 ?>
 

@@ -10,7 +10,7 @@ $roll_no =  isset($_POST["roll_no"]) ? $_POST["roll_no"] : '';
 
 if (!empty($roll_no)) {
 
-  $get_dob = str_replace('/', '-', $_POST['dob']);
+  $get_dob = str_replace('/', '-', (string) $_POST['dob']);
 
   $dob = date("Y-m-d", strtotime($get_dob));
 

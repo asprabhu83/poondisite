@@ -28,7 +28,7 @@ function deletes(id)
 	$i=1;
 	$que=mysqli_query($conn,"select * from user");
 	
-	while($row=mysqli_fetch_array($que))
+	while($row=($que ? mysqli_fetch_array($que) : null))
 	{
 		echo "<tr>";
 		echo "<td>".$i."</td>";

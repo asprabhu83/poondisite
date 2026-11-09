@@ -11,7 +11,7 @@ $err="<font color='green'>Faculty Details updated</font>";
 
 $con=mysqli_query($conn,"select * from faculty where email='".$_SESSION['faculty_login']."'");
 
-$res=mysqli_fetch_assoc($con);	
+$res=($con ? mysqli_fetch_assoc($con) : null);	
 //print_r($res);
 ?>
 

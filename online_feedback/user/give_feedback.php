@@ -5,7 +5,7 @@ if(isset($sub))
 $user=$_SESSION['user'];
 
 $sql=mysqli_query($conn,"select * from feedback where student_id='$user' and faculty_id='$faculty'");
-$r=mysqli_num_rows($sql);
+$r=($sql ? mysqli_num_rows($sql) : null);
 
 if($r==true)
 {
@@ -48,7 +48,7 @@ echo "<h2 style='color:green'>Thank you </h2>";
 <select name="faculty" class="form-control">
 	<?php
 $sql=mysqli_query($conn,"select * from faculty where semester='".$users['semester']."'");
-	while($r=mysqli_fetch_array($sql))
+	while($r=($sql ? mysqli_fetch_array($sql) : null))
 	{
 	echo "<option value='".$r['email']."'>".$r['Name']."</option>";
 	}

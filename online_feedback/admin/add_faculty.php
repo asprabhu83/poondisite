@@ -22,7 +22,7 @@ error_reporting(1);
 		$user_name=$temp.$temp1;
 		
 $q=mysqli_query($conn,"select * from faculty where email='$email'");
-	$r=mysqli_num_rows($q);	
+	$r=($q ? mysqli_num_rows($q) : null);	
 	if($r)
 	{
 	$err="<font color='red'>This email already exists choose diff email.</font>";

@@ -12,7 +12,7 @@ if(isset($save))
 
 $sql=mysqli_query($conn,"select * from faculty where email='$e' and password='$p'");
 
-$r=mysqli_num_rows($sql);
+$r=($sql ? mysqli_num_rows($sql) : null);
 
 if($r==true)
 {

@@ -5,7 +5,7 @@ if(isset($update_password))
 {
 	
 	$que=mysqli_query($conn,"select pass from admin");
-	$row=mysqli_fetch_array($que);
+	$row=($que ? mysqli_fetch_array($que) : null);
     $pass=$row['pass'];
 	if($op!=$pass)
 		{

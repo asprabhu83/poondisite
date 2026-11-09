@@ -18,7 +18,7 @@ function compress()
         '\\1'
       );
 
-    $buffer = preg_replace($search, $replace, $buffer);
+    $buffer = preg_replace($search, $replace, (string) $buffer);
 
     $CI->output->set_output($buffer);
     $CI->output->_display();

@@ -5,7 +5,7 @@ if(isset($save))
 //check user alereay exists or not
 $sql=mysqli_query($conn,"select * from user where email='$e'");
 
-$r=mysqli_num_rows($sql);
+$r=($sql ? mysqli_num_rows($sql) : null);
 
 if($r==true)
 {
@@ -17,7 +17,7 @@ else
 $dob=$yy."-".$mm."-".$dd;
 
 //hobbies
-$hob=implode(",",$hob);
+$hob=(isset($hob) && is_array($hob)) ? implode(",",$hob) : null;
 
 //image
 $imageName=$_FILES['img']['name'];

@@ -6,7 +6,7 @@ if(isset($save))
 // check user alereay exists or not
 $sql=mysqli_query($conn,"select * from user where rollno='$e'");
 
-$r=mysqli_num_rows($sql);
+$r=($sql ? mysqli_num_rows($sql) : null);
 
 if($r==true)
 {

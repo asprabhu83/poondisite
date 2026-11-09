@@ -24,7 +24,7 @@ $err="<font color='blue'>Profie updated successfully !!</font>";
 //select old data
 //check user alereay exists or not
 $sql=mysqli_query($conn,"select * from user where email='".$_SESSION['user']."'");
-$res=mysqli_fetch_assoc($sql);
+$res=($sql ? mysqli_fetch_assoc($sql) : null);
 
 ?>
 <h2 align="center">Update Your Profile</h2>

@@ -15,7 +15,7 @@ if(isset($save))
 // $sql=mysqli_query($conn,"select * from user where email='$e' and pass='$pass'");
 $sql=mysqli_query($conn,"select * from studentmaster where username='$rno' and pwd='$pwd'");
 
-$r=mysqli_num_rows($sql);
+$r=($sql ? mysqli_num_rows($sql) : null);
 
 if($r==true)
 {

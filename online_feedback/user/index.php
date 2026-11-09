@@ -6,7 +6,7 @@ if($user=="")
 {header('location:../index.php');}
 // $sql=mysqli_query($conn,"select * from user where email='$user' ");
 $sql=mysqli_query($conn,"select * from studentmaster where username='$user' ");
-$users=mysqli_fetch_assoc($sql);
+$users=($sql ? mysqli_fetch_assoc($sql) : null);
 // print_r($users);
 ?>
 <!DOCTYPE html>
@@ -77,7 +77,7 @@ $users=mysqli_fetch_assoc($sql);
 			<!-- check users profile image -->
 			<?php 
 			$q=mysqli_query($conn,"select image from user where email='".$_SESSION['user']."'");
-			$row=mysqli_fetch_assoc($q);
+			$row=($q ? mysqli_fetch_assoc($q) : null);
 			// if($row['image']=="")
 			{
 			?>

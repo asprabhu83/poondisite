@@ -131,6 +131,9 @@ class CI_DB_pdo_driver extends CI_DB {
 			$this->options[PDO::ATTR_PERSISTENT] = TRUE;
 		}
 
+		// PHP 8.0+ defaults to PDO::ERRMODE_EXCEPTION; this driver relies on return values
+		isset($this->options[PDO::ATTR_ERRMODE]) OR $this->options[PDO::ATTR_ERRMODE] = PDO::ERRMODE_SILENT;
+
 		try
 		{
 			return new PDO($this->dsn, $this->username, $this->password, $this->options);

@@ -116,6 +116,9 @@ class CI_DB_mysqli_driver extends CI_DB {
 	 */
 	public function db_connect($persistent = FALSE)
 	{
+		// PHP 8.1+ throws mysqli_sql_exception by default; this driver relies on return values
+		mysqli_report(MYSQLI_REPORT_OFF);
+
 		// Do we have a socket path?
 		if ($this->hostname[0] === '/')
 		{

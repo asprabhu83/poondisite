@@ -14,7 +14,7 @@ $pass=md5($p);
 
 $sql=mysqli_query($conn,"select * from user where email='$e' and pass='$pass'");
 
-$r=mysqli_num_rows($sql);
+$r=($sql ? mysqli_num_rows($sql) : null);
 
 if($r==true)
 {

@@ -5,7 +5,7 @@
 	if(isset($login))
 	{
 $que=mysqli_query($conn,"select user and pass from admin where user='$email' and pass='$pass'");
-		$row=mysqli_num_rows($que);
+		$row=($que ? mysqli_num_rows($que) : null);
 		if($row)
 			{	
 				$_SESSION['user']=$email;

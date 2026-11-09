@@ -1,6 +1,6 @@
 <?php 
 $q=mysqli_query($conn,"select * from contact");
-$r=mysqli_num_rows($q);
+$r=($q ? mysqli_num_rows($q) : null);
 if($r==false)
 {
 echo "<h3 style='color:Red'>No any records found ! </h3>";
@@ -46,7 +46,7 @@ function deletes(id)
 		
 		<?php
 		$i=1;
-	while($row=mysqli_fetch_assoc($q))
+	while($row=($q ? mysqli_fetch_assoc($q) : null))
 		{
 			echo "<tr>";
 			echo "<td>".$i."</td>";

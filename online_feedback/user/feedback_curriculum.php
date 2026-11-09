@@ -20,7 +20,7 @@
 <select name="faculty" class="form-control">
 	<?php
 $sql=mysqli_query($conn,"select * from faculty where semester='".$users['semester']."'");
-	while($r=mysqli_fetch_array($sql))
+	while($r=($sql ? mysqli_fetch_array($sql) : null))
 	{
 	echo "<option value='".$r['email']."'>".$r['Name']."</option>";
 	}

@@ -7,7 +7,7 @@
 <select name="faculty" class="form-control">
 	<?php
 	$sql=mysqli_query($conn,"select * from faculty");
-	while($r=mysqli_fetch_array($sql))
+	while($r=($sql ? mysqli_fetch_array($sql) : null))
 	{
 	echo "<option value='".$r['email']."'>".$r['Name']."</option>";
 	}
@@ -27,14 +27,14 @@ if(isset($sub))
 {
 //Count total Votes
 $r=mysqli_query($conn,"select * from feedback where faculty_id='$faculty'");
-$c=mysqli_num_rows($r);	
+$c=($r ? mysqli_num_rows($r) : null);	
 echo "<h4>Total Student Attempts : ".$c."</h4>";
 
 
 
 /*
 $r1=mysqli_query($conn,"select * from feedback where faculty_id='$faculty'");
-$c1=mysqli_fetch_assoc($r1);	
+$c1=($r1 ? mysqli_fetch_assoc($r1) : null);	
 echo "<h4>Total Student Attempts : ".$c1[3]."</h4>";
 
 */
@@ -42,7 +42,7 @@ echo "<h4>Total Student Attempts : ".$c1[3]."</h4>";
 //question 1 start
 error_reporting(1);
 $q=mysqli_query($conn,"select * from feedback where faculty_id='$faculty'");
-while($res=mysqli_fetch_array($q))
+while($res=($q ? mysqli_fetch_array($q) : null))
 {
 	if($res[3]==5)
 	{
@@ -71,7 +71,7 @@ while($res=mysqli_fetch_array($q))
 
 //question 2 start
 $q2=mysqli_query($conn,"select * from feedback where faculty_id='$faculty'");
-while($res=mysqli_fetch_array($q2))
+while($res=($q2 ? mysqli_fetch_array($q2) : null))
 {
 	if($res[4]==5)
 	{
@@ -106,21 +106,21 @@ echo $t;
 
 
 $q=mysqli_query($conn,"select * from feedback where faculty_id='$faculty'");
-while($res=mysqli_fetch_array($q))
+while($res=($q ? mysqli_fetch_array($q) : null))
 {
-$count+=$res[3];
-$count+=$res[4];
-$count+=$res[5];
-$count+=$res[6];
-$count+=$res[7];
-$count+=$res[8];
-$count+=$res[9];
-$count+=$res[10];
-$count+=$res[11];
-$count+=$res[12];
-$count+=$res[13];
-$count+=$res[14];
-$count+=$res[15];
+$count+=(float)$res[3];
+$count+=(float)$res[4];
+$count+=(float)$res[5];
+$count+=(float)$res[6];
+$count+=(float)$res[7];
+$count+=(float)$res[8];
+$count+=(float)$res[9];
+$count+=(float)$res[10];
+$count+=(float)$res[11];
+$count+=(float)$res[12];
+$count+=(float)$res[13];
+$count+=(float)$res[14];
+$count+=(float)$res[15];
 }
 //echo $count;
 }

@@ -12,7 +12,7 @@ if(isset($save))
 // $op=md5($op);	
 
 $sql=mysqli_query($conn,"select * from studentmaster where pwd='$op'");
-$r=mysqli_num_rows($sql);
+$r=($sql ? mysqli_num_rows($sql) : null);
 if($r==true)
 {
 
