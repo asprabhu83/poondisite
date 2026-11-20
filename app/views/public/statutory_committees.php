@@ -207,9 +207,9 @@ init_public_head();
 														<td>Vice-Principal</td>
 													</tr>
 													<tr>
-														<td>Dr. K.Thirumavalavan, Ph.D.<br />Dr. V.Ambigapathy, Ph.D. <br />Dr. S.Vijayakumar, Ph.D.</td>			
+														<td>Dr. K.Thirumavalavan, Ph.D.<br />Dr. V.Ambigapathy, Ph.D. <br /></td>			
 																							
-														<td>Dean, Faculty of Arts &amp; Commerce <br />Dean, Academic <br />Research Director</td>
+														<td>Dean, Faculty of Arts &amp; Commerce <br />Dean, Sciences <br />Research Director</td>
 														
 													</tr>
 													<tr>
@@ -305,12 +305,12 @@ init_public_head();
 														<td>Physics</td> -->
 													</tr>
 													<tr>
-														<td>Dr. R.Mayilraj,</td>
-														<td>English</td>
+														<td></td>
+														<td></td>
 													</tr>
 													<tr>
-														<td>Dr.S.Vijayakumar,</td>
-														<td>Botany</td>
+														<td></td>
+														<td></td>
 													</tr>
 												</tbody>
 											</table>
@@ -347,7 +347,7 @@ init_public_head();
 											<p>P.Asuwathi, I M.Sc., Physics</p> -->
 											
 											<p align="justify" class="text-gray-darker"><strong>REPRESENTATIVE FROM THE COLLEGE OFFICE</strong></p>
-											<p>Mr. Sakthivel, Superintendent.</p>
+											<p>Superintendent.</p>
 											
 											<p align="justify" class="text-gray-darker"><strong>NON MEMBER SECRETARY</strong></p>
 											<!-- <p>Dr. K. Balakrishnan, Chemistry</p> -->
@@ -375,7 +375,7 @@ init_public_head();
 														<td>Vice-Principal</td>
 													</tr>
 													<tr>
-														<td>Dr. K.Thirumavalavan, Ph.D.<br />Dr. V.Ambigapathy, Ph.D. <br />Dr. S.Vijayakumar, Ph.D.</td>			
+														<td>Dr. K.Thirumavalavan, Ph.D.<br />Dr. V.Ambigapathy, Ph.D. <br />.        </td>			
 																							
 														<td>Dean, Faculty of Arts &amp; Commerce <br />Dean, Academic <br />Research Director</td>
 													</tr>
@@ -461,7 +461,7 @@ init_public_head();
 													</tr>
 																										
 													<tr>
-														<td>Mr. Sakthivel</td>
+														<td></td>
 														<td>Superintendent</td>
 													</tr>
 												</tbody>
@@ -501,7 +501,7 @@ init_public_head();
 											<p>Dr.V.Maniraj - Computer Science</p>
 											<!-- <p>Dr.K.Balakrishnan - Chemistry</p> -->
 											<p><strong>REPRESENTATIVE FROM COLLEGE OFFICE </strong></p>
-											<p>Mr. Sakthivel, Superintendent</p>
+											<p>Superintendent</p>
 										</div>
 									</div>
 

@@ -48,8 +48,8 @@ init_public_head();
 													<tr>
 														<td>Sri. T. Krishnasamy Vandayar, B.Tech.
 														<br />Sri. A. Balasubramania Vandayar, M.A.
-														<td>President<br />
-														Secretary and Correspondent</td>
+														<td>Secretary and Correspondent<br />
+														</td>
 													</tr>
 													<tr>
 														<td colspan="2"><strong>MANAGEMENT NOMINEE</strong><br /></td>
@@ -61,23 +61,23 @@ init_public_head();
 														<td colspan="2"><strong>CHAIRPERSON</strong><br /></td>
 													</tr>
 													<tr>
-														<td>Dr. M.S.Muthuramalingam</td>
+														<td>Dr. V.Maniraj</td>
 														<td>Principal(i/c)</td>
 													</tr>
 													<tr>
 														<td colspan="2"><strong>IQAC COORDINATOR</strong><br /></td>
 													</tr>
 													<tr>
-														<td>Dr. M.S.Muthuramalingam</td>
-														<td>Principal(i/c)</td>
+														<td>Dr. K.Sivakumar</td>
+														<td>English</td>
 													</tr>
 													<tr>
 														<td colspan="2"><strong>SENIOR ADMINISTRATIVE OFFICERS</strong></td>
 													</tr>
 													
 													<tr>
-														<td>Dr. V.Ravichandaran, Ph.D.<br /> Dr. T.S.Baskaran, Ph.D.</td>
-														<td>Dean - Arts &amp; Commerce <br /> Dean - Academic</td>
+														<td>Prof. K.Thirumavalavan, Ph.D.<br /> Dr. V.Ambigapathy, Ph.D.</td>
+														<td>Dean - Arts &amp; Commerce <br /> Dean - Sciences</td>
 													</tr>
 													<tr>
 														<td>Dr. C.Chandran, Ph.D.</td>
@@ -86,11 +86,7 @@ init_public_head();
 													<tr>
 														<td colspan="2"><strong>TEACHERS' REPRESENTATION </strong><br /></td>
 													</tr>
-													<tr>
-														<td>Dr. K.Sivakumar</td>
-														<td>English</td>
-													</tr>
-
+													
 													<tr>
 														<td>Dr. R. Manikandan</td>
 														<td>Chemistry</td>
@@ -124,7 +120,7 @@ init_public_head();
 														<td colspan="2"><strong>Representation from the Office</strong></td>
 													</tr>
 													<tr>
-														<td>Mr. R.Senthilkumar</td>
+														<td></td>
 														<td>Superintendent</td>
 													</tr>
 												</tbody>
@@ -143,8 +139,8 @@ init_public_head();
 											Associate Vice President.<br>
 											Chartered GBS Pvt. Ltd. Chennai.</p>
 											
-											<p align="justify" class="text-gray-darker"><strong>Student Representation </strong></p>
-											<p><strong>K.Dharani,</strong> II MBA.,</p>
+											<!--<p align="justify" class="text-gray-darker"><strong>Student Representation </strong></p>
+											<p><strong>K.Dharani,</strong> II MBA.,</p>-->
 											
 									</div><br>
 									</div>

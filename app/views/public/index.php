@@ -5,7 +5,16 @@ init_public_head();
 <div class="container-fluid marqueewrap">
 	<div class="alert alert-primary alert-dismissible" role="alert">
 		<marquee>
-		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank">Applications for the academic year 2026–2027 will be issued starting from 06 April 2026.</strong><span>&#9733;</span></a>	
+		<span>&#9733;</span>
+<strong>
+    <a href="<?php echo base_url('#') ?>" target="_blank">
+        COLLEGE REOPENING ANNOUNCEMENT – EVEN SEMESTER 2026–2027:
+        The College will reopen on 25.11.2026 for the Even Semester of the Academic Year 2026–2027.
+    </a>
+</strong>
+<span>&#9733;</span>
+		<!--<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank"> The College will reopen on 25.11.2026 for the Even Semester of the Academic Year 2026–2027.</strong><span>&#9733;</span></a>	
+		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank">Applications for the academic year 2026–2027 will be issued starting from 06 April 2026.</strong><span>&#9733;</span></a>	-->
 		<!-- <span>&#9733;</span><strong><a href="https://examresult.avvmspc.ac.in/" target="_blank">The exam results of our undergraduate students will be published on June 2, 2025, at 9:30 AM in our college.</strong></a>	
 		<span>&#9733;</span><strong><a href="https://examresult.avvmspc.ac.in/" target="_blank">Click here to view the PG results.</strong></a>
 		<span>&#9733;</span><strong><a href="<?php echo base_url('#') ?>" target="_blank">UG and PG admissions for 2025–2026 are now open.<span>&#9733;</span></strong></a> 
