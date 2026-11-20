@@ -385,7 +385,7 @@ init_public_head();
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr>
 									
-									<tr>
+									<!-- <tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/MCA/3.Dr.VRN.pdf') ?>" target="_blank" rel="noopener">Dr. V. Ramanathan</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
 									</tr> 
@@ -396,7 +396,7 @@ init_public_head();
 									<tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/MCA/5.Prof.CVP.pdf') ?>" target="_blank" rel="noopener">Prof. C. Veeraprakashkumar</a></th>
 										<td style="text-align: center;">Assistant Professor</td>
-									</tr>
+									</tr> -->
 									<!-- <tr>
 										<th><a href="<?php echo base_url('public/pdf/Departments/computerscience/SELF%20FINANCE/P.Sivaranjani.pdf') ?>" target="_blank" rel="noopener">Prof. P. Sivaranjani</a></th>
 										<td style="text-align: center;">Assistant Professor</td>

@@ -456,13 +456,13 @@ init_public_head();
 									<th><a href="<?php echo base_url('public/pdf/Departments/History/10.vinothkumar') ?>" target="_blank" rel="noopener">Dr.N.Vinoth kumar</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<th colspan="3">Self &ndash; Finance Faculty</th>
 								</tr>
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/History/11.Rajakumaran.pdf') ?>" target="_blank" rel="noopener">Dr.R.Rajakumaran</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
-								</tr>
+								</tr> -->
 							</tbody>
 						</table>
 					</div>

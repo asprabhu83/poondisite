@@ -269,7 +269,7 @@ init_public_head();
 									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/aided/21.Prof.%20B.Iniyan%20Ilango.pdf') ?>" target="_blank" rel="noopener">Prof. B.Iniyan Elango</a></td>
 									<td>Assistant Professor</td>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<th colspan="3">Self - Finance Staff</th>
 								</tr>
 								<tr>
@@ -344,7 +344,7 @@ init_public_head();
 									<td>Assistant Professor</td>
 								</tr>
 								
-								<!-- <tr>
+								<tr>
 									<td><a href="<?php echo base_url('public/pdf/Departments/Tamil/self/14.Dr.P.B.pdf') ?>" target="_blank" rel="noopener">Prof. S. Lakshmi</a></td>
 									<td>Assistant Professor</td>
 								</tr>

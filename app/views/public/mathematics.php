@@ -341,7 +341,7 @@ init_public_head();
 									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/AIDED/Prof. E. Jayathi.pdf') ?>" target="_blank" rel="noopener">Prof. E. Jayanthi</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<th colspan="3">Self - Finance Staff</th>
 								</tr>
 								<tr>
@@ -404,7 +404,7 @@ init_public_head();
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/Mathematics/SELF-FINANCE/M.USHARANI.pdf') ?>" target="_blank" rel="noopener">Dr.M.Usharani</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
-								</tr>
+								</tr> -->
 							</tbody>
 						</table>
 					</div>

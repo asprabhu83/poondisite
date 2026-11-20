@@ -363,7 +363,7 @@ init_public_head();
 									<th><a href="<?php echo base_url('public/pdf/Departments/english/AIDED/Eng.%2018.Dr.T.%20Selvakkumar.pdf') ?>" target="_blank" rel="noopener">Dr.T.Selvakumar</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<th colspan="3">Self - Finance Staff</th>
 								</tr>
 								<tr>
@@ -460,7 +460,7 @@ init_public_head();
 									<th><a href="<?php echo base_url('public/pdf/Departments/english/SELF%20FINANCE/23.%20Eng.%20L.Prasanna.pdf') ?>" target="_blank" rel="noopener">Prof. L.Prasanna</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
-								<!--<tr>
+								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/english/SELF%20FINANCE/10.%20Eng.%20A.%20Mathavi.pdf') ?>" target="_blank" rel="noopener">Prof. A.Mathavi</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
@@ -478,7 +478,7 @@ init_public_head();
 									<th><a href="<?php echo base_url('public/pdf/Departments/english/SELF%20FINANCE/20.%20Eng.%20G.%20Sowmiya.pdf') ?>" target="_blank" rel="noopener">Prof. G.Sowmiya</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
-								 -->
+								-->
 								
 								
 								

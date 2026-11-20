@@ -372,9 +372,9 @@ init_public_head();
 									<th><a href="<?php echo base_url('public/pdf/Departments/botany/Dr.Merlyn%20Stephen.pdf') ?>" target="_blank" rel="noopener">Dr. Merlyn Stephan</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<th colspan="3">Self &ndash; Finance Faculty</th>
-								</tr>
+								</tr> -->
 								<!-- <tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/botany/15. Dr.K.Kanimozhi.pdf') ?>" target="_blank" rel="noopener">Dr. K.Kanimozhi</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
@@ -395,7 +395,7 @@ init_public_head();
 									<th><a href="<?php echo base_url('public/pdf/Departments/botany/Elakkiya.pdf') ?>" target="_blank" rel="noopener">Mrs. R. Elakkiya </a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr> -->
-								<tr>
+								<!-- <tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/botany/20.%20R.KALAVATHI.pdf') ?>" target="_blank" rel="noopener">Dr. R. Kalavathi</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
@@ -414,7 +414,7 @@ init_public_head();
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/botany/S.Rajalakshmi.pdf') ?>" target="_blank" rel="noopener">Dr. S. Rajalakshmi</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
-								</tr>
+								</tr> -->
 							</tbody>
 						</table>
 					</div>

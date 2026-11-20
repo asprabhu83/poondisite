@@ -200,14 +200,14 @@ init_public_head();
                                     <th><a href="<?php echo base_url('public/pdf/Departments/Business_Adminstration/DHANALAKSHMI%20P.pdf') ?>" target="_blank" rel="noopener">Dr. P. Dhanalakshmi</a></th>
                                     <td style="text-align: center;">Assistant Professor</td>
                                 </tr>
-                                <tr>
+                                <!-- <tr>
                                     <th><a href="<?php echo base_url('public/pdf/Departments/Business_Adminstration/ALAGUSUNDARAM%20N.pdf') ?>" target="_blank" rel="noopener">Dr. N. Alagusundaram </a></th>
                                     <td style="text-align: center;">Assistant Professor</td>
                                 </tr>
                                 <tr>
                                     <th><a href="<?php echo base_url('public/pdf/Departments/Business_Adminstration/SURESH%20D%20.pdf') ?>" target="_blank" rel="noopener">Dr. D. Suresh</a></th>
                                     <td style="text-align: center;">Assistant Professor</td>
-                                </tr>
+                                </tr> -->
                                 <tr>
                                     <th><a href="<?php echo base_url('public/pdf/Departments/Business_Adminstration/MALA%20B.pdf') ?>" target="_blank" rel="noopener">Dr. B. Mala</a></th>
                                     <td style="text-align: center;">Assistant Professor</td>

@@ -478,7 +478,7 @@ init_public_head();
 									<th><a href="#" target="_blank" rel="noopener">Prof. G. SHAKILA</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr> -->
-								<tr>
+								<!-- <tr>
 									<th colspan="3">Self - Finance Staff</th>
 								</tr>
 								<tr>
@@ -504,7 +504,7 @@ init_public_head();
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/T.Anbalagan.pdf') ?>" target="_blank" rel="noopener">Dr. T. Anbalagan</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
-								</tr>
+								</tr> -->
 								<!-- <tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/zoology/SELF%20FINANCE/Dr.Suguna.pdf') ?>" target="_blank" rel="noopener">Dr. Suguna</a></th>
 									<td style="text-align: center;">Assistant Professor</td>

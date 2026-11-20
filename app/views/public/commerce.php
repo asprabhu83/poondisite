@@ -378,7 +378,7 @@ init_public_head();
 									<td style="text-align: center;">Assistant Professor</td>
 								</tr>
 
-								<tr>
+								<!-- <tr>
 									<th colspan="3">Self - Finance Staff</th>
 								</tr>
 								<tr>
@@ -465,7 +465,7 @@ init_public_head();
 								<tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/Commerce/SELF-FINANCE/T.Anbarasi.pdf') ?>" target="_blank" rel="noopener">Dr. T. Anbarasi</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
-								</tr>
+								</tr> -->
 							</tbody>
 						</table>
 						<h4 align="" class="text-bold offset-top-30" id="q-2">BLOG</h4>

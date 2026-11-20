@@ -127,13 +127,13 @@ init_public_head();
 									<th><a href="<?php echo base_url('public/pdf/Departments/Library/1.%20Dr.%20J.%20Selvam.pdf') ?>" target="_blank" rel="noopener">Dr. J.SELVAM</a></th>
 									<td style="text-align: center;">Librarian &amp; Coordinator</td>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<th colspan="3">Self Finance Faculty</th>
-								</tr>
-								<tr>
+								</tr> -->
+								<!-- <tr>
 									<th><a href="<?php echo base_url('public/pdf/Departments/Library/2.%20J.%20Lakshmanan.pdf') ?>" target="_blank" rel="noopener">Mr. J. LAKSHMANAN</a></th>
 									<td style="text-align: center;">Assistant Professor</td>
-								</tr>
+								</tr> -->
 							</tbody>
 						</table>
 					</div>
